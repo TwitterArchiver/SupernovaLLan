@@ -1,0 +1,754 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1906955775001698451",
+    "created_at": "2025-04-02T17:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T18:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907488053037510691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752729743471132672",
+          "start": 0,
+          "username": "yamato812536"
+        },
+        {
+          "end": 30,
+          "id": "1808189966058770434",
+          "start": 14,
+          "username": "yangcy199510182"
+        },
+        {
+          "end": 40,
+          "id": "1584454793602355205",
+          "start": 31,
+          "username": "sd145157"
+        },
+        {
+          "end": 50,
+          "id": "1517922964255088640",
+          "start": 41,
+          "username": "HunZi618"
+        },
+        {
+          "end": 61,
+          "id": "997722661844287488",
+          "start": 51,
+          "username": "dacefupan"
+        },
+        {
+          "end": 74,
+          "id": "1723186518876209153",
+          "start": 62,
+          "username": "hu_fan53701"
+        },
+        {
+          "end": 84,
+          "id": "1185215612135657472",
+          "start": 75,
+          "username": "kapi7215"
+        },
+        {
+          "end": 99,
+          "id": "1677496165045092352",
+          "start": 85,
+          "username": "italypfkw1314"
+        },
+        {
+          "end": 111,
+          "id": "1848364150315257856",
+          "start": 100,
+          "username": "xiaomi6111"
+        },
+        {
+          "end": 119,
+          "id": "1687764770466955265",
+          "start": 112,
+          "username": "xARSgs"
+        },
+        {
+          "end": 136,
+          "id": "1645412584625958918",
+          "start": 120,
+          "username": "orhan8902058627"
+        },
+        {
+          "end": 150,
+          "id": "1678368011378638848",
+          "start": 137,
+          "username": "shijie289605"
+        },
+        {
+          "end": 164,
+          "id": "1838111417851056128",
+          "start": 151,
+          "username": "Compute_King"
+        },
+        {
+          "end": 180,
+          "id": "1494256324611231748",
+          "start": 165,
+          "username": "chow_nikoletta"
+        },
+        {
+          "end": 196,
+          "id": "1891547111029686272",
+          "start": 181,
+          "username": "Havanahahahaha"
+        },
+        {
+          "end": 209,
+          "id": "884699431152476161",
+          "start": 197,
+          "username": "bbbubblecat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907488053037510691",
+    "in_reply_to_user_id": "1752729743471132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906955775001698451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamato812536 @yangcy199510182 @sd145157 @HunZi618 @dacefupan @hu_fan53701 @kapi7215 @italypfkw1314 @xiaomi6111 @xARSgs @orhan8902058627 @shijie289605 @Compute_King @chow_nikoletta @Havanahahahaha @bbbubblecat 在发现您之前就已经关注大策、五行、左岸了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1906955775001698451",
+        "created_at": "2025-04-02T17:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T18:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907488053037510691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752729743471132672",
+              "start": 0,
+              "username": "yamato812536"
+            },
+            {
+              "end": 30,
+              "id": "1808189966058770434",
+              "start": 14,
+              "username": "yangcy199510182"
+            },
+            {
+              "end": 40,
+              "id": "1584454793602355205",
+              "start": 31,
+              "username": "sd145157"
+            },
+            {
+              "end": 50,
+              "id": "1517922964255088640",
+              "start": 41,
+              "username": "HunZi618"
+            },
+            {
+              "end": 61,
+              "id": "997722661844287488",
+              "start": 51,
+              "username": "dacefupan"
+            },
+            {
+              "end": 74,
+              "id": "1723186518876209153",
+              "start": 62,
+              "username": "hu_fan53701"
+            },
+            {
+              "end": 84,
+              "id": "1185215612135657472",
+              "start": 75,
+              "username": "kapi7215"
+            },
+            {
+              "end": 99,
+              "id": "1677496165045092352",
+              "start": 85,
+              "username": "italypfkw1314"
+            },
+            {
+              "end": 111,
+              "id": "1848364150315257856",
+              "start": 100,
+              "username": "xiaomi6111"
+            },
+            {
+              "end": 119,
+              "id": "1687764770466955265",
+              "start": 112,
+              "username": "xARSgs"
+            },
+            {
+              "end": 136,
+              "id": "1645412584625958918",
+              "start": 120,
+              "username": "orhan8902058627"
+            },
+            {
+              "end": 150,
+              "id": "1678368011378638848",
+              "start": 137,
+              "username": "shijie289605"
+            },
+            {
+              "end": 164,
+              "id": "1838111417851056128",
+              "start": 151,
+              "username": "Compute_King"
+            },
+            {
+              "end": 180,
+              "id": "1494256324611231748",
+              "start": 165,
+              "username": "chow_nikoletta"
+            },
+            {
+              "end": 196,
+              "id": "1891547111029686272",
+              "start": 181,
+              "username": "Havanahahahaha"
+            },
+            {
+              "end": 209,
+              "id": "884699431152476161",
+              "start": 197,
+              "username": "bbbubblecat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907488053037510691",
+        "in_reply_to_user_id": "1752729743471132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906955775001698451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamato812536 @yangcy199510182 @sd145157 @HunZi618 @dacefupan @hu_fan53701 @kapi7215 @italypfkw1314 @xiaomi6111 @xARSgs @orhan8902058627 @shijie289605 @Compute_King @chow_nikoletta @Havanahahahaha @bbbubblecat 在发现您之前就已经关注大策、五行、左岸了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752729743471132672",
+        "conversation_id": "1906955775001698451",
+        "created_at": "2025-04-01T06:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T07:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906955775001698451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1808189966058770434",
+              "start": 17,
+              "username": "yangcy199510182"
+            },
+            {
+              "end": 43,
+              "id": "1584454793602355205",
+              "start": 34,
+              "username": "sd145157"
+            },
+            {
+              "end": 53,
+              "id": "1517922964255088640",
+              "start": 44,
+              "username": "HunZi618"
+            },
+            {
+              "end": 64,
+              "id": "997722661844287488",
+              "start": 54,
+              "username": "dacefupan"
+            },
+            {
+              "end": 77,
+              "id": "1723186518876209153",
+              "start": 65,
+              "username": "hu_fan53701"
+            },
+            {
+              "end": 87,
+              "id": "1185215612135657472",
+              "start": 78,
+              "username": "kapi7215"
+            },
+            {
+              "end": 102,
+              "id": "1677496165045092352",
+              "start": 88,
+              "username": "italypfkw1314"
+            },
+            {
+              "end": 114,
+              "id": "1848364150315257856",
+              "start": 103,
+              "username": "xiaomi6111"
+            },
+            {
+              "end": 122,
+              "id": "1687764770466955265",
+              "start": 115,
+              "username": "xARSgs"
+            },
+            {
+              "end": 139,
+              "id": "1645412584625958918",
+              "start": 123,
+              "username": "orhan8902058627"
+            },
+            {
+              "end": 153,
+              "id": "1678368011378638848",
+              "start": 140,
+              "username": "shijie289605"
+            },
+            {
+              "end": 167,
+              "id": "1838111417851056128",
+              "start": 154,
+              "username": "Compute_King"
+            },
+            {
+              "end": 183,
+              "id": "1494256324611231748",
+              "start": 168,
+              "username": "chow_nikoletta"
+            },
+            {
+              "end": 199,
+              "id": "1891547111029686272",
+              "start": 184,
+              "username": "Havanahahahaha"
+            },
+            {
+              "end": 212,
+              "id": "884699431152476161",
+              "start": 200,
+              "username": "bbbubblecat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yamato812536/s…",
+              "end": 242,
+              "expanded_url": "https://twitter.com/yamato812536/status/1906947765915017444",
+              "start": 219,
+              "url": "https://t.co/5USqEdBA1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906955775001698451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 21471,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906947765915017444",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新来的可以关注一下我求到的才 👉 @yangcy199510182 @sd145157 @HunZi618 @dacefupan @hu_fan53701 @kapi7215 @italypfkw1314 @xiaomi6111 @xARSgs @orhan8902058627 @shijie289605 @Compute_King @chow_nikoletta @Havanahahahaha @bbbubblecat \n好好珍惜 https://t.co/5USqEdBA1z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 539,
+          "like_count": 23932,
+          "listed_count": 2,
+          "media_count": 1034,
+          "tweet_count": 9516
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T16:25:21.000Z",
+        "description": "我在国内没有抖音 小红书 这些垃圾平台的账号 我也不荐股 不要被冒牌货骗 我只是好玩顺手分享一下知识 要看来X上看",
+        "id": "1752729743471132672",
+        "location": "重庆 解放碑步行街",
+        "name": "yamato23",
+        "pinned_tweet_id": "1907458868105691370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796802887827566592/OMLV2oJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24062,
+          "following_count": 323,
+          "like_count": 17902,
+          "listed_count": 354,
+          "media_count": 1150,
+          "tweet_count": 19433
+        },
+        "username": "yamato812536",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-02T17:24:24.000Z",
+        "description": "我是韭菜大王 保护我方韭菜",
+        "id": "1808189966058770434",
+        "name": "五行",
+        "pinned_tweet_id": "1899437417905688683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877706047403806720/rGIKg4qw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14948,
+          "following_count": 17,
+          "like_count": 272,
+          "listed_count": 200,
+          "media_count": 161,
+          "tweet_count": 670
+        },
+        "username": "yangcy199510182",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T08:01:36.000Z",
+        "description": "日中则昃，月盈则食。\n失之东隅，收之桑榆。",
+        "id": "1584454793602355205",
+        "location": "Las Vegas, NM",
+        "name": "玄学悟道",
+        "pinned_tweet_id": "1891536204497289388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694678143003684864/h7CjiNwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16096,
+          "following_count": 296,
+          "like_count": 583,
+          "listed_count": 293,
+          "media_count": 780,
+          "tweet_count": 7944
+        },
+        "username": "sd145157",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-23T17:47:07.000Z",
+        "description": "🫣个人买卖记录，自负盈亏🙁逼着自己学习🥺不推荐股票🥹我只是一个小韭菜🫣没群没团队不带票！！！",
+        "id": "1517922964255088640",
+        "name": "HunFib",
+        "pinned_tweet_id": "1859834910460215360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897117104685637632/p665UpcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3855,
+          "following_count": 228,
+          "like_count": 275,
+          "listed_count": 62,
+          "media_count": 324,
+          "tweet_count": 1067
+        },
+        "username": "HunZi618",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-19T06:16:34.000Z",
+        "description": "关注趋势，关注财经，关注风云变幻",
+        "id": "997722661844287488",
+        "location": "Beijing",
+        "name": "🇨🇳 大策复盘",
+        "pinned_tweet_id": "1901638994678694352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/997723789675741186/UTXUIlNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44837,
+          "following_count": 230,
+          "like_count": 4423,
+          "listed_count": 654,
+          "media_count": 2686,
+          "tweet_count": 10830
+        },
+        "username": "dacefupan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-11T03:51:12.000Z",
+        "description": "Ten Bagger\n分享投资认知，追寻时代企业",
+        "id": "1723186518876209153",
+        "name": "绕不过去的低位 Value_Discover",
+        "pinned_tweet_id": "1879803598168887675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852908922627350528/KeBmKF1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5982,
+          "following_count": 534,
+          "like_count": 230,
+          "listed_count": 128,
+          "media_count": 278,
+          "tweet_count": 1317
+        },
+        "username": "hu_fan53701",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-18T15:26:42.000Z",
+        "description": "消遣的第二個地方",
+        "id": "1185215612135657472",
+        "location": "0.05km",
+        "name": "卡特",
+        "pinned_tweet_id": "1899407497137652159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379601887083732992/2L173q06_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 337,
+          "like_count": 18,
+          "listed_count": 69,
+          "media_count": 42,
+          "tweet_count": 1588
+        },
+        "username": "kapi7215",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T01:53:59.000Z",
+        "description": "大隐隐于市，主力行为学",
+        "id": "1677496165045092352",
+        "location": "Florence, Tuscany",
+        "name": "左岸s（🇮🇹-青岛）",
+        "pinned_tweet_id": "1906038301431353640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900998288800915456/uDgL7nj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10355,
+          "following_count": 39,
+          "like_count": 12908,
+          "listed_count": 138,
+          "media_count": 124,
+          "tweet_count": 2800
+        },
+        "username": "italypfkw1314",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T14:03:10.000Z",
+        "description": "发财不要停，烦恼都清零。",
+        "id": "1848364150315257856",
+        "name": "小谜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873791066144731136/dfbuI3IZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 55,
+          "like_count": 645,
+          "listed_count": 13,
+          "media_count": 66,
+          "tweet_count": 392
+        },
+        "username": "xiaomi6111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T09:57:44.000Z",
+        "description": "",
+        "id": "1687764770466955265",
+        "name": "灵岩",
+        "pinned_tweet_id": "1855262580560007488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857085911038623745/LP2bIWz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3275,
+          "following_count": 137,
+          "like_count": 602,
+          "listed_count": 62,
+          "media_count": 80,
+          "tweet_count": 647
+        },
+        "username": "xARSgs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T13:05:15.000Z",
+        "description": "新手一枚，复盘学习中！盘中的票可以参考不要跟哈！",
+        "id": "1645412584625958918",
+        "name": "orhan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870716612887867393/lpavoy2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4614,
+          "following_count": 1348,
+          "like_count": 749,
+          "listed_count": 70,
+          "media_count": 66,
+          "tweet_count": 630
+        },
+        "username": "orhan8902058627",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T11:38:21.000Z",
+        "description": "",
+        "id": "1678368011378638848",
+        "location": "S.H",
+        "name": "Sigma 药剂师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897936366102888448/BPLR3J7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 71,
+          "like_count": 30,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 235
+        },
+        "username": "shijie289605",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T07:01:43.000Z",
+        "description": "Husband, Father, Life-time Learner, Creator and Innovator. AI and HPC Computing Guru in Decentralized Manner. Supported by Extreme AI Labs.",
+        "id": "1838111417851056128",
+        "location": "Singapore",
+        "name": "Compute King",
+        "pinned_tweet_id": "1891049365894238564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838112469690314752/ibylXVMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9510,
+          "following_count": 424,
+          "like_count": 3462,
+          "listed_count": 176,
+          "media_count": 349,
+          "tweet_count": 2742
+        },
+        "username": "Compute_King",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-17T10:24:21.000Z",
+        "description": "人生在世如身处荆棘之中，心不动，人不动，不动则不伤。如心动则人妄动，伤其身，痛其骨，于是体会到世间诸般痛苦。",
+        "id": "1494256324611231748",
+        "name": "百厌星♏️",
+        "pinned_tweet_id": "1875419002165743746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1494256397743054849/VUhMHN-q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 26,
+          "like_count": 942,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 448
+        },
+        "username": "chow_nikoletta",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T17:55:58.000Z",
+        "description": "争当大A诈骗集团进修班优秀学员，努力学习，积极进取，超越自我，跨越阶层！",
+        "id": "1891547111029686272",
+        "name": "Mi酱卡酱最强",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891547244412674049/fhehNRIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 21,
+          "like_count": 306,
+          "listed_count": 8,
+          "media_count": 8,
+          "tweet_count": 215
+        },
+        "username": "Havanahahahaha",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-11T09:02:36.000Z",
+        "description": "码农｜🏴‍☠️或家军小迷妹｜马应龙做T手",
+        "id": "884699431152476161",
+        "name": "气泡泡🫧",
+        "pinned_tweet_id": "1864673549107253398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906158175319134208/NDgGbDW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 969,
+          "like_count": 21745,
+          "listed_count": 24,
+          "media_count": 352,
+          "tweet_count": 13156
+        },
+        "username": "bbbubblecat",
+        "verified": false
+      }
+    ]
+  }
+}

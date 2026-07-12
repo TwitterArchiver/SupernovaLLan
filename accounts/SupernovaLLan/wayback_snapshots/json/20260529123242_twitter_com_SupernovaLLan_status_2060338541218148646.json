@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060127634248585216"
+      ],
+      "media_source_tweet_id": [
+        "2060127781556785376"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2060338541218148646",
+    "created_at": "2026-05-29T12:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060338541218148646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494884561775656961",
+          "start": 3,
+          "username": "Dyctalopia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4tfnoKx1hg",
+          "end": 53,
+          "expanded_url": "https://x.com/Dyctalopia/status/2060127781556785376/photo/1",
+          "media_key": "3_2060127634248585216",
+          "start": 30,
+          "url": "https://t.co/4tfnoKx1hg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060338541218148646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060127781556785376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dyctalopia: 一覺醒來發現巴比倫塔蓋好了 https://t.co/4tfnoKx1hg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2060127634248585216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcLKxdaUAAkCH9.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060127634248585216"
+          ],
+          "media_source_tweet_id": [
+            "2060127781556785376"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2060338541218148646",
+        "created_at": "2026-05-29T12:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060338541218148646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494884561775656961",
+              "start": 3,
+              "username": "Dyctalopia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tfnoKx1hg",
+              "end": 53,
+              "expanded_url": "https://x.com/Dyctalopia/status/2060127781556785376/photo/1",
+              "media_key": "3_2060127634248585216",
+              "start": 30,
+              "url": "https://t.co/4tfnoKx1hg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060338541218148646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060127781556785376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dyctalopia: 一覺醒來發現巴比倫塔蓋好了 https://t.co/4tfnoKx1hg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060127634248585216"
+          ]
+        },
+        "author_id": "1494884561775656961",
+        "conversation_id": "2060127781556785376",
+        "created_at": "2026-05-28T22:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060127781556785376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tfnoKx1hg",
+              "end": 37,
+              "expanded_url": "https://x.com/Dyctalopia/status/2060127781556785376/photo/1",
+              "media_key": "3_2060127634248585216",
+              "start": 14,
+              "url": "https://t.co/4tfnoKx1hg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060127781556785376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9339,
+          "like_count": 525,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "一覺醒來發現巴比倫塔蓋好了 https://t.co/4tfnoKx1hg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 591,
+          "like_count": 26140,
+          "listed_count": 2,
+          "media_count": 1166,
+          "tweet_count": 10895
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-19T04:01:58.000Z",
+        "description": "基層設計 / 自費型1450",
+        "id": "1494884561775656961",
+        "name": "汪背",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051225764830593024/fhchfoSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 1029,
+          "like_count": 27591,
+          "listed_count": 2,
+          "media_count": 466,
+          "tweet_count": 1381
+        },
+        "username": "Dyctalopia",
+        "verified": false
+      }
+    ]
+  }
+}

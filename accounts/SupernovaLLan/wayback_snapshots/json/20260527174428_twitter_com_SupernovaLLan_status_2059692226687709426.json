@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059692219951718400",
+        "3_2059692219939143680",
+        "3_2059692220098510848"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Aerospace",
+          "id": "872801340224806912",
+          "name": "Aerospace"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "SpaceX",
+          "id": "872801738394279936",
+          "name": "SpaceX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "SpaceX",
+          "id": "872801738394279936",
+          "name": "SpaceX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352681651516567553",
+          "name": "Space agencies & companies"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2059692226687709426",
+    "created_at": "2026-05-27T17:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059692226687709426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vmGCTaao8E",
+          "end": 167,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2059692226687709426/photo/1",
+          "media_key": "3_2059692219951718400",
+          "start": 144,
+          "url": "https://t.co/vmGCTaao8E"
+        },
+        {
+          "display_url": "pic.x.com/vmGCTaao8E",
+          "end": 167,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2059692226687709426/photo/1",
+          "media_key": "3_2059692219939143680",
+          "start": 144,
+          "url": "https://t.co/vmGCTaao8E"
+        },
+        {
+          "display_url": "pic.x.com/vmGCTaao8E",
+          "end": 167,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2059692226687709426/photo/1",
+          "media_key": "3_2059692220098510848",
+          "start": 144,
+          "url": "https://t.co/vmGCTaao8E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059692226687709426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和科幻社老同学的一点小迷思……\n基于氘化锂6的聚变燃料发电跑通了绝对是技术性颠覆，在地球上可能成本问题不如其他清洁新能源没什么市场，但是上太空了可能就是现阶段工程技术独断万古的存在了\n……要不老马你那个spaceX也出点钱去推推聚变技术，将来给你大星舰上装聚变离子电推半年往返火星多攒劲 https://t.co/vmGCTaao8E"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059692226687709426].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059692226687709426",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059692226687709426"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059692219951718400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV_KUzboAAoyYf.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059692219939143680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV_KUwbwAA1okN.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059692220098510848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV_KVWbgAA3-hc.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 591,
+          "like_count": 26035,
+          "listed_count": 2,
+          "media_count": 1162,
+          "tweet_count": 10855
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

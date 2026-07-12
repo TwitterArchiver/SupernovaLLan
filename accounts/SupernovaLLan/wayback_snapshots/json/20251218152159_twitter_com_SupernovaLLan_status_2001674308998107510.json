@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2001661845158137943",
+    "created_at": "2025-12-18T15:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T16:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001674308998107510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1081121268718424064",
+          "start": 0,
+          "username": "momotea19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001674308998107510",
+    "in_reply_to_user_id": "1081121268718424064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001661845158137943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momotea19 那我再等等145线止跌🫨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2001661837180555264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dU1e2aUAAFCtO.png",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2001661845158137943",
+        "created_at": "2025-12-18T15:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001674308998107510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1081121268718424064",
+              "start": 0,
+              "username": "momotea19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001674308998107510",
+        "in_reply_to_user_id": "1081121268718424064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001661845158137943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momotea19 那我再等等145线止跌🫨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001661837180555264"
+          ]
+        },
+        "author_id": "1081121268718424064",
+        "conversation_id": "2001661845158137943",
+        "created_at": "2025-12-18T14:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T15:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001661845158137943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0WOtxBOSqm",
+              "end": 33,
+              "expanded_url": "https://x.com/momotea19/status/2001661845158137943/photo/1",
+              "media_key": "3_2001661837180555264",
+              "start": 10,
+              "url": "https://t.co/0WOtxBOSqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001661845158137943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2082,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "WC,发生了什么？ https://t.co/0WOtxBOSqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 533,
+          "like_count": 24682,
+          "listed_count": 2,
+          "media_count": 1088,
+          "tweet_count": 9970
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-04T09:32:51.000Z",
+        "description": "声明一下，\n我发的大多是分析自渡用，\n只要我还在发帖，说明我的认知还不够！\nBTW：所有预判是基于超短线思维，\n每个人得有自己的交易策略，不可照搬别人的.\n如果你看了我的推文自行买入亏钱的，我会说活该！\n世界经济史是一部基于假象和谎言的连续剧。要获得财富，做法就是认清其假象，投入其中，然后在假象被公众认识之前退出游戏。",
+        "id": "1081121268718424064",
+        "name": "momotea的股市日记本.李佛么",
+        "pinned_tweet_id": "1998618804306456632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983493905053315072/K1RrydQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28394,
+          "following_count": 807,
+          "like_count": 1154,
+          "listed_count": 479,
+          "media_count": 3683,
+          "tweet_count": 11773
+        },
+        "username": "momotea19",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1847902279825059840"
+      ],
+      "media_source_tweet_id": [
+        "1847902290122068321"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1848346673287934231",
+    "created_at": "2024-10-21T12:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T13:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848346673287934231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "808311771136036864",
+          "start": 3,
+          "username": "Na_Gredmin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q79kA4KhLq",
+          "end": 39,
+          "expanded_url": "https://x.com/Na_Gredmin/status/1847902290122068321/video/1",
+          "media_key": "13_1847902279825059840",
+          "start": 16,
+          "url": "https://t.co/q79kA4KhLq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848346673287934231",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 448
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847902290122068321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Na_Gredmin: https://t.co/q79kA4KhLq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2034,
+        "height": 720,
+        "media_key": "13_1847902279825059840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1847902279825059840/img/EQInTc7tnuTK9ZeK.jpg",
+        "public_metrics": {
+          "view_count": 55384
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1847902279825059840/vid/avc1/414x270/dNhVbWIaQcDxlPU1.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1847902279825059840/vid/avc1/552x360/3nq8RWjMI5-GSpa2.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1847902279825059840/vid/avc1/1106x720/nNm9CBffesC_4PkJ.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1847902279825059840/pl/SbKOJrbgJ5-KX7up.m3u8?tag=16"
+          }
+        ],
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1847902279825059840"
+          ],
+          "media_source_tweet_id": [
+            "1847902290122068321"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1848346673287934231",
+        "created_at": "2024-10-21T12:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T13:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848346673287934231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "808311771136036864",
+              "start": 3,
+              "username": "Na_Gredmin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q79kA4KhLq",
+              "end": 39,
+              "expanded_url": "https://x.com/Na_Gredmin/status/1847902290122068321/video/1",
+              "media_key": "13_1847902279825059840",
+              "start": 16,
+              "url": "https://t.co/q79kA4KhLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848346673287934231",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847902290122068321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Na_Gredmin: https://t.co/q79kA4KhLq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1847902279825059840"
+          ]
+        },
+        "author_id": "808311771136036864",
+        "conversation_id": "1847902290122068321",
+        "created_at": "2024-10-20T07:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T08:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847902290122068321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q79kA4KhLq",
+              "end": 23,
+              "expanded_url": "https://x.com/Na_Gredmin/status/1847902290122068321/video/1",
+              "media_key": "13_1847902279825059840",
+              "start": 0,
+              "url": "https://t.co/q79kA4KhLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847902290122068321",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 431,
+          "impression_count": 170481,
+          "like_count": 2718,
+          "quote_count": 55,
+          "reply_count": 74,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/q79kA4KhLq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 463,
+          "like_count": 21690,
+          "listed_count": 2,
+          "tweet_count": 8528
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-12T14:05:18.000Z",
+        "description": "万道无常。",
+        "id": "808311771136036864",
+        "name": "💡",
+        "pinned_tweet_id": "1684078398220701698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836086253642805248/p9fmn8CF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7121,
+          "following_count": 849,
+          "like_count": 9934,
+          "listed_count": 32,
+          "tweet_count": 5061
+        },
+        "username": "Na_Gredmin",
+        "verified": false
+      }
+    ]
+  }
+}

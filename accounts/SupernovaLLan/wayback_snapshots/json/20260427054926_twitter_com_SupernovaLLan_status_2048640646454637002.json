@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2048640646454637002",
+    "created_at": "2026-04-27T05:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048640646454637002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1858152098007072768",
+          "start": 3,
+          "username": "WKtVRUPQ606498"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048640646454637002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047592678448406674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WKtVRUPQ606498: あぁなんと素晴らしい絵なのかこれほどにえっちな絵は見たことがない縫ったあとほ傷がまだ赤いのがすごいえろいそしてこの顔目隠されて見えないところすごい絶望感を感じるそこが素晴らしすぎるそしてそして布を掴んでいるその右手すごいエロい正直これだけ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2048640646454637002",
+        "created_at": "2026-04-27T05:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048640646454637002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1858152098007072768",
+              "start": 3,
+              "username": "WKtVRUPQ606498"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048640646454637002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047592678448406674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WKtVRUPQ606498: あぁなんと素晴らしい絵なのかこれほどにえっちな絵は見たことがない縫ったあとほ傷がまだ赤いのがすごいえろいそしてこの顔目隠されて見えないところすごい絶望感を感じるそこが素晴らしすぎるそしてそして布を掴んでいるその右手すごいエロい正直これだけ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858152098007072768",
+        "conversation_id": "2047592678448406674",
+        "created_at": "2026-04-24T08:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047592678448406674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dormicumprojec…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/dormicumproject/status/2047484715515732338",
+              "start": 135,
+              "url": "https://t.co/ZnaT3nHyHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047592678448406674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 20617,
+          "like_count": 422,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047484715515732338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "あぁなんと素晴らしい絵なのかこれほどにえっちな絵は見たことがない縫ったあとほ傷がまだ赤いのがすごいえろいそしてこの顔目隠されて見えないところすごい絶望感を感じるそこが素晴らしすぎるそしてそして布を掴んでいるその右手すごいエロい正直これだけで生きていける本当に素晴らしい https://t.co/ZnaT3nHyHY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 529,
+          "like_count": 24511,
+          "listed_count": 2,
+          "media_count": 1110,
+          "tweet_count": 10205
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T14:17:26.000Z",
+        "description": "スマホゲーやってる にゃんこ、原神、ブルアカ、ステラソラ、オラドラ、ぷにぷに、ツムツム、スタレ 原神とにゃんこが大抵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/flw1408?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/flw1408?s=21",
+                "start": 0,
+                "url": "https://t.co/XOLYkaDHkU"
+              }
+            ]
+          }
+        },
+        "id": "1858152098007072768",
+        "location": "テイワット",
+        "name": "はむかせ（愛護です）",
+        "pinned_tweet_id": "2039642159184589198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039963943779946496/n1NijH_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 233,
+          "like_count": 13903,
+          "listed_count": 0,
+          "media_count": 1419,
+          "tweet_count": 12846
+        },
+        "url": "https://t.co/XOLYkaDHkU",
+        "username": "WKtVRUPQ606498",
+        "verified": false
+      }
+    ]
+  }
+}

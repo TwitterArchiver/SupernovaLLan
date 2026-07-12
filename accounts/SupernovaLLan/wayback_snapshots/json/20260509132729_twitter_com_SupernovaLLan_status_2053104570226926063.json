@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2053104570226926063",
+    "created_at": "2026-05-09T13:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053104570226926063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yumenowchan/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yumenowchan/status/2046593454990619043",
+          "start": 6,
+          "url": "https://t.co/lljhtkA3hB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053104570226926063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046593454990619043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我天特别萌 https://t.co/lljhtkA3hB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046593435008942080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGb14sVawAAsxht.jpg",
+        "width": 1536
+      },
+      {
+        "height": 900,
+        "media_key": "3_2046593435231248384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGb14tKa4AAV7GG.jpg",
+        "width": 718
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2046593435172495360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGb14s8aYAAART8.jpg",
+        "width": 1003
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2046593435038314496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGb14sca8AAiKB2.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2053104570226926063",
+        "created_at": "2026-05-09T13:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053104570226926063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumenowchan/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yumenowchan/status/2046593454990619043",
+              "start": 6,
+              "url": "https://t.co/lljhtkA3hB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053104570226926063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046593454990619043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我天特别萌 https://t.co/lljhtkA3hB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046593435008942080",
+            "3_2046593435231248384",
+            "3_2046593435172495360",
+            "3_2046593435038314496"
+          ]
+        },
+        "author_id": "1979108124985561088",
+        "conversation_id": "2046593454990619043",
+        "created_at": "2026-04-21T14:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046593454990619043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "扩列"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kfNjRqUT4O",
+              "end": 83,
+              "expanded_url": "https://x.com/yumenoWchan/status/2046593454990619043/photo/1",
+              "media_key": "3_2046593435008942080",
+              "start": 60,
+              "url": "https://t.co/kfNjRqUT4O"
+            },
+            {
+              "display_url": "pic.x.com/kfNjRqUT4O",
+              "end": 83,
+              "expanded_url": "https://x.com/yumenoWchan/status/2046593454990619043/photo/1",
+              "media_key": "3_2046593435231248384",
+              "start": 60,
+              "url": "https://t.co/kfNjRqUT4O"
+            },
+            {
+              "display_url": "pic.x.com/kfNjRqUT4O",
+              "end": 83,
+              "expanded_url": "https://x.com/yumenoWchan/status/2046593454990619043/photo/1",
+              "media_key": "3_2046593435172495360",
+              "start": 60,
+              "url": "https://t.co/kfNjRqUT4O"
+            },
+            {
+              "display_url": "pic.x.com/kfNjRqUT4O",
+              "end": 83,
+              "expanded_url": "https://x.com/yumenoWchan/status/2046593454990619043/photo/1",
+              "media_key": "3_2046593435038314496",
+              "start": 60,
+              "url": "https://t.co/kfNjRqUT4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046593454990619043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 9726,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "#扩列 \n\n=呕呕/阿欠\n00后|双向情感障碍|餐卷妹|oc画画\n想和萌妹子和萌弟子互fo\n下面都是我画 欢迎来找我玩 https://t.co/kfNjRqUT4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 563,
+          "like_count": 25158,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10468
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕/阿欠｜🇨🇳🇭🇰｜🚫轉載🚫AI 🚫自作發言\n沒有其他帳號 請不要轉載我的作品",
+        "id": "1979108124985561088",
+        "name": "えぐち",
+        "pinned_tweet_id": "2046593454990619043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047250628687355904/LIuDBNUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 497,
+          "like_count": 3041,
+          "listed_count": 5,
+          "media_count": 82,
+          "tweet_count": 502
+        },
+        "username": "yumenoWchan",
+        "verified": false
+      }
+    ]
+  }
+}

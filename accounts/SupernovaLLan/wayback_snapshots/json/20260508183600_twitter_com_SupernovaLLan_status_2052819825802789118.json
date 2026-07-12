@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2052744393317105943",
+    "created_at": "2026-05-08T18:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T19:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052819825802789118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "udonahirape"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052819825802789118",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052744393317105943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@udonahirape 可菲～小泰～大力出奇迹嘛对不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2052744393317105943",
+        "created_at": "2026-05-08T18:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052819825802789118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "udonahirape"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052819825802789118",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052744393317105943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@udonahirape 可菲～小泰～大力出奇迹嘛对不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2052744393317105943",
+        "created_at": "2026-05-08T13:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052744393317105943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/science_010/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/science_010/status/2052689633625194644",
+              "start": 16,
+              "url": "https://t.co/iQr5WTqIUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052744393317105943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052689633625194644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不就是为了…抢点钱…买大力么… https://t.co/iQr5WTqIUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 560,
+          "like_count": 25097,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10440
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "和你一起溺亡在電子之海，我很愉快♡",
+        "id": "2050513602096820224",
+        "location": "你的荧幕",
+        "name": "心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052021168568258566/-8iMIFsA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 103,
+          "like_count": 400,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 215
+        },
+        "username": "udonahirape",
+        "verified": false
+      }
+    ]
+  }
+}

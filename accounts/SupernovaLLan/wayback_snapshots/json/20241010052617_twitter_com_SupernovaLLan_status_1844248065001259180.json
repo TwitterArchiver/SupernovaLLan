@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1844222586596753663",
+    "created_at": "2024-10-10T05:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T06:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844248065001259180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1444640763070005251",
+          "start": 0,
+          "username": "hqin_chihiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844248065001259180",
+    "in_reply_to_user_id": "1444640763070005251",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844222586596753663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hqin_chihiro 上大学唯一挂的一科就是线性代数🤣同济教材是真的💩外国教程能看懂就提高一下理解力试图数形结合一下？）之前看3b1b的视频还得蛮有收获的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1844222586596753663",
+        "created_at": "2024-10-10T05:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T06:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844248065001259180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "hqin_chihiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844248065001259180",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844222586596753663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hqin_chihiro 上大学唯一挂的一科就是线性代数🤣同济教材是真的💩外国教程能看懂就提高一下理解力试图数形结合一下？）之前看3b1b的视频还得蛮有收获的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444640763070005251",
+        "conversation_id": "1844222586596753663",
+        "created_at": "2024-10-10T03:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T04:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844222586596753663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1844222586596753663",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死了吗的线性代数，上课听不懂，外国教材看得懂但觉得跟做题没啥关系，考研课自以为听懂了书后题一个写不出来\n\n我可能真是智商有点问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 461,
+          "like_count": 21762,
+          "listed_count": 2,
+          "tweet_count": 8416
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "鳥になって雲をつかんで、\n風になって遥遠くへ。",
+        "id": "1444640763070005251",
+        "name": "Hqin",
+        "pinned_tweet_id": "1817665444238799295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811048363489624064/UVK8YWFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 648,
+          "like_count": 9694,
+          "listed_count": 4,
+          "tweet_count": 5564
+        },
+        "username": "hqin_chihiro",
+        "verified": false
+      }
+    ]
+  }
+}

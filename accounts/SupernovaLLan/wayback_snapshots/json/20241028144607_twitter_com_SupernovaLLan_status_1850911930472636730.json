@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1850833000038031360"
+      ],
+      "media_source_tweet_id": [
+        "1850833429006266807"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1850911930472636730",
+    "created_at": "2024-10-28T14:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T15:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850911930472636730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346830626683580416",
+          "start": 3,
+          "username": "LUOXIANGZY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LbQErCqlOs",
+          "end": 83,
+          "expanded_url": "https://x.com/LUOXIANGZY/status/1850833429006266807/video/1",
+          "media_key": "13_1850833000038031360",
+          "start": 60,
+          "url": "https://t.co/LbQErCqlOs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850911930472636730",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850833429006266807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LUOXIANGZY: 这位就是以前讲过的，用冰糖、明矾卷死了中国毒贩的假毒贩子🤣！让中共公检法都头疼的人物！ https://t.co/LbQErCqlOs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 558196,
+        "height": 544,
+        "media_key": "13_1850833000038031360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1850833000038031360/img/KXs3COSE07_4vOvy.jpg",
+        "public_metrics": {
+          "view_count": 106069
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1850833000038031360/vid/avc1/452x270/nVqIPAcrEGZVqtuI.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1850833000038031360/vid/avc1/602x360/RnvlRSjTXkkW2SaH.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1850833000038031360/vid/avc1/912x544/mhHSbeDhpv-YXKS5.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1850833000038031360/pl/QzxSzl_2gXSomitc.m3u8?tag=16"
+          }
+        ],
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1850833000038031360"
+          ],
+          "media_source_tweet_id": [
+            "1850833429006266807"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1850911930472636730",
+        "created_at": "2024-10-28T14:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T15:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850911930472636730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346830626683580416",
+              "start": 3,
+              "username": "LUOXIANGZY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbQErCqlOs",
+              "end": 83,
+              "expanded_url": "https://x.com/LUOXIANGZY/status/1850833429006266807/video/1",
+              "media_key": "13_1850833000038031360",
+              "start": 60,
+              "url": "https://t.co/LbQErCqlOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850911930472636730",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850833429006266807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LUOXIANGZY: 这位就是以前讲过的，用冰糖、明矾卷死了中国毒贩的假毒贩子🤣！让中共公检法都头疼的人物！ https://t.co/LbQErCqlOs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1850833000038031360"
+          ]
+        },
+        "author_id": "1346830626683580416",
+        "conversation_id": "1850833429006266807",
+        "created_at": "2024-10-28T09:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T10:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850833429006266807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbQErCqlOs",
+              "end": 67,
+              "expanded_url": "https://x.com/LUOXIANGZY/status/1850833429006266807/video/1",
+              "media_key": "13_1850833000038031360",
+              "start": 44,
+              "url": "https://t.co/LbQErCqlOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850833429006266807",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 208396,
+          "like_count": 628,
+          "quote_count": 6,
+          "reply_count": 59,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "这位就是以前讲过的，用冰糖、明矾卷死了中国毒贩的假毒贩子🤣！让中共公检法都头疼的人物！ https://t.co/LbQErCqlOs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 468,
+          "like_count": 21654,
+          "listed_count": 2,
+          "tweet_count": 8621
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T14:47:08.000Z",
+        "description": "爆料邮箱：hshen606@gmail.com， WhatsApp：+1 9298239824。专门爆料各种不平之事！此账号为唯一账号！（免费向国内民运人士提供西班牙非盈利居留办理教程，仅限Whatsapp联系提供帮助资料）！",
+        "id": "1346830626683580416",
+        "location": "法拉盛",
+        "name": "罗翔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633516700682395652/gQ_OmRVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270487,
+          "following_count": 7935,
+          "like_count": 79776,
+          "listed_count": 665,
+          "tweet_count": 22631
+        },
+        "username": "LUOXIANGZY",
+        "verified": true
+      }
+    ]
+  }
+}

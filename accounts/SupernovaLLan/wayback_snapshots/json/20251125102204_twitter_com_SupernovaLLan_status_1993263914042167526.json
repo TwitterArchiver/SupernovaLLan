@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1993263914042167526",
+    "created_at": "2025-11-25T10:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993263914042167526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/localbateman/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/localbateman/status/1992941521159737834",
+          "start": 11,
+          "url": "https://t.co/ftM3AyBPVh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993263914042167526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992941521159737834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我嘞个抽象切尔诺贝利 https://t.co/ftM3AyBPVh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20271,
+        "height": 1024,
+        "media_key": "13_1992731429508112384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992731429508112384/img/Yw7bGzYD8GIQHNIu.jpg",
+        "public_metrics": {
+          "view_count": 399470
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992731429508112384/vid/avc1/320x568/xY2QXk7vd0Z7N5gP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992731429508112384/vid/avc1/480x852/sE3ampWN1vA1YH0a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992731429508112384/vid/avc1/576x1024/a77_8-lpXCzqSpAt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992731429508112384/pl/pXT0QdWpqJh8-Mbj.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1993263914042167526",
+        "created_at": "2025-11-25T10:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993263914042167526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/localbateman/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/localbateman/status/1992941521159737834",
+              "start": 11,
+              "url": "https://t.co/ftM3AyBPVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993263914042167526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992941521159737834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我嘞个抽象切尔诺贝利 https://t.co/ftM3AyBPVh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992731429508112384"
+          ]
+        },
+        "author_id": "1482356237115310084",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992941521159737834",
+        "created_at": "2025-11-24T13:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992941521159737834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6Fzs6z3Bw",
+              "end": 23,
+              "expanded_url": "https://x.com/LocalBateman/status/1992941521159737834/video/1",
+              "media_key": "13_1992731429508112384",
+              "start": 0,
+              "url": "https://t.co/O6Fzs6z3Bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992941521159737834",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5279,
+          "impression_count": 615266,
+          "like_count": 30718,
+          "quote_count": 62,
+          "reply_count": 80,
+          "retweet_count": 2016
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O6Fzs6z3Bw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 536,
+          "like_count": 25021,
+          "listed_count": 2,
+          "media_count": 1087,
+          "tweet_count": 9943
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T14:18:01.000Z",
+        "description": "If you want to ignite the fire just ignite yourself. alt @LocalBateman_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "LocalBateman_"
+              }
+            ]
+          }
+        },
+        "id": "1482356237115310084",
+        "location": "Dm for credit or removal ",
+        "name": "Your Typical Local Man",
+        "pinned_tweet_id": "1535610044779315202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664391317688836097/UPd8ZDNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790810,
+          "following_count": 192,
+          "like_count": 82344,
+          "listed_count": 1459,
+          "media_count": 22852,
+          "tweet_count": 26328
+        },
+        "username": "LocalBateman",
+        "verified": true
+      }
+    ]
+  }
+}

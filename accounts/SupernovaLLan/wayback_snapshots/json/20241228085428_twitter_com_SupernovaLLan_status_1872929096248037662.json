@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1872872303396307419",
+    "created_at": "2024-12-28T08:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T09:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872929096248037662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663160032693981184",
+          "start": 0,
+          "username": "QingSong79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872929096248037662",
+    "in_reply_to_user_id": "1663160032693981184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872872303396307419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingSong79 心理史学既视感🫣预测须保证研究对象的随机性和自发性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1872872303396307419",
+        "created_at": "2024-12-28T08:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T09:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872929096248037662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663160032693981184",
+              "start": 0,
+              "username": "QingSong79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872929096248037662",
+        "in_reply_to_user_id": "1663160032693981184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872872303396307419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingSong79 心理史学既视感🫣预测须保证研究对象的随机性和自发性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663160032693981184",
+        "conversation_id": "1872872303396307419",
+        "created_at": "2024-12-28T05:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T06:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872872303396307419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872872303396307419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2332,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不要再问我推荐什么票，票只要一说，一窝蜂去，就破坏筹码结构\n\n五行老师公开一发，人多了就不管用\n\n小票的容量本身就不大，浮动筹码更少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 505,
+          "like_count": 22788,
+          "listed_count": 2,
+          "media_count": 1006,
+          "tweet_count": 9199
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T12:27:19.000Z",
+        "description": "Dérobe la foudre aux Dieux & le sceptre aux tyrans.||01/投机学习/感悟分享/Crypto/A股/期货/外汇黄金 ||体制.代际.群体〈观物取象，反观其物〉",
+        "id": "1663160032693981184",
+        "location": "Los Angeles, CA",
+        "name": "Azu",
+        "pinned_tweet_id": "1869772107149979773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726997190210691072/II_9GOau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11953,
+          "following_count": 872,
+          "like_count": 2095,
+          "listed_count": 161,
+          "media_count": 950,
+          "tweet_count": 6035
+        },
+        "username": "QingSong79",
+        "verified": true
+      }
+    ]
+  }
+}

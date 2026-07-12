@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057427316536639488",
+        "3_2057427316574490624",
+        "3_2057427316624781312",
+        "3_2057427316532465665"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057425776929296711",
+    "created_at": "2026-05-21T11:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057427331149656408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634143760690057216",
+          "start": 0,
+          "username": "Akiscara_6484"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OYbaXDR0YR",
+          "end": 47,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2057427331149656408/photo/1",
+          "media_key": "3_2057427316536639488",
+          "start": 24,
+          "url": "https://t.co/OYbaXDR0YR"
+        },
+        {
+          "display_url": "pic.x.com/OYbaXDR0YR",
+          "end": 47,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2057427331149656408/photo/1",
+          "media_key": "3_2057427316574490624",
+          "start": 24,
+          "url": "https://t.co/OYbaXDR0YR"
+        },
+        {
+          "display_url": "pic.x.com/OYbaXDR0YR",
+          "end": 47,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2057427331149656408/photo/1",
+          "media_key": "3_2057427316624781312",
+          "start": 24,
+          "url": "https://t.co/OYbaXDR0YR"
+        },
+        {
+          "display_url": "pic.x.com/OYbaXDR0YR",
+          "end": 47,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2057427331149656408/photo/1",
+          "media_key": "3_2057427316532465665",
+          "start": 24,
+          "url": "https://t.co/OYbaXDR0YR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057427331149656408",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057425776929296711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiscara_6484 浅浅馋一下喵大王 https://t.co/OYbaXDR0YR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057427331149656408].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057427331149656408",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057427331149656408"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057427316536639488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1zPmFaAAAGuRX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057427316574490624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1zPmObkAAcZf1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057427316624781312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1zPmaa8AA7heT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057427316532465665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1zPmEaUAE3fFH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057425768129708032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1x1d0bQAAgJy-.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057425768129708032"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057425776929296711",
+        "created_at": "2026-05-21T11:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057425776929296711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/owH3vEpFJK",
+              "end": 142,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2057425776929296711/photo/1",
+              "media_key": "3_2057425768129708032",
+              "start": 119,
+              "url": "https://t.co/owH3vEpFJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057425776929296711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一个帖子，我觉得可能是同类相吸吧？应该是这么说的，我记不清了。我自己是学乐器的，我就更喜欢会音乐的人。还有就是做饭，谁不想吃好吃的饭菜呢？啊哈哈哈我身边男生都不会做饭。都是妈妈和我做饭，没见过什么男生会做饭。要是看见我感觉挺稀奇吧。 https://t.co/owH3vEpFJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 578,
+          "like_count": 25671,
+          "listed_count": 2,
+          "media_count": 1149,
+          "tweet_count": 10724
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）性骚扰c你妈！s全家！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 150,
+          "like_count": 6894,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3366
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

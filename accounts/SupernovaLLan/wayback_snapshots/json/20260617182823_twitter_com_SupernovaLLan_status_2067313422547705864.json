@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2067297510100803883",
+    "created_at": "2026-06-17T18:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067313422547705864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551968500209487873",
+          "start": 0,
+          "username": "hannibals4PLZ_r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067313422547705864",
+    "in_reply_to_user_id": "1551968500209487873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067311040606679113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hannibals4PLZ_r 随后可尽情把玩此摇杆🕹️😸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2067297510100803883",
+        "created_at": "2026-06-17T18:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067313422547705864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551968500209487873",
+              "start": 0,
+              "username": "hannibals4PLZ_r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067313422547705864",
+        "in_reply_to_user_id": "1551968500209487873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067311040606679113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hannibals4PLZ_r 随后可尽情把玩此摇杆🕹️😸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551968500209487873",
+        "conversation_id": "2067297510100803883",
+        "created_at": "2026-06-17T18:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067311040606679113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067311040606679113",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067303023106511152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan 狠抓把柄😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 617,
+          "like_count": 26905,
+          "listed_count": 2,
+          "media_count": 1193,
+          "tweet_count": 11135
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T16:31:47.000Z",
+        "description": "私密逃生舱@cookiessin1 画@RachieSAMA _ 性格很差劲 -现居🏴󠁧󠁢󠁥󠁮󠁧󠁿乡下- 想到一半就忘了的阿拉斯加@RQu1etlyR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "cookiessin1"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "RachieSAMA"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "username": "RQu1etlyR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=Snq54E1T",
+                "start": 0,
+                "url": "https://t.co/6l4lAGcdCr"
+              }
+            ]
+          }
+        },
+        "id": "1551968500209487873",
+        "location": "The Garden of Sinners",
+        "name": "RCat🐝",
+        "pinned_tweet_id": "1876508916680724885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876509215868727296/SBaoLmXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7689,
+          "following_count": 1494,
+          "like_count": 24003,
+          "listed_count": 13,
+          "media_count": 221,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/6l4lAGcdCr",
+        "username": "hannibals4PLZ_r",
+        "verified": false
+      }
+    ]
+  }
+}

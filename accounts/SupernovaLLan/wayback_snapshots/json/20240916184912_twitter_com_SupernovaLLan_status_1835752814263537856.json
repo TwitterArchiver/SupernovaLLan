@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1835547069710492085",
+    "created_at": "2024-09-16T18:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T19:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835752814263537856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818107582117994496",
+          "start": 0,
+          "username": "CypressAlbert"
+        },
+        {
+          "end": 27,
+          "id": "1313677891163414533",
+          "start": 15,
+          "username": "cookiessin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835752814263537856",
+    "in_reply_to_user_id": "1818107582117994496",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835616613376369011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert @cookiessin1 但是有好几个家还能闲置一个这样的大豪斯不经常来住已经很让人惊羡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1835547069710492085",
+        "created_at": "2024-09-16T18:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T19:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835752814263537856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818107582117994496",
+              "start": 0,
+              "username": "CypressAlbert"
+            },
+            {
+              "end": 27,
+              "id": "1313677891163414533",
+              "start": 15,
+              "username": "cookiessin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835752814263537856",
+        "in_reply_to_user_id": "1818107582117994496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835616613376369011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlbert @cookiessin1 但是有好几个家还能闲置一个这样的大豪斯不经常来住已经很让人惊羡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818107582117994496",
+        "conversation_id": "1835547069710492085",
+        "created_at": "2024-09-16T09:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T10:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835616613376369011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313677891163414533",
+              "start": 0,
+              "username": "cookiessin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835616613376369011",
+        "in_reply_to_user_id": "1313677891163414533",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835615029028434199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cookiessin1 啊哦原来这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 445,
+          "like_count": 21018,
+          "listed_count": 2,
+          "tweet_count": 8165
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "精神状态是量子叠加态|成分复杂|分裂情感性障碍|脑子有病|17岁苦逼高中生|INFJ-5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫，代词随意|大概率回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论别来犯贱|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 139,
+                "username": "theDarkCypress"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602959516409856/nwmpqBZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 220,
+          "like_count": 250,
+          "listed_count": 0,
+          "tweet_count": 64
+        },
+        "username": "CypressAlbert",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T03:09:56.000Z",
+        "description": "本猫是纯血卡奴，核狗，星际屯鼠，apex卡白金，🐝，游戏考古爱好者，术力口厨，去学家，csp忠犬，半条萌豚，拔杯狂热，二次元吠舍，ACDC，ft基佬，不善交流，耐心条有限，目前高强度学习画画烤鸭中，人家是純良萌萌猫的反义词。_大号互关来申请我没通过的话就是手滑点错了，重新申请就好🥺！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitality.gg/en/",
+                "end": 23,
+                "expanded_url": "https://vitality.gg/en/",
+                "start": 0,
+                "url": "https://t.co/XQjCT49c3j"
+              }
+            ]
+          }
+        },
+        "id": "1313677891163414533",
+        "location": "221B Baker Street",
+        "name": "R号机不是二号机_(。-∀-)不开心可以看我置顶有小老鼠",
+        "pinned_tweet_id": "1825964550061191392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752973714499760128/hizieo3a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 236,
+          "like_count": 2952,
+          "listed_count": 1,
+          "tweet_count": 2179
+        },
+        "url": "https://t.co/XQjCT49c3j",
+        "username": "cookiessin1",
+        "verified": false
+      }
+    ]
+  }
+}

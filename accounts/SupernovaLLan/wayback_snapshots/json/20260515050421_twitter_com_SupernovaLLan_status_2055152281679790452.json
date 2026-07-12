@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2055129217176867254",
+    "created_at": "2026-05-15T05:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055152281679790452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015583135480811520",
+          "start": 0,
+          "username": "OvooLOO3o"
+        },
+        {
+          "end": 25,
+          "id": "1556513580186730496",
+          "start": 11,
+          "username": "sy_hallelujah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055152281679790452",
+    "in_reply_to_user_id": "2015583135480811520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055149756289315243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvooLOO3o @sy_hallelujah 本人汉堡王激推😾真正的快餐大汉堡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2055129217176867254",
+        "created_at": "2026-05-15T05:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055152281679790452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015583135480811520",
+              "start": 0,
+              "username": "OvooLOO3o"
+            },
+            {
+              "end": 25,
+              "id": "1556513580186730496",
+              "start": 11,
+              "username": "sy_hallelujah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055152281679790452",
+        "in_reply_to_user_id": "2015583135480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055149756289315243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvooLOO3o @sy_hallelujah 本人汉堡王激推😾真正的快餐大汉堡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015583135480811520",
+        "conversation_id": "2055129217176867254",
+        "created_at": "2026-05-15T04:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055149756289315243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1556513580186730496",
+              "start": 0,
+              "username": "sy_hallelujah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055149756289315243",
+        "in_reply_to_user_id": "1556513580186730496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055146235250835599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sy_hallelujah 想吃…这边没有我哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 565,
+          "like_count": 25413,
+          "listed_count": 2,
+          "media_count": 1143,
+          "tweet_count": 10600
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T00:30:52.000Z",
+        "description": "你好我是小苏 碎碎念吐黑泥中 回fo聊天请私信 爱人@godspeedyou50 \n欢迎给我发ngl～⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "godspeedyou50"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thaliana_su",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thaliana_su",
+                "start": 0,
+                "url": "https://t.co/hZvkczeF5U"
+              }
+            ]
+          }
+        },
+        "id": "2015583135480811520",
+        "name": "Arabidopsis thaliana (L.) Heynh.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054876841518002176/cMyOUZFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 620,
+          "like_count": 17882,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 5508
+        },
+        "url": "https://t.co/hZvkczeF5U",
+        "username": "OvooLOO3o",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T05:32:24.000Z",
+        "description": "离经叛道的思想经历光怪陆离的人生",
+        "id": "1556513580186730496",
+        "location": "TAIWAN is a country ",
+        "name": "森口失序",
+        "pinned_tweet_id": "1832126260736332050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040378397235568640/s5Wn7PhZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 122,
+          "like_count": 957,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 706
+        },
+        "username": "sy_hallelujah",
+        "verified": false
+      }
+    ]
+  }
+}

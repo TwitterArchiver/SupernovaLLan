@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1855968581416108048",
+    "created_at": "2024-11-11T15:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T16:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855994255766090027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855994255766090027",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855968581416108048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 民意调查🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1855968581416108048",
+        "created_at": "2024-11-11T15:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T16:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855994255766090027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855994255766090027",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855968581416108048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 民意调查🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1855968578610364416"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "conversation_id": "1855968581416108048",
+        "created_at": "2024-11-11T13:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T14:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855968581416108048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855968581416108048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你草过你的互关/推油吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 470,
+          "like_count": 21964,
+          "listed_count": 2,
+          "tweet_count": 8758
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "推特最大促智药商，有效帮助过732位（目前）ADHDer学业和工作| 雅牧主义者|不一定要卖药但是一定要解决你的问题|是服务不是零售|擅长认知神经科学 精神药理学 | 曾经的政治公众人物|梦想是人类智力总和+5% #本店只销售合法物品 想快速回复TG✈️：@Hagakuru",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "本店只销售合法物品"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Hagakuru"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "既見未來 為何不拜？",
+        "name": "🏴☯️葉經理是普羅米修斯嗎？",
+        "pinned_tweet_id": "1848717596360904886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838947042334486528/LXUKJSLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8331,
+          "following_count": 327,
+          "like_count": 5514,
+          "listed_count": 25,
+          "tweet_count": 9917
+        },
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

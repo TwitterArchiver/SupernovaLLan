@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1883006116688543744"
+      ],
+      "media_source_tweet_id": [
+        "1883006244178567525"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1883211412169973946",
+    "created_at": "2025-01-25T17:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T18:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883211412169973946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1593547850637791233",
+          "start": 3,
+          "username": "didengshengwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I20YfvGfnQ",
+          "end": 66,
+          "expanded_url": "https://x.com/didengshengwu/status/1883006244178567525/video/1",
+          "media_key": "13_1883006116688543744",
+          "start": 43,
+          "url": "https://t.co/I20YfvGfnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883211412169973946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883006244178567525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @didengshengwu: 大佬的思维是什么样的？\n\n吃个饭都满满的干货。 https://t.co/I20YfvGfnQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 294666,
+        "height": 544,
+        "media_key": "13_1883006116688543744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1883006116688543744/img/zZDX6l5qLiiFO7zp.jpg",
+        "public_metrics": {
+          "view_count": 150416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883006116688543744/vid/avc1/396x270/67efC-NaoOJBTw7v.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883006116688543744/vid/avc1/528x360/Ghv9E5VX1zkNfovA.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883006116688543744/vid/avc1/800x544/OFhWRMKpGU9n_L3z.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1883006116688543744/pl/VLfnaGrfcvN_HX0d.m3u8?tag=16&v=06d"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1883006116688543744"
+          ],
+          "media_source_tweet_id": [
+            "1883006244178567525"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1883211412169973946",
+        "created_at": "2025-01-25T17:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T18:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883211412169973946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1593547850637791233",
+              "start": 3,
+              "username": "didengshengwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I20YfvGfnQ",
+              "end": 66,
+              "expanded_url": "https://x.com/didengshengwu/status/1883006244178567525/video/1",
+              "media_key": "13_1883006116688543744",
+              "start": 43,
+              "url": "https://t.co/I20YfvGfnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883211412169973946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883006244178567525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @didengshengwu: 大佬的思维是什么样的？\n\n吃个饭都满满的干货。 https://t.co/I20YfvGfnQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1883006116688543744"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "1883006244178567525",
+        "created_at": "2025-01-25T04:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T05:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883006244178567525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I20YfvGfnQ",
+              "end": 47,
+              "expanded_url": "https://x.com/didengshengwu/status/1883006244178567525/video/1",
+              "media_key": "13_1883006116688543744",
+              "start": 24,
+              "url": "https://t.co/I20YfvGfnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883006244178567525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 432,
+          "impression_count": 261373,
+          "like_count": 823,
+          "quote_count": 20,
+          "reply_count": 262,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "大佬的思维是什么样的？\n\n吃个饭都满满的干货。 https://t.co/I20YfvGfnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 524,
+          "like_count": 23246,
+          "listed_count": 2,
+          "media_count": 1018,
+          "tweet_count": 9318
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "喜欢心理学和炒币，关注我一起刨析人性真像 ！ \n#OKX 是全球领先的 #Crypto 交易平台，提供 #btc #eth 等多种交易，帮您安全投资数字资产，注册链接：https://t.co/regYGr8viq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "OKX"
+              },
+              {
+                "end": 43,
+                "start": 36,
+                "tag": "Crypto"
+              },
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "btc"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "eth"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/cn/join/2347246",
+                "end": 107,
+                "expanded_url": "http://www.okx.com/cn/join/2347246",
+                "start": 84,
+                "url": "https://t.co/regYGr8viq"
+              }
+            ]
+          }
+        },
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145137,
+          "following_count": 931,
+          "like_count": 2092,
+          "listed_count": 555,
+          "media_count": 1487,
+          "tweet_count": 3606
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

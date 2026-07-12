@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1863568741843214591",
+    "created_at": "2024-12-02T13:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T14:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863575897300951096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 27,
+          "id": "1650760116918943744",
+          "start": 17,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863575897300951096",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863570058481385885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial @yusanyyy8 小南附体了这话讲得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1863568741843214591",
+        "created_at": "2024-12-02T13:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T14:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863575897300951096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 27,
+              "id": "1650760116918943744",
+              "start": 17,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863575897300951096",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863570058481385885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial @yusanyyy8 小南附体了这话讲得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1863568741843214591",
+        "created_at": "2024-12-02T13:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T14:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863570058481385885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818474394936918020",
+              "start": 0,
+              "username": "wu_jen_"
+            },
+            {
+              "end": 19,
+              "id": "1650760116918943744",
+              "start": 9,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863570058481385885",
+        "in_reply_to_user_id": "1818474394936918020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863569573192372692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_jen_ @yusanyyy8 可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 485,
+          "like_count": 22261,
+          "listed_count": 2,
+          "media_count": 986,
+          "tweet_count": 8962
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "本店只销售合法物品 想快速回复TG✈️：@paitangcuzhi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "paitangcuzhi2"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "既見未來 為何不拜？",
+        "name": "🏴☯️葉經理不是利他林",
+        "pinned_tweet_id": "1863482436979446025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860951392808030209/VyIc2tlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8391,
+          "following_count": 344,
+          "like_count": 5614,
+          "listed_count": 25,
+          "media_count": 1203,
+          "tweet_count": 10212
+        },
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "",
+        "id": "1650760116918943744",
+        "location": "   ",
+        "name": "TFEI终端机",
+        "pinned_tweet_id": "1851282744200015873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861060221797605376/eCnGL3pL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3452,
+          "following_count": 870,
+          "like_count": 42831,
+          "listed_count": 5,
+          "media_count": 287,
+          "tweet_count": 8408
+        },
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

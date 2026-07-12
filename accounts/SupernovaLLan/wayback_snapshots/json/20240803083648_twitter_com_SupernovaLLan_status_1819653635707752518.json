@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1819358025133527040"
+      ],
+      "media_source_tweet_id": [
+        "1819358035543732591"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1819653635707752518",
+    "created_at": "2024-08-03T08:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T09:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819653635707752518"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 67,
+          "normalized_text": "de league of goats",
+          "probability": 0.446,
+          "start": 50,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1548726178978168833",
+          "start": 3,
+          "username": "va_lidate"
+        },
+        {
+          "end": 24,
+          "id": "1538230472299270144",
+          "start": 15,
+          "username": "ayeejuju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/6FMot4qwjx",
+          "end": 94,
+          "expanded_url": "https://twitter.com/va_lidate/status/1819358035543732591/photo/1",
+          "media_key": "3_1819358025133527040",
+          "start": 71,
+          "url": "https://t.co/6FMot4qwjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819653635707752518",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819358035543732591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @va_lidate: @ayeejuju Bro wants to be added to de league of goats 😭 https://t.co/6FMot4qwjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1819358025133527040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT-ofAdXEAAChwa.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819358025133527040"
+          ],
+          "media_source_tweet_id": [
+            "1819358035543732591"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1819653635707752518",
+        "created_at": "2024-08-03T08:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T09:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819653635707752518"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "de league of goats",
+              "probability": 0.446,
+              "start": 50,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1548726178978168833",
+              "start": 3,
+              "username": "va_lidate"
+            },
+            {
+              "end": 24,
+              "id": "1538230472299270144",
+              "start": 15,
+              "username": "ayeejuju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6FMot4qwjx",
+              "end": 94,
+              "expanded_url": "https://twitter.com/va_lidate/status/1819358035543732591/photo/1",
+              "media_key": "3_1819358025133527040",
+              "start": 71,
+              "url": "https://t.co/6FMot4qwjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819653635707752518",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819358035543732591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @va_lidate: @ayeejuju Bro wants to be added to de league of goats 😭 https://t.co/6FMot4qwjx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819358025133527040"
+          ]
+        },
+        "author_id": "1548726178978168833",
+        "conversation_id": "1819357209870180566",
+        "created_at": "2024-08-02T13:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T14:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819358035543732591"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "de league of goats",
+              "probability": 0.5005,
+              "start": 35,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1538230472299270144",
+              "start": 0,
+              "username": "ayeejuju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6FMot4qwjx",
+              "end": 79,
+              "expanded_url": "https://twitter.com/va_lidate/status/1819358035543732591/photo/1",
+              "media_key": "3_1819358025133527040",
+              "start": 56,
+              "url": "https://t.co/6FMot4qwjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819358035543732591",
+        "in_reply_to_user_id": "1538230472299270144",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 710,
+          "impression_count": 671900,
+          "like_count": 11085,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819357209870180566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayeejuju Bro wants to be added to de league of goats 😭 https://t.co/6FMot4qwjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 430,
+          "like_count": 20419,
+          "listed_count": 2,
+          "tweet_count": 7958
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T17:48:05.000Z",
+        "description": "ええ、私は悪役です 😈👉@waltmeg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "waltmeg"
+              }
+            ]
+          }
+        },
+        "id": "1548726178978168833",
+        "location": "Searching📍",
+        "name": "AYᗩᑎOKOᒍI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735341405642379264/kJluDz72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3420,
+          "following_count": 1969,
+          "like_count": 45605,
+          "listed_count": 1,
+          "tweet_count": 6627
+        },
+        "username": "va_lidate",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-18T18:42:14.000Z",
+        "description": "just a mf tweeting / dm notis for a follow back",
+        "id": "1538230472299270144",
+        "name": "juju 💰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587176262094626816/C2dyZYPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480391,
+          "following_count": 1657,
+          "like_count": 11752,
+          "listed_count": 3189,
+          "tweet_count": 11482
+        },
+        "username": "ayeejuju",
+        "verified": true
+      }
+    ]
+  }
+}

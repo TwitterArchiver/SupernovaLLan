@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2049030975469056463",
+    "created_at": "2026-04-28T07:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049030975469056463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunjiu/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yunjiu/status/2048936988900786432",
+          "start": 12,
+          "url": "https://t.co/ZzQdW1oy4K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049030975469056463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048936988900786432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽了人怎么能这么坏） https://t.co/ZzQdW1oy4K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2048861667518451712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8E1M5aEAAsrLB.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2049030975469056463",
+        "created_at": "2026-04-28T07:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049030975469056463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunjiu/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yunjiu/status/2048936988900786432",
+              "start": 12,
+              "url": "https://t.co/ZzQdW1oy4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049030975469056463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048936988900786432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽了人怎么能这么坏） https://t.co/ZzQdW1oy4K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048861667518451712"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2048936988900786432",
+        "created_at": "2026-04-28T01:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048936988900786432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TraUHskYuG",
+              "end": 43,
+              "expanded_url": "https://x.com/YunJiu/status/2048936988900786432/photo/1",
+              "media_key": "3_2048861667518451712",
+              "start": 20,
+              "url": "https://t.co/TraUHskYuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048936988900786432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7089,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "要是有人直接吞了是不是就能cos良子了 https://t.co/TraUHskYuG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 530,
+          "like_count": 24565,
+          "listed_count": 2,
+          "media_count": 1113,
+          "tweet_count": 10234
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2044637893025787952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103542,
+          "following_count": 768,
+          "like_count": 36509,
+          "listed_count": 291,
+          "media_count": 18046,
+          "tweet_count": 25914
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

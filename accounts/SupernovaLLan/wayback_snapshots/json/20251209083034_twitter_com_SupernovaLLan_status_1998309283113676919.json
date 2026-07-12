@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1993579174179807316",
+    "created_at": "2025-12-09T08:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T09:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998309283113676919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1081121268718424064",
+          "start": 0,
+          "username": "momotea19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998309283113676919",
+    "in_reply_to_user_id": "1081121268718424064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998308202728063041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momotea19 🤣其实这个是两年前设置的，原来是“由@某某某自动发推”效果就是对方可以夺舍你的号发推文，但是另一个号被封了不见了，这个标就一直挂在这，我都不知道该怎么取消掉🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1993579174179807316",
+        "created_at": "2025-12-09T08:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998309283113676919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1081121268718424064",
+              "start": 0,
+              "username": "momotea19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998309283113676919",
+        "in_reply_to_user_id": "1081121268718424064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998308202728063041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momotea19 🤣其实这个是两年前设置的，原来是“由@某某某自动发推”效果就是对方可以夺舍你的号发推文，但是另一个号被封了不见了，这个标就一直挂在这，我都不知道该怎么取消掉🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081121268718424064",
+        "conversation_id": "1993579174179807316",
+        "created_at": "2025-12-09T08:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998308202728063041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998308202728063041",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998295300780519911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan 先告诉我自动发推是怎么弄？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 535,
+          "like_count": 25006,
+          "listed_count": 2,
+          "media_count": 1087,
+          "tweet_count": 9961
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-04T09:32:51.000Z",
+        "description": "声明一下，\n我发的大多是分析自渡用，\n只要我还在发帖，说明我的认知还不够！\nBTW：所有预判是基于超短线思维，\n每个人得有自己的交易策略，不可照搬别人的.\n如果你看了我的推文自行买入亏钱的，我会说活该！\n世界经济史是一部基于假象和谎言的连续剧。要获得财富，做法就是认清其假象，投入其中，然后在假象被公众认识之前退出游戏。",
+        "id": "1081121268718424064",
+        "name": "momotea的股市日记本.李佛么",
+        "pinned_tweet_id": "1993530205219308027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983493905053315072/K1RrydQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27845,
+          "following_count": 793,
+          "like_count": 1104,
+          "listed_count": 475,
+          "media_count": 3596,
+          "tweet_count": 11477
+        },
+        "username": "momotea19",
+        "verified": false
+      }
+    ]
+  }
+}

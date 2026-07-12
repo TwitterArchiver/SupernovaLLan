@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1858512375747670155",
+    "created_at": "2024-11-18T14:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T15:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858516905881178192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858516905881178192",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858512375747670155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 可能是基于学历高素质也会高的某种统计学相关性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1858512375747670155",
+        "created_at": "2024-11-18T14:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T15:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858516905881178192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858516905881178192",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858512375747670155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 可能是基于学历高素质也会高的某种统计学相关性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1858512375747670155",
+        "created_at": "2024-11-18T14:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T15:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858512375747670155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858512375747670155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "智性恋我还能理解，但找炮友卡学历我就不理解了…人的学历崇拜居然还能高于生殖崇拜吗…一是学历也不能性传播，二是aftercare的时候你们难道要讨论经济？政治？高等数学？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 468,
+          "like_count": 22026,
+          "listed_count": 2,
+          "tweet_count": 8823
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 号主是小动物。接转推 努力生活中 博主患有市面上常见的精神病真的不是我的本意 双商皆低 里账@damatte0526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "damatte0526"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "小🎀咪🎀之🎀家",
+        "pinned_tweet_id": "1851376046173544462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853338629730635776/BoihRLzO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9236,
+          "following_count": 520,
+          "like_count": 1856,
+          "listed_count": 5,
+          "tweet_count": 971
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

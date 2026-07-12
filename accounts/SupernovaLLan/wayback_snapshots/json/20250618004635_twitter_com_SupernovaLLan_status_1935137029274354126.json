@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1935009170413207728",
+    "created_at": "2025-06-18T00:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T01:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935137029274354126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702221879434436608",
+          "start": 0,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935137029274354126",
+    "in_reply_to_user_id": "1702221879434436608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935009170413207728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zhajipai bjd鸡排堡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1910,
+        "media_key": "3_1935009167699558401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqIlf3bQAENzuq.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1935009170413207728",
+        "created_at": "2025-06-18T00:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T01:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935137029274354126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702221879434436608",
+              "start": 0,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935137029274354126",
+        "in_reply_to_user_id": "1702221879434436608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935009170413207728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zhajipai bjd鸡排堡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935009167699558401"
+          ]
+        },
+        "author_id": "1702221879434436608",
+        "conversation_id": "1935009170413207728",
+        "created_at": "2025-06-17T16:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935009170413207728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ru0Dcfg9zT",
+              "end": 23,
+              "expanded_url": "https://x.com/8964zhajipai/status/1935009170413207728/photo/1",
+              "media_key": "3_1935009167699558401",
+              "start": 0,
+              "url": "https://t.co/ru0Dcfg9zT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935009170413207728",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ru0Dcfg9zT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 550,
+          "like_count": 24674,
+          "listed_count": 2,
+          "media_count": 1056,
+          "tweet_count": 9686
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "第五人格带我上分可以免门槛                                 自用蜂鸟vpn https://t.co/zmUeClLXXE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register",
+                "end": 77,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register",
+                "start": 54,
+                "url": "https://t.co/zmUeClLXXE"
+              }
+            ]
+          }
+        },
+        "id": "1702221879434436608",
+        "location": "🚪52",
+        "name": "像素",
+        "pinned_tweet_id": "1860467537722671520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 74,
+          "like_count": 203,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 213
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

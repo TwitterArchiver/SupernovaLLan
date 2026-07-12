@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953212237063307264"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1953212243468054792",
+    "created_at": "2025-08-06T21:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T22:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953212243468054792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Xx5bAGdpO",
+          "end": 165,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1953212243468054792/photo/1",
+          "media_key": "3_1953212237063307264",
+          "start": 142,
+          "url": "https://t.co/3Xx5bAGdpO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953212243468054792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "记忆力专注力严重减退，每天静不下心做任何事，遇见不妙的事只会崩溃和大叫）并且失去积极乐观的心态和生活的盼头，沉浸在自己的负面情绪里无法自拔\n不想面对现实，不过再逃避只能去死了\n在社交平台上几乎绝迹，丧失输出，社交归零，和世界的连接逐渐消失\n曾经在意的热爱的人和事也不再让我觉得有精神 https://t.co/3Xx5bAGdpO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1953212243468054792].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1953212243468054792",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1953212243468054792"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_1953212237063307264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxs0LlkawAAYAep.jpg",
+        "width": 862
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 547,
+          "like_count": 24673,
+          "listed_count": 2,
+          "media_count": 1069,
+          "tweet_count": 9769
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

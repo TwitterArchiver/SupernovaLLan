@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2064631666849759358",
+    "created_at": "2026-06-17T16:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067282839176118433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067282839176118433",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064631666849759358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 广州的话强推一个森焱食馆，准大排档，这家椒盐九肚鱼真的是天妇罗之神级别的菜品，果汁猪扒也超级豪赤，可以自己去蘸酸甜汁把握风味，因为这猪扒基础超绝，原味吃都没得挑那种。居民区里面的街坊店，人多菜又是0预制纯现做所以饭点等位等菜要好久😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064631666849759358",
+        "created_at": "2026-06-17T16:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067282839176118433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067282839176118433",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064631666849759358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 广州的话强推一个森焱食馆，准大排档，这家椒盐九肚鱼真的是天妇罗之神级别的菜品，果汁猪扒也超级豪赤，可以自己去蘸酸甜汁把握风味，因为这猪扒基础超绝，原味吃都没得挑那种。居民区里面的街坊店，人多菜又是0预制纯现做所以饭点等位等菜要好久😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2064631666849759358",
+        "created_at": "2026-06-10T08:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064631666849759358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064631666849759358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6841,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在吃饭方面，快速刷取Nagi好感度的方法\n\n1.带Nagi吃/给Nagi推荐居民向的市井餐厅，如果是当地特色（非游客特色菜）更佳，Nagi喜欢把钱尽可能的花在食材而非环境/地段和服务上\n\n2.（广东地区限定）在夏天以外的季节带Nagi去那种私人农庄吃饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 616,
+          "like_count": 26886,
+          "listed_count": 2,
+          "media_count": 1193,
+          "tweet_count": 11125
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "广州2号线",
+        "name": "一日Nagi",
+        "pinned_tweet_id": "2064631666849759358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066688724407382016/EWwlDVO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5875,
+          "following_count": 2331,
+          "like_count": 29428,
+          "listed_count": 8,
+          "media_count": 2643,
+          "tweet_count": 25286
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

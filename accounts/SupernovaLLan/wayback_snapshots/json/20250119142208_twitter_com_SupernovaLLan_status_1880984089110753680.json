@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1880982654469996669",
+    "created_at": "2025-01-19T14:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T15:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880984089110753680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780620789211152384",
+          "start": 0,
+          "username": "maque478728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880984089110753680",
+    "in_reply_to_user_id": "1780620789211152384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880982654469996669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maque478728 pdd网购便宜一半🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1880982654469996669",
+        "created_at": "2025-01-19T14:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880984089110753680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780620789211152384",
+              "start": 0,
+              "username": "maque478728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880984089110753680",
+        "in_reply_to_user_id": "1780620789211152384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880982654469996669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maque478728 pdd网购便宜一半🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880982651496255488"
+          ]
+        },
+        "author_id": "1780620789211152384",
+        "conversation_id": "1880982654469996669",
+        "created_at": "2025-01-19T14:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880982654469996669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNXCPSfCNG",
+              "end": 34,
+              "expanded_url": "https://x.com/maque478728/status/1880982654469996669/photo/1",
+              "media_key": "3_1880982651496255488",
+              "start": 11,
+              "url": "https://t.co/wNXCPSfCNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880982654469996669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁给我买个这个我想玩 https://t.co/wNXCPSfCNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 521,
+          "like_count": 23117,
+          "listed_count": 2,
+          "media_count": 1013,
+          "tweet_count": 9293
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T15:34:32.000Z",
+        "description": "可以称呼我为小麻雀.是在离家出走的小女孩.不想过居无定所的生活了谁能帮我摆脱痛苦的生活啊……我会定期发布自己的位置希望在相同城市的人可以收留一下我.小麻雀🚪价位是68/168/368/520...二阶门槛解锁视频/语音全天陪聊哦",
+        "id": "1780620789211152384",
+        "name": "enter",
+        "pinned_tweet_id": "1880107874577440780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780631846205972480/-6JlBmvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 78,
+          "like_count": 396,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 816
+        },
+        "username": "maque478728",
+        "verified": false
+      }
+    ]
+  }
+}

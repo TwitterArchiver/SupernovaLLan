@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022306149161381888"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2022306155108929953",
+    "created_at": "2026-02-13T13:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022306155108929953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zhr59pY2eI",
+          "end": 60,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2022306155108929953/photo/1",
+          "media_key": "3_2022306149161381888",
+          "start": 37,
+          "url": "https://t.co/Zhr59pY2eI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022306155108929953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家里强行要求我做一件事）对此我想说的是\n我宁可活得不像人也不要活得不像我 https://t.co/Zhr59pY2eI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022306155108929953].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022306155108929953",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022306155108929953"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2022306149161381888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCsul_aMAAESe6.jpg",
+        "width": 784
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 530,
+          "like_count": 24540,
+          "listed_count": 2,
+          "media_count": 1095,
+          "tweet_count": 10036
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

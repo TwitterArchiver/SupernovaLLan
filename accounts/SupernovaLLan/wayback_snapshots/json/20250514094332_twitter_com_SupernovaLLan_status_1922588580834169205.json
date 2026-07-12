@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922588571896311808"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1922582022557511824",
+    "created_at": "2025-05-14T09:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T10:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922588580834169205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1802880725445902336",
+          "start": 0,
+          "username": "VincentZeppeli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DafCJ2haFH",
+          "end": 39,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1922588580834169205/photo/1",
+          "media_key": "3_1922588571896311808",
+          "start": 16,
+          "url": "https://t.co/DafCJ2haFH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922588580834169205",
+    "in_reply_to_user_id": "1802880725445902336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922582022557511824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VincentZeppeli https://t.co/DafCJ2haFH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922588580834169205].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922588580834169205",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922588580834169205"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_1922588571896311808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq5oHq0a8AAcv9E.jpg",
+        "width": 1043
+      },
+      {
+        "height": 270,
+        "media_key": "16_1922582004023066624",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gq5iJXlagAAETrs.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gq5iJXlagAAETrs.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1922582004023066624"
+          ]
+        },
+        "author_id": "1802880725445902336",
+        "conversation_id": "1922582022557511824",
+        "created_at": "2025-05-14T09:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T10:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922582022557511824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kVofP52aar",
+              "end": 23,
+              "expanded_url": "https://x.com/VincentZeppeli/status/1922582022557511824/photo/1",
+              "media_key": "16_1922582004023066624",
+              "start": 0,
+              "url": "https://t.co/kVofP52aar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922582022557511824",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kVofP52aar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 552,
+          "like_count": 24485,
+          "listed_count": 2,
+          "media_count": 1050,
+          "tweet_count": 9630
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T01:47:26.000Z",
+        "description": "=铂金/小彦（？｜抽象人｜高中在读（理科）｜ENTJ-A｜Только меня не спасай, поскорее забывай",
+        "id": "1802880725445902336",
+        "location": "Moscow, Russia",
+        "name": "铂金之星",
+        "pinned_tweet_id": "1868815496759722293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913905812034170880/eY3Y7cWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 368,
+          "like_count": 19842,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 168
+        },
+        "username": "VincentZeppeli",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1929095979279814986",
+    "created_at": "2026-06-13T16:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065836167795478759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814091952675241984",
+          "start": 0,
+          "username": "mikufans39397"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065836167795478759",
+    "in_reply_to_user_id": "1814091952675241984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929095979279814986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikufans39397 没事啦不用在意下面标的那个team form ngl 就是他们官方人机给你发的））"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929095971549659136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsWGkLnawAAPuP4.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1929095979279814986",
+        "created_at": "2026-06-13T16:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065836167795478759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814091952675241984",
+              "start": 0,
+              "username": "mikufans39397"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065836167795478759",
+        "in_reply_to_user_id": "1814091952675241984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929095979279814986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikufans39397 没事啦不用在意下面标的那个team form ngl 就是他们官方人机给你发的））"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929095971549659136"
+          ]
+        },
+        "author_id": "1814091952675241984",
+        "conversation_id": "1929095979279814986",
+        "created_at": "2025-06-01T08:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T09:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929095979279814986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/icTDe0Ommr",
+              "end": 31,
+              "expanded_url": "https://x.com/mikufans39397/status/1929095979279814986/photo/1",
+              "media_key": "3_1929095971549659136",
+              "start": 8,
+              "url": "https://t.co/icTDe0Ommr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929095979279814986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2137,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有吗？。。。 https://t.co/icTDe0Ommr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 607,
+          "like_count": 26695,
+          "listed_count": 2,
+          "media_count": 1187,
+          "tweet_count": 11067
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T00:16:53.000Z",
+        "description": "06小女孩 可以叫我柚子/宁宁丨Mikufans丨intp 泛性恋丨双相丨jpop吃丨术力口丨galgame丨车万｜后朋克｜不键政 喜欢猫猫｜ 日常推 欢迎互fo呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nenedayo/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nenedayo/",
+                "start": 0,
+                "url": "https://t.co/X0EpsMzOpE"
+              }
+            ]
+          }
+        },
+        "id": "1814091952675241984",
+        "location": "你心里",
+        "name": "ne ne da yo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866105834331340801/cgOdoGRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 1068,
+          "like_count": 7115,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1348
+        },
+        "url": "https://t.co/X0EpsMzOpE",
+        "username": "mikufans39397",
+        "verified": false
+      }
+    ]
+  }
+}

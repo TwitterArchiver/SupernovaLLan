@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917778426242756608",
+        "3_1917778426276306944"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1917778438951428385",
+    "created_at": "2025-05-01T03:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T04:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917778438951428385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZPArtCTZ62",
+          "end": 38,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1917778438951428385/photo/1",
+          "media_key": "3_1917778426242756608",
+          "start": 15,
+          "url": "https://t.co/ZPArtCTZ62"
+        },
+        {
+          "display_url": "pic.x.com/ZPArtCTZ62",
+          "end": 38,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1917778438951428385/photo/1",
+          "media_key": "3_1917778426276306944",
+          "start": 15,
+          "url": "https://t.co/ZPArtCTZ62"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917778438951428385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就这样美美出门吓唬老同学去了 https://t.co/ZPArtCTZ62"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917778438951428385].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917778438951428385",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917778438951428385"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917778426242756608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp1RUV4bcAAcHKQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1917778426276306944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp1RUWAbYAA_jxE.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 552,
+          "like_count": 24330,
+          "listed_count": 2,
+          "media_count": 1044,
+          "tweet_count": 9607
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

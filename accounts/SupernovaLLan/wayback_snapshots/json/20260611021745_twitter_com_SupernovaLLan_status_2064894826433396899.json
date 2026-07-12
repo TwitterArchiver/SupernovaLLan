@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2064418096719548878",
+    "created_at": "2026-06-11T02:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064894826433396899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834625166774829056",
+          "start": 0,
+          "username": "Sertraline824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064894826433396899",
+    "in_reply_to_user_id": "1834625166774829056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064418307093270828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sertraline824 😗那也别被会四处随口说我喜欢你的人骗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064418096719548878",
+        "created_at": "2026-06-11T02:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064894826433396899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834625166774829056",
+              "start": 0,
+              "username": "Sertraline824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064894826433396899",
+        "in_reply_to_user_id": "1834625166774829056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064418307093270828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sertraline824 😗那也别被会四处随口说我喜欢你的人骗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834625166774829056",
+        "conversation_id": "2064418096719548878",
+        "created_at": "2026-06-09T18:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064418307093270828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064418307093270828",
+        "in_reply_to_user_id": "1834625166774829056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064418096719548878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有在针对谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 601,
+          "like_count": 26535,
+          "listed_count": 2,
+          "media_count": 1181,
+          "tweet_count": 11024
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T16:09:08.000Z",
+        "description": "主页含有少量牛子请谨慎观看/请和我聊天/绝望的家教老师/长期活跃在别人动态下/请和我打Apex、OW、星露谷、群星/性取向直/不定期情绪崩溃会发很多莫名其妙的话请谨慎关注/1i/可能是brat也许是sw/我可能是个恋足癖/88🚪互关除外（穷了  :(  //如果有愿意打赏的朋友请看@Alex_downtown",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Alex_downtown"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sertraline816/…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sertraline816/yourcrush",
+                "start": 0,
+                "url": "https://t.co/P5CcVkUxvm"
+              }
+            ]
+          }
+        },
+        "id": "1834625166774829056",
+        "name": "Sertraline",
+        "pinned_tweet_id": "2004973899059245287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004371399184424960/SnRop93a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4430,
+          "following_count": 458,
+          "like_count": 19437,
+          "listed_count": 11,
+          "media_count": 1238,
+          "tweet_count": 9566
+        },
+        "url": "https://t.co/P5CcVkUxvm",
+        "username": "Sertraline824",
+        "verified": false
+      }
+    ]
+  }
+}

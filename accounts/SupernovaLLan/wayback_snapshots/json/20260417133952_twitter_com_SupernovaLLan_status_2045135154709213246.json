@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045135146492608513",
+        "3_2045135146521858048"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2045135154709213246",
+    "created_at": "2026-04-17T13:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045135154709213246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "faceround.cn/games/1/mzk-te…",
+          "end": 47,
+          "expanded_url": "https://www.faceround.cn/games/1/mzk-test",
+          "start": 24,
+          "status": 200,
+          "title": "晓山瑞希，你在哪？",
+          "unwound_url": "https://www.faceround.cn/games/1/mzk-test",
+          "url": "https://t.co/hzNwrOWHi2"
+        },
+        {
+          "display_url": "pic.x.com/xGrLSsCGFH",
+          "end": 78,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2045135154709213246/photo/1",
+          "media_key": "3_2045135146492608513",
+          "start": 55,
+          "url": "https://t.co/xGrLSsCGFH"
+        },
+        {
+          "display_url": "pic.x.com/xGrLSsCGFH",
+          "end": 78,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2045135154709213246/photo/1",
+          "media_key": "3_2045135146521858048",
+          "start": 55,
+          "url": "https://t.co/xGrLSsCGFH"
+        },
+        {
+          "display_url": "x.com/lan_shang32900…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/lan_shang32900/status/2045131322352603495",
+          "start": 79,
+          "url": "https://t.co/xiFTb8II0K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045135154709213246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045131322352603495",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我测出来是通通mzk！快来测测你是哪种晓山瑞希：https://t.co/hzNwrOWHi2\n啥呀！！！！ https://t.co/xGrLSsCGFH https://t.co/xiFTb8II0K"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045135154709213246].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045135154709213246",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045135154709213246"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045135146492608513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHHlIRbwAEHJgf.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2045135146521858048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHHlIYaEAAB3WR.jpg",
+        "width": 472
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045131319081082880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHEGWDaoAAAbVO.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045131319081082880"
+          ]
+        },
+        "author_id": "1749719755119071232",
+        "conversation_id": "2045131322352603495",
+        "created_at": "2026-04-17T13:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045131322352603495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6FXWmRouBJ",
+              "end": 99,
+              "expanded_url": "https://x.com/lan_shang32900/status/2045131322352603495/photo/1",
+              "media_key": "3_2045131319081082880",
+              "start": 76,
+              "url": "https://t.co/6FXWmRouBJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045131322352603495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还真是我的拿手好戏……但是说真的我这种蠢人掌握了情报也啥都不会用也用不出啥啊！甚至意识不到自己掌握了什么就是纯粹路过，就莫名其妙被大家都讨厌提防了…… https://t.co/6FXWmRouBJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 522,
+          "like_count": 24329,
+          "listed_count": 2,
+          "media_count": 1106,
+          "tweet_count": 10134
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 799,
+          "like_count": 45446,
+          "listed_count": 3,
+          "media_count": 786,
+          "tweet_count": 11365
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

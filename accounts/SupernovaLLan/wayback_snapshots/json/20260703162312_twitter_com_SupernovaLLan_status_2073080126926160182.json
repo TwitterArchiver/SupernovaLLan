@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2073005923875127432",
+    "created_at": "2026-07-03T16:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073080126926160182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554424317483655175",
+          "start": 0,
+          "username": "yuu00401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073080126926160182",
+    "in_reply_to_user_id": "1554424317483655175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073005923875127432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuu00401 去年刚扭亏一点点呗好夸张搞这种数据🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2073005923875127432",
+        "created_at": "2026-07-03T16:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073080126926160182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554424317483655175",
+              "start": 0,
+              "username": "yuu00401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073080126926160182",
+        "in_reply_to_user_id": "1554424317483655175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073005923875127432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuu00401 去年刚扭亏一点点呗好夸张搞这种数据🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554424317483655175",
+        "conversation_id": "2073005923875127432",
+        "created_at": "2026-07-03T11:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073005923875127432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fly2_1M/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/fly2_1M/status/2072999443704721424",
+              "start": 7,
+              "url": "https://t.co/SIsi7frfWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073005923875127432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1618,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072999443704721424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我少看零了吗 https://t.co/SIsi7frfWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 623,
+          "like_count": 27131,
+          "listed_count": 2,
+          "media_count": 1214,
+          "tweet_count": 11277
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063450891232186368/8csvW8EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4077,
+          "following_count": 833,
+          "like_count": 76042,
+          "listed_count": 6,
+          "media_count": 2449,
+          "tweet_count": 35545
+        },
+        "url": "",
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

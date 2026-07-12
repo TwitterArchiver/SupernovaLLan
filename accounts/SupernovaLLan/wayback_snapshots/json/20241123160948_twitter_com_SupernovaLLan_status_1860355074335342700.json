@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1860355074335342700",
+    "created_at": "2024-11-23T16:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T17:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860355074335342700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797620480234684416",
+          "start": 3,
+          "username": "Hqin_inter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860355074335342700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860341762314895632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hqin_inter: 我是Hqin。\n\n因为不明原因主账被锁，已经提交申诉但是不知道能不能过，所以进行一下推友寻回（）\n\n如果面熟的推油，请帮转发一下\n\n这对我真的很重要很重要\n\n我什么都会做的😭😭😭瓦塔西…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1860355074335342700",
+        "created_at": "2024-11-23T16:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T17:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860355074335342700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797620480234684416",
+              "start": 3,
+              "username": "Hqin_inter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860355074335342700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860341762314895632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hqin_inter: 我是Hqin。\n\n因为不明原因主账被锁，已经提交申诉但是不知道能不能过，所以进行一下推友寻回（）\n\n如果面熟的推油，请帮转发一下\n\n这对我真的很重要很重要\n\n我什么都会做的😭😭😭瓦塔西…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797620480234684416",
+        "conversation_id": "1860341762314895632",
+        "created_at": "2024-11-23T15:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T16:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860341762314895632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860341762314895632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 941,
+          "like_count": 12,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我是Hqin。\n\n因为不明原因主账被锁，已经提交申诉但是不知道能不能过，所以进行一下推友寻回（）\n\n如果面熟的推油，请帮转发一下\n\n这对我真的很重要很重要\n\n我什么都会做的😭😭😭瓦塔西…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 473,
+          "like_count": 22072,
+          "listed_count": 2,
+          "tweet_count": 8865
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T13:25:05.000Z",
+        "description": "Hqinの应急避难所\n\n表：@Hqin_chihiro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "Hqin_chihiro"
+              }
+            ]
+          }
+        },
+        "id": "1797620480234684416",
+        "location": "Northeast China",
+        "name": "Hqin 二代目🌈 推友寻回！",
+        "pinned_tweet_id": "1860341762314895632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860341230233964544/DxZzzdX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 89,
+          "like_count": 33,
+          "listed_count": 0,
+          "tweet_count": 24
+        },
+        "username": "Hqin_inter",
+        "verified": false
+      }
+    ]
+  }
+}

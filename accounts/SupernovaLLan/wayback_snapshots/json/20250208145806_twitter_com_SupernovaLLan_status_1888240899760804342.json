@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1888239018220876017",
+    "created_at": "2025-02-08T14:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T15:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888240899760804342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888240899760804342",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888239018220876017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 哇 ʔ•̫͡•ʕ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1888239018220876017",
+        "created_at": "2025-02-08T14:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T15:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888240899760804342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888240899760804342",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888239018220876017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 哇 ʔ•̫͡•ʕ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888239011191570432"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1888239018220876017",
+        "created_at": "2025-02-08T14:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T15:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888239018220876017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPnYI9fhc5",
+              "end": 41,
+              "expanded_url": "https://x.com/damatte8964/status/1888239018220876017/photo/1",
+              "media_key": "3_1888239011191570432",
+              "start": 18,
+              "url": "https://t.co/xPnYI9fhc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888239018220876017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天画画了（抚摸自己）（夸奖自己） https://t.co/xPnYI9fhc5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 525,
+          "like_count": 23404,
+          "listed_count": 2,
+          "media_count": 1020,
+          "tweet_count": 9332
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*有人格障碍和精神病抱歉｜ACG｜ボカロ｜我也不知道该怎么介绍自己，很感谢你来看我…！🚪都包含朋友圈w",
+        "id": "1747931023277502465",
+        "location": "🚪99纯绿陪聊/198非绿",
+        "name": "想帮男友乳交结果发现奶子不够大愤而撞墙自杀",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877564177814048768/c52VHZfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17506,
+          "following_count": 617,
+          "like_count": 4084,
+          "listed_count": 23,
+          "media_count": 79,
+          "tweet_count": 1525
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2049553230229905858",
+    "created_at": "2026-04-29T18:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T19:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049553230229905858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/supernovallan/…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/supernovallan/status/2049135668325240869",
+          "start": 41,
+          "url": "https://t.co/oNNIsKdhuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049553230229905858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049135668325240869",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是两人都觉得互不相欠了也再无交集了，这段关系大概也就走到终点了，所以就会放下了 https://t.co/oNNIsKdhuW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2049553230229905858",
+        "created_at": "2026-04-29T18:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049553230229905858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/supernovallan/status/2049135668325240869",
+              "start": 41,
+              "url": "https://t.co/oNNIsKdhuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049553230229905858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049135668325240869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是两人都觉得互不相欠了也再无交集了，这段关系大概也就走到终点了，所以就会放下了 https://t.co/oNNIsKdhuW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2049135668325240869",
+        "created_at": "2026-04-28T14:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049135668325240869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds03/status/…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/hgds03/status/2048427571814228207",
+              "start": 107,
+              "url": "https://t.co/mairITNcCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049135668325240869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048427571814228207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是如果，如果心有亏欠，这份羁绊就可以一直存在下去……双方如果互相都在心底里放着这份亏欠吧，总有一天会以某种方式相互勾连，到时候再重新默契交换一次亏欠作为契约就好。双方这份自觉有所亏欠的惦念就是两人斩不断的羁绊。 https://t.co/mairITNcCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 542,
+          "like_count": 24664,
+          "listed_count": 2,
+          "media_count": 1118,
+          "tweet_count": 10293
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

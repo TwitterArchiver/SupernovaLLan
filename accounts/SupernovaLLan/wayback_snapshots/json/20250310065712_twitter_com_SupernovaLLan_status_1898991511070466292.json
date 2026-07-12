@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1898991203112419635",
+    "created_at": "2025-03-10T06:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T07:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898991511070466292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752729743471132672",
+          "start": 0,
+          "username": "yamato812536"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898991511070466292",
+    "in_reply_to_user_id": "1752729743471132672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898991203112419635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamato812536 🙏🙏🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1898991203112419635",
+        "created_at": "2025-03-10T06:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T07:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898991511070466292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752729743471132672",
+              "start": 0,
+              "username": "yamato812536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898991511070466292",
+        "in_reply_to_user_id": "1752729743471132672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898991203112419635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamato812536 🙏🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752729743471132672",
+        "conversation_id": "1898991203112419635",
+        "created_at": "2025-03-10T06:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T07:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898991203112419635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/supernovallan/status/1898990769832395246",
+              "start": 18,
+              "url": "https://t.co/7koycahZCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898991203112419635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898990769832395246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上香是因为要给y神祈祷 哈哈哈 😆 https://t.co/7koycahZCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 527,
+          "like_count": 23621,
+          "listed_count": 2,
+          "media_count": 1026,
+          "tweet_count": 9412
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T16:25:21.000Z",
+        "description": "我在国内没有抖音 小红书 这些垃圾平台的账号 我也不荐股 不要被冒牌货骗 我只是好玩顺手分享一下知识 要看来X上看",
+        "id": "1752729743471132672",
+        "location": "Kota Medan, Sumatera Utara",
+        "name": "yamato23",
+        "pinned_tweet_id": "1898990255073837408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796802887827566592/OMLV2oJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23121,
+          "following_count": 326,
+          "like_count": 16591,
+          "listed_count": 336,
+          "media_count": 1061,
+          "tweet_count": 18011
+        },
+        "username": "yamato812536",
+        "verified": true
+      }
+    ]
+  }
+}

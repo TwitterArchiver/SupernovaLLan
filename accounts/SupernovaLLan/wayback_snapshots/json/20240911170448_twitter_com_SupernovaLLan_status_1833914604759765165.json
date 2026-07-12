@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1833832854230646877",
+    "created_at": "2024-09-11T17:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T18:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833914604759765165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1403925421033508866",
+          "start": 0,
+          "username": "persia0113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833914604759765165",
+    "in_reply_to_user_id": "1403925421033508866",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833832854230646877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@persia0113 你说说这，整天压力你干啥🙂‍↔️要是我可真就眼不见为净了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1833832854230646877",
+        "created_at": "2024-09-11T17:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T18:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833914604759765165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1403925421033508866",
+              "start": 0,
+              "username": "persia0113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833914604759765165",
+        "in_reply_to_user_id": "1403925421033508866",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833832854230646877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@persia0113 你说说这，整天压力你干啥🙂‍↔️要是我可真就眼不见为净了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833832845082861568"
+          ]
+        },
+        "author_id": "1403925421033508866",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1833832854230646877",
+        "created_at": "2024-09-11T11:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T12:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833832854230646877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/389wsu6jah",
+              "end": 34,
+              "expanded_url": "https://twitter.com/persia0113/status/1833832854230646877/photo/1",
+              "media_key": "3_1833832845082861568",
+              "start": 11,
+              "url": "https://t.co/389wSU6jah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833832854230646877",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1785,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就不该分享烤鸭的事 https://t.co/389wSU6jah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 443,
+          "like_count": 20871,
+          "listed_count": 2,
+          "tweet_count": 8090
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-13T04:01:27.000Z",
+        "description": "🇨🇳上海人/学生\n【推LL莲团星团/学日语/线上下双废物/逆天/网癌患者/不善人际望大家天天开心/可爱万岁】【你推🤡】【ラブライブ!蓮ノ空女学院スクールアイドルクラブとLiella!推し/日本語勉強中/アホ(本物)/人付き合いが下手です、皆さん毎日楽しんでほしい/可愛い万歳】\n小号/サブ垢@persia0104",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 145,
+                "username": "persia0104"
+              }
+            ]
+          }
+        },
+        "id": "1403925421033508866",
+        "location": "自己的一条起始已久的不知名、不知未来、不知结果的小路上",
+        "name": "梅斐斯特",
+        "pinned_tweet_id": "1638869624950489090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797645285239517185/6_BdVYH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 1395,
+          "like_count": 54523,
+          "listed_count": 1,
+          "tweet_count": 18652
+        },
+        "username": "persia0113",
+        "verified": false
+      }
+    ]
+  }
+}

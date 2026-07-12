@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1863258651420729380",
+    "created_at": "2024-12-01T16:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T17:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863258651420729380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ictyep/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ictyep/status/1863204284969672727",
+          "start": 11,
+          "url": "https://t.co/PALIoJ0p3j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863258651420729380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863204284969672727",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Xenon氙🙂‍↔️ https://t.co/PALIoJ0p3j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1863258651420729380",
+        "created_at": "2024-12-01T16:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T17:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863258651420729380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ictyep/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ictyep/status/1863204284969672727",
+              "start": 11,
+              "url": "https://t.co/PALIoJ0p3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863258651420729380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863204284969672727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Xenon氙🙂‍↔️ https://t.co/PALIoJ0p3j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863204282646118401"
+          ]
+        },
+        "author_id": "1575956145159622656",
+        "conversation_id": "1863204284969672727",
+        "created_at": "2024-12-01T12:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T13:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863204284969672727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhUTamXlsP",
+              "end": 31,
+              "expanded_url": "https://x.com/IctyeP/status/1863204284969672727/photo/1",
+              "media_key": "3_1863204282646118401",
+              "start": 8,
+              "url": "https://t.co/JhUTamXlsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863204284969672727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10661,
+          "like_count": 114,
+          "quote_count": 8,
+          "reply_count": 156,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地狱难度😈😈😈 https://t.co/JhUTamXlsP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 485,
+          "like_count": 22240,
+          "listed_count": 2,
+          "media_count": 984,
+          "tweet_count": 8953
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T21:10:17.000Z",
+        "description": "Chinese girl，personal vturber，AI painting，playing rythem games and shoot 'em up games，No politics，INFP-T，usually use name ictye（楚天寻箫）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "northgreen.github.io",
+                "end": 23,
+                "expanded_url": "http://northgreen.github.io",
+                "start": 0,
+                "url": "https://t.co/DrNq6ZHnHf"
+              }
+            ]
+          }
+        },
+        "id": "1575956145159622656",
+        "location": "Gensokyo",
+        "name": "键珊雏",
+        "pinned_tweet_id": "1798748784647893259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858377025775665152/ZpVDmIY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 1051,
+          "like_count": 12176,
+          "listed_count": 5,
+          "media_count": 829,
+          "tweet_count": 6592
+        },
+        "url": "https://t.co/DrNq6ZHnHf",
+        "username": "IctyeP",
+        "verified": false
+      }
+    ]
+  }
+}

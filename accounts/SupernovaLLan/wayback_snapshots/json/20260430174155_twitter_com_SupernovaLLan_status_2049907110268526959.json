@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049844573845987328"
+      ],
+      "media_source_tweet_id": [
+        "2049844579600634365"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2049907110268526959",
+    "created_at": "2026-04-30T17:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049907110268526959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1258032566801555458",
+          "start": 3,
+          "username": "minima_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t02vgpe0d0",
+          "end": 48,
+          "expanded_url": "https://x.com/minima_ai/status/2049844579600634365/photo/1",
+          "media_key": "3_2049844573845987328",
+          "start": 25,
+          "url": "https://t.co/t02vgpe0d0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049907110268526959",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049844579600634365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minima_ai: REFERENCE https://t.co/t02vgpe0d0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_2049844573845987328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKCx4TaIAAUXuC.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049844573845987328"
+          ],
+          "media_source_tweet_id": [
+            "2049844579600634365"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2049907110268526959",
+        "created_at": "2026-04-30T17:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049907110268526959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1258032566801555458",
+              "start": 3,
+              "username": "minima_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t02vgpe0d0",
+              "end": 48,
+              "expanded_url": "https://x.com/minima_ai/status/2049844579600634365/photo/1",
+              "media_key": "3_2049844573845987328",
+              "start": 25,
+              "url": "https://t.co/t02vgpe0d0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049907110268526959",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049844579600634365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minima_ai: REFERENCE https://t.co/t02vgpe0d0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049844573845987328"
+          ]
+        },
+        "author_id": "1258032566801555458",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2049844579600634365",
+        "created_at": "2026-04-30T13:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049844579600634365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t02vgpe0d0",
+              "end": 33,
+              "expanded_url": "https://x.com/minima_ai/status/2049844579600634365/photo/1",
+              "media_key": "3_2049844573845987328",
+              "start": 10,
+              "url": "https://t.co/t02vgpe0d0"
+            },
+            {
+              "display_url": "x.com/minima_ai/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/minima_ai/status/2049710710100574701",
+              "start": 34,
+              "url": "https://t.co/pXkd5m4lLI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049844579600634365",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 447,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049710710100574701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "REFERENCE https://t.co/t02vgpe0d0 https://t.co/pXkd5m4lLI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 542,
+          "like_count": 24687,
+          "listed_count": 2,
+          "media_count": 1119,
+          "tweet_count": 10302
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T13:55:20.000Z",
+        "description": "| 過去 | Experimental Composer (1i '11-'19) → https://t.co/RWjUhiGDhJ\n| 現在 | AIイラスト + Music + Video + AICording",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "1imusic.bandcamp.com",
+                "end": 67,
+                "expanded_url": "https://1imusic.bandcamp.com/",
+                "start": 44,
+                "url": "https://t.co/RWjUhiGDhJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minimas.notion.site/MINIMA-Portfol…",
+                "end": 23,
+                "expanded_url": "https://minimas.notion.site/MINIMA-Portfolio-2a4a94aab829802997b5efc9eec83531",
+                "start": 0,
+                "url": "https://t.co/cyyvEQuIex"
+              }
+            ]
+          }
+        },
+        "id": "1258032566801555458",
+        "location": "高知県",
+        "name": "MINIMA",
+        "pinned_tweet_id": "2047604447749284195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963906184802693120/xqXllyV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11897,
+          "following_count": 919,
+          "like_count": 28832,
+          "listed_count": 91,
+          "media_count": 3362,
+          "tweet_count": 5944
+        },
+        "url": "https://t.co/cyyvEQuIex",
+        "username": "minima_ai",
+        "verified": true
+      }
+    ]
+  }
+}

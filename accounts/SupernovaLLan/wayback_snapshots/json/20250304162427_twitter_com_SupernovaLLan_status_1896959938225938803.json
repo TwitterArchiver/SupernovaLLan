@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1896959938225938803",
+    "created_at": "2025-03-04T16:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T17:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896959938225938803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/supernovallan/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/supernovallan/status/1896881588253987020",
+          "start": 15,
+          "url": "https://t.co/9OeBNaw9kM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896959938225938803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896881588253987020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的是崩溃啦！（茄子尖叫） https://t.co/9OeBNaw9kM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1896959938225938803",
+        "created_at": "2025-03-04T16:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T17:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896959938225938803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/supernovallan/status/1896881588253987020",
+              "start": 15,
+              "url": "https://t.co/9OeBNaw9kM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896959938225938803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896881588253987020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的是崩溃啦！（茄子尖叫） https://t.co/9OeBNaw9kM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1896881588253987020",
+        "created_at": "2025-03-04T11:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T12:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896881588253987020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/supernovallan/status/1896617873260593606",
+              "start": 15,
+              "url": "https://t.co/62V1lQsAKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896881588253987020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896617873260593606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的是崩溃啦！（茄子尖叫） https://t.co/62V1lQsAKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 524,
+          "like_count": 23598,
+          "listed_count": 2,
+          "media_count": 1024,
+          "tweet_count": 9401
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

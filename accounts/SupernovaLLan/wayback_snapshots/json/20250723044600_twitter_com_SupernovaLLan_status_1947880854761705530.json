@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1947880854761705530",
+    "created_at": "2025-07-23T04:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T05:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947880854761705530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tea_beta4/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/tea_beta4/status/1947191775606792675",
+          "start": 33,
+          "url": "https://t.co/9CS9IL1MlZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947880854761705530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947191775606792675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起来小学提问理想的时候我回答长大想当恐怖分子）这下要理想成真了 https://t.co/9CS9IL1MlZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 615,
+        "media_key": "3_1947191766957850624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXQmGsWgAAZyd4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 601,
+        "media_key": "3_1947191773303816192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXQmeVWQAALoxx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1947880854761705530",
+        "created_at": "2025-07-23T04:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T05:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947880854761705530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tea_beta4/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/tea_beta4/status/1947191775606792675",
+              "start": 33,
+              "url": "https://t.co/9CS9IL1MlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947880854761705530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947191775606792675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来小学提问理想的时候我回答长大想当恐怖分子）这下要理想成真了 https://t.co/9CS9IL1MlZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947191766957850624",
+            "3_1947191773303816192"
+          ]
+        },
+        "author_id": "1567894869707825158",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947191775606792675",
+        "created_at": "2025-07-21T07:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T08:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947191775606792675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6pbkA8KI2",
+              "end": 25,
+              "expanded_url": "https://x.com/TEA_beta4/status/1947191775606792675/photo/1",
+              "media_key": "3_1947191766957850624",
+              "start": 2,
+              "url": "https://t.co/Y6pbkA8KI2"
+            },
+            {
+              "display_url": "pic.x.com/Y6pbkA8KI2",
+              "end": 25,
+              "expanded_url": "https://x.com/TEA_beta4/status/1947191775606792675/photo/1",
+              "media_key": "3_1947191773303816192",
+              "start": 2,
+              "url": "https://t.co/Y6pbkA8KI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947191775606792675",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 231938,
+          "like_count": 1889,
+          "quote_count": 29,
+          "reply_count": 101,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "😄 https://t.co/Y6pbkA8KI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 549,
+          "like_count": 24820,
+          "listed_count": 2,
+          "media_count": 1065,
+          "tweet_count": 9749
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T15:17:33.000Z",
+        "description": "DLC",
+        "id": "1567894869707825158",
+        "name": "T-Alpha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945149030667051009/fPFRr6L4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 810,
+          "like_count": 3646,
+          "listed_count": 7,
+          "media_count": 780,
+          "tweet_count": 8051
+        },
+        "username": "TEA_beta4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2061741979164176407",
+    "created_at": "2026-06-02T10:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061755686892294462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061755686892294462",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061741979164176407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 面白い"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2134,
+        "media_key": "3_2061741975032803328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzHZxhXsAA10dI.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2061741975041130496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzHZxjWwAA26a4.jpg",
+        "width": 2134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2061741979164176407",
+        "created_at": "2026-06-02T10:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061755686892294462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061755686892294462",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061741979164176407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 面白い"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061741975032803328",
+            "3_2061741975041130496"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2061741979164176407",
+        "created_at": "2026-06-02T09:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061741979164176407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Shl0S5EIr2",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/2061741979164176407/photo/1",
+              "media_key": "3_2061741975032803328",
+              "start": 5,
+              "url": "https://t.co/Shl0S5EIr2"
+            },
+            {
+              "display_url": "pic.x.com/Shl0S5EIr2",
+              "end": 28,
+              "expanded_url": "https://x.com/Aloevce/status/2061741979164176407/photo/1",
+              "media_key": "3_2061741975041130496",
+              "start": 5,
+              "url": "https://t.co/Shl0S5EIr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061741979164176407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "急头白脸 https://t.co/Shl0S5EIr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 585,
+          "like_count": 26210,
+          "listed_count": 2,
+          "media_count": 1167,
+          "tweet_count": 10926
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2056416560131293187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056492489151066112/QqCOsSSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18157,
+          "following_count": 1972,
+          "like_count": 56196,
+          "listed_count": 24,
+          "media_count": 6766,
+          "tweet_count": 23835
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

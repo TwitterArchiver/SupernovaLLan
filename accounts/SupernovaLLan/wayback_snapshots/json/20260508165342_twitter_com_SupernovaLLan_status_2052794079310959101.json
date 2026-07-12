@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2052794079310959101",
+    "created_at": "2026-05-08T16:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052794079310959101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/482xxnay/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/482xxnay/status/2052774374865006816",
+          "start": 13,
+          "url": "https://t.co/dmNXUS8qgV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052794079310959101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052774374865006816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开业开业——欢迎光临—— https://t.co/dmNXUS8qgV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052774324189450240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzrXy1a0AAnh66.jpg",
+        "width": 945
+      },
+      {
+        "height": 1463,
+        "media_key": "3_2052774324369825792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzrXzgbIAAgtFL.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1546,
+        "media_key": "3_2052774324176912384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzrXyybgAA0qcZ.jpg",
+        "width": 798
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2052774324172693504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzrXyxbIAAvDHG.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2052794079310959101",
+        "created_at": "2026-05-08T16:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052794079310959101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/482xxnay/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/482xxnay/status/2052774374865006816",
+              "start": 13,
+              "url": "https://t.co/dmNXUS8qgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052794079310959101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052774374865006816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开业开业——欢迎光临—— https://t.co/dmNXUS8qgV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052774324189450240",
+            "3_2052774324369825792",
+            "3_2052774324176912384",
+            "3_2052774324172693504"
+          ]
+        },
+        "author_id": "1632832954421633029",
+        "conversation_id": "2052774374865006816",
+        "created_at": "2026-05-08T15:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052774374865006816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1452123941686976519",
+              "start": 2,
+              "username": "C21Koy_7c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TUYhDSTgh",
+              "end": 146,
+              "expanded_url": "https://x.com/482xxnay/status/2052774374865006816/photo/1",
+              "media_key": "3_2052774324189450240",
+              "start": 123,
+              "url": "https://t.co/5TUYhDSTgh"
+            },
+            {
+              "display_url": "pic.x.com/5TUYhDSTgh",
+              "end": 146,
+              "expanded_url": "https://x.com/482xxnay/status/2052774374865006816/photo/1",
+              "media_key": "3_2052774324369825792",
+              "start": 123,
+              "url": "https://t.co/5TUYhDSTgh"
+            },
+            {
+              "display_url": "pic.x.com/5TUYhDSTgh",
+              "end": 146,
+              "expanded_url": "https://x.com/482xxnay/status/2052774374865006816/photo/1",
+              "media_key": "3_2052774324176912384",
+              "start": 123,
+              "url": "https://t.co/5TUYhDSTgh"
+            },
+            {
+              "display_url": "pic.x.com/5TUYhDSTgh",
+              "end": 146,
+              "expanded_url": "https://x.com/482xxnay/status/2052774374865006816/photo/1",
+              "media_key": "3_2052774324172693504",
+              "start": 123,
+              "url": "https://t.co/5TUYhDSTgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052774374865006816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号@C21Koy_7c \n做做电子烟以后会做海外代购什么的\n只是想补贴不给家里人添麻烦\n有问题私信 客返大欢迎 明天开始营业\nNay被肉鸦制喜欢大家  两件包邮💖\n是小树原来的厂家\n爱你们(´-ω-`)\n活动我发大号\n但是请你们赞转评这个哦🥺 https://t.co/5TUYhDSTgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 557,
+          "like_count": 25088,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10434
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck\n各类型一次性电子烟 烟弹 烟杆 锐克五六代杆子正品还有其他的杆子 冰熊 等 青海+10运费 禁发西藏/新疆/海南 库存消耗快 备注请填写主口味和备用口味 售后需要一口气的开箱视频不然没有视频拒绝守候 请拍摄第一次使用 每天18:30截单 如果可以请给我一些客返哦",
+        "id": "1632832954421633029",
+        "name": "im gay（yan的电子烟版）",
+        "pinned_tweet_id": "1885325834648764926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 459,
+          "like_count": 3719,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 4089
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2058976687434670180",
+    "created_at": "2026-05-25T18:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058976687434670180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/giantcutie666/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/giantcutie666/status/2058927509006078094",
+          "start": 2,
+          "url": "https://t.co/FZ8EqWGs4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058976687434670180",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058927509006078094",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😅 https://t.co/FZ8EqWGs4E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 563,
+        "media_key": "3_2058927506992848896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLHqLCW4AAChIU.jpg",
+        "width": 1267
+      },
+      {
+        "height": 382,
+        "media_key": "3_2058927507311648768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLHqMOXYAAMCEc.jpg",
+        "width": 523
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2058976687434670180",
+        "created_at": "2026-05-25T18:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058976687434670180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/giantcutie666/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/giantcutie666/status/2058927509006078094",
+              "start": 2,
+              "url": "https://t.co/FZ8EqWGs4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058976687434670180",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058927509006078094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😅 https://t.co/FZ8EqWGs4E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058927506992848896",
+            "3_2058927507311648768"
+          ]
+        },
+        "author_id": "1456122926432862223",
+        "conversation_id": "2058927509006078094",
+        "created_at": "2026-05-25T15:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058927509006078094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwf19b9UAG",
+              "end": 173,
+              "expanded_url": "https://x.com/giantcutie666/status/2058927509006078094/photo/1",
+              "media_key": "3_2058927506992848896",
+              "start": 150,
+              "url": "https://t.co/dwf19b9UAG"
+            },
+            {
+              "display_url": "pic.x.com/dwf19b9UAG",
+              "end": 173,
+              "expanded_url": "https://x.com/giantcutie666/status/2058927509006078094/photo/1",
+              "media_key": "3_2058927507311648768",
+              "start": 150,
+              "url": "https://t.co/dwf19b9UAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058927509006078094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 105678,
+          "like_count": 337,
+          "quote_count": 6,
+          "reply_count": 65,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "张尧学院士被开除了😅\n\n2015年1月，国家科学技术奖励大会上，空缺了整整9年的国家自然科学奖一等奖，被张尧学团队的\"透明计算\"摘得。\n\n习近平等党和国家领导人出席并为获奖代表颁奖。\n\n但这个被广泛报道为\"颠覆冯·诺依曼结构\"的\"透明计算\"理论，实际上就是\"云计算\"，毫无创新，而且代码还是抄的😅。 https://t.co/dwf19b9UAG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 584,
+          "like_count": 25895,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 10801
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T04:55:47.000Z",
+        "description": "CLabs 创始人|历经两轮牛熊| TG群：https://t.co/MWphcCTLCk，视频号搜索“亮子财经”，商务合作：https://t.co/pSuhrQgmkj ，交易账号：@giantcutie777 土狗交易：@GiantCutie888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "giantcutie777"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "GiantCutie888"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/giantcutie6688",
+                "end": 45,
+                "expanded_url": "https://t.me/giantcutie6688",
+                "start": 22,
+                "url": "https://t.co/MWphcCTLCk"
+              },
+              {
+                "display_url": "t.me/clabskoala1900",
+                "end": 86,
+                "expanded_url": "https://t.me/clabskoala1900",
+                "start": 63,
+                "url": "https://t.co/pSuhrQgmkj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GiantCutie-CH",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@GiantCutie-CH",
+                "start": 0,
+                "url": "https://t.co/WCLhfZDD0e"
+              }
+            ]
+          }
+        },
+        "id": "1456122926432862223",
+        "name": "大漂亮| C Labs",
+        "pinned_tweet_id": "1716448495811674381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550390972714029056/gf_BBRIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118637,
+          "following_count": 1423,
+          "like_count": 12297,
+          "listed_count": 876,
+          "media_count": 2231,
+          "tweet_count": 14616
+        },
+        "url": "https://t.co/WCLhfZDD0e",
+        "username": "giantcutie666",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1956734820870197588",
+    "created_at": "2025-08-17T15:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T16:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957101394525077694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821916949456285696",
+          "start": 0,
+          "username": "x4n1m0s1t1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957101394525077694",
+    "in_reply_to_user_id": "1821916949456285696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956734820870197588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x4n1m0s1t1x 这就是为什么吃大部分抗抑郁药物提高自杀风险）重抑真的是连去死的动力都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1956734820870197588",
+        "created_at": "2025-08-17T15:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T16:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957101394525077694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821916949456285696",
+              "start": 0,
+              "username": "x4n1m0s1t1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957101394525077694",
+        "in_reply_to_user_id": "1821916949456285696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956734820870197588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x4n1m0s1t1x 这就是为什么吃大部分抗抑郁药物提高自杀风险）重抑真的是连去死的动力都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821916949456285696",
+        "conversation_id": "1956734820870197588",
+        "created_at": "2025-08-16T15:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956734820870197588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956734820870197588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来打算周一就去死的连绳子都买了突然就失去那种狂热了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 549,
+          "like_count": 24753,
+          "listed_count": 2,
+          "media_count": 1072,
+          "tweet_count": 9788
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T14:30:40.000Z",
+        "description": "アポフェニア",
+        "id": "1821916949456285696",
+        "name": "笑（）笑",
+        "pinned_tweet_id": "1956362527689810126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874397717172199424/RdJ9o43B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 75,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 659
+        },
+        "username": "x4n1m0s1t1x",
+        "verified": false
+      }
+    ]
+  }
+}

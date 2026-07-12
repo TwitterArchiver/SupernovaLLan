@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861394266083471360",
+        "3_1861394266079272965"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1861394280918721002",
+    "created_at": "2024-11-26T12:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T13:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861394280918721002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yWwcSxYTeV",
+          "end": 64,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1861394280918721002/photo/1",
+          "media_key": "3_1861394266083471360",
+          "start": 41,
+          "url": "https://t.co/yWwcSxYTeV"
+        },
+        {
+          "display_url": "pic.x.com/yWwcSxYTeV",
+          "end": 64,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1861394280918721002/photo/1",
+          "media_key": "3_1861394266079272965",
+          "start": 41,
+          "url": "https://t.co/yWwcSxYTeV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861394280918721002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "荒谬的旅行：乘坐硬座8小时凌晨三点抵达长沙，吃了碗猪油拌粉然后原路返回了\n纯癫子 https://t.co/yWwcSxYTeV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1861394280918721002].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1861394280918721002",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1861394280918721002"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861394266083471360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdUAORDasAA5q2s.jpg",
+        "width": 1536
+      },
+      {
+        "height": 945,
+        "media_key": "3_1861394266079272965",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdUAORCaoAUMaad.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 475,
+          "like_count": 22114,
+          "listed_count": 2,
+          "tweet_count": 8884
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1851520976472940939",
+    "created_at": "2024-10-30T07:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T08:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1851520976472940939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youhaveagift/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/youhaveagift/status/1851300165040451944",
+          "start": 15,
+          "url": "https://t.co/xuiTAuUqxf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851520976472940939",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851300165040451944",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不神经病开法我都要犯强迫症了 https://t.co/xuiTAuUqxf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1851520976472940939",
+        "created_at": "2024-10-30T07:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T08:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851520976472940939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youhaveagift/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/youhaveagift/status/1851300165040451944",
+              "start": 15,
+              "url": "https://t.co/xuiTAuUqxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851520976472940939",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851300165040451944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不神经病开法我都要犯强迫症了 https://t.co/xuiTAuUqxf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851300150368776192"
+          ]
+        },
+        "author_id": "2382210504",
+        "conversation_id": "1851300165040451944",
+        "created_at": "2024-10-29T16:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T17:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851300165040451944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/faMOfPn5gP",
+              "end": 30,
+              "expanded_url": "https://x.com/youhaveagift/status/1851300165040451944/photo/1",
+              "media_key": "3_1851300150368776192",
+              "start": 7,
+              "url": "https://t.co/faMOfPn5gP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851300165040451944",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 167156,
+          "like_count": 3047,
+          "quote_count": 65,
+          "reply_count": 4,
+          "retweet_count": 189
+        },
+        "reply_settings": "following",
+        "text": "好瘋好喜歡😍 https://t.co/faMOfPn5gP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 467,
+          "like_count": 21639,
+          "listed_count": 2,
+          "tweet_count": 8628
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-10T14:19:47.000Z",
+        "description": "慵懶人格，喜歡耍廢，發廢推。",
+        "id": "2382210504",
+        "location": "台灣",
+        "name": "🍌θωθ蛋破崙θωθ🍌",
+        "pinned_tweet_id": "1400781686112092162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850526000993734656/Mc1QjzHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12534,
+          "following_count": 13777,
+          "like_count": 159078,
+          "listed_count": 66,
+          "tweet_count": 123239
+        },
+        "username": "youhaveagift",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2045170982202307041",
+    "created_at": "2026-04-17T16:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045170982202307041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nnnullptr/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/nnnullptr/status/2045106540416561656",
+          "start": 31,
+          "url": "https://t.co/nwW8FtdVIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045170982202307041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045106540416561656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "包括小南做的个人博客站都是中古番萌萌风格的！欢迎大家来欣赏哇 https://t.co/nwW8FtdVIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19736,
+        "height": 720,
+        "media_key": "7_2045106514487349248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045106514487349248/pu/img/3BfMp7uMl2ZXdOBl.jpg",
+        "public_metrics": {
+          "view_count": 76
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045106514487349248/pu/vid/avc1/432x270/vDIUy80D0doZtyEB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045106514487349248/pu/vid/avc1/576x360/MpXPdxxh7COELovT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045106514487349248/pu/vid/avc1/1152x720/OQz2YSjmWPUc_D7v.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045106514487349248/pu/pl/rh_BLhfK6w_L28VT.m3u8?tag=12"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2045170982202307041",
+        "created_at": "2026-04-17T16:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045170982202307041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nnnullptr/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/nnnullptr/status/2045106540416561656",
+              "start": 31,
+              "url": "https://t.co/nwW8FtdVIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045170982202307041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045106540416561656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "包括小南做的个人博客站都是中古番萌萌风格的！欢迎大家来欣赏哇 https://t.co/nwW8FtdVIn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045106514487349248"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "2045106540416561656",
+        "created_at": "2026-04-17T11:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045106540416561656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3SllaoWHm7",
+              "end": 88,
+              "expanded_url": "https://x.com/NNNullptr/status/2045106540416561656/video/1",
+              "media_key": "7_2045106514487349248",
+              "start": 65,
+              "url": "https://t.co/3SllaoWHm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045106540416561656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1956,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个我正在做的开源纯前端网页，纯step1vibe产物，其实是接了推广我才做这个的，没想到我小红书才一百出头粉居然也能接到广 https://t.co/3SllaoWHm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 522,
+          "like_count": 24330,
+          "listed_count": 2,
+          "media_count": 1106,
+          "tweet_count": 10137
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 133,
+          "like_count": 4894,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

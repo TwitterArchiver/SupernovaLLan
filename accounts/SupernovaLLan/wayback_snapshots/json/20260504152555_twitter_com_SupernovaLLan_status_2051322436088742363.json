@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051139986037284864"
+      ],
+      "media_source_tweet_id": [
+        "2051139991888449679"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2051322436088742363",
+    "created_at": "2026-05-04T15:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051322436088742363"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 12,
+          "tag": "さよなら絶望先生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2050847027186294784",
+          "start": 3,
+          "username": "Nkud_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ak35vpxH9z",
+          "end": 45,
+          "expanded_url": "https://x.com/Nkud_n/status/2051139991888449679/photo/1",
+          "media_key": "3_2051139986037284864",
+          "start": 22,
+          "url": "https://t.co/ak35vpxH9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051322436088742363",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051139991888449679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nkud_n: #さよなら絶望先生 https://t.co/ak35vpxH9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051139986037284864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcc8yxaIAAhI1y.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051139986037284864"
+          ],
+          "media_source_tweet_id": [
+            "2051139991888449679"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2051322436088742363",
+        "created_at": "2026-05-04T15:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051322436088742363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2050847027186294784",
+              "start": 3,
+              "username": "Nkud_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ak35vpxH9z",
+              "end": 45,
+              "expanded_url": "https://x.com/Nkud_n/status/2051139991888449679/photo/1",
+              "media_key": "3_2051139986037284864",
+              "start": 22,
+              "url": "https://t.co/ak35vpxH9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051322436088742363",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051139991888449679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nkud_n: #さよなら絶望先生 https://t.co/ak35vpxH9z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051139986037284864"
+          ]
+        },
+        "author_id": "2050847027186294784",
+        "conversation_id": "2051139991888449679",
+        "created_at": "2026-05-04T03:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051139991888449679"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "さよなら絶望先生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ak35vpxH9z",
+              "end": 33,
+              "expanded_url": "https://x.com/Nkud_n/status/2051139991888449679/photo/1",
+              "media_key": "3_2051139986037284864",
+              "start": 10,
+              "url": "https://t.co/ak35vpxH9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051139991888449679",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 4697,
+          "like_count": 434,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "#さよなら絶望先生 https://t.co/ak35vpxH9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra  ¿提问？↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 547,
+          "like_count": 24863,
+          "listed_count": 2,
+          "media_count": 1125,
+          "tweet_count": 10365
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T07:58:23.000Z",
+        "description": "メイン▶︎@TwinTail1011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "TwinTail1011"
+              }
+            ]
+          }
+        },
+        "id": "2050847027186294784",
+        "name": "nekou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050848789716770816/CgCSQsJi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "Nkud_n",
+        "verified": false
+      }
+    ]
+  }
+}

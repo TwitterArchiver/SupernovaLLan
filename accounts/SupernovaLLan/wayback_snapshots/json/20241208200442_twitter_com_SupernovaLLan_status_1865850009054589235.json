@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865761729961218048"
+      ],
+      "media_source_tweet_id": [
+        "1865761735459897719"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1865850009054589235",
+    "created_at": "2024-12-08T20:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T21:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865850009054589235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1635981138308268038",
+          "start": 3,
+          "username": "aazsxx2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S09B1sxVIr",
+          "end": 39,
+          "expanded_url": "https://x.com/aazsxx2/status/1865761735459897719/photo/1",
+          "media_key": "3_1865761729961218048",
+          "start": 16,
+          "url": "https://t.co/S09B1sxVIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865850009054589235",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 305
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865761735459897719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aazsxx2: ⚙️ https://t.co/S09B1sxVIr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1865761729961218048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeSEaH3bUAAZQrk.jpg",
+        "width": 1462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865761729961218048"
+          ],
+          "media_source_tweet_id": [
+            "1865761735459897719"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1865850009054589235",
+        "created_at": "2024-12-08T20:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T21:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865850009054589235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1635981138308268038",
+              "start": 3,
+              "username": "aazsxx2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S09B1sxVIr",
+              "end": 39,
+              "expanded_url": "https://x.com/aazsxx2/status/1865761735459897719/photo/1",
+              "media_key": "3_1865761729961218048",
+              "start": 16,
+              "url": "https://t.co/S09B1sxVIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865850009054589235",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 305
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865761735459897719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aazsxx2: ⚙️ https://t.co/S09B1sxVIr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865761729961218048"
+          ]
+        },
+        "author_id": "1635981138308268038",
+        "conversation_id": "1865761735459897719",
+        "created_at": "2024-12-08T14:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T15:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865761735459897719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S09B1sxVIr",
+              "end": 26,
+              "expanded_url": "https://x.com/aazsxx2/status/1865761735459897719/photo/1",
+              "media_key": "3_1865761729961218048",
+              "start": 3,
+              "url": "https://t.co/S09B1sxVIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865761735459897719",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 398,
+          "impression_count": 51359,
+          "like_count": 4386,
+          "quote_count": 19,
+          "reply_count": 63,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "⚙️ https://t.co/S09B1sxVIr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 487,
+          "like_count": 22330,
+          "listed_count": 2,
+          "media_count": 996,
+          "tweet_count": 9060
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T12:28:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aazsxx2.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://aazsxx2.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/puDSfsr5Pd"
+              }
+            ]
+          }
+        },
+        "id": "1635981138308268038",
+        "name": "Dal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636627826286931968/hwrQN9_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213456,
+          "following_count": 1,
+          "like_count": 16637,
+          "listed_count": 657,
+          "media_count": 59,
+          "tweet_count": 1165
+        },
+        "url": "https://t.co/puDSfsr5Pd",
+        "username": "aazsxx2",
+        "verified": true
+      }
+    ]
+  }
+}

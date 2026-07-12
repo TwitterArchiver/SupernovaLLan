@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2064012773970100481",
+    "created_at": "2026-06-09T17:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064399927044980812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        },
+        {
+          "end": 25,
+          "id": "1518404201168007168",
+          "start": 11,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064399927044980812",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064018492123496581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 @godspeedyou50 尿检那就是送去打色谱质谱了，纯的3MePCP打出来的特征子离子m/z是258→214、173、86，几种代谢产物打出来是189、173、102等等\n查替来他明肯定也要查代谢物去乙基替来他明，替来他明定量离子对224→179，去乙是196→151，\n\npo主说吃了3MePCP后尿检替来阳就是那策划药有问题加了替来，人家也没吃飘飘糖呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064012773970100481",
+        "created_at": "2026-06-09T17:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064399927044980812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            },
+            {
+              "end": 25,
+              "id": "1518404201168007168",
+              "start": 11,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064399927044980812",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064018492123496581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 @godspeedyou50 尿检那就是送去打色谱质谱了，纯的3MePCP打出来的特征子离子m/z是258→214、173、86，几种代谢产物打出来是189、173、102等等\n查替来他明肯定也要查代谢物去乙基替来他明，替来他明定量离子对224→179，去乙是196→151，\n\npo主说吃了3MePCP后尿检替来阳就是那策划药有问题加了替来，人家也没吃飘飘糖呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698345259661418499",
+        "conversation_id": "2064012773970100481",
+        "created_at": "2026-06-08T16:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064018492123496581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064018492123496581",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064012773970100481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 就事论事 我不知道情况真假，只是按他的案情自诉分析的 法律救济人人平等 谁问我都答 而且都说是可能 至于他检出是真是假，我没有下定论 自行分辨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 601,
+          "like_count": 26507,
+          "listed_count": 2,
+          "media_count": 1178,
+          "tweet_count": 11000
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/bSdjZJqBFw 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 72,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 0,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "pinned_tweet_id": "2060360180823728358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 395,
+          "like_count": 1236,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/bSdjZJqBFw",
+        "username": "zyj156383",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 312,
+          "like_count": 1129,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2587
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

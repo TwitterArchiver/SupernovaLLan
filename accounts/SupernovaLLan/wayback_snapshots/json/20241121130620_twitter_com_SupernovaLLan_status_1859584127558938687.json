@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859584113768005633"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1859043970388828547",
+    "created_at": "2024-11-21T13:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T14:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859584127558938687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1363804005583888386",
+          "start": 0,
+          "username": "gasuiyuno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UvADKgiVEh",
+          "end": 34,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1859584127558938687/photo/1",
+          "media_key": "3_1859584113768005633",
+          "start": 11,
+          "url": "https://t.co/UvADKgiVEh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859584127558938687",
+    "in_reply_to_user_id": "1363804005583888386",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859043970388828547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gasuiyuno https://t.co/UvADKgiVEh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1859584127558938687].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1859584127558938687",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1859584127558938687"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1859584113768005633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc6R5iMaAAEhAzM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859043961811484672"
+          ]
+        },
+        "author_id": "1363804005583888386",
+        "conversation_id": "1859043970388828547",
+        "created_at": "2024-11-20T01:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T02:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859043970388828547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jacgIKQYld",
+              "end": 38,
+              "expanded_url": "https://x.com/gasuiyuno/status/1859043970388828547/photo/1",
+              "media_key": "3_1859043961811484672",
+              "start": 15,
+              "url": "https://t.co/jacgIKQYld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859043970388828547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这种小狗不痴笑也是神人了 https://t.co/jacgIKQYld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 470,
+          "like_count": 22067,
+          "listed_count": 2,
+          "tweet_count": 8842
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T10:53:16.000Z",
+        "description": "......呜.......\n‖双相|精神疾病|目前饲养两只咪物一只汪物|♂|05-_-||这是我的日记|互关欢迎|od会发疯|我不想草你.‖🚪25RMB 附赠半个我的右耳 ‖我点赞比较少但我一直看着你们👁️",
+        "id": "1363804005583888386",
+        "location": "卢伦贝格",
+        "name": "✟里森堡卢伦贝格精神病保护协会✟",
+        "pinned_tweet_id": "1760344867501482053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779770744685408256/RawVllkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 737,
+          "like_count": 8134,
+          "listed_count": 3,
+          "tweet_count": 9439
+        },
+        "username": "gasuiyuno",
+        "verified": false
+      }
+    ]
+  }
+}

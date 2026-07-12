@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963171021126795264"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1963171030295548137",
+    "created_at": "2025-09-03T09:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T10:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963171030295548137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8QUlMPbG4t",
+          "end": 72,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1963171030295548137/photo/1",
+          "media_key": "3_1963171021126795264",
+          "start": 49,
+          "url": "https://t.co/8QUlMPbG4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963171030295548137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别让我在西太平洋逮到你嗷……你们师徒三人面对我们师徒三人……F22都给你拽下来……福特都给你薅掉 https://t.co/8QUlMPbG4t"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963171030295548137].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963171030295548137",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963171030295548137"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_1963171021126795264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6VpHOagAAuTik.jpg",
+        "width": 620
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 547,
+          "like_count": 24825,
+          "listed_count": 2,
+          "media_count": 1079,
+          "tweet_count": 9842
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

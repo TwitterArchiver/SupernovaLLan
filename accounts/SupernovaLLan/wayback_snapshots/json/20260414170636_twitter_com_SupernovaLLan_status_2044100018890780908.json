@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2041407839512748331",
+    "created_at": "2026-04-14T17:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044100018890780908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015583135480811520",
+          "start": 0,
+          "username": "OvooLOO3o"
+        },
+        {
+          "end": 27,
+          "id": "1115068672098226176",
+          "start": 11,
+          "username": "uslO6TIZesf19C2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044100018890780908",
+    "in_reply_to_user_id": "2015583135480811520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043882992423317518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvooLOO3o @uslO6TIZesf19C2 对）先不谈其它的钱啊责任义务啊性啊什么的只有充沛的感情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2041407839512748331",
+        "created_at": "2026-04-14T17:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044100018890780908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015583135480811520",
+              "start": 0,
+              "username": "OvooLOO3o"
+            },
+            {
+              "end": 27,
+              "id": "1115068672098226176",
+              "start": 11,
+              "username": "uslO6TIZesf19C2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044100018890780908",
+        "in_reply_to_user_id": "2015583135480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043882992423317518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvooLOO3o @uslO6TIZesf19C2 对）先不谈其它的钱啊责任义务啊性啊什么的只有充沛的感情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015583135480811520",
+        "conversation_id": "2041407839512748331",
+        "created_at": "2026-04-14T02:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043882992423317518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1115068672098226176",
+              "start": 0,
+              "username": "uslO6TIZesf19C2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043882992423317518",
+        "in_reply_to_user_id": "1115068672098226176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043786920631972332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uslO6TIZesf19C2 谈恋爱如果只有爱和被爱就好了ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 520,
+          "like_count": 24249,
+          "listed_count": 2,
+          "media_count": 1104,
+          "tweet_count": 10112
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T00:30:52.000Z",
+        "description": "",
+        "id": "2015583135480811520",
+        "name": "Arabidopsis thaliana (L.) Heynh.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027671982087802885/O4MzddLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 535,
+          "like_count": 16203,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 4670
+        },
+        "username": "OvooLOO3o",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-08T01:47:43.000Z",
+        "description": "厌男，包括自己",
+        "id": "1115068672098226176",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "星野",
+        "pinned_tweet_id": "1848093076679721035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867429566207475712/NpCp6Ovr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1139,
+          "like_count": 13686,
+          "listed_count": 1,
+          "media_count": 581,
+          "tweet_count": 7109
+        },
+        "username": "uslO6TIZesf19C2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951053389548363777"
+      ],
+      "media_source_tweet_id": [
+        "1951053401636347977"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1951216346706100475",
+    "created_at": "2025-08-01T09:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T10:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951216346706100475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609501149748690944",
+          "start": 3,
+          "username": "sentakusound"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qAgpskDoAu",
+          "end": 58,
+          "expanded_url": "https://x.com/sentakusound/status/1951053401636347977/photo/1",
+          "media_key": "3_1951053389548363777",
+          "start": 35,
+          "url": "https://t.co/qAgpskDoAu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951216346706100475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951053401636347977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sentakusound: この翼は嬉しい、たが空を飛べない https://t.co/qAgpskDoAu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1951053389548363777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxOIuH3aIAED3B1.jpg",
+        "width": 2464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951053389548363777"
+          ],
+          "media_source_tweet_id": [
+            "1951053401636347977"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1951216346706100475",
+        "created_at": "2025-08-01T09:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T10:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951216346706100475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609501149748690944",
+              "start": 3,
+              "username": "sentakusound"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAgpskDoAu",
+              "end": 58,
+              "expanded_url": "https://x.com/sentakusound/status/1951053401636347977/photo/1",
+              "media_key": "3_1951053389548363777",
+              "start": 35,
+              "url": "https://t.co/qAgpskDoAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951216346706100475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951053401636347977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sentakusound: この翼は嬉しい、たが空を飛べない https://t.co/qAgpskDoAu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951053389548363777"
+          ]
+        },
+        "author_id": "1609501149748690944",
+        "conversation_id": "1951053401636347977",
+        "created_at": "2025-07-31T22:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T23:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951053401636347977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAgpskDoAu",
+              "end": 40,
+              "expanded_url": "https://x.com/sentakusound/status/1951053401636347977/photo/1",
+              "media_key": "3_1951053389548363777",
+              "start": 17,
+              "url": "https://t.co/qAgpskDoAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951053401636347977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 48486,
+          "like_count": 2338,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "この翼は嬉しい、たが空を飛べない https://t.co/qAgpskDoAu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 548,
+          "like_count": 24740,
+          "listed_count": 2,
+          "media_count": 1067,
+          "tweet_count": 9760
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T10:46:14.000Z",
+        "description": "AIイラストを投稿 | nijijourney術師 | 2023.01～ | AIイラスト展示「なんかいい展」主催 |  画像生成AIメイキングテクニックガイド 寄稿 | プロ契約AIクリエイター | \n音響効果 | サウンドデザイナー | ご依頼はDM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiart.hp.peraichi.com",
+                "end": 23,
+                "expanded_url": "https://aiart.hp.peraichi.com/",
+                "start": 0,
+                "url": "https://t.co/0sR4DGiP4h"
+              }
+            ]
+          }
+        },
+        "id": "1609501149748690944",
+        "name": "Sentaku(せんたく)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741983202229751808/SodbbJX-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64534,
+          "following_count": 1464,
+          "like_count": 43750,
+          "listed_count": 426,
+          "media_count": 3221,
+          "tweet_count": 16314
+        },
+        "url": "https://t.co/0sR4DGiP4h",
+        "username": "sentakusound",
+        "verified": true
+      }
+    ]
+  }
+}

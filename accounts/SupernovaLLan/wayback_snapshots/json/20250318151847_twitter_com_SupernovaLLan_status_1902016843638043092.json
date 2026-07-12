@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902016819382415360"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1902007912429768976",
+    "created_at": "2025-03-18T15:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T16:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902016843638043092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aK60NX3N2X",
+          "end": 44,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1902016843638043092/photo/1",
+          "media_key": "3_1902016819382415360",
+          "start": 21,
+          "url": "https://t.co/aK60NX3N2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902016843638043092",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902007912429768976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 把这个关了试试？） https://t.co/aK60NX3N2X"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902016843638043092].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902016843638043092",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902016843638043092"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1902016819382415360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVSOEwbcAAewO7.jpg",
+        "width": 1024
+      },
+      {
+        "height": 275,
+        "media_key": "3_1902007909929893889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVKHedawAE2H5u.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902007909929893889"
+          ]
+        },
+        "author_id": "1650760116918943744",
+        "conversation_id": "1902007912429768976",
+        "created_at": "2025-03-18T14:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T15:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902007912429768976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xPuZmV1c9",
+              "end": 62,
+              "expanded_url": "https://x.com/yusanyyy8/status/1902007912429768976/photo/1",
+              "media_key": "3_1902007909929893889",
+              "start": 39,
+              "url": "https://t.co/7xPuZmV1c9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902007912429768976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道什么问题 输入任何一个网址都可以进去 但是谷歌浏览器搜任何都搜不出来😿 https://t.co/7xPuZmV1c9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 525,
+          "like_count": 23670,
+          "listed_count": 2,
+          "media_count": 1028,
+          "tweet_count": 9438
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "酷儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/ZnwIMvxxKK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "鼠鼠星",
+        "name": "南鼠🍀",
+        "pinned_tweet_id": "1895738591047033314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892591220695920640/2Znqf_LP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3646,
+          "following_count": 938,
+          "like_count": 50788,
+          "listed_count": 5,
+          "media_count": 409,
+          "tweet_count": 9855
+        },
+        "url": "https://t.co/ZnwIMvxxKK",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

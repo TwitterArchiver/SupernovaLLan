@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2057064855996379602",
+    "created_at": "2026-05-20T11:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057066956025631135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027280531097088000",
+          "start": 0,
+          "username": "Lvmaosamaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057066956025631135",
+    "in_reply_to_user_id": "2027280531097088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057064855996379602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lvmaosamaovo 诶现在可以看到了诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 437,
+        "media_key": "3_2057064844302655488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwpk7yaoAAw9q8.jpg",
+        "width": 606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2057064855996379602",
+        "created_at": "2026-05-20T11:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057066956025631135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027280531097088000",
+              "start": 0,
+              "username": "Lvmaosamaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057066956025631135",
+        "in_reply_to_user_id": "2027280531097088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057064855996379602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lvmaosamaovo 诶现在可以看到了诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057064844302655488"
+          ]
+        },
+        "author_id": "2027280531097088000",
+        "conversation_id": "2057064855996379602",
+        "created_at": "2026-05-20T11:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057064855996379602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBfl8CG3zB",
+              "end": 163,
+              "expanded_url": "https://x.com/Lvmaosamaovo/status/2057064855996379602/photo/1",
+              "media_key": "3_2057064844302655488",
+              "start": 140,
+              "url": "https://t.co/jBfl8CG3zB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057064855996379602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一些心里话\n其实本质上算是抱怨吧…猫猫呢 被ghoat ban了 大概有个十五六天了吧 在这一段时间里 我用过各种各样的办法想要去恢复 但依旧没有办法 到现在评论还是被隐藏的… 这段时间我一直过得很难受 X绝对算我绝大部分的社交了…\n一开始我尝试过长时间的静默 但是并没有什么用 我还听说过开Premium可以解决这个问题 但也是没有任何的用处 我也试过申诉  但是 在xhelp里 只有你被封禁了或者锁定了 你才可以去向x团队发解封申诉 如果你仅仅是评论被隐藏 是完全没有办法解决的\n很讽刺 x生称自己言论自由且透明 现实中却是放着一群约炮机器人不封 去封正常使用的人 我们的嘴就只好被乖乖堵住 甚至不可以申诉…\n我一直很想和大家说说话 但是我的评论是被完全隐藏的 你们也看不到吧… 我总是因为这些事情很焦虑 也完全没有办法去解除 就只能被堵着嘴 去赌ghost ban这种非透明的封禁什么时候才能解除\n在ghost ban这段时间里 我为了我的评论能重新被人看见就忍住十几天没有发一个帖子 我有好多好多想说的话 但是我都不能说出来… \n猫猫有过开新号的想法 但是我不能确保大家还认识我… 而且就算开了新号也还是会出现这样子的情况 所以说x完全就不是一个言论自由的平台 相反 他还会堵住你的嘴 就是这样"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些心里话\n其实本质上算是抱怨吧…猫猫呢 被ghoat ban了 大概有个十五六天了吧 在这一段时间里 我用过各种各样的办法想要去恢复 但依旧没有办法 到现在评论还是被隐藏的… 这段时间我一直过得很难受 X绝对算我绝大部分的社交了…\n一开始我尝试过长时间的静默 但是并没有什么用 https://t.co/jBfl8CG3zB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 574,
+          "like_count": 25620,
+          "listed_count": 2,
+          "media_count": 1146,
+          "tweet_count": 10695
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T07:14:07.000Z",
+        "description": "咕咕嘎嘎(๑˃̵ᴗ˂̵) 2011/10/27崭新出厂（mtf \n欢迎同类互fo 所有同类都会回fo喵～ hrt🍥｜2026_4_19\n大！家！快！来！找！我！玩！啊！\n✝︎天使様、ご挨拶申し上げます！✝︎\n✝︎私は天より降り注ぐ光、混沌のネット世界を照らす存在なのです✝︎",
+        "id": "2027280531097088000",
+        "location": "上海精神卫生中心",
+        "name": "☁️Lvmao๑˃̵ᴗ˂̵🍥〜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046302106936897536/wD1z616h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 348,
+          "like_count": 2439,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 847
+        },
+        "username": "Lvmaosamaovo",
+        "verified": true
+      }
+    ]
+  }
+}

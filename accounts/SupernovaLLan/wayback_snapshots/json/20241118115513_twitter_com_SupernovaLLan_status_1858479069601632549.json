@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858479040950378496",
+        "3_1858479040954540032"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1858454308712497427",
+    "created_at": "2024-11-18T11:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T12:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858479069601632549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818107582117994496",
+          "start": 0,
+          "username": "CypressAlbert"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MDAXwGkUMp",
+          "end": 66,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1858479069601632549/photo/1",
+          "media_key": "3_1858479040950378496",
+          "start": 43,
+          "url": "https://t.co/MDAXwGkUMp"
+        },
+        {
+          "display_url": "pic.x.com/MDAXwGkUMp",
+          "end": 66,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1858479069601632549/photo/1",
+          "media_key": "3_1858479040954540032",
+          "start": 43,
+          "url": "https://t.co/MDAXwGkUMp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858479069601632549",
+    "in_reply_to_user_id": "1818107582117994496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858454308712497427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert 生日快乐♪٩(´ω`)و♪此处也想展示我这的DIY蛋糕 https://t.co/MDAXwGkUMp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1858479069601632549].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1858479069601632549",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1858479069601632549"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1858479040950378496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcqk11JbIAAgz2Y.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1858479040954540032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcqk11KaoAAtowk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858453237176979456"
+          ]
+        },
+        "author_id": "1818107582117994496",
+        "conversation_id": "1858454308712497427",
+        "created_at": "2024-11-18T10:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T11:12:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858453274674057291",
+          "1858454308712497427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NweRmvwYGG",
+              "end": 42,
+              "expanded_url": "https://x.com/CypressAlbert/status/1858454308712497427/photo/1",
+              "media_key": "3_1858453237176979456",
+              "start": 19,
+              "url": "https://t.co/NweRmvwYGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858454308712497427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杀死我的十七岁吧\n我的愿望是不再痛苦 https://t.co/NweRmvwYGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 470,
+          "like_count": 22021,
+          "listed_count": 2,
+          "tweet_count": 8821
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "精神状态是量子叠加态|成分复杂但是不是正常人|分裂情感性障碍|将死之人|INFJ-5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫|可以称呼我为姐哥吗|大概率回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论别来犯贱|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/DABgbQ6vuqF/…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/DABgbQ6vuqF/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+                "start": 0,
+                "url": "https://t.co/2DAglc5VjK"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "pinned_tweet_id": "1857729344912896440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602959516409856/nwmpqBZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 535,
+          "like_count": 6405,
+          "listed_count": 1,
+          "tweet_count": 1379
+        },
+        "url": "https://t.co/2DAglc5VjK",
+        "username": "CypressAlbert",
+        "verified": true
+      }
+    ]
+  }
+}

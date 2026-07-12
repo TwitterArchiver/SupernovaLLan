@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1861741782201217053",
+    "created_at": "2024-11-27T12:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T13:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861741782201217053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964zhajipai/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/8964zhajipai/status/1861735431387406659",
+          "start": 7,
+          "url": "https://t.co/NzjsDRNIcA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861741782201217053",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861735431387406659",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加油助力翻炒 https://t.co/NzjsDRNIcA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1861741782201217053",
+        "created_at": "2024-11-27T12:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T13:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861741782201217053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964zhajipai/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/8964zhajipai/status/1861735431387406659",
+              "start": 7,
+              "url": "https://t.co/NzjsDRNIcA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861741782201217053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861735431387406659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加油助力翻炒 https://t.co/NzjsDRNIcA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861735420855451648"
+          ]
+        },
+        "author_id": "1702221879434436608",
+        "conversation_id": "1861735431387406659",
+        "created_at": "2024-11-27T11:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T12:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861735431387406659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ZLDnOgoDc",
+              "end": 32,
+              "expanded_url": "https://x.com/8964zhajipai/status/1861735431387406659/photo/1",
+              "media_key": "3_1861735420855451648",
+              "start": 9,
+              "url": "https://t.co/5ZLDnOgoDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861735431387406659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻翻炒炒又是一天 https://t.co/5ZLDnOgoDc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 481,
+          "like_count": 22159,
+          "listed_count": 2,
+          "tweet_count": 8906
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "物语小宝宝@Mikatsuki_nori                            永远怀念\n🕯️@mskcnmb8964🕯️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Mikatsuki_nori"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "mskcnmb8964"
+              }
+            ]
+          }
+        },
+        "id": "1702221879434436608",
+        "location": "距你0.6km",
+        "name": "像素炸鸡排5.0",
+        "pinned_tweet_id": "1860467537722671520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 62,
+          "like_count": 104,
+          "listed_count": 1,
+          "tweet_count": 151
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

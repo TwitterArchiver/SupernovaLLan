@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1822715847628161224",
+    "created_at": "2024-08-12T08:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T09:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822915357331312947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1261344091075260416",
+          "start": 0,
+          "username": "buwuwu11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822915357331312947",
+    "in_reply_to_user_id": "1261344091075260416",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822715847628161224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buwuwu11 哇立体四子棋我也想玩"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1822715847628161224].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1822715847628161224",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1822715847628161224"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1822715847628161224",
+        "created_at": "2024-08-12T08:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T09:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822915357331312947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1261344091075260416",
+              "start": 0,
+              "username": "buwuwu11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822915357331312947",
+        "in_reply_to_user_id": "1261344091075260416",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822715847628161224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buwuwu11 哇立体四子棋我也想玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1817575782975504822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 427,
+          "like_count": 20421,
+          "listed_count": 2,
+          "tweet_count": 7968
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "倒垃圾专用账号",
+        "id": "1261344091075260416",
+        "name": "不不",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804011374244433921/9Jw_kufH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 677,
+          "like_count": 24866,
+          "listed_count": 0,
+          "tweet_count": 12917
+        },
+        "username": "buwuwu11",
+        "verified": false
+      }
+    ]
+  }
+}

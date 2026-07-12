@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1958052833259057518",
+    "created_at": "2025-08-20T15:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T16:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958190150455861518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        },
+        {
+          "end": 25,
+          "id": "1313677891163414533",
+          "start": 13,
+          "username": "cookiessin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958190150455861518",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958114082411970786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 @cookiessin1 我小时候就不认识两个人*之后每个时代也就两三因为宿舍关系被捏在一起而熟悉的朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1958052833259057518",
+        "created_at": "2025-08-20T15:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T16:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958190150455861518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            },
+            {
+              "end": 25,
+              "id": "1313677891163414533",
+              "start": 13,
+              "username": "cookiessin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958190150455861518",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958114082411970786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 @cookiessin1 我小时候就不认识两个人*之后每个时代也就两三因为宿舍关系被捏在一起而熟悉的朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1958052833259057518",
+        "created_at": "2025-08-20T10:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T11:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958114082411970786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313677891163414533",
+              "start": 0,
+              "username": "cookiessin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958114082411970786",
+        "in_reply_to_user_id": "1313677891163414533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958052833259057518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cookiessin1 唉其实我也是这样😢拥抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 548,
+          "like_count": 24777,
+          "listed_count": 2,
+          "media_count": 1074,
+          "tweet_count": 9794
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 人デ無シ マタ智慧モ無シ｜我是小咪 最喜欢兔狲｜🚪99/198/520都是纯绿 谢谢你的善意(´；ω；｀)接纯绿线下…",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34621,
+          "following_count": 770,
+          "like_count": 7012,
+          "listed_count": 42,
+          "media_count": 236,
+          "tweet_count": 2506
+        },
+        "username": "damatte8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-07T03:09:56.000Z",
+        "description": "@hannibals4PlZ_r的主人格。核狗，星际屯鼠，🐝，游戏考古爱好者，术力口厨，去学家，csp忠犬，半条萌豚，拔杯狂热，二次元吠舍，ACDC，ft基佬，不善交流，耐心条有限，攻击性强，目前高强度学习画画中，是純良萌萌猫的反义词。25F🇬🇧 我不见证我是究极日子人😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hannibals4PlZ_r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitality.gg/en/",
+                "end": 23,
+                "expanded_url": "https://vitality.gg/en/",
+                "start": 0,
+                "url": "https://t.co/XQjCT49c3j"
+              }
+            ]
+          }
+        },
+        "id": "1313677891163414533",
+        "location": "221B Baker Street",
+        "name": "R号机不是二号机_(。-∀-)",
+        "pinned_tweet_id": "1900442345835028942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917227052584828928/rCib9d6w_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 264,
+          "like_count": 10973,
+          "listed_count": 2,
+          "media_count": 1113,
+          "tweet_count": 6921
+        },
+        "url": "https://t.co/XQjCT49c3j",
+        "username": "cookiessin1",
+        "verified": false
+      }
+    ]
+  }
+}

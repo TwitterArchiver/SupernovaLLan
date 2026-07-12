@@ -1,0 +1,676 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835998579032489984",
+        "3_1835998579019878400",
+        "3_1835998579028283392",
+        "3_1835998579049267200"
+      ],
+      "media_source_tweet_id": [
+        "1835998583931428986",
+        "1835998583931428986",
+        "1835998583931428986",
+        "1835998583931428986"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234552223041908736",
+          "name": "Alice Gear Aegis"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234552223041908736",
+          "name": "Alice Gear Aegis"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1836250054815879452",
+    "created_at": "2024-09-18T03:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T04:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836250054815879452"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 23,
+          "tag": "アリスギア"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1382677821940666372",
+          "start": 3,
+          "username": "kanzaki_nyo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nvhpa9tmox",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+          "media_key": "3_1835998579032489984",
+          "start": 30,
+          "url": "https://t.co/nvHPa9TmOX"
+        },
+        {
+          "display_url": "pic.x.com/nvhpa9tmox",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+          "media_key": "3_1835998579019878400",
+          "start": 30,
+          "url": "https://t.co/nvHPa9TmOX"
+        },
+        {
+          "display_url": "pic.x.com/nvhpa9tmox",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+          "media_key": "3_1835998579028283392",
+          "start": 30,
+          "url": "https://t.co/nvHPa9TmOX"
+        },
+        {
+          "display_url": "pic.x.com/nvhpa9tmox",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+          "media_key": "3_1835998579049267200",
+          "start": 30,
+          "url": "https://t.co/nvHPa9TmOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836250054815879452",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835998583931428986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanzaki_nyo_: 完走！\n #アリスギア https://t.co/nvHPa9TmOX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1835998579032489984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXrG-udagAAqvFh.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1835998579019878400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXrG-uaaEAA0D38.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1835998579028283392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXrG-ucaUAAbYwC.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1835998579049267200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXrG-uhagAAW1xN.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835998579032489984",
+            "3_1835998579019878400",
+            "3_1835998579028283392",
+            "3_1835998579049267200"
+          ],
+          "media_source_tweet_id": [
+            "1835998583931428986",
+            "1835998583931428986",
+            "1835998583931428986",
+            "1835998583931428986"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234552223041908736",
+              "name": "Alice Gear Aegis"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234552223041908736",
+              "name": "Alice Gear Aegis"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1836250054815879452",
+        "created_at": "2024-09-18T03:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T04:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836250054815879452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "アリスギア"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1382677821940666372",
+              "start": 3,
+              "username": "kanzaki_nyo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvhpa9tmox",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+              "media_key": "3_1835998579032489984",
+              "start": 30,
+              "url": "https://t.co/nvHPa9TmOX"
+            },
+            {
+              "display_url": "pic.x.com/nvhpa9tmox",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+              "media_key": "3_1835998579019878400",
+              "start": 30,
+              "url": "https://t.co/nvHPa9TmOX"
+            },
+            {
+              "display_url": "pic.x.com/nvhpa9tmox",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+              "media_key": "3_1835998579028283392",
+              "start": 30,
+              "url": "https://t.co/nvHPa9TmOX"
+            },
+            {
+              "display_url": "pic.x.com/nvhpa9tmox",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+              "media_key": "3_1835998579049267200",
+              "start": 30,
+              "url": "https://t.co/nvHPa9TmOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836250054815879452",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835998583931428986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanzaki_nyo_: 完走！\n #アリスギア https://t.co/nvHPa9TmOX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835998579032489984",
+            "3_1835998579019878400",
+            "3_1835998579028283392",
+            "3_1835998579049267200"
+          ]
+        },
+        "author_id": "1382677821940666372",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234552223041908736",
+              "name": "Alice Gear Aegis"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1835998583931428986",
+        "created_at": "2024-09-17T11:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T12:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835998583931428986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "アリスギア"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvhpa9tmox",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+              "media_key": "3_1835998579032489984",
+              "start": 12,
+              "url": "https://t.co/nvHPa9TmOX"
+            },
+            {
+              "display_url": "pic.x.com/nvhpa9tmox",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+              "media_key": "3_1835998579019878400",
+              "start": 12,
+              "url": "https://t.co/nvHPa9TmOX"
+            },
+            {
+              "display_url": "pic.x.com/nvhpa9tmox",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+              "media_key": "3_1835998579028283392",
+              "start": 12,
+              "url": "https://t.co/nvHPa9TmOX"
+            },
+            {
+              "display_url": "pic.x.com/nvhpa9tmox",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kanzaki_nyo_/status/1835998583931428986/photo/1",
+              "media_key": "3_1835998579049267200",
+              "start": 12,
+              "url": "https://t.co/nvHPa9TmOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835998583931428986",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 4988,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "完走！\n #アリスギア https://t.co/nvHPa9TmOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 446,
+          "like_count": 21074,
+          "listed_count": 2,
+          "tweet_count": 8178
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-15T12:58:40.000Z",
+        "description": "アニメと美少女が大好きです！雑多垢/マシュマロ https://t.co/HPBhc6vciI /スケブ https://t.co/tIgXB4drPn /ヘッダー(@MemoryStorong)サブ垢@30XMX AI学習･転載禁止 Unauthorized repost prohibited.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "MemoryStorong"
+              },
+              {
+                "end": 107,
+                "start": 101,
+                "username": "30XMX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/4nEOr",
+                "end": 47,
+                "expanded_url": "https://x.gd/4nEOr",
+                "start": 24,
+                "url": "https://t.co/HPBhc6vciI"
+              },
+              {
+                "display_url": "x.gd/jX4Ra",
+                "end": 76,
+                "expanded_url": "https://x.gd/jX4Ra",
+                "start": 53,
+                "url": "https://t.co/tIgXB4drPn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78096430",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/78096430",
+                "start": 0,
+                "url": "https://t.co/0yjp3frBIy"
+              }
+            ]
+          }
+        },
+        "id": "1382677821940666372",
+        "name": "神崎",
+        "pinned_tweet_id": "1833142942363742590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786026699349716992/5fxpm5Oy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3034,
+          "following_count": 1697,
+          "like_count": 77254,
+          "listed_count": 17,
+          "tweet_count": 7447
+        },
+        "url": "https://t.co/0yjp3frBIy",
+        "username": "kanzaki_nyo_",
+        "verified": false
+      }
+    ]
+  }
+}

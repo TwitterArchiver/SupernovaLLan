@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2048696234400248068",
+    "created_at": "2026-04-27T11:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048727070445064517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015583135480811520",
+          "start": 0,
+          "username": "OvooLOO3o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nankyuseiichi/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/nankyuseiichi/status/2048450364333289886",
+          "start": 23,
+          "url": "https://t.co/ruhgEjnMTp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048727070445064517",
+    "in_reply_to_user_id": "2015583135480811520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048450364333289886",
+        "type": "quoted"
+      },
+      {
+        "id": "2048696234400248068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvooLOO3o 知道了吗向南宫同志学习 https://t.co/ruhgEjnMTp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2048696234400248068",
+        "created_at": "2026-04-27T11:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048727070445064517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015583135480811520",
+              "start": 0,
+              "username": "OvooLOO3o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nankyuseiichi/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/nankyuseiichi/status/2048450364333289886",
+              "start": 23,
+              "url": "https://t.co/ruhgEjnMTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048727070445064517",
+        "in_reply_to_user_id": "2015583135480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048450364333289886",
+            "type": "quoted"
+          },
+          {
+            "id": "2048696234400248068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvooLOO3o 知道了吗向南宫同志学习 https://t.co/ruhgEjnMTp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "2048450364333289886",
+        "created_at": "2026-04-26T17:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048450364333289886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048450364333289886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是不理解为什么会有那么多莫名其妙表达喜欢的方式，以26键键盘为例，你喜欢谁，你就按顺序输入 wo xi huan ni，选择 我喜欢你 发送过去，不就可以了吗，为什么要把事情搞那么复杂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015583135480811520",
+        "conversation_id": "2048696234400248068",
+        "created_at": "2026-04-27T09:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048696234400248068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048696234400248068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不要别扭了我现在已经感受到坦诚地打直球有多爽了 我爱jaja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 530,
+          "like_count": 24542,
+          "listed_count": 2,
+          "media_count": 1111,
+          "tweet_count": 10223
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T00:30:52.000Z",
+        "description": "你好我是小苏～这是我碎碎念吐黑泥的账号 可能有很多od元素请谨慎关注 爱人@godspeedyou50同居中🥰 我叫他jaja（鸦鸦）猫叫栾阳阳 回fo请直接私信 我喜欢跟所有人聊天请跟我聊天 小号@salmon__sukiii 关私信 有色情内容请谨慎关注 欢迎给我发ngl～⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "salmon__sukiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thaliana_su",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thaliana_su",
+                "start": 0,
+                "url": "https://t.co/hZvkczeF5U"
+              }
+            ]
+          }
+        },
+        "id": "2015583135480811520",
+        "name": "Arabidopsis thaliana (L.) Heynh.",
+        "pinned_tweet_id": "2048608523261747505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048615465518501888/BsZ0n0bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 589,
+          "like_count": 17795,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 5251
+        },
+        "url": "https://t.co/hZvkczeF5U",
+        "username": "OvooLOO3o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 1380,
+          "like_count": 34044,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 9757
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

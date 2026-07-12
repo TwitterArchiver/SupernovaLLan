@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2067518344723329500",
+    "created_at": "2026-06-18T10:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067557718806937750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "ShiroSkura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067557718806937750",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067518344723329500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSkura 原来是肚啊这个香"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2067518344723329500",
+        "created_at": "2026-06-18T10:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067557718806937750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "ShiroSkura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067557718806937750",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067518344723329500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSkura 原来是肚啊这个香"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "2067518344723329500",
+        "created_at": "2026-06-18T08:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067518344723329500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067518344723329500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "月尘下环境了，我向你们隆重推荐我们的最新一代超爽无副作用姐离鸡——月土"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 617,
+          "like_count": 26948,
+          "listed_count": 2,
+          "media_count": 1194,
+          "tweet_count": 11159
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "17岁生活在Kennewick的天才美少女\n想知道我是谁？才不告诉你！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kbiFvS7eC4k3Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kbiFvS7eC4k3YzNl",
+                "start": 0,
+                "url": "https://t.co/BhUcaEgN6z"
+              }
+            ]
+          }
+        },
+        "id": "1662439435726905344",
+        "location": "Kennewick, WA",
+        "name": "Morikawa Ayako",
+        "pinned_tweet_id": "2050732326112448575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067149046553116672/oFw5Xfeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 39,
+          "like_count": 11304,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/BhUcaEgN6z",
+        "username": "ShiroSkura",
+        "verified": true
+      }
+    ]
+  }
+}

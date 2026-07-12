@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1983671182353416551",
+    "created_at": "2025-10-29T23:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T00:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983671182353416551"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983671182353416551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "18岁，我最大的烦恼是\n33栋到A座太远了\n中午放学二食堂太远了\n宿舍到南校快递站太远了\n去粉冶院还要爬个山也远的离谱\n\n28岁，我最大的烦恼是\n我离新校A座 二食堂 快递站 粉冶院\n和18岁\n都太远了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1983671182353416551",
+        "created_at": "2025-10-29T23:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T00:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983671182353416551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983671182353416551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18岁，我最大的烦恼是\n33栋到A座太远了\n中午放学二食堂太远了\n宿舍到南校快递站太远了\n去粉冶院还要爬个山也远的离谱\n\n28岁，我最大的烦恼是\n我离新校A座 二食堂 快递站 粉冶院\n和18岁\n都太远了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 544,
+          "like_count": 24971,
+          "listed_count": 2,
+          "media_count": 1083,
+          "tweet_count": 9898
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

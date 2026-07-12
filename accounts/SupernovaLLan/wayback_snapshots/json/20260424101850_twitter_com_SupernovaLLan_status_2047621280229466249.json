@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2047621280229466249",
+    "created_at": "2026-04-24T10:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047621280229466249"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047621280229466249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咖啡因可以抑制CYP1A2酶代谢，然后就是所有药效都被延长的感觉\n咖啡因占着茅坑不拉屎，药效就会一直延迟缓释下去……\n咖啡因才是o药最佳辅助啊，可以劲享一整天的药效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2047621280229466249",
+        "created_at": "2026-04-24T10:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047621280229466249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047621280229466249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咖啡因可以抑制CYP1A2酶代谢，然后就是所有药效都被延长的感觉\n咖啡因占着茅坑不拉屎，药效就会一直延迟缓释下去……\n咖啡因才是o药最佳辅助啊，可以劲享一整天的药效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 526,
+          "like_count": 24433,
+          "listed_count": 2,
+          "media_count": 1108,
+          "tweet_count": 10178
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

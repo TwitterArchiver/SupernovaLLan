@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1816935737205698560"
+      ],
+      "media_source_tweet_id": [
+        "1816935795170902190"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1817369750252753036",
+    "created_at": "2024-07-28T01:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T02:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817369750252753036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "14961549",
+          "start": 3,
+          "username": "pearlher"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4ol85WsiA2",
+          "end": 66,
+          "expanded_url": "https://twitter.com/pearlher/status/1816935795170902190/video/1",
+          "media_key": "13_1816935737205698560",
+          "start": 43,
+          "url": "https://t.co/4ol85WsiA2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817369750252753036",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 750
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816935795170902190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearlher: 法国人是真浪漫……\n\n这段直接把央视直播干EMO了……… https://t.co/4ol85WsiA2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38286,
+        "height": 720,
+        "media_key": "13_1816935737205698560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1816935737205698560/img/KjwPaMS6khB-EwqC.jpg",
+        "public_metrics": {
+          "view_count": 850787
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1816935737205698560/vid/avc1/480x270/1ArBUN5GgfvsyBeC.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1816935737205698560/vid/avc1/640x360/S-vYlIomzfQq1h8a.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1816935737205698560/vid/avc1/1280x720/FFPhquWyQcjLc9xh.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1816935737205698560/pl/HU8CauJs5DLeHUnO.m3u8?tag=16"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1816935737205698560"
+          ],
+          "media_source_tweet_id": [
+            "1816935795170902190"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1817369750252753036",
+        "created_at": "2024-07-28T01:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T02:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817369750252753036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "14961549",
+              "start": 3,
+              "username": "pearlher"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4ol85WsiA2",
+              "end": 66,
+              "expanded_url": "https://twitter.com/pearlher/status/1816935795170902190/video/1",
+              "media_key": "13_1816935737205698560",
+              "start": 43,
+              "url": "https://t.co/4ol85WsiA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817369750252753036",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 750
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816935795170902190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearlher: 法国人是真浪漫……\n\n这段直接把央视直播干EMO了……… https://t.co/4ol85WsiA2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1816935737205698560"
+          ]
+        },
+        "author_id": "14961549",
+        "conversation_id": "1816935795170902190",
+        "created_at": "2024-07-26T20:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T21:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816935795170902190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4ol85WsiA2",
+              "end": 52,
+              "expanded_url": "https://twitter.com/pearlher/status/1816935795170902190/video/1",
+              "media_key": "13_1816935737205698560",
+              "start": 29,
+              "url": "https://t.co/4ol85WsiA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816935795170902190",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1307,
+          "impression_count": 1761985,
+          "like_count": 6518,
+          "quote_count": 152,
+          "reply_count": 543,
+          "retweet_count": 750
+        },
+        "reply_settings": "everyone",
+        "text": "法国人是真浪漫……\n\n这段直接把央视直播干EMO了……… https://t.co/4ol85WsiA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 431,
+          "like_count": 20398,
+          "listed_count": 2,
+          "tweet_count": 7949
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-31T07:42:56.000Z",
+        "description": "Bio: Freelance investigative journalist，. Human Rights defender. Founder&dirctor of Xinye org     我的郵箱：pearlher@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@herpeirong7305",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@herpeirong7305",
+                "start": 0,
+                "url": "https://t.co/TxCcvNdKzk"
+              }
+            ]
+          }
+        },
+        "id": "14961549",
+        "location": "Thailand",
+        "name": "Ho Peirong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578649268000157697/4sYnt-Ro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58493,
+          "following_count": 1607,
+          "like_count": 17983,
+          "listed_count": 501,
+          "tweet_count": 50226
+        },
+        "url": "https://t.co/TxCcvNdKzk",
+        "username": "pearlher",
+        "verified": true
+      }
+    ]
+  }
+}

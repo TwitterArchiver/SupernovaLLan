@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068541453534638080"
+      ],
+      "media_source_tweet_id": [
+        "2068541534996439127"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068743407456170405",
+    "created_at": "2026-06-21T17:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068743407456170405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uFJmlwgJyq",
+          "end": 54,
+          "expanded_url": "https://x.com/45_206MHz/status/2068541534996439127/video/1",
+          "media_key": "13_2068541453534638080",
+          "start": 31,
+          "url": "https://t.co/uFJmlwgJyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068743407456170405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068541534996439127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 最近学了点排序，你们看看怎么样 https://t.co/uFJmlwgJyq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52384,
+        "height": 720,
+        "media_key": "13_2068541453534638080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068541453534638080/img/5KchidGyNtoeHssc.jpg",
+        "public_metrics": {
+          "view_count": 28741
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068541453534638080/vid/avc1/480x270/13tTiEWtKl13Fvuv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068541453534638080/vid/avc1/640x360/Ryjwgp3TXKSFxXUO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068541453534638080/vid/avc1/1280x720/LjeCjXGl-R04qXAJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068541453534638080/pl/F7LXpe9QF0LCQ4nj.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068541453534638080"
+          ],
+          "media_source_tweet_id": [
+            "2068541534996439127"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068743407456170405",
+        "created_at": "2026-06-21T17:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068743407456170405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFJmlwgJyq",
+              "end": 54,
+              "expanded_url": "https://x.com/45_206MHz/status/2068541534996439127/video/1",
+              "media_key": "13_2068541453534638080",
+              "start": 31,
+              "url": "https://t.co/uFJmlwgJyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068743407456170405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068541534996439127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 最近学了点排序，你们看看怎么样 https://t.co/uFJmlwgJyq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068541453534638080"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2068541534996439127",
+        "created_at": "2026-06-21T03:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068541534996439127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFJmlwgJyq",
+              "end": 39,
+              "expanded_url": "https://x.com/45_206MHz/status/2068541534996439127/video/1",
+              "media_key": "13_2068541453534638080",
+              "start": 16,
+              "url": "https://t.co/uFJmlwgJyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068541534996439127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 62470,
+          "like_count": 467,
+          "quote_count": 8,
+          "reply_count": 34,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "最近学了点排序，你们看看怎么样 https://t.co/uFJmlwgJyq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 622,
+          "like_count": 27115,
+          "listed_count": 2,
+          "media_count": 1201,
+          "tweet_count": 11206
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN / en-NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "45_206io"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 112,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 89,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x45_206mhz",
+                "end": 23,
+                "expanded_url": "https://t.me/x45_206mhz",
+                "start": 0,
+                "url": "https://t.co/eEc1irn5gW"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 498,
+          "like_count": 37139,
+          "listed_count": 1,
+          "media_count": 807,
+          "tweet_count": 4509
+        },
+        "url": "https://t.co/eEc1irn5gW",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

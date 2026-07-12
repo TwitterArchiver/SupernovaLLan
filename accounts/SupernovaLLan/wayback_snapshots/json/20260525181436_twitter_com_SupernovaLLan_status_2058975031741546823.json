@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2058928727858483409",
+    "created_at": "2026-05-25T18:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058975031741546823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551235687277465600",
+          "start": 0,
+          "username": "zyfisapoppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058975031741546823",
+    "in_reply_to_user_id": "1551235687277465600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058928727858483409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyfisapoppy 中推惨圈大抵是互联网上世界第一大情绪垃圾场了🫨思路是没错，希望有人接一下😿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_2058928707868459008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLIwEpagAA6m0Y.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2058928727858483409",
+        "created_at": "2026-05-25T18:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058975031741546823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551235687277465600",
+              "start": 0,
+              "username": "zyfisapoppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058975031741546823",
+        "in_reply_to_user_id": "1551235687277465600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058928727858483409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyfisapoppy 中推惨圈大抵是互联网上世界第一大情绪垃圾场了🫨思路是没错，希望有人接一下😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058928707868459008"
+          ]
+        },
+        "author_id": "1551235687277465600",
+        "conversation_id": "2058928727858483409",
+        "created_at": "2026-05-25T15:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058928727858483409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmLp8NNRgK",
+              "end": 156,
+              "expanded_url": "https://x.com/zyfisapoppy/status/2058928727858483409/photo/1",
+              "media_key": "3_2058928707868459008",
+              "start": 133,
+              "url": "https://t.co/fmLp8NNRgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058928727858483409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真没招了，我已经做好把所有手上的精神类药物吞下去的打算了，我跟我对象求救结果收获了这个。\n像我这个程度基本上是断绝社交了，我在现实生活中没有办法跟任何人交流，无论是父母还是伴侣，大家都会忧心忡忡的说我没有办法承担你的情绪别跟我倒垃圾，所以我为什么最近写着写推文。 https://t.co/fmLp8NNRgK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 584,
+          "like_count": 25894,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 10799
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T15:59:54.000Z",
+        "description": "一个平平无奇恋爱脑罢了\n纯双相发疯碎碎念\n有洁癖，不考虑跟任何我对象以外的人做",
+        "id": "1551235687277465600",
+        "name": "汤显祖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827744480943800321/xQnwkjFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 148,
+          "like_count": 839,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 386
+        },
+        "username": "zyfisapoppy",
+        "verified": false
+      }
+    ]
+  }
+}

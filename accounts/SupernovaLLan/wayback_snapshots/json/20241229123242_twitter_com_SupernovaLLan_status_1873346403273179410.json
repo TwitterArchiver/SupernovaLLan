@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873346394414866433"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1873327867763040629",
+    "created_at": "2024-12-29T12:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T13:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873346403273179410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1261344091075260416",
+          "start": 0,
+          "username": "buwuwu11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dQWYWyp2gG",
+          "end": 39,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1873346403273179410/photo/1",
+          "media_key": "3_1873346394414866433",
+          "start": 16,
+          "url": "https://t.co/dQWYWyp2gG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873346403273179410",
+    "in_reply_to_user_id": "1261344091075260416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873327867763040629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buwuwu11 一言以蔽之 https://t.co/dQWYWyp2gG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1873346403273179410].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1873346403273179410",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873346403273179410"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1873327867763040629].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1873327867763040629",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1873327867763040629"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_1873346394414866433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf92nsxbYAEa8Jl.jpg",
+        "width": 1258
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 505,
+          "like_count": 22743,
+          "listed_count": 2,
+          "media_count": 1007,
+          "tweet_count": 9205
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "黄色暴力扭曲账号；",
+        "id": "1261344091075260416",
+        "name": "蠢猪（备孕中）",
+        "pinned_tweet_id": "1838041392289103907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861506419876601859/TD_ja2-i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 672,
+          "like_count": 23252,
+          "listed_count": 0,
+          "media_count": 1462,
+          "tweet_count": 13651
+        },
+        "username": "buwuwu11",
+        "verified": false
+      }
+    ]
+  }
+}

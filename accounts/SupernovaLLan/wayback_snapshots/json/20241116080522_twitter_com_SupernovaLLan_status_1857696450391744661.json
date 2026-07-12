@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1857658604087562542",
+    "created_at": "2024-11-16T08:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T09:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857696450391744661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857696450391744661",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857658604087562542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 立了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1857658604087562542",
+        "created_at": "2024-11-16T08:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T09:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857696450391744661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857696450391744661",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857658604087562542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 立了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1857658604087562542",
+        "created_at": "2024-11-16T05:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T06:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857658604087562542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857658604087562542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 859,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "珠穆朗玛峰是地球的鸡鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 470,
+          "like_count": 21965,
+          "listed_count": 2,
+          "tweet_count": 8795
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 我什么都会发，想发就发了。精神疾病影响了我的脑子，说话会奇怪，正在缓慢康复中。我喜欢毛茸茸的小动物，不毛的不喜欢。此账号由人类和小动物共同掌管，暴言暴论都是小动物发的。努力生活ing里账@damatte0526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "damatte0526"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1851376046173544462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853338629730635776/BoihRLzO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9185,
+          "following_count": 512,
+          "like_count": 1830,
+          "listed_count": 5,
+          "tweet_count": 958
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

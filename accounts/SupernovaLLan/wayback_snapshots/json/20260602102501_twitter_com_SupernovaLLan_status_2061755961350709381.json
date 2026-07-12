@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2061755961350709381",
+    "created_at": "2026-06-02T10:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061755961350709381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sylvviiae/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/sylvviiae/status/2061516262086496324",
+          "start": 4,
+          "url": "https://t.co/hgijIiMABf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061755961350709381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061516262086496324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已吓哭 https://t.co/hgijIiMABf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2061516250824724480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJv6G5UaUAALtwj.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2061755961350709381",
+        "created_at": "2026-06-02T10:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061755961350709381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sylvviiae/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/sylvviiae/status/2061516262086496324",
+              "start": 4,
+              "url": "https://t.co/hgijIiMABf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061755961350709381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061516262086496324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已吓哭 https://t.co/hgijIiMABf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061516250824724480"
+          ]
+        },
+        "author_id": "1902217890738401281",
+        "conversation_id": "2061516262086496324",
+        "created_at": "2026-06-01T18:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061516262086496324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJtI30G25m",
+              "end": 23,
+              "expanded_url": "https://x.com/Sylvviiae/status/2061516262086496324/photo/1",
+              "media_key": "3_2061516250824724480",
+              "start": 0,
+              "url": "https://t.co/zJtI30G25m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061516262086496324",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 23538,
+          "like_count": 412,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zJtI30G25m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 585,
+          "like_count": 26211,
+          "listed_count": 2,
+          "media_count": 1167,
+          "tweet_count": 10927
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 754,
+          "like_count": 295,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1381
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

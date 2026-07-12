@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2065753252319412595",
+    "created_at": "2026-06-13T16:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065833101897662729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1506154024252448770",
+          "start": 0,
+          "username": "Usagiblueberry"
+        },
+        {
+          "end": 27,
+          "id": "880606715141529600",
+          "start": 16,
+          "username": "python_xxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065833101897662729",
+    "in_reply_to_user_id": "1506154024252448770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065822320195985465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usagiblueberry @python_xxt 这个靓喔🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2065753252319412595",
+        "created_at": "2026-06-13T16:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065833101897662729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1506154024252448770",
+              "start": 0,
+              "username": "Usagiblueberry"
+            },
+            {
+              "end": 27,
+              "id": "880606715141529600",
+              "start": 16,
+              "username": "python_xxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065833101897662729",
+        "in_reply_to_user_id": "1506154024252448770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065822320195985465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usagiblueberry @python_xxt 这个靓喔🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506154024252448770",
+        "conversation_id": "2065753252319412595",
+        "created_at": "2026-06-13T15:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065822320195985465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "880606715141529600",
+              "start": 0,
+              "username": "python_xxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065822320195985465",
+        "in_reply_to_user_id": "880606715141529600",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065753252319412595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@python_xxt 7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 606,
+          "like_count": 26695,
+          "listed_count": 2,
+          "media_count": 1187,
+          "tweet_count": 11066
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T06:21:54.000Z",
+        "description": "✝️️",
+        "id": "1506154024252448770",
+        "location": "Rabbit Hill",
+        "name": "ᕱᕱ",
+        "pinned_tweet_id": "1889585852394729586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875127805496934400/5zS1Js_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 476,
+          "like_count": 55372,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 3225
+        },
+        "username": "Usagiblueberry",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-30T01:59:36.000Z",
+        "description": "AI | Life | Investing | 思考，是为了不被动地活着",
+        "id": "880606715141529600",
+        "location": "Deep thinker try to think",
+        "name": "Robinson · 鲁棒逊",
+        "pinned_tweet_id": "2064759061082730660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980814059525033985/d9tb6rAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29395,
+          "following_count": 544,
+          "like_count": 34418,
+          "listed_count": 359,
+          "media_count": 607,
+          "tweet_count": 9588
+        },
+        "username": "python_xxt",
+        "verified": true
+      }
+    ]
+  }
+}

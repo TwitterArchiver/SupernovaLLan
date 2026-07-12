@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2060239754051076267",
+    "created_at": "2026-05-30T19:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060813157195722812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604168045424914433",
+          "start": 0,
+          "username": "bobi01604691"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060813157195722812",
+    "in_reply_to_user_id": "1604168045424914433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060241078872354998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobi01604691 大刘的早期作品人文关怀简直没得说，《地火》和《乡村教师》都是看哭我的作品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2060239754051076267",
+        "created_at": "2026-05-30T19:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060813157195722812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604168045424914433",
+              "start": 0,
+              "username": "bobi01604691"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060813157195722812",
+        "in_reply_to_user_id": "1604168045424914433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060241078872354998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobi01604691 大刘的早期作品人文关怀简直没得说，《地火》和《乡村教师》都是看哭我的作品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604168045424914433",
+        "conversation_id": "2060239754051076267",
+        "created_at": "2026-05-29T06:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060241078872354998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060241078872354998",
+        "in_reply_to_user_id": "1604168045424914433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060239754051076267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再好比刘慈欣写出三体之前的好多好多短篇，黄锦树在《雨》爆火之前的短篇集《死在南方》，藤本树《电锯人》《炎拳》之前的那些短篇，简直不胜枚举，创作者最早期的处女作一定是憋着一股劲要把自己最想展现的东西展现出来的，所以也有一些创作者贡献出优秀的处女作之后就消失的例子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 592,
+          "like_count": 26201,
+          "listed_count": 2,
+          "media_count": 1167,
+          "tweet_count": 10912
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T17:34:08.000Z",
+        "description": "不知该折不折",
+        "id": "1604168045424914433",
+        "name": "ha zu yu ki",
+        "pinned_tweet_id": "2044403264322773303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060242786193158144/mkJ1yXYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 148,
+          "like_count": 2978,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1389
+        },
+        "username": "bobi01604691",
+        "verified": false
+      }
+    ]
+  }
+}

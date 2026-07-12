@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937443537559355392"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1937442062401700328",
+    "created_at": "2025-06-24T09:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T10:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937443544576458904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874049299124019201",
+          "start": 0,
+          "username": "Mistery5387057"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S2XA6ZHvSl",
+          "end": 80,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1937443544576458904/photo/1",
+          "media_key": "3_1937443537559355392",
+          "start": 57,
+          "url": "https://t.co/S2XA6ZHvSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937443544576458904",
+    "in_reply_to_user_id": "1874049299124019201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937442062401700328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mistery5387057 在我自选列表）仔细回忆一下是mi姐在四月末喊过的时候我在板块里面选出来加自选的* https://t.co/S2XA6ZHvSl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937443544576458904].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937443544576458904",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937443544576458904"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1937442062401700328].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1937442062401700328",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1937442062401700328"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_1937443537559355392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMuoeSaAAAxoE2.jpg",
+        "width": 1178
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 549,
+          "like_count": 24703,
+          "listed_count": 2,
+          "media_count": 1058,
+          "tweet_count": 9694
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T11:05:58.000Z",
+        "description": "一个逻辑的梳理者，趋势的跟随者。 我不是价值投资者，也非短线交易者，我是趋势波段交易者。没有群，不私聊，不收费 ，不荐股！各人观点不构成投资建议，股市有风险，投资需谨慎，盈亏自负！推文均为原创，转载请注明出处。专业：中医",
+        "id": "1874049299124019201",
+        "location": "東京 世田谷区",
+        "name": "Mistery",
+        "pinned_tweet_id": "1935683689431892076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896008448698941440/fSEwRu_K_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 34618,
+          "following_count": 40,
+          "like_count": 23801,
+          "listed_count": 510,
+          "media_count": 2174,
+          "tweet_count": 14156
+        },
+        "username": "Mistery5387057",
+        "verified": true
+      }
+    ]
+  }
+}

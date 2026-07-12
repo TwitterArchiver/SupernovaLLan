@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1910169614459547745",
+    "created_at": "2025-04-10T03:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T04:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910172170996887693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752729743471132672",
+          "start": 0,
+          "username": "yamato812536"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910172170996887693",
+    "in_reply_to_user_id": "1752729743471132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910169614459547745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamato812536 还可以白天看看能评为4A景区的巨大商场正佳广场，傍晚去东山口感受一下潮到风湿的靓仔靓妹风情\n另一方面来广州就是个吃🤣好吃的是真不少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1910169614459547745",
+        "created_at": "2025-04-10T03:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T04:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910172170996887693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752729743471132672",
+              "start": 0,
+              "username": "yamato812536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910172170996887693",
+        "in_reply_to_user_id": "1752729743471132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910169614459547745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamato812536 还可以白天看看能评为4A景区的巨大商场正佳广场，傍晚去东山口感受一下潮到风湿的靓仔靓妹风情\n另一方面来广州就是个吃🤣好吃的是真不少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752729743471132672",
+        "conversation_id": "1910169614459547745",
+        "created_at": "2025-04-10T03:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T04:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910169614459547745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wulittt1/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/wulittt1/status/1910168883367202923",
+              "start": 33,
+              "url": "https://t.co/c9Rj9OJe9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910169614459547745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1135,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910168883367202923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对了 我想说一句 广州这边真的民生经济不是很好 和重庆有点反差大 https://t.co/c9Rj9OJe9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 546,
+          "like_count": 24072,
+          "listed_count": 2,
+          "media_count": 1038,
+          "tweet_count": 9546
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T16:25:21.000Z",
+        "description": "我在国内没有抖音 小红书 这些垃圾平台的账号 我也不荐股 不要被冒牌货骗 我只是好玩顺手分享一下知识 要看来X上看",
+        "id": "1752729743471132672",
+        "location": "广州 北京路步行街",
+        "name": "yamato23",
+        "pinned_tweet_id": "1910154555851264327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796802887827566592/OMLV2oJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24191,
+          "following_count": 329,
+          "like_count": 18704,
+          "listed_count": 355,
+          "media_count": 1195,
+          "tweet_count": 20048
+        },
+        "username": "yamato812536",
+        "verified": true
+      }
+    ]
+  }
+}

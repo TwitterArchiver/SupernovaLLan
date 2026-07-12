@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1871935846942900519",
+    "created_at": "2024-12-25T17:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T18:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871968914810527744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871968914810527744",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871939508385780103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 俺寻思不是生你的问题而是摊上个烂爹，导致你一家不幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1871935846942900519",
+        "created_at": "2024-12-25T17:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T18:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871968914810527744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871968914810527744",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871939508385780103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 俺寻思不是生你的问题而是摊上个烂爹，导致你一家不幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650760116918943744",
+        "conversation_id": "1871935846942900519",
+        "created_at": "2024-12-25T15:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T16:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871939508385780103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871939508385780103",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871938379975451064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan 我也是这样 我不想结婚不想生孩子 我想我妈妈要是没生我她一定会幸福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 503,
+          "like_count": 22729,
+          "listed_count": 2,
+          "media_count": 1006,
+          "tweet_count": 9188
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "@minamiovo233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "minamiovo233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/ZnwIMvxxKK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "   ",
+        "name": "TFEI终端机",
+        "pinned_tweet_id": "1861045420178472963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861060221797605376/eCnGL3pL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3519,
+          "following_count": 948,
+          "like_count": 44099,
+          "listed_count": 4,
+          "media_count": 314,
+          "tweet_count": 8831
+        },
+        "url": "https://t.co/ZnwIMvxxKK",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

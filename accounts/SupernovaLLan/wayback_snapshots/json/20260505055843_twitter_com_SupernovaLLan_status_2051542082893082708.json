@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2051542082893082708",
+    "created_at": "2026-05-05T05:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T06:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051542082893082708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/codyhunk/status/2051408941285027972",
+          "start": 5,
+          "url": "https://t.co/w8RqSOkZHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051542082893082708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051408941285027972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "严肃使用 https://t.co/w8RqSOkZHY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_2051408933655576576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgRjmuagAAY1u1.jpg",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2051542082893082708",
+        "created_at": "2026-05-05T05:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051542082893082708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/codyhunk/status/2051408941285027972",
+              "start": 5,
+              "url": "https://t.co/w8RqSOkZHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051542082893082708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051408941285027972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃使用 https://t.co/w8RqSOkZHY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051408933655576576"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2051408941285027972",
+        "created_at": "2026-05-04T21:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T22:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051408941285027972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4woCSq8NgP",
+              "end": 23,
+              "expanded_url": "https://x.com/codyhunk/status/2051408941285027972/photo/1",
+              "media_key": "3_2051408933655576576",
+              "start": 0,
+              "url": "https://t.co/4woCSq8NgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051408941285027972",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 18677,
+          "like_count": 174,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4woCSq8NgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra  ¿提问？↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 546,
+          "like_count": 24891,
+          "listed_count": 2,
+          "media_count": 1125,
+          "tweet_count": 10373
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13558,
+          "following_count": 1202,
+          "like_count": 24046,
+          "listed_count": 38,
+          "media_count": 6002,
+          "tweet_count": 9097
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067972160573083648",
+        "3_2067972160547946496",
+        "3_2067972160543662080",
+        "3_2067972160585601024"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067972168676430318",
+    "created_at": "2026-06-19T14:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067972168676430318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KRzMKsR491",
+          "end": 110,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2067972168676430318/photo/1",
+          "media_key": "3_2067972160573083648",
+          "start": 87,
+          "url": "https://t.co/KRzMKsR491"
+        },
+        {
+          "display_url": "pic.x.com/KRzMKsR491",
+          "end": 110,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2067972168676430318/photo/1",
+          "media_key": "3_2067972160547946496",
+          "start": 87,
+          "url": "https://t.co/KRzMKsR491"
+        },
+        {
+          "display_url": "pic.x.com/KRzMKsR491",
+          "end": 110,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2067972168676430318/photo/1",
+          "media_key": "3_2067972160543662080",
+          "start": 87,
+          "url": "https://t.co/KRzMKsR491"
+        },
+        {
+          "display_url": "pic.x.com/KRzMKsR491",
+          "end": 110,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2067972168676430318/photo/1",
+          "media_key": "3_2067972160585601024",
+          "start": 87,
+          "url": "https://t.co/KRzMKsR491"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067972168676430318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hhhh对哦想起来十年前我还凑个热闹注册了这个太空国家Asgardia还在给我发邮件，主权卫星受控坠落之后你这咋还要落地去南极洲了呢……真是堕落了啊！要跟咕咕嘎嘎做老乡了🤣 https://t.co/KRzMKsR491"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067972160573083648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLpuTRbEAAwK1F.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067972160547946496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLpuTLbgAAWuK7.jpg",
+        "width": 945
+      },
+      {
+        "height": 1399,
+        "media_key": "3_2067972160543662080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLpuTKaIAASzmC.jpg",
+        "width": 645
+      },
+      {
+        "height": 1743,
+        "media_key": "3_2067972160585601024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLpuTUaEAAvbr5.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067972160573083648",
+            "3_2067972160547946496",
+            "3_2067972160543662080",
+            "3_2067972160585601024"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067972168676430318",
+        "created_at": "2026-06-19T14:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067972168676430318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRzMKsR491",
+              "end": 110,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2067972168676430318/photo/1",
+              "media_key": "3_2067972160573083648",
+              "start": 87,
+              "url": "https://t.co/KRzMKsR491"
+            },
+            {
+              "display_url": "pic.x.com/KRzMKsR491",
+              "end": 110,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2067972168676430318/photo/1",
+              "media_key": "3_2067972160547946496",
+              "start": 87,
+              "url": "https://t.co/KRzMKsR491"
+            },
+            {
+              "display_url": "pic.x.com/KRzMKsR491",
+              "end": 110,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2067972168676430318/photo/1",
+              "media_key": "3_2067972160543662080",
+              "start": 87,
+              "url": "https://t.co/KRzMKsR491"
+            },
+            {
+              "display_url": "pic.x.com/KRzMKsR491",
+              "end": 110,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2067972168676430318/photo/1",
+              "media_key": "3_2067972160585601024",
+              "start": 87,
+              "url": "https://t.co/KRzMKsR491"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067972168676430318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hhhh对哦想起来十年前我还凑个热闹注册了这个太空国家Asgardia还在给我发邮件，主权卫星受控坠落之后你这咋还要落地去南极洲了呢……真是堕落了啊！要跟咕咕嘎嘎做老乡了🤣 https://t.co/KRzMKsR491"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 624,
+          "like_count": 27036,
+          "listed_count": 2,
+          "media_count": 1198,
+          "tweet_count": 11180
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

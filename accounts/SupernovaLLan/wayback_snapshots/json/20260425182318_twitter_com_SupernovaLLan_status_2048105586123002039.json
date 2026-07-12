@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2048105586123002039",
+    "created_at": "2026-04-25T18:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048105586123002039"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048105586123002039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剧烈噩梦🫨🫨🫨明明吃了点药关机为什么还会醒过来😿\n清楚意识到自己好像按弗洛伊德的说法、超我本我都比较强，然后自我这个缓冲区弱弱的难以协调、整个人撕裂得厉害）\n超我的严苛批判和本我的剧烈冲动每个都翻江倒海，对应持续内耗焦虑抑郁以及冲动爆发情绪失控。走的比较近的人大概深受其害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2048105586123002039",
+        "created_at": "2026-04-25T18:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048105586123002039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048105586123002039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈噩梦🫨🫨🫨明明吃了点药关机为什么还会醒过来😿\n清楚意识到自己好像按弗洛伊德的说法、超我本我都比较强，然后自我这个缓冲区弱弱的难以协调、整个人撕裂得厉害）\n超我的严苛批判和本我的剧烈冲动每个都翻江倒海，对应持续内耗焦虑抑郁以及冲动爆发情绪失控。走的比较近的人大概深受其害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 526,
+          "like_count": 24467,
+          "listed_count": 2,
+          "media_count": 1109,
+          "tweet_count": 10195
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1863503614993695160",
+    "created_at": "2024-12-02T09:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T10:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863509671879102943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863509671879102943",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863503614993695160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 感觉南酱总是很憔悴😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1863503614993695160",
+        "created_at": "2024-12-02T09:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T10:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863509671879102943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863509671879102943",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863503614993695160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 感觉南酱总是很憔悴😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650760116918943744",
+        "conversation_id": "1863503614993695160",
+        "created_at": "2024-12-02T08:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T09:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863503614993695160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863503614993695160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道为什么我总是风尘仆仆的 感觉非常凌乱疲惫😿 感觉脏脏的累累的 感觉乞丐…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 485,
+          "like_count": 22251,
+          "listed_count": 2,
+          "media_count": 985,
+          "tweet_count": 8958
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "",
+        "id": "1650760116918943744",
+        "location": "   ",
+        "name": "TFEI终端机",
+        "pinned_tweet_id": "1851282744200015873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861060221797605376/eCnGL3pL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3452,
+          "following_count": 869,
+          "like_count": 42807,
+          "listed_count": 5,
+          "media_count": 287,
+          "tweet_count": 8403
+        },
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

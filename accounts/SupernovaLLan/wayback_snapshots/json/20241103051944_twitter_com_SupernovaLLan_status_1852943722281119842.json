@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852943686486872064",
+        "3_1852943686495338496",
+        "3_1852943686486867968"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1852943722281119842",
+    "created_at": "2024-11-03T05:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T06:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852943722281119842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gnwjhDYJQb",
+          "end": 153,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1852943722281119842/photo/1",
+          "media_key": "3_1852943686486872064",
+          "start": 130,
+          "url": "https://t.co/gnwjhDYJQb"
+        },
+        {
+          "display_url": "pic.x.com/gnwjhDYJQb",
+          "end": 153,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1852943722281119842/photo/1",
+          "media_key": "3_1852943686495338496",
+          "start": 130,
+          "url": "https://t.co/gnwjhDYJQb"
+        },
+        {
+          "display_url": "pic.x.com/gnwjhDYJQb",
+          "end": 153,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1852943722281119842/photo/1",
+          "media_key": "3_1852943686486867968",
+          "start": 130,
+          "url": "https://t.co/gnwjhDYJQb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852943722281119842",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只希望你俩平平安安好起来健健康康回到家😿😿😿光一开始的检查和初步诊治加起来已经三千多了，我怎也没想到会落魄到贷款救猫的程度😿\n都是从食欲不振开始呕吐直到吐出来血丝赶紧送医了，小狗送去那家还属于踩雷了，耗子送了另一家感觉还可以，目前诊断是急性肠胃炎/胃溃疡😔 https://t.co/gnwjhDYJQb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1852943722281119842].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1852943722281119842",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852943722281119842"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1852943686486872064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbb6dy3aUAA1nat.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1852943686495338496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbb6dy5bgAAXDJk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 596,
+        "media_key": "3_1852943686486867968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbb6dy3aQAAtcUF.jpg",
+        "width": 828
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 470,
+          "like_count": 21781,
+          "listed_count": 2,
+          "tweet_count": 8681
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

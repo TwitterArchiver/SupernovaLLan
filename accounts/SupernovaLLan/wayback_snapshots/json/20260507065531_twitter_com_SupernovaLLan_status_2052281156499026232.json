@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052281145749012480"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052281156499026232",
+    "created_at": "2026-05-07T06:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052281156499026232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8LKkHFB6HX",
+          "end": 34,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2052281156499026232/photo/1",
+          "media_key": "3_2052281145749012480",
+          "start": 11,
+          "url": "https://t.co/8LKkHFB6HX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052281156499026232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还是老版更有神韵啊🥲 https://t.co/8LKkHFB6HX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1459,
+        "media_key": "3_2052281145749012480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsq1B-aAAA4TD5.jpg",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052281145749012480"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052281156499026232",
+        "created_at": "2026-05-07T06:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052281156499026232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8LKkHFB6HX",
+              "end": 34,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2052281156499026232/photo/1",
+              "media_key": "3_2052281145749012480",
+              "start": 11,
+              "url": "https://t.co/8LKkHFB6HX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052281156499026232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是老版更有神韵啊🥲 https://t.co/8LKkHFB6HX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 551,
+          "like_count": 24991,
+          "listed_count": 2,
+          "media_count": 1126,
+          "tweet_count": 10396
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

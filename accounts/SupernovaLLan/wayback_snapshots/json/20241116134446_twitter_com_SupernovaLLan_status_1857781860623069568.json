@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1857781860623069568",
+    "created_at": "2024-11-16T13:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T14:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857781860623069568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hatadanna/stat…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/hatadanna/status/1857696465415712949",
+          "start": 138,
+          "url": "https://t.co/5LXx2Pm4Km"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857781860623069568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857696465415712949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我带她去看病了，带她逃离了让她生病的环境，接受她的情绪，正在教她学会如何被爱和爱人。提供了我能给出的所有物质和精神资源，还是没能让她真正的好起来，甚至我自己也逐渐破碎。她的问题像一个无解的迷，一环扣一环变成解不开的毛线团，远远超过了我的能力。\n\n看来确实我没有照顾小猫的能力 https://t.co/5LXx2Pm4Km"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1857781860623069568",
+        "created_at": "2024-11-16T13:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T14:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857781860623069568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hatadanna/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/hatadanna/status/1857696465415712949",
+              "start": 138,
+              "url": "https://t.co/5LXx2Pm4Km"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857781860623069568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857696465415712949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我带她去看病了，带她逃离了让她生病的环境，接受她的情绪，正在教她学会如何被爱和爱人。提供了我能给出的所有物质和精神资源，还是没能让她真正的好起来，甚至我自己也逐渐破碎。她的问题像一个无解的迷，一环扣一环变成解不开的毛线团，远远超过了我的能力。\n\n看来确实我没有照顾小猫的能力 https://t.co/5LXx2Pm4Km"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857696455798259712"
+          ]
+        },
+        "author_id": "1226850561057624064",
+        "conversation_id": "1857696465415712949",
+        "created_at": "2024-11-16T08:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T09:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857696465415712949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dteyQ1ErC3",
+              "end": 29,
+              "expanded_url": "https://x.com/hatadanna/status/1857696465415712949/photo/1",
+              "media_key": "3_1857696455798259712",
+              "start": 6,
+              "url": "https://t.co/dteyQ1ErC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857696465415712949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 27653,
+          "like_count": 863,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "点破了…… https://t.co/dteyQ1ErC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 470,
+          "like_count": 21973,
+          "listed_count": 2,
+          "tweet_count": 8797
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:49:13.000Z",
+        "description": "梗图bot | 日常分享 | 爱大家 | Et Omnia Vanitas. | 点击“查看更多”了解安奈 | bsky: https://t.co/aKYsAXW2rc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hatada…",
+                "end": 85,
+                "expanded_url": "https://bsky.app/profile/hatadanna.buzz",
+                "start": 62,
+                "url": "https://t.co/aKYsAXW2rc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/hatadanna",
+                "end": 23,
+                "expanded_url": "http://bento.me/hatadanna",
+                "start": 0,
+                "url": "https://t.co/y4ubULnlbw"
+              }
+            ]
+          }
+        },
+        "id": "1226850561057624064",
+        "location": "梦里",
+        "name": "旗田安奈🍵",
+        "pinned_tweet_id": "1847898464694522317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691374845140082688/f2RPoY8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24562,
+          "following_count": 3241,
+          "like_count": 11323,
+          "listed_count": 97,
+          "tweet_count": 6997
+        },
+        "url": "https://t.co/y4ubULnlbw",
+        "username": "hatadanna",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1873775441238224944",
+    "created_at": "2024-12-30T16:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T17:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873775441238224944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/paitangofficia…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/paitangofficial/status/1873760370189631649",
+          "start": 122,
+          "url": "https://t.co/SOraw4iTJ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873775441238224944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873760370189631649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天我简单来介绍一下自己（满分5星）\n\n智商：？⭐（机智与痴呆共存）\n力气：⭐⭐️（虚弱肥宅）\n饭量：⭐⭐️（轻微少食）\n勤快度：-⭐⭐️⭐️（忽略ddl）\n脾气：⭐⭐～⭐⭐⭐️⭐⭐（看状态）\n身高：⭐⭐⭐️⭐⭐（达标）\n健康：⭐⭐（脆皮鸭） https://t.co/SOraw4iTJ0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1873775441238224944",
+        "created_at": "2024-12-30T16:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T17:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873775441238224944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/paitangofficia…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/paitangofficial/status/1873760370189631649",
+              "start": 122,
+              "url": "https://t.co/SOraw4iTJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873775441238224944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873760370189631649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天我简单来介绍一下自己（满分5星）\n\n智商：？⭐（机智与痴呆共存）\n力气：⭐⭐️（虚弱肥宅）\n饭量：⭐⭐️（轻微少食）\n勤快度：-⭐⭐️⭐️（忽略ddl）\n脾气：⭐⭐～⭐⭐⭐️⭐⭐（看状态）\n身高：⭐⭐⭐️⭐⭐（达标）\n健康：⭐⭐（脆皮鸭） https://t.co/SOraw4iTJ0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1873760370189631649",
+        "created_at": "2024-12-30T15:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T16:56:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873760071299313988",
+          "1873760370189631649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1873757911815782767",
+              "start": 124,
+              "url": "https://t.co/BN7sTeRpOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873760370189631649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873757911815782767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天我简单来介绍一下自己（满分5星）\n\n智商：⭐⭐️⭐️⭐️⭐️⭐️（128～135）\n力气：⭐⭐️⭐️（细狗）\n饭量：⭐⭐️半（正常人）\n勤快度：半星（严重拖延症）\n脾气：⭐⭐️⭐️半（）\n身高：⭐⭐⭐️⭐⭐（我185！）\n健康：⭐⭐（比较差） https://t.co/BN7sTeRpOl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 507,
+          "like_count": 22795,
+          "listed_count": 2,
+          "media_count": 1009,
+          "tweet_count": 9219
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "有利他林合法替代品，有大量高性价比促智药、抗抑郁药（抗抑郁促智双效）、不销售任何非法产品想快速回复TG✈️：@paitangcuzhi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "paitangcuzhi2"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "既見未來 為何不拜？",
+        "name": "🏴☯️Ye經理不是利他林",
+        "pinned_tweet_id": "1871958384796418049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860951392808030209/VyIc2tlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8441,
+          "following_count": 329,
+          "like_count": 5890,
+          "listed_count": 24,
+          "media_count": 1260,
+          "tweet_count": 10593
+        },
+        "username": "PaitangOfficial",
+        "verified": true
+      }
+    ]
+  }
+}

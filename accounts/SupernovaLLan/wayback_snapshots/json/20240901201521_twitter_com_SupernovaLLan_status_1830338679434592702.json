@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1830207261094130113",
+    "created_at": "2024-09-01T20:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T21:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830338679434592702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798243319564353537",
+          "start": 0,
+          "username": "Cypress_Albert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830338679434592702",
+    "in_reply_to_user_id": "1798243319564353537",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830207261094130113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cypress_Albert 科幻好，我喜欢，咕噜咕噜咕噜……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1830207261094130113",
+        "created_at": "2024-09-01T20:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T21:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830338679434592702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798243319564353537",
+              "start": 0,
+              "username": "Cypress_Albert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830338679434592702",
+        "in_reply_to_user_id": "1798243319564353537",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830207261094130113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_Albert 科幻好，我喜欢，咕噜咕噜咕噜……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798243319564353537",
+        "conversation_id": "1830207261094130113",
+        "created_at": "2024-09-01T11:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T12:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830207261094130113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830207261094130113",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当年“东方之星”号游轮在长江上侧翻， 语文月考题是送幸存者一本书,并写一段介绍。\n\n其实就是考课外推荐+名著导读,把背诵部分套上去就行了。\n\n结果一位同学套的太生硬：幸存者小朋友你 好,送你一本《海底两万里》，愿你随尼摩船长在美丽奇幻的海底世界畅游,感受科幻的魅力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1817575782975504822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 435,
+          "like_count": 20571,
+          "listed_count": 2,
+          "tweet_count": 8011
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T06:40:00.000Z",
+        "description": "精神状态是量子叠加态|成分复杂|不要把我当好人|17岁苦逼高中生|INFJ-5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫，代词随意|大概率回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论别来犯贱|看我不爽建议您去死捏|第二人格@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 133,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cypress_Albert…",
+                "end": 23,
+                "expanded_url": "https://t.me/Cypress_Albert777",
+                "start": 0,
+                "url": "https://t.co/Fcnoig3nj2"
+              }
+            ]
+          }
+        },
+        "id": "1798243319564353537",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树5.0",
+        "pinned_tweet_id": "1823986707638673901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822865855983792128/3rXmu-dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 352,
+          "like_count": 1245,
+          "listed_count": 1,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/Fcnoig3nj2",
+        "username": "Cypress_Albert",
+        "verified": true
+      }
+    ]
+  }
+}

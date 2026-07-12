@@ -1,0 +1,102 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852335463954366464"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1852335490902749262",
+    "created_at": "2024-11-01T13:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T14:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852335490902749262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yi6EL06Jyw",
+          "end": 26,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1852335490902749262/photo/1",
+          "media_key": "3_1852335463954366464",
+          "start": 3,
+          "url": "https://t.co/yi6EL06Jyw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852335490902749262",
+    "lang": "und",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "AB https://t.co/yi6EL06Jyw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1852335490902749262].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1852335490902749262",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852335490902749262"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1852335463954366464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbTRSlXbwAA-eAJ.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 469,
+          "like_count": 21767,
+          "listed_count": 2,
+          "tweet_count": 8672
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

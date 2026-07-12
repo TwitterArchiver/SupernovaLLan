@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062121747097493504"
+      ],
+      "media_source_tweet_id": [
+        "2062121758011122010"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067982894824669650",
+    "created_at": "2026-06-19T14:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067982894824669650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1337890088638824448",
+          "start": 3,
+          "username": "Lingjiang_desu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XRS09xK6nH",
+          "end": 48,
+          "expanded_url": "https://x.com/Lingjiang_desu/status/2062121758011122010/photo/1",
+          "media_key": "3_2062121747097493504",
+          "start": 25,
+          "url": "https://t.co/XRS09xK6nH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067982894824669650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062121758011122010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lingjiang_desu: 彻夜不眠 https://t.co/XRS09xK6nH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062121747097493504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4gzataoAAvOCZ.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062121747097493504"
+          ],
+          "media_source_tweet_id": [
+            "2062121758011122010"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067982894824669650",
+        "created_at": "2026-06-19T14:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067982894824669650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1337890088638824448",
+              "start": 3,
+              "username": "Lingjiang_desu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRS09xK6nH",
+              "end": 48,
+              "expanded_url": "https://x.com/Lingjiang_desu/status/2062121758011122010/photo/1",
+              "media_key": "3_2062121747097493504",
+              "start": 25,
+              "url": "https://t.co/XRS09xK6nH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067982894824669650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062121758011122010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lingjiang_desu: 彻夜不眠 https://t.co/XRS09xK6nH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062121747097493504"
+          ]
+        },
+        "author_id": "1337890088638824448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062121758011122010",
+        "created_at": "2026-06-03T10:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062121758011122010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRS09xK6nH",
+              "end": 28,
+              "expanded_url": "https://x.com/Lingjiang_desu/status/2062121758011122010/photo/1",
+              "media_key": "3_2062121747097493504",
+              "start": 5,
+              "url": "https://t.co/XRS09xK6nH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062121758011122010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2450,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彻夜不眠 https://t.co/XRS09xK6nH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 624,
+          "like_count": 27040,
+          "listed_count": 2,
+          "media_count": 1198,
+          "tweet_count": 11181
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-12T22:40:44.000Z",
+        "description": "Nagi✨広州在住🇨🇳\n銀魂大好き❤️\nゲーム：ブルアカ・NIKKE🎮\n日常を気ままに共有するアカウントです\n恋人がいます。エロ画像を撮影いたしません\nオフライン面会・取引お断り、DM閉鎖済\n📭お仕事：Nagisocool@163.com\nフォローありがとうございます😊",
+        "id": "1337890088638824448",
+        "location": "Tokyo-to, Japan",
+        "name": "Nagiii-☆ナギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932399537580331008/8fWuTFH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3292,
+          "following_count": 206,
+          "like_count": 1276,
+          "listed_count": 11,
+          "media_count": 450,
+          "tweet_count": 1496
+        },
+        "url": "",
+        "username": "Lingjiang_desu",
+        "verified": false
+      }
+    ]
+  }
+}

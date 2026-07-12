@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052906753319415808"
+      ],
+      "media_source_tweet_id": [
+        "2052906759808045427"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2053143068883509434",
+    "created_at": "2026-05-09T16:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053143068883509434"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "niji7"
+        },
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "重音テト"
+        },
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "AIArt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "972636981489315840",
+          "start": 3,
+          "username": "ai0ai01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C6wXeyVKez",
+          "end": 56,
+          "expanded_url": "https://x.com/ai0ai01/status/2052906759808045427/photo/1",
+          "media_key": "3_2052906753319415808",
+          "start": 33,
+          "url": "https://t.co/C6wXeyVKez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053143068883509434",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052906759808045427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ai0ai01: #niji7\n#重音テト\n#AIArt https://t.co/C6wXeyVKez"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2052906753319415808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1j0LyasAA5bVr.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052906753319415808"
+          ],
+          "media_source_tweet_id": [
+            "2052906759808045427"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2053143068883509434",
+        "created_at": "2026-05-09T16:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053143068883509434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "niji7"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "重音テト"
+            },
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "AIArt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "972636981489315840",
+              "start": 3,
+              "username": "ai0ai01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6wXeyVKez",
+              "end": 56,
+              "expanded_url": "https://x.com/ai0ai01/status/2052906759808045427/photo/1",
+              "media_key": "3_2052906753319415808",
+              "start": 33,
+              "url": "https://t.co/C6wXeyVKez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053143068883509434",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052906759808045427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ai0ai01: #niji7\n#重音テト\n#AIArt https://t.co/C6wXeyVKez"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052906753319415808"
+          ]
+        },
+        "author_id": "972636981489315840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2052906759808045427",
+        "created_at": "2026-05-09T00:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052906759808045427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "niji7"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "重音テト"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "AIArt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6wXeyVKez",
+              "end": 43,
+              "expanded_url": "https://x.com/ai0ai01/status/2052906759808045427/photo/1",
+              "media_key": "3_2052906753319415808",
+              "start": 20,
+              "url": "https://t.co/C6wXeyVKez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052906759808045427",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 13708,
+          "like_count": 1418,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "#niji7\n#重音テト\n#AIArt https://t.co/C6wXeyVKez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 563,
+          "like_count": 25168,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10471
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-11T00:55:01.000Z",
+        "description": "初音ミクのイラストをAIで生成します🎶",
+        "id": "972636981489315840",
+        "name": "PenPen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919753688371073024/QKZeRVWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 961,
+          "like_count": 831,
+          "listed_count": 14,
+          "media_count": 249,
+          "tweet_count": 1040
+        },
+        "username": "ai0ai01",
+        "verified": false
+      }
+    ]
+  }
+}

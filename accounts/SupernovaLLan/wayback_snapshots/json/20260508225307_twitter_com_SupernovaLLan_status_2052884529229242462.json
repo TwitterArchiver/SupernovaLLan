@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2052883842529448214",
+    "created_at": "2026-05-08T22:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052884529229242462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023762324038004736",
+          "start": 0,
+          "username": "salmon__sukiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052884529229242462",
+    "in_reply_to_user_id": "2023762324038004736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052883842529448214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@salmon__sukiii 那什么审问犯人确实是有这种经典手段用来摧毁理智hhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2052883842529448214",
+        "created_at": "2026-05-08T22:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052884529229242462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023762324038004736",
+              "start": 0,
+              "username": "salmon__sukiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052884529229242462",
+        "in_reply_to_user_id": "2023762324038004736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052883842529448214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@salmon__sukiii 那什么审问犯人确实是有这种经典手段用来摧毁理智hhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023762324038004736",
+        "conversation_id": "2052883842529448214",
+        "created_at": "2026-05-08T22:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052883842529448214"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "hejaja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052883842529448214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#hejaja 我跟你们说、、我跟jaja现在快七点都没睡着于是他说要熬到第二天调整作息 我在床上打了好几个滚抗议 他说那睡眠剥夺吧 我说你（又没看过几本sm文）怎么知道这么多 他说随便编的这不是哪个国家对奴隶还是囚犯的么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 560,
+          "like_count": 25108,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10444
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:12:00.000Z",
+        "description": "转推内容可能有血腥画面请注意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thaliana_su",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thaliana_su",
+                "start": 0,
+                "url": "https://t.co/7qPJkRQkeL"
+              }
+            ]
+          }
+        },
+        "id": "2023762324038004736",
+        "name": "小苏",
+        "pinned_tweet_id": "2052870315299201452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048996480149819392/2UIAbTWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 179,
+          "like_count": 3476,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/7qPJkRQkeL",
+        "username": "salmon__sukiii",
+        "verified": false
+      }
+    ]
+  }
+}

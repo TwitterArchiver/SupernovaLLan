@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908563191141183488"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1908423957008834986",
+    "created_at": "2025-04-05T16:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T17:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908563197482971332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lGZsrrRHox",
+          "end": 33,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1908563197482971332/photo/1",
+          "media_key": "3_1908563191141183488",
+          "start": 10,
+          "url": "https://t.co/lGZsrrRHox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908563197482971332",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908423957008834986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 https://t.co/lGZsrrRHox"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1908563197482971332].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1908563197482971332",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1908563197482971332"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 522,
+        "media_key": "3_1908563191141183488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnyUHD9bMAAicEe.jpg",
+        "width": 574
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908423947441602560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnwVeAwbAAA7VdE.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908423947441602560"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "1908423957008834986",
+        "created_at": "2025-04-05T07:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T08:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908423957008834986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5YfU1M1TW",
+              "end": 50,
+              "expanded_url": "https://x.com/pyke2076/status/1908423957008834986/photo/1",
+              "media_key": "3_1908423947441602560",
+              "start": 27,
+              "url": "https://t.co/j5YfU1M1TW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908423957008834986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 702,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘记了给鼠窝的取暖器关了，20度的天气还开了电暖器🫠 https://t.co/j5YfU1M1TW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 547,
+          "like_count": 24002,
+          "listed_count": 2,
+          "media_count": 1036,
+          "tweet_count": 9532
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3998,
+          "following_count": 1025,
+          "like_count": 50208,
+          "listed_count": 5,
+          "media_count": 2333,
+          "tweet_count": 12995
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2054464359313953111",
+    "created_at": "2026-05-13T07:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054464359313953111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ckyoa2/status/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ckyoa2/status/2054211402890670341",
+          "start": 18,
+          "url": "https://t.co/pWRqriclhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054464359313953111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054211402890670341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对只有先成为了好朋友才能做爱🤲🏻🥺 https://t.co/pWRqriclhz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2054464359313953111",
+        "created_at": "2026-05-13T07:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054464359313953111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ckyoa2/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ckyoa2/status/2054211402890670341",
+              "start": 18,
+              "url": "https://t.co/pWRqriclhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054464359313953111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054211402890670341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对只有先成为了好朋友才能做爱🤲🏻🥺 https://t.co/pWRqriclhz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968368047988817923",
+        "conversation_id": "2054211402890670341",
+        "created_at": "2026-05-12T14:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054211402890670341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054211402890670341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 127885,
+          "like_count": 305,
+          "quote_count": 4,
+          "reply_count": 596,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得和朋友做爱不算约炮。我理解的约炮是和不认识的人做爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 567,
+          "like_count": 25319,
+          "listed_count": 2,
+          "media_count": 1135,
+          "tweet_count": 10552
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "只是分享生活",
+        "id": "1968368047988817923",
+        "location": "🚪188",
+        "name": "ck",
+        "pinned_tweet_id": "2050829752718774480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5238,
+          "following_count": 4,
+          "like_count": 229,
+          "listed_count": 11,
+          "media_count": 37,
+          "tweet_count": 153
+        },
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

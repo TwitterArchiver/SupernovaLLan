@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055027171429851136",
+        "3_2055027171425656832"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2054892409532948942",
+    "created_at": "2026-05-14T20:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T21:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055027183673053212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046538614209994752",
+          "start": 0,
+          "username": "overdose7days"
+        },
+        {
+          "end": 23,
+          "id": "1896904934995656704",
+          "start": 15,
+          "username": "penpunx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pmFzlfiu3W",
+          "end": 53,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2055027183673053212/photo/1",
+          "media_key": "3_2055027171429851136",
+          "start": 30,
+          "url": "https://t.co/pmFzlfiu3W"
+        },
+        {
+          "display_url": "pic.x.com/pmFzlfiu3W",
+          "end": 53,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2055027183673053212/photo/1",
+          "media_key": "3_2055027171425656832",
+          "start": 30,
+          "url": "https://t.co/pmFzlfiu3W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055027183673053212",
+    "in_reply_to_user_id": "2046538614209994752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054999601984549204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose7days @penpunx 还有多版本 https://t.co/pmFzlfiu3W"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055027183673053212].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055027183673053212",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055027183673053212"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_2055027171429851136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITsUwzaIAAfWVN.jpg",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_2055027171425656832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITsUwyaIAAo0Kr.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2054892409532948942",
+        "created_at": "2026-05-14T18:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054999601984549204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            },
+            {
+              "end": 23,
+              "id": "1896904934995656704",
+              "start": 15,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054999601984549204",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054896497070870615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan @penpunx 我想要原图🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 571,
+          "like_count": 25407,
+          "listed_count": 2,
+          "media_count": 1143,
+          "tweet_count": 10594
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 46,
+          "like_count": 2182,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 175
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 525,
+          "like_count": 13303,
+          "listed_count": 1,
+          "media_count": 517,
+          "tweet_count": 4556
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

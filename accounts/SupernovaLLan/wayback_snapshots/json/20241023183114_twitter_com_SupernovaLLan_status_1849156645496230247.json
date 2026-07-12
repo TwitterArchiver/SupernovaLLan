@@ -1,0 +1,72 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1849156635975114752"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1849156645496230247",
+    "created_at": "2024-10-23T18:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-23T19:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1849156645496230247"
+    ],
+    "id": "1849156645496230247",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 566,
+      "like_count": 7,
+      "quote_count": 2,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847703581065171066",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又被p成男娘了🥹 https://t.co/Dzrx1foSPW https://t.co/PZSK0QCnYr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1849156635975114752",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GamGKcVaYAAp4nb.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 479,
+          "like_count": 22127,
+          "listed_count": 2,
+          "tweet_count": 8893
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

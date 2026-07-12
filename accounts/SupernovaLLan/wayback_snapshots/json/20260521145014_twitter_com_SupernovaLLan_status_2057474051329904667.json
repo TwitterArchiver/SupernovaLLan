@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2057474051329904667",
+    "created_at": "2026-05-21T14:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057474051329904667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lvmaosamaqwq/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/lvmaosamaqwq/status/2057471471207981078",
+          "start": 9,
+          "url": "https://t.co/d9ZeL5tiSi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057474051329904667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057471471207981078",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "魂兮归来---- https://t.co/d9ZeL5tiSi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057471461011660800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2bZJEaoAAn6kq.jpg",
+        "width": 673
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2057474051329904667",
+        "created_at": "2026-05-21T14:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057474051329904667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lvmaosamaqwq/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/lvmaosamaqwq/status/2057471471207981078",
+              "start": 9,
+              "url": "https://t.co/d9ZeL5tiSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057474051329904667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057471471207981078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "魂兮归来---- https://t.co/d9ZeL5tiSi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057471461011660800"
+          ]
+        },
+        "author_id": "2057060384876777473",
+        "conversation_id": "2057471471207981078",
+        "created_at": "2026-05-21T14:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057471471207981078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027280531097088000",
+              "start": 3,
+              "username": "Lvmaosamaovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lokVjXonHq",
+              "end": 100,
+              "expanded_url": "https://x.com/Lvmaosamaqwq/status/2057471471207981078/photo/1",
+              "media_key": "3_2057471461011660800",
+              "start": 77,
+              "url": "https://t.co/lokVjXonHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057471471207981078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里是@Lvmaosamaovo 的后生猫猫二号机喵\n大号被堵嘴了 所以在大号解除ghost ban前会启用二号机喵～\n希望大家没有忘记我喵🥹 求转帖～ https://t.co/lokVjXonHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 577,
+          "like_count": 25682,
+          "listed_count": 2,
+          "media_count": 1149,
+          "tweet_count": 10734
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T11:27:02.000Z",
+        "description": "這裡是由於前世被ghost ban而轉身的貓貓二號機喵！\n關注貓貓喵！ 前世@Lvmaosamaovo\n✝︎天使様、ご挨拶申し上げます！✝︎\n✝︎私は天より降り注ぐ光、混沌のネット世界を照らす存在なのです✝︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2057060384876777473",
+        "location": "上海市精神衛生中心",
+        "name": "Lvmao二號機🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2057471471207981078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057455066140086272/F6qYU-ui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "Lvmaosamaqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052925060600709120"
+      ],
+      "media_source_tweet_id": [
+        "2052925065348694414"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2053376511844155764",
+    "created_at": "2026-05-10T07:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053376511844155764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1392511730580824064",
+          "start": 3,
+          "username": "Horizon_Cat_777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8wRzBIpOss",
+          "end": 85,
+          "expanded_url": "https://x.com/Horizon_Cat_777/status/2052925065348694414/photo/1",
+          "media_key": "3_2052925060600709120",
+          "start": 62,
+          "url": "https://t.co/8wRzBIpOss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053376511844155764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052925065348694414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Horizon_Cat_777: 気になって調べたら昔のやる気が凄すぎる\n1年おきに新作が出てた時代とんでもないな https://t.co/8wRzBIpOss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1645,
+        "media_key": "3_2052925060600709120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH10dzuaQAAwfAH.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052925060600709120"
+          ],
+          "media_source_tweet_id": [
+            "2052925065348694414"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2053376511844155764",
+        "created_at": "2026-05-10T07:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053376511844155764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1392511730580824064",
+              "start": 3,
+              "username": "Horizon_Cat_777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wRzBIpOss",
+              "end": 85,
+              "expanded_url": "https://x.com/Horizon_Cat_777/status/2052925065348694414/photo/1",
+              "media_key": "3_2052925060600709120",
+              "start": 62,
+              "url": "https://t.co/8wRzBIpOss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053376511844155764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052925065348694414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Horizon_Cat_777: 気になって調べたら昔のやる気が凄すぎる\n1年おきに新作が出てた時代とんでもないな https://t.co/8wRzBIpOss"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052925060600709120"
+          ]
+        },
+        "author_id": "1392511730580824064",
+        "conversation_id": "2052925065348694414",
+        "created_at": "2026-05-09T01:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052925065348694414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wRzBIpOss",
+              "end": 64,
+              "expanded_url": "https://x.com/Horizon_Cat_777/status/2052925065348694414/photo/1",
+              "media_key": "3_2052925060600709120",
+              "start": 41,
+              "url": "https://t.co/8wRzBIpOss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052925065348694414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 45774,
+          "like_count": 612,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "気になって調べたら昔のやる気が凄すぎる\n1年おきに新作が出てた時代とんでもないな https://t.co/8wRzBIpOss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053375252001153024/5HxxDzIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 563,
+          "like_count": 25196,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10486
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T16:07:31.000Z",
+        "description": "ゲームしようぜ",
+        "id": "1392511730580824064",
+        "name": "イフデ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838465380844736512/e965Ftgj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 1056,
+          "like_count": 41852,
+          "listed_count": 3,
+          "media_count": 549,
+          "tweet_count": 2334
+        },
+        "username": "Horizon_Cat_777",
+        "verified": false
+      }
+    ]
+  }
+}

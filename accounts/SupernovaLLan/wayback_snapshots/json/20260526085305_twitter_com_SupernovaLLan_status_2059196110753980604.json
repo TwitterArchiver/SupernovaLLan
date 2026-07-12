@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2059180483049930924",
+    "created_at": "2026-05-26T08:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059196110753980604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059196110753980604",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059180483049930924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 我去一眼变成副处级主任"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8196,
+        "height": 1280,
+        "media_key": "7_2059180441941483520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059180441941483520/pu/img/J3yk7T1afQy0fLxb.jpg",
+        "public_metrics": {
+          "view_count": 68
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059180441941483520/pu/vid/avc1/320x568/6Yzx4GfPfvb8Wnr9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059180441941483520/pu/vid/avc1/480x852/o7IdxHmraibHOjUq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059180441941483520/pu/vid/avc1/720x1280/aBvOZlvi0I0ae65p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059180441941483520/pu/pl/AT4V7AqfqvWsW_v9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2059180483049930924",
+        "created_at": "2026-05-26T08:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059196110753980604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059196110753980604",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059180483049930924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我去一眼变成副处级主任"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059180441941483520"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2059180483049930924",
+        "created_at": "2026-05-26T07:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059180483049930924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQr3Dd0kH4",
+              "end": 39,
+              "expanded_url": "https://x.com/IXXA00/status/2059180483049930924/video/1",
+              "media_key": "7_2059180441941483520",
+              "start": 16,
+              "url": "https://t.co/yQr3Dd0kH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059180483049930924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不应该让tony姨给我剪的。😇 https://t.co/yQr3Dd0kH4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 587,
+          "like_count": 25927,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 10811
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "睡死在黎明永远不会到来的夜里。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7047,
+          "following_count": 4499,
+          "like_count": 40350,
+          "listed_count": 18,
+          "media_count": 2959,
+          "tweet_count": 40271
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

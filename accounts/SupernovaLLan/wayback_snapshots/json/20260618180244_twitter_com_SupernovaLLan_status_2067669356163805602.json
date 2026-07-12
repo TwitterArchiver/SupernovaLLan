@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067669283845607424",
+        "13_2067669284218867712"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2067669356163805602",
+    "created_at": "2026-06-18T18:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067669356163805602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pPivhpQ2o1",
+          "end": 112,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2067669356163805602/video/1",
+          "media_key": "3_2067669283845607424",
+          "start": 89,
+          "url": "https://t.co/pPivhpQ2o1"
+        },
+        {
+          "display_url": "pic.x.com/pPivhpQ2o1",
+          "end": 112,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2067669356163805602/video/1",
+          "media_key": "13_2067669284218867712",
+          "start": 89,
+          "url": "https://t.co/pPivhpQ2o1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067669356163805602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "放过我可怜的牙吧本来也没几颗真的辣……\n下意识翻翻硬糖还给我咯掉一块😿\n釉质发育不全让我年纪轻轻满口假牙冠了已经✋🏻😭🤚🏻\n倒是翻出来之前用盐酸融碎下来的牙的猎奇视频了hhhh https://t.co/pPivhpQ2o1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067669356163805602].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067669356163805602",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067669356163805602"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067669283845607424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHWQjiakAAXKHr.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 5903,
+        "height": 720,
+        "media_key": "13_2067669284218867712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067669284218867712/img/Gr4u8528jQyw-9FD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067669284218867712/vid/avc1/480x270/2_KafHE2NuwvE_52.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067669284218867712/vid/avc1/640x360/1EGSXF00CFzaPt0c.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067669284218867712/vid/avc1/1280x720/pd1wlsZsZpZuPwRT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067669284218867712/pl/IbtTVPbbZqHLPVLn.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 618,
+          "like_count": 26983,
+          "listed_count": 2,
+          "media_count": 1197,
+          "tweet_count": 11168
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

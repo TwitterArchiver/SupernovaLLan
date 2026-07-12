@@ -1,0 +1,67 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1847703572504596483"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1847703581065171066",
+    "created_at": "2024-10-19T18:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T19:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847703581065171066"
+    ],
+    "id": "1847703581065171066",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 740,
+      "like_count": 6,
+      "quote_count": 1,
+      "reply_count": 6,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呀被从背后偷拍并且p图了🙀\n🫣花枝鼠巨蛋 https://t.co/ABUnZpZQlm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1847703572504596483",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaRcnBFbUAMXoKo.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 486,
+          "like_count": 22181,
+          "listed_count": 2,
+          "media_count": 983,
+          "tweet_count": 8930
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

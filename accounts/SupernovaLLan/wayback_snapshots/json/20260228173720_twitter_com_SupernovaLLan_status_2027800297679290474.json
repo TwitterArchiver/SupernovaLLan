@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027587994014867456"
+      ],
+      "media_source_tweet_id": [
+        "2027588751799771312"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2027800297679290474",
+    "created_at": "2026-02-28T17:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T18:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027800297679290474"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 49,
+          "tag": "layeredminds"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1258032566801555458",
+          "start": 3,
+          "username": "minima_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qoENZjxgqY",
+          "end": 86,
+          "expanded_url": "https://x.com/minima_ai/status/2027588751799771312/photo/1",
+          "media_key": "3_2027587994014867456",
+          "start": 63,
+          "url": "https://t.co/qoENZjxgqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027800297679290474",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027588751799771312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minima_ai: EP.DRIFTING ACROSS MENTAL STRATA\n\n#layeredminds https://t.co/qoENZjxgqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2027587994014867456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNwibYaYAAzF_x.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027587994014867456"
+          ],
+          "media_source_tweet_id": [
+            "2027588751799771312"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2027800297679290474",
+        "created_at": "2026-02-28T17:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027800297679290474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 49,
+              "tag": "layeredminds"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1258032566801555458",
+              "start": 3,
+              "username": "minima_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoENZjxgqY",
+              "end": 86,
+              "expanded_url": "https://x.com/minima_ai/status/2027588751799771312/photo/1",
+              "media_key": "3_2027587994014867456",
+              "start": 63,
+              "url": "https://t.co/qoENZjxgqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027800297679290474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027588751799771312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minima_ai: EP.DRIFTING ACROSS MENTAL STRATA\n\n#layeredminds https://t.co/qoENZjxgqY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027587994014867456"
+          ]
+        },
+        "author_id": "1258032566801555458",
+        "conversation_id": "2027588751799771312",
+        "created_at": "2026-02-28T03:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:33:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027587998498664860",
+          "2027588751799771312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 34,
+              "tag": "layeredminds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoENZjxgqY",
+              "end": 71,
+              "expanded_url": "https://x.com/minima_ai/status/2027588751799771312/photo/1",
+              "media_key": "3_2027587994014867456",
+              "start": 48,
+              "url": "https://t.co/qoENZjxgqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027588751799771312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 5223,
+          "like_count": 379,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "EP.DRIFTING ACROSS MENTAL STRATA\n\n#layeredminds https://t.co/qoENZjxgqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 530,
+          "like_count": 24585,
+          "listed_count": 2,
+          "media_count": 1099,
+          "tweet_count": 10062
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T13:55:20.000Z",
+        "description": "Experimental Composer (1i '11-'19) https://t.co/L4chRuYj84 | AIArt + Music + Video | #SunRraiz | Portfolio: https://t.co/cyyvEQuIex | minimasub@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 85,
+                "tag": "SunRraiz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "1imusic.bandcamp.com",
+                "end": 58,
+                "expanded_url": "https://1imusic.bandcamp.com",
+                "start": 35,
+                "url": "https://t.co/L4chRuYj84"
+              },
+              {
+                "display_url": "minimas.notion.site/MINIMA-Portfol…",
+                "end": 131,
+                "expanded_url": "https://minimas.notion.site/MINIMA-Portfolio-2a4a94aab829802997b5efc9eec83531",
+                "start": 108,
+                "url": "https://t.co/cyyvEQuIex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minimas.notion.site/MINIMA-Portfol…",
+                "end": 23,
+                "expanded_url": "https://minimas.notion.site/MINIMA-Portfolio-2a4a94aab829802997b5efc9eec83531",
+                "start": 0,
+                "url": "https://t.co/cyyvEQuaoZ"
+              }
+            ]
+          }
+        },
+        "id": "1258032566801555458",
+        "location": "高知県",
+        "name": "MINIMA",
+        "pinned_tweet_id": "2024773057282548088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963906184802693120/xqXllyV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10119,
+          "following_count": 808,
+          "like_count": 25660,
+          "listed_count": 91,
+          "media_count": 3081,
+          "tweet_count": 5165
+        },
+        "url": "https://t.co/cyyvEQuaoZ",
+        "username": "minima_ai",
+        "verified": true
+      }
+    ]
+  }
+}

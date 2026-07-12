@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1912843625123520848",
+    "created_at": "2025-04-17T12:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T13:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912846583760359890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752729743471132672",
+          "start": 0,
+          "username": "yamato812536"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912846583760359890",
+    "in_reply_to_user_id": "1752729743471132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912843625123520848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamato812536 太贪总想全吃到🙂‍↔️落袋为安啊，怎么踏空比亏了还难受。搞股票也要有自己的认知和主见，坚定去搏高位的人不会轻易卖了，卖了之后在这抱怨踏空的要是觉得自己能行那就再去接回来嘛，盈亏自负。觉得自己不想冒险跟跟着y师傅赚些稳当钱就听话跟着做吃多少算多少，获益良多还要挑三拣四乃白眼狼行为嗷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1912843625123520848",
+        "created_at": "2025-04-17T12:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T13:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912846583760359890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752729743471132672",
+              "start": 0,
+              "username": "yamato812536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912846583760359890",
+        "in_reply_to_user_id": "1752729743471132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912843625123520848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamato812536 太贪总想全吃到🙂‍↔️落袋为安啊，怎么踏空比亏了还难受。搞股票也要有自己的认知和主见，坚定去搏高位的人不会轻易卖了，卖了之后在这抱怨踏空的要是觉得自己能行那就再去接回来嘛，盈亏自负。觉得自己不想冒险跟跟着y师傅赚些稳当钱就听话跟着做吃多少算多少，获益良多还要挑三拣四乃白眼狼行为嗷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752729743471132672",
+        "conversation_id": "1912843625123520848",
+        "created_at": "2025-04-17T12:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T13:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912843625123520848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912843625123520848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 857,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我航发科技要考虑的是这么多人跟着 我不得保证你们赚钱安稳下车吗？ 我责任重大 我是不可能让你们去重仓博弈高位 的 我本来就是偏稳思路的 而且19-22你们高抛低吸很多次了 早就吃饱了 人家Mi酱那是指的最高价 那是完全可能的 我要考虑的是我身后多少家庭能全身而退 四月份真的好做吗？别乱评论害我挨骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 548,
+          "like_count": 24125,
+          "listed_count": 2,
+          "media_count": 1040,
+          "tweet_count": 9563
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T16:25:21.000Z",
+        "description": "我在国内没有抖音 小红书 这些垃圾平台的账号 我也不荐股 不要被冒牌货骗 我只是好玩顺手分享一下知识 要看来X上看",
+        "id": "1752729743471132672",
+        "location": "广州 北京路步行街",
+        "name": "yamato23",
+        "pinned_tweet_id": "1912843625123520848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796802887827566592/OMLV2oJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24582,
+          "following_count": 347,
+          "like_count": 19732,
+          "listed_count": 362,
+          "media_count": 1236,
+          "tweet_count": 20593
+        },
+        "username": "yamato812536",
+        "verified": true
+      }
+    ]
+  }
+}

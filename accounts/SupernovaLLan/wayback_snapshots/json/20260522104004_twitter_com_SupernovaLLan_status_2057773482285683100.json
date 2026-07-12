@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057667508086472704"
+      ],
+      "media_source_tweet_id": [
+        "2057667514457579795"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057773482285683100",
+    "created_at": "2026-05-22T10:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057773482285683100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "895697097554448384",
+          "start": 3,
+          "username": "NeneneAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yoHD3CM8NX",
+          "end": 50,
+          "expanded_url": "https://x.com/NeneneAI/status/2057667514457579795/photo/1",
+          "media_key": "3_2057667508086472704",
+          "start": 27,
+          "url": "https://t.co/yoHD3CM8NX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057773482285683100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 531
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057667514457579795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NeneneAI: すまない、そっちは残像だ https://t.co/yoHD3CM8NX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2057667508086472704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5NslVbgAAIK7v.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057667508086472704"
+          ],
+          "media_source_tweet_id": [
+            "2057667514457579795"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057773482285683100",
+        "created_at": "2026-05-22T10:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057773482285683100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "895697097554448384",
+              "start": 3,
+              "username": "NeneneAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yoHD3CM8NX",
+              "end": 50,
+              "expanded_url": "https://x.com/NeneneAI/status/2057667514457579795/photo/1",
+              "media_key": "3_2057667508086472704",
+              "start": 27,
+              "url": "https://t.co/yoHD3CM8NX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057773482285683100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 531
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057667514457579795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NeneneAI: すまない、そっちは残像だ https://t.co/yoHD3CM8NX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057667508086472704"
+          ]
+        },
+        "author_id": "895697097554448384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057667514457579795",
+        "created_at": "2026-05-22T03:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057667514457579795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yoHD3CM8NX",
+              "end": 36,
+              "expanded_url": "https://x.com/NeneneAI/status/2057667514457579795/photo/1",
+              "media_key": "3_2057667508086472704",
+              "start": 13,
+              "url": "https://t.co/yoHD3CM8NX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057667514457579795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 876,
+          "impression_count": 358791,
+          "like_count": 8498,
+          "quote_count": 41,
+          "reply_count": 161,
+          "retweet_count": 531
+        },
+        "reply_settings": "everyone",
+        "text": "すまない、そっちは残像だ https://t.co/yoHD3CM8NX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 579,
+          "like_count": 25726,
+          "listed_count": 2,
+          "media_count": 1152,
+          "tweet_count": 10746
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-10T17:23:24.000Z",
+        "description": "💝AIで愛を届けるアイドル💝\n💓イラストや動画、スペースの音声はAIになります💓\n\nご依頼、ご相談はDMまでお願いします🙏\n\n履歴書はプロフのリンクに♪\n2026年も走り回ってます😊💕\n\nボドゲ年間計画・運営\n#AWAKEHEROESクリエイター祭り2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 105,
+                "tag": "AWAKEHEROESクリエイター祭り2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.prairie.cards/u/NeneneAI",
+                "end": 23,
+                "expanded_url": "https://my.prairie.cards/u/NeneneAI",
+                "start": 0,
+                "url": "https://t.co/o3JhLSGlq6"
+              }
+            ]
+          }
+        },
+        "id": "895697097554448384",
+        "name": "ねね*AIcreator",
+        "pinned_tweet_id": "2057667514457579795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004207936642678785/IStLRcCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34660,
+          "following_count": 1094,
+          "like_count": 54269,
+          "listed_count": 307,
+          "media_count": 6418,
+          "tweet_count": 33886
+        },
+        "url": "https://t.co/o3JhLSGlq6",
+        "username": "NeneneAI",
+        "verified": true
+      }
+    ]
+  }
+}

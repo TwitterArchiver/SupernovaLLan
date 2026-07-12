@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2052005096524022150",
+    "created_at": "2026-05-06T12:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052005101284552758"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052005101284552758",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052005096524022150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ps：普瑞几乎没有肝酶代谢基本上都是原药肾代谢经尿排出，想省普瑞并且下得去口的确实是可以考虑饮尿*不过按照普瑞的耐药速度来看体验会下滑不少，并且肾辛苦过滤出来的尿又饮回去真是肾的活爹🫨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2052005096524022150",
+        "created_at": "2026-05-06T12:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052005101284552758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052005101284552758",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052005096524022150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ps：普瑞几乎没有肝酶代谢基本上都是原药肾代谢经尿排出，想省普瑞并且下得去口的确实是可以考虑饮尿*不过按照普瑞的耐药速度来看体验会下滑不少，并且肾辛苦过滤出来的尿又饮回去真是肾的活爹🫨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2052005096524022150",
+        "created_at": "2026-05-06T12:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052005096524022150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2051996040711258195",
+              "start": 117,
+              "url": "https://t.co/vJ98YZtkWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052005096524022150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051996040711258195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按我理解，克拉霉素对右美药效增幅是源于抑制CYP3A4酶这条次要代谢路径，让更多DXM走主要的CYP2D6酶代谢成起效成分DXO，从而提高血药暴露量。但是原帖给的计算外推不当并且过于夸张了，实际效果应该并不显著，并且确实增加肝负担。 https://t.co/vJ98YZtkWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 550,
+          "like_count": 24974,
+          "listed_count": 2,
+          "media_count": 1125,
+          "tweet_count": 10391
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

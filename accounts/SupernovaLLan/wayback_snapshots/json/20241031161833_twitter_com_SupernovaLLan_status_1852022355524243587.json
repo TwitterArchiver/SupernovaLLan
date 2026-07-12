@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1852020621200556356",
+    "created_at": "2024-10-31T16:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T17:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852022355524243587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1729161158924353536",
+          "start": 0,
+          "username": "NANnan868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852022355524243587",
+    "in_reply_to_user_id": "1729161158924353536",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852020621200556356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NANnan868 现在你那其实还是乡下😇不过身边被素质更高的人围绕了\n加油南"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1852020621200556356",
+        "created_at": "2024-10-31T16:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T17:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852022355524243587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729161158924353536",
+              "start": 0,
+              "username": "NANnan868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852022355524243587",
+        "in_reply_to_user_id": "1729161158924353536",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852020621200556356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NANnan868 现在你那其实还是乡下😇不过身边被素质更高的人围绕了\n加油南"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729161158924353536",
+        "conversation_id": "1852020621200556356",
+        "created_at": "2024-10-31T16:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T17:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852020621200556356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852020621200556356",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭我也是乡下土妹子精神小妹好自卑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 469,
+          "like_count": 21691,
+          "listed_count": 2,
+          "tweet_count": 8651
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T15:32:03.000Z",
+        "description": "什么时候学会残忍 对别人残忍 对自己残忍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minamiovo233.github.io",
+                "end": 23,
+                "expanded_url": "http://minamiovo233.github.io/",
+                "start": 0,
+                "url": "https://t.co/srdDQsn6bo"
+              }
+            ]
+          }
+        },
+        "id": "1729161158924353536",
+        "location": "地狱",
+        "name": "未来鼠科技",
+        "pinned_tweet_id": "1849755288162951567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850536249767198720/o8H9FoQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 67,
+          "like_count": 274,
+          "listed_count": 1,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/srdDQsn6bo",
+        "username": "NANnan868",
+        "verified": false
+      }
+    ]
+  }
+}

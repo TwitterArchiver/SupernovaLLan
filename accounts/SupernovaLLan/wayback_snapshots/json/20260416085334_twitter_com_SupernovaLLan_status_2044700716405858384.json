@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2044700716405858384",
+    "created_at": "2026-04-16T08:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044700716405858384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/niyu0miku/stat…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/niyu0miku/status/2044424547466916069",
+          "start": 32,
+          "url": "https://t.co/FECoVW86SA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044700716405858384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044424547466916069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有那个什么冰火套🤬是不是一面薄荷一面辣椒素啊每次用到都被辣萎 https://t.co/FECoVW86SA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2044424538747019264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9BSUIboAAkXfT.jpg",
+        "width": 460
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2044424542509289472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9BSiJbUAANc4Z.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2044700716405858384",
+        "created_at": "2026-04-16T08:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044700716405858384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niyu0miku/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/niyu0miku/status/2044424547466916069",
+              "start": 32,
+              "url": "https://t.co/FECoVW86SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044700716405858384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044424547466916069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有那个什么冰火套🤬是不是一面薄荷一面辣椒素啊每次用到都被辣萎 https://t.co/FECoVW86SA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044424538747019264",
+            "3_2044424542509289472"
+          ]
+        },
+        "author_id": "1568476402420428801",
+        "conversation_id": "2044424547466916069",
+        "created_at": "2026-04-15T14:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044424547466916069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7AIQYtr9G",
+              "end": 155,
+              "expanded_url": "https://x.com/niyu0miku/status/2044424547466916069/photo/1",
+              "media_key": "3_2044424538747019264",
+              "start": 132,
+              "url": "https://t.co/I7AIQYtr9G"
+            },
+            {
+              "display_url": "pic.x.com/I7AIQYtr9G",
+              "end": 155,
+              "expanded_url": "https://x.com/niyu0miku/status/2044424547466916069/photo/1",
+              "media_key": "3_2044424542509289472",
+              "start": 132,
+              "url": "https://t.co/I7AIQYtr9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044424547466916069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8901,
+          "like_count": 90,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "不是哥们，我去，我终于知道我之前约炮阳痿是为什么了😥😥原来不是我的问题，是因为，我用的那个奶白色润滑里面加了辣椒素🌶🌶，我特么牛子辣的立不起来。刚刚试了一下用那个白的我牛子死活塞不进杯子（软），tm洗干净换了正常润滑就能塞进去，无敌了，什么润滑油里面会加辣椒啊！ https://t.co/I7AIQYtr9G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 522,
+          "like_count": 24299,
+          "listed_count": 2,
+          "media_count": 1105,
+          "tweet_count": 10132
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T05:48:18.000Z",
+        "description": "游戏甜糕糕手🍰太刀超喜欢，也会玩狩猎笛。然后也是天才美少女！赛博钓鱼佬，种地搭建筑糕手。战斗也是小小精通。全能型打游戏选手（就是什么都不专精）不约线下（🚪88）\n聊天纸飞机https://t.co/QKOPKpAsYk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+HpTeQKAcbYI1N…",
+                "end": 109,
+                "expanded_url": "https://t.me/+HpTeQKAcbYI1Nzc1",
+                "start": 86,
+                "url": "https://t.co/QKOPKpAsYk"
+              }
+            ]
+          }
+        },
+        "id": "1568476402420428801",
+        "location": "天空城卡洛斯3街12号二楼橱柜",
+        "name": "雾语吟鸾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011729687723020288/MGKGHRoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12641,
+          "following_count": 466,
+          "like_count": 1829,
+          "listed_count": 63,
+          "media_count": 42,
+          "tweet_count": 2673
+        },
+        "username": "niyu0miku",
+        "verified": false
+      }
+    ]
+  }
+}

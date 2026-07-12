@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1905772396277354540",
+    "created_at": "2025-03-29T02:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T03:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905808936445300974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752729743471132672",
+          "start": 0,
+          "username": "yamato812536"
+        }
+      ],
+      "urls": [
+        {
+          "description": "鬼畜素材, 视频播放量 518227、弹幕量 402、点赞数 13380、投硬币枚数 736、收藏人数 8072、转发人数 2242, 视频作者 岚霏Fei, 作者简介 素材来自网络，侵删，相关视频：森下下士 日语原版，当日本女生打开「森下下士」很有精神中文配音版后… 听不见就去医院啊喂！前辈特权在现在的日本仍然存在？！，【现 代 圣 杯 战 争】，《柏林之声》，元首的愤怒原版【高清】，“森下他还好吗？”“不，森下他死了。”，【万恶之源】听不见！大声点！但是全女声配音，van样DDF原版，“阿甘你真是个天才，你TM的智商一定有一百六十！”，原版香蕉君！！！",
+          "display_url": "bilibili.com/video/BV15b4y1…",
+          "end": 37,
+          "expanded_url": "https://www.bilibili.com/video/BV15b4y1V7yx",
+          "start": 14,
+          "status": 200,
+          "title": "【高清修复4k60帧】名场面 好 ，很 有 精 神_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV15b4y1V7yx/",
+          "url": "https://t.co/QUZSasaV6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905808936445300974",
+    "in_reply_to_user_id": "1752729743471132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905772396277354540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamato812536 https://t.co/QUZSasaV6t\n怎么还看鬼畜素材的🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1905772396277354540",
+        "created_at": "2025-03-29T02:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T03:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905808936445300974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752729743471132672",
+              "start": 0,
+              "username": "yamato812536"
+            }
+          ],
+          "urls": [
+            {
+              "description": "鬼畜素材, 视频播放量 518227、弹幕量 402、点赞数 13380、投硬币枚数 736、收藏人数 8072、转发人数 2242, 视频作者 岚霏Fei, 作者简介 素材来自网络，侵删，相关视频：森下下士 日语原版，当日本女生打开「森下下士」很有精神中文配音版后… 听不见就去医院啊喂！前辈特权在现在的日本仍然存在？！，【现 代 圣 杯 战 争】，《柏林之声》，元首的愤怒原版【高清】，“森下他还好吗？”“不，森下他死了。”，【万恶之源】听不见！大声点！但是全女声配音，van样DDF原版，“阿甘你真是个天才，你TM的智商一定有一百六十！”，原版香蕉君！！！",
+              "display_url": "bilibili.com/video/BV15b4y1…",
+              "end": 37,
+              "expanded_url": "https://www.bilibili.com/video/BV15b4y1V7yx",
+              "start": 14,
+              "status": 200,
+              "title": "【高清修复4k60帧】名场面 好 ，很 有 精 神_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV15b4y1V7yx/",
+              "url": "https://t.co/QUZSasaV6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905808936445300974",
+        "in_reply_to_user_id": "1752729743471132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905772396277354540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamato812536 https://t.co/QUZSasaV6t\n怎么还看鬼畜素材的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752729743471132672",
+        "conversation_id": "1905772396277354540",
+        "created_at": "2025-03-29T00:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T01:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905772396277354540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbbubblecat/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/bbbubblecat/status/1905772192639721479",
+              "start": 10,
+              "url": "https://t.co/0ex5W96dMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905772396277354540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1558,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905772192639721479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇 我晚点回家看看 https://t.co/0ex5W96dMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 531,
+          "like_count": 23868,
+          "listed_count": 2,
+          "media_count": 1032,
+          "tweet_count": 9487
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T16:25:21.000Z",
+        "description": "我在国内没有抖音 小红书 这些垃圾平台的账号 我也不荐股 不要被冒牌货骗 我只是好玩顺手分享一下知识 要看来X上看",
+        "id": "1752729743471132672",
+        "location": "重庆 解放碑步行街",
+        "name": "yamato23",
+        "pinned_tweet_id": "1905806955270250834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796802887827566592/OMLV2oJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23866,
+          "following_count": 318,
+          "like_count": 17536,
+          "listed_count": 353,
+          "media_count": 1131,
+          "tweet_count": 19058
+        },
+        "username": "yamato812536",
+        "verified": true
+      }
+    ]
+  }
+}

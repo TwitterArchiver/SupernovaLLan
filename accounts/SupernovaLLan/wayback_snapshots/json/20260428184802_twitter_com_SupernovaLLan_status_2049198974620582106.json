@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2049198974620582106",
+    "created_at": "2026-04-28T18:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T19:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049198974620582106"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049198974620582106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "或许我有一定程度的adhd吧，很难计划性地完成一整件事情，每天主线任务之外能给自己同时开十几个副本去做然后净是烂尾的。丢三落四找不到东西然后就开始暴躁易怒；不会无聊但是一直在找事情做闲不下来……小学时候班主任最经常批我说这孩子是不是多动症屁股长刺了，难不成是一语成谶了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2049198974620582106",
+        "created_at": "2026-04-28T18:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049198974620582106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049198974620582106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许我有一定程度的adhd吧，很难计划性地完成一整件事情，每天主线任务之外能给自己同时开十几个副本去做然后净是烂尾的。丢三落四找不到东西然后就开始暴躁易怒；不会无聊但是一直在找事情做闲不下来……小学时候班主任最经常批我说这孩子是不是多动症屁股长刺了，难不成是一语成谶了😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 536,
+          "like_count": 24613,
+          "listed_count": 2,
+          "media_count": 1116,
+          "tweet_count": 10260
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

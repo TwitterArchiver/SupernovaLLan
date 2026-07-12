@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859224704625569792"
+      ],
+      "media_source_tweet_id": [
+        "1859224717351178720"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1859450235019460897",
+    "created_at": "2024-11-21T04:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T05:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859450235019460897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1146944501073637376",
+          "start": 3,
+          "username": "lclflavor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/asHfYGzu4o",
+          "end": 38,
+          "expanded_url": "https://x.com/lclflavor/status/1859224717351178720/photo/1",
+          "media_key": "3_1859224704625569792",
+          "start": 15,
+          "url": "https://t.co/asHfYGzu4o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859450235019460897",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 629
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859224717351178720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lclflavor: https://t.co/asHfYGzu4o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1540,
+        "media_key": "3_1859224704625569792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc1LBKzWcAAanCi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859224704625569792"
+          ],
+          "media_source_tweet_id": [
+            "1859224717351178720"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1859450235019460897",
+        "created_at": "2024-11-21T04:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T05:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859450235019460897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1146944501073637376",
+              "start": 3,
+              "username": "lclflavor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/asHfYGzu4o",
+              "end": 38,
+              "expanded_url": "https://x.com/lclflavor/status/1859224717351178720/photo/1",
+              "media_key": "3_1859224704625569792",
+              "start": 15,
+              "url": "https://t.co/asHfYGzu4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859450235019460897",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 629
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859224717351178720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lclflavor: https://t.co/asHfYGzu4o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859224704625569792"
+          ]
+        },
+        "author_id": "1146944501073637376",
+        "conversation_id": "1859224717351178720",
+        "created_at": "2024-11-20T13:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T14:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859224717351178720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/asHfYGzu4o",
+              "end": 23,
+              "expanded_url": "https://x.com/lclflavor/status/1859224717351178720/photo/1",
+              "media_key": "3_1859224704625569792",
+              "start": 0,
+              "url": "https://t.co/asHfYGzu4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859224717351178720",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 84061,
+          "like_count": 5454,
+          "quote_count": 59,
+          "reply_count": 20,
+          "retweet_count": 629
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/asHfYGzu4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 470,
+          "like_count": 22047,
+          "listed_count": 2,
+          "tweet_count": 8836
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-05T00:50:53.000Z",
+        "description": "Dedicados a #NeonGenesisEvangelion dejando en cada meme nuestro LCL, con la finalidad de ser recordados siempre por la humanidad.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 12,
+                "tag": "NeonGenesisEvangelion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/lclflavor2",
+                "end": 23,
+                "expanded_url": "https://facebook.com/lclflavor2",
+                "start": 0,
+                "url": "https://t.co/s0VTiiIFLt"
+              }
+            ]
+          }
+        },
+        "id": "1146944501073637376",
+        "location": "TIJUANA-3",
+        "name": "𝐋𝐂𝐋 𝐅𝐥𝐚𝐯𝐨𝐫",
+        "pinned_tweet_id": "1146963067785404417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1403068121750114306/0PTpA6-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20111,
+          "following_count": 397,
+          "like_count": 6722,
+          "listed_count": 27,
+          "tweet_count": 3758
+        },
+        "url": "https://t.co/s0VTiiIFLt",
+        "username": "lclflavor",
+        "verified": false
+      }
+    ]
+  }
+}

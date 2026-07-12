@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1879874411391783051",
+    "created_at": "2025-01-16T14:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T15:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879898366693556233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879898366693556233",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879874411391783051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 😻😻😻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1879874411391783051",
+        "created_at": "2025-01-16T14:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T15:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879898366693556233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879898366693556233",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879874411391783051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 😻😻😻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879874398330765312"
+          ]
+        },
+        "author_id": "1650760116918943744",
+        "conversation_id": "1879874411391783051",
+        "created_at": "2025-01-16T12:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T13:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879874411391783051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ppQCHT9YC3",
+              "end": 23,
+              "expanded_url": "https://x.com/yusanyyy8/status/1879874411391783051/photo/1",
+              "media_key": "3_1879874398330765312",
+              "start": 0,
+              "url": "https://t.co/ppQCHT9YC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879874411391783051",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ppQCHT9YC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 518,
+          "like_count": 23077,
+          "listed_count": 2,
+          "media_count": 1013,
+          "tweet_count": 9288
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "@minamiovo233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "minamiovo233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/OXuM4vbTaK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "   ",
+        "name": "TFEI终端机",
+        "pinned_tweet_id": "1861045420178472963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861060221797605376/eCnGL3pL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 976,
+          "like_count": 45644,
+          "listed_count": 5,
+          "media_count": 343,
+          "tweet_count": 9169
+        },
+        "url": "https://t.co/OXuM4vbTaK",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

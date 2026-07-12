@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028399665386045440"
+      ],
+      "media_source_tweet_id": [
+        "2028399669408346251"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2028686585966027050",
+    "created_at": "2026-03-03T04:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T05:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028686585966027050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1258032566801555458",
+          "start": 3,
+          "username": "minima_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1OrD8Qlnhs",
+          "end": 38,
+          "expanded_url": "https://x.com/minima_ai/status/2028399669408346251/photo/1",
+          "media_key": "3_2028399665386045440",
+          "start": 15,
+          "url": "https://t.co/1OrD8Qlnhs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028686585966027050",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028399669408346251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minima_ai: https://t.co/1OrD8Qlnhs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2028399665386045440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZSv63bQAANgim.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028399665386045440"
+          ],
+          "media_source_tweet_id": [
+            "2028399669408346251"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2028686585966027050",
+        "created_at": "2026-03-03T04:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028686585966027050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1258032566801555458",
+              "start": 3,
+              "username": "minima_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OrD8Qlnhs",
+              "end": 38,
+              "expanded_url": "https://x.com/minima_ai/status/2028399669408346251/photo/1",
+              "media_key": "3_2028399665386045440",
+              "start": 15,
+              "url": "https://t.co/1OrD8Qlnhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028686585966027050",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028399669408346251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minima_ai: https://t.co/1OrD8Qlnhs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028399665386045440"
+          ]
+        },
+        "author_id": "1258032566801555458",
+        "conversation_id": "2028399669408346251",
+        "created_at": "2026-03-02T09:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028399669408346251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OrD8Qlnhs",
+              "end": 23,
+              "expanded_url": "https://x.com/minima_ai/status/2028399669408346251/photo/1",
+              "media_key": "3_2028399665386045440",
+              "start": 0,
+              "url": "https://t.co/1OrD8Qlnhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028399669408346251",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 23181,
+          "like_count": 2659,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1OrD8Qlnhs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 530,
+          "like_count": 24602,
+          "listed_count": 2,
+          "media_count": 1099,
+          "tweet_count": 10064
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T13:55:20.000Z",
+        "description": "Experimental Composer (1i '11-'19) https://t.co/L4chRuYj84 | AIArt + Music + Video | #SunRraiz | Portfolio: https://t.co/cyyvEQuIex | minimasub@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 85,
+                "tag": "SunRraiz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "1imusic.bandcamp.com",
+                "end": 58,
+                "expanded_url": "https://1imusic.bandcamp.com",
+                "start": 35,
+                "url": "https://t.co/L4chRuYj84"
+              },
+              {
+                "display_url": "minimas.notion.site/MINIMA-Portfol…",
+                "end": 131,
+                "expanded_url": "https://minimas.notion.site/MINIMA-Portfolio-2a4a94aab829802997b5efc9eec83531",
+                "start": 108,
+                "url": "https://t.co/cyyvEQuIex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minimas.notion.site/MINIMA-Portfol…",
+                "end": 23,
+                "expanded_url": "https://minimas.notion.site/MINIMA-Portfolio-2a4a94aab829802997b5efc9eec83531",
+                "start": 0,
+                "url": "https://t.co/cyyvEQuaoZ"
+              }
+            ]
+          }
+        },
+        "id": "1258032566801555458",
+        "location": "高知県",
+        "name": "MINIMA",
+        "pinned_tweet_id": "2024773057282548088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963906184802693120/xqXllyV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10390,
+          "following_count": 808,
+          "like_count": 25706,
+          "listed_count": 92,
+          "media_count": 3086,
+          "tweet_count": 5177
+        },
+        "url": "https://t.co/cyyvEQuaoZ",
+        "username": "minima_ai",
+        "verified": true
+      }
+    ]
+  }
+}

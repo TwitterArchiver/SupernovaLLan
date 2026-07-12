@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924863587199418369",
+        "3_1924863587207794688",
+        "3_1924863587212001291",
+        "7_1924863587220389890"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1924863621538148595",
+    "created_at": "2025-05-20T16:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T17:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924863621538148595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FXZxb1JoqW",
+          "end": 45,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1924863621538148595/video/1",
+          "media_key": "3_1924863587199418369",
+          "start": 22,
+          "url": "https://t.co/FXZxb1JoqW"
+        },
+        {
+          "display_url": "pic.x.com/FXZxb1JoqW",
+          "end": 45,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1924863621538148595/video/1",
+          "media_key": "3_1924863587207794688",
+          "start": 22,
+          "url": "https://t.co/FXZxb1JoqW"
+        },
+        {
+          "display_url": "pic.x.com/FXZxb1JoqW",
+          "end": 45,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1924863621538148595/video/1",
+          "media_key": "3_1924863587212001291",
+          "start": 22,
+          "url": "https://t.co/FXZxb1JoqW"
+        },
+        {
+          "display_url": "pic.x.com/FXZxb1JoqW",
+          "end": 45,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1924863621538148595/video/1",
+          "media_key": "7_1924863587220389890",
+          "start": 22,
+          "url": "https://t.co/FXZxb1JoqW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924863621538148595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下雨天就该搞点寿喜锅拱在一起边吃边看番啊🥰 https://t.co/FXZxb1JoqW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924863621538148595].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924863621538148595",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924863621538148595"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924863587199418369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZ9O_QbAAEyKxh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924863587207794688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZ9O_Sa0AAVanf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924863587212001291",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZ9O_TbAAsdMOe.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 3168,
+        "height": 1280,
+        "media_key": "7_1924863587220389890",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1924863587220389890/pu/img/jQvww-v0uVamB5VZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924863587220389890/pu/vid/avc1/320x568/KBx80d_u7rNBIn2G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924863587220389890/pu/vid/avc1/480x852/bmNdRKHrhb92YUMz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924863587220389890/pu/vid/avc1/720x1280/cbK0n8xWYBXQ_uHi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1924863587220389890/pu/pl/qNf7YHMp3pgiZ3_z.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 551,
+          "like_count": 24519,
+          "listed_count": 2,
+          "media_count": 1052,
+          "tweet_count": 9640
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

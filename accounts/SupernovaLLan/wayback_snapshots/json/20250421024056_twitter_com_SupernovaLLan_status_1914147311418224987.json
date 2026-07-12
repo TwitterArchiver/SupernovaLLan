@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1914146548902170741",
+    "created_at": "2025-04-21T02:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T03:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914147311418224987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752729743471132672",
+          "start": 0,
+          "username": "yamato812536"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914147311418224987",
+    "in_reply_to_user_id": "1752729743471132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914146548902170741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamato812536 还有就是计划执行！最开始不是说一根中大阳出十分之一要丝滑，结果怎么第二个涨停就全出完了🫨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1914146548902170741",
+        "created_at": "2025-04-21T02:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T03:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914147311418224987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752729743471132672",
+              "start": 0,
+              "username": "yamato812536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914147311418224987",
+        "in_reply_to_user_id": "1752729743471132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914146548902170741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamato812536 还有就是计划执行！最开始不是说一根中大阳出十分之一要丝滑，结果怎么第二个涨停就全出完了🫨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752729743471132672",
+        "conversation_id": "1914146548902170741",
+        "created_at": "2025-04-21T02:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T03:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914146548902170741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alonemoon_c/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/alonemoon_c/status/1914145481481163111",
+              "start": 50,
+              "url": "https://t.co/SnHEO7jnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914146548902170741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914145481481163111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是 我当时有种预感就是后面我可能卖不到最高点 毕竟实力不够 我每次都是卖不到最高点 这个坏毛病要改 https://t.co/SnHEO7jnoD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 550,
+          "like_count": 24204,
+          "listed_count": 2,
+          "media_count": 1040,
+          "tweet_count": 9580
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T16:25:21.000Z",
+        "description": "我在国内没有抖音 小红书 这些垃圾平台的账号 我也不荐股 不要被冒牌货骗 我只是好玩顺手分享一下知识 要看来X上看",
+        "id": "1752729743471132672",
+        "location": "北京市 朝阳区",
+        "name": "yamato23",
+        "pinned_tweet_id": "1914141350876057683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796802887827566592/OMLV2oJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24762,
+          "following_count": 350,
+          "like_count": 20048,
+          "listed_count": 367,
+          "media_count": 1243,
+          "tweet_count": 20744
+        },
+        "username": "yamato812536",
+        "verified": true
+      }
+    ]
+  }
+}

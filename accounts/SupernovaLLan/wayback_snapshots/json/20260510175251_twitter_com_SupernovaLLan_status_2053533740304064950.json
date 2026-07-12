@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053533731890364416",
+        "3_2053533731894489088"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053528950270542136",
+    "created_at": "2026-05-10T17:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T18:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053533740304064950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551968500209487873",
+          "start": 0,
+          "username": "hannibals4PLZ_r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YOQSWoyBJr",
+          "end": 180,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2053533740304064950/photo/1",
+          "media_key": "3_2053533731890364416",
+          "start": 157,
+          "url": "https://t.co/YOQSWoyBJr"
+        },
+        {
+          "display_url": "pic.x.com/YOQSWoyBJr",
+          "end": 180,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2053533740304064950/photo/1",
+          "media_key": "3_2053533731894489088",
+          "start": 157,
+          "url": "https://t.co/YOQSWoyBJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053533740304064950",
+    "in_reply_to_user_id": "1551968500209487873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053528950270542136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hannibals4PLZ_r 吗啡芬太尼确实是比曲马多更强的阿片药，但是主要是提高痛感阈值，针对阿片类受体的药不起效那就考虑换别的止痛法了，普瑞和加巴这种专门针对神经痛的药可能有奇效。另外就是也考虑炎症和肌肉方面的问题，地塞米松降炎，盐酸乙哌立松片解痉不知道能否帮忙，然后就是止痛不治本，可能还是得物理介入吧 https://t.co/YOQSWoyBJr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053533740304064950].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053533740304064950",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053533740304064950"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1949,
+        "media_key": "3_2053533731890364416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-eDI-bgAA5a6O.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1753,
+        "media_key": "3_2053533731894489088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-eDI_acAA4FFE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551968500209487873",
+        "conversation_id": "2053528950270542136",
+        "created_at": "2026-05-10T17:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053528950270542136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053528950270542136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈妈诊断严重腰肌劳损急性发作，注射曲马多 吃洛索洛芬 双氯芬酸钠 可待因 布洛芬 外贴膏药 双氯芬酸钠软膏 都完全没止痛效果，而且肠胃副作用及其严重，还能有什么办法止痛，打点滴坐着太痛苦回家了 但是疼痛完全没缓解。。。我看她疼得一直出汗掉眼泪好难受，还有什么办法，吗啡？芬太尼？羟考酮？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 565,
+          "like_count": 25226,
+          "listed_count": 2,
+          "media_count": 1133,
+          "tweet_count": 10504
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T16:31:47.000Z",
+        "description": "私密逃生舱@cookiessin1 画@RachieSAMA _ 性格很差劲 -现居🏴󠁧󠁢󠁥󠁮󠁧󠁿乡下- 想到一半就忘了的阿拉斯加@RQu1etlyR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "cookiessin1"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "RachieSAMA"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "username": "RQu1etlyR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=Snq54E1T",
+                "start": 0,
+                "url": "https://t.co/6l4lAGcdCr"
+              }
+            ]
+          }
+        },
+        "id": "1551968500209487873",
+        "location": "The Garden of Sinners",
+        "name": "RCat🐝",
+        "pinned_tweet_id": "1876508916680724885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876509215868727296/SBaoLmXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7688,
+          "following_count": 1500,
+          "like_count": 23983,
+          "listed_count": 13,
+          "media_count": 206,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/6l4lAGcdCr",
+        "username": "hannibals4PLZ_r",
+        "verified": false
+      }
+    ]
+  }
+}

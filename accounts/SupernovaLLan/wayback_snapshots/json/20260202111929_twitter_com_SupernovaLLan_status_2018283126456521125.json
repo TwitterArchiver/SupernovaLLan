@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2018282974328881168",
+    "created_at": "2026-02-02T11:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T12:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018283126456521125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551968500209487873",
+          "start": 0,
+          "username": "hannibals4PLZ_r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018283126456521125",
+    "in_reply_to_user_id": "1551968500209487873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018282974328881168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hannibals4PLZ_r 价格直逼多多买菜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018282964950339584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJhqc4WUAAZ0oN.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018282964904247296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJhqctXAAAMa3V.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018282964908421120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJhqcuWsAAalN3.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018282964879036416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJhqcnWUAA3tHk.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2018282974328881168",
+        "created_at": "2026-02-02T11:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018283126456521125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551968500209487873",
+              "start": 0,
+              "username": "hannibals4PLZ_r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018283126456521125",
+        "in_reply_to_user_id": "1551968500209487873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018282974328881168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hannibals4PLZ_r 价格直逼多多买菜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018282964950339584",
+            "3_2018282964904247296",
+            "3_2018282964908421120",
+            "3_2018282964879036416"
+          ]
+        },
+        "author_id": "1551968500209487873",
+        "conversation_id": "2018282974328881168",
+        "created_at": "2026-02-02T11:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018282974328881168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJE2MAMzFE",
+              "end": 44,
+              "expanded_url": "https://x.com/hannibals4PLZ_r/status/2018282974328881168/photo/1",
+              "media_key": "3_2018282964950339584",
+              "start": 21,
+              "url": "https://t.co/CJE2MAMzFE"
+            },
+            {
+              "display_url": "pic.x.com/CJE2MAMzFE",
+              "end": 44,
+              "expanded_url": "https://x.com/hannibals4PLZ_r/status/2018282974328881168/photo/1",
+              "media_key": "3_2018282964904247296",
+              "start": 21,
+              "url": "https://t.co/CJE2MAMzFE"
+            },
+            {
+              "display_url": "pic.x.com/CJE2MAMzFE",
+              "end": 44,
+              "expanded_url": "https://x.com/hannibals4PLZ_r/status/2018282974328881168/photo/1",
+              "media_key": "3_2018282964908421120",
+              "start": 21,
+              "url": "https://t.co/CJE2MAMzFE"
+            },
+            {
+              "display_url": "pic.x.com/CJE2MAMzFE",
+              "end": 44,
+              "expanded_url": "https://x.com/hannibals4PLZ_r/status/2018282974328881168/photo/1",
+              "media_key": "3_2018282964879036416",
+              "start": 21,
+              "url": "https://t.co/CJE2MAMzFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018282974328881168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂新鲜星期一吗 感觉比星期四更疯狂啊 https://t.co/CJE2MAMzFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 527,
+          "like_count": 24480,
+          "listed_count": 2,
+          "media_count": 1093,
+          "tweet_count": 10005
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T16:31:47.000Z",
+        "description": "私密逃生舱@cookiessin1 画@RachieSAMA _ 性格很差劲 -现居🏴󠁧󠁢󠁥󠁮󠁧󠁿- 对@RQu1etlyR萌生多余的情感中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "cookiessin1"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "RachieSAMA"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "RQu1etlyR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitality.gg",
+                "end": 23,
+                "expanded_url": "http://vitality.gg",
+                "start": 0,
+                "url": "https://t.co/ypD7ylr7lK"
+              }
+            ]
+          }
+        },
+        "id": "1551968500209487873",
+        "location": "NeverKnowsBest_",
+        "name": "RCat🐝",
+        "pinned_tweet_id": "1876508916680724885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876509215868727296/SBaoLmXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7557,
+          "following_count": 1491,
+          "like_count": 22909,
+          "listed_count": 12,
+          "media_count": 100,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/ypD7ylr7lK",
+        "username": "hannibals4PLZ_r",
+        "verified": false
+      }
+    ]
+  }
+}

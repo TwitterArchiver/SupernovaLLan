@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1954401221655302144"
+      ],
+      "media_source_tweet_id": [
+        "1954401532641698243"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1954424409151721804",
+    "created_at": "2025-08-10T06:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T07:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954424409151721804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858727254345281536",
+          "start": 3,
+          "username": "yusanyyy8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IF9W4lTKny",
+          "end": 49,
+          "expanded_url": "https://x.com/yusanyyy8/status/1954401532641698243/video/1",
+          "media_key": "7_1954401221655302144",
+          "start": 26,
+          "url": "https://t.co/IF9W4lTKny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954424409151721804",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954401532641698243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yusanyyy8: ☆get down☆ https://t.co/IF9W4lTKny"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43305,
+        "height": 720,
+        "media_key": "7_1954401221655302144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1954401221655302144/pu/img/dMF_TTDxb0_WtkWC.jpg",
+        "public_metrics": {
+          "view_count": 77
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954401221655302144/pu/vid/avc1/480x270/SJ2efnp_w4p1snrs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954401221655302144/pu/vid/avc1/640x360/KTLEZvPYgcs-LM97.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954401221655302144/pu/vid/avc1/1280x720/SHpz1Vi3qPiCXU6z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1954401221655302144/pu/pl/DHQbM-IFuEJIzldy.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1954401221655302144"
+          ],
+          "media_source_tweet_id": [
+            "1954401532641698243"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1954424409151721804",
+        "created_at": "2025-08-10T06:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T07:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954424409151721804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858727254345281536",
+              "start": 3,
+              "username": "yusanyyy8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IF9W4lTKny",
+              "end": 49,
+              "expanded_url": "https://x.com/yusanyyy8/status/1954401532641698243/video/1",
+              "media_key": "7_1954401221655302144",
+              "start": 26,
+              "url": "https://t.co/IF9W4lTKny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954424409151721804",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954401532641698243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yusanyyy8: ☆get down☆ https://t.co/IF9W4lTKny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1954401221655302144"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "1954401532641698243",
+        "created_at": "2025-08-10T04:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T05:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954401532641698243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IF9W4lTKny",
+              "end": 34,
+              "expanded_url": "https://x.com/yusanyyy8/status/1954401532641698243/video/1",
+              "media_key": "7_1954401221655302144",
+              "start": 11,
+              "url": "https://t.co/IF9W4lTKny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954401532641698243",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "☆get down☆ https://t.co/IF9W4lTKny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 547,
+          "like_count": 24696,
+          "listed_count": 2,
+          "media_count": 1071,
+          "tweet_count": 9778
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "我是南酱小南南老师，不知名领域带师，科幻迷，数学专业苦手，喜欢做饭二次元发自拍做手工，下面是我的博客网站↘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "location": "⌯ᐢᗜᐢ⌯ಣ",
+        "name": "南🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903372262008557568/2_TuDRyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 73,
+          "like_count": 3396,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061319780590813185",
+        "3_2061319780603428864"
+      ],
+      "media_source_tweet_id": [
+        "2061319789184975212",
+        "2061319789184975212"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2061485208600502472",
+    "created_at": "2026-06-01T16:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061485208600502472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586976929890308096",
+          "start": 3,
+          "username": "nan3s8m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gdg3h1oU7t",
+          "end": 36,
+          "expanded_url": "https://x.com/nan3s8m/status/2061319789184975212/photo/1",
+          "media_key": "3_2061319780590813185",
+          "start": 13,
+          "url": "https://t.co/gdg3h1oU7t"
+        },
+        {
+          "display_url": "pic.x.com/gdg3h1oU7t",
+          "end": 36,
+          "expanded_url": "https://x.com/nan3s8m/status/2061319789184975212/photo/1",
+          "media_key": "3_2061319780603428864",
+          "start": 13,
+          "url": "https://t.co/gdg3h1oU7t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061485208600502472",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 731
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061319789184975212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nan3s8m: https://t.co/gdg3h1oU7t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061319780590813185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtHa0qaAAE-FLQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1958,
+        "media_key": "3_2061319780603428864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtHa0tagAAryqy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061319780590813185",
+            "3_2061319780603428864"
+          ],
+          "media_source_tweet_id": [
+            "2061319789184975212",
+            "2061319789184975212"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2061485208600502472",
+        "created_at": "2026-06-01T16:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061485208600502472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586976929890308096",
+              "start": 3,
+              "username": "nan3s8m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdg3h1oU7t",
+              "end": 36,
+              "expanded_url": "https://x.com/nan3s8m/status/2061319789184975212/photo/1",
+              "media_key": "3_2061319780590813185",
+              "start": 13,
+              "url": "https://t.co/gdg3h1oU7t"
+            },
+            {
+              "display_url": "pic.x.com/gdg3h1oU7t",
+              "end": 36,
+              "expanded_url": "https://x.com/nan3s8m/status/2061319789184975212/photo/1",
+              "media_key": "3_2061319780603428864",
+              "start": 13,
+              "url": "https://t.co/gdg3h1oU7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061485208600502472",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 731
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061319789184975212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nan3s8m: https://t.co/gdg3h1oU7t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061319780590813185",
+            "3_2061319780603428864"
+          ]
+        },
+        "author_id": "1586976929890308096",
+        "conversation_id": "2061319789184975212",
+        "created_at": "2026-06-01T05:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061319789184975212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdg3h1oU7t",
+              "end": 23,
+              "expanded_url": "https://x.com/nan3s8m/status/2061319789184975212/photo/1",
+              "media_key": "3_2061319780590813185",
+              "start": 0,
+              "url": "https://t.co/gdg3h1oU7t"
+            },
+            {
+              "display_url": "pic.x.com/gdg3h1oU7t",
+              "end": 23,
+              "expanded_url": "https://x.com/nan3s8m/status/2061319789184975212/photo/1",
+              "media_key": "3_2061319780603428864",
+              "start": 0,
+              "url": "https://t.co/gdg3h1oU7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061319789184975212",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 531,
+          "impression_count": 113092,
+          "like_count": 10341,
+          "quote_count": 17,
+          "reply_count": 1,
+          "retweet_count": 731
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gdg3h1oU7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 586,
+          "like_count": 26241,
+          "listed_count": 2,
+          "media_count": 1167,
+          "tweet_count": 10923
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T07:03:02.000Z",
+        "description": "Commissions close ご依頼受付停止中 \nサブ垢/@mainichishiawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "mainichishiawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kansouki",
+                "end": 23,
+                "expanded_url": "https://lit.link/kansouki",
+                "start": 0,
+                "url": "https://t.co/xYL5HZSm8l"
+              }
+            ]
+          }
+        },
+        "id": "1586976929890308096",
+        "name": "乾燥機",
+        "pinned_tweet_id": "1992241200167002617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835367749268459520/qoTxEXLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47361,
+          "following_count": 422,
+          "like_count": 3293,
+          "listed_count": 183,
+          "media_count": 152,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/xYL5HZSm8l",
+        "username": "nan3s8m",
+        "verified": false
+      }
+    ]
+  }
+}

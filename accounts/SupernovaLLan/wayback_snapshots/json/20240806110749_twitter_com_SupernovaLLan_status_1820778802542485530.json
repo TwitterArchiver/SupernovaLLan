@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1820778802542485530",
+    "created_at": "2024-08-06T11:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T12:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1820778802542485530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1820137979580748201",
+          "start": 19,
+          "url": "https://t.co/g55OTk021X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820778802542485530",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820137979580748201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么突然玩不起不播了🤨不为台湾骄傲吗 https://t.co/g55OTk021X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1820778802542485530",
+        "created_at": "2024-08-06T11:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T12:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820778802542485530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1820137979580748201",
+              "start": 19,
+              "url": "https://t.co/g55OTk021X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820778802542485530",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820137979580748201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么突然玩不起不播了🤨不为台湾骄傲吗 https://t.co/g55OTk021X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1820137616643158016"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1820137979580748201",
+        "created_at": "2024-08-04T16:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T17:40:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820137846675476877",
+          "1820137979580748201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rXLflred8t",
+              "end": 41,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1820137979580748201/video/1",
+              "media_key": "7_1820137616643158016",
+              "start": 18,
+              "url": "https://t.co/rXLflred8t"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1820110574627557628",
+              "start": 42,
+              "url": "https://t.co/IMrq1ubpNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820137979580748201",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1699,
+          "impression_count": 4250667,
+          "like_count": 14014,
+          "quote_count": 228,
+          "reply_count": 727,
+          "retweet_count": 1928
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820110574627557628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现场台湾观众合唱《青天白日满地红》 https://t.co/rXLflred8t https://t.co/IMrq1ubpNn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 428,
+          "like_count": 20418,
+          "listed_count": 2,
+          "tweet_count": 7961
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信或邮箱 lilaoshitougao@gmail.com  \n（一定不要用国内邮箱投稿）\n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 92,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 69,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lilaoshibushinilaoshi.com",
+                "end": 23,
+                "expanded_url": "http://lilaoshibushinilaoshi.com",
+                "start": 0,
+                "url": "https://t.co/ryhwhzHyYp"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652425,
+          "following_count": 912,
+          "like_count": 5149,
+          "listed_count": 7582,
+          "tweet_count": 21104
+        },
+        "url": "https://t.co/ryhwhzHyYp",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

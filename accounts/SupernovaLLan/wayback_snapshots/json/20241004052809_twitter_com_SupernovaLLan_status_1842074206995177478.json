@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841964943060688896"
+      ],
+      "media_source_tweet_id": [
+        "1841965004586942756"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1842074206995177478",
+    "created_at": "2024-10-04T05:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T06:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842074206995177478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XAnbOIS3ji",
+          "end": 64,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/1841965004586942756/photo/1",
+          "media_key": "3_1841964943060688896",
+          "start": 41,
+          "url": "https://t.co/XAnbOIS3ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842074206995177478",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841965004586942756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 清华附中朝阳分校总是贡献出一些很好的梗。 https://t.co/XAnbOIS3ji"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1841964943060688896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY_5W0fa4AA4QYp.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841964943060688896"
+          ],
+          "media_source_tweet_id": [
+            "1841965004586942756"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1842074206995177478",
+        "created_at": "2024-10-04T05:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T06:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842074206995177478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAnbOIS3ji",
+              "end": 64,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1841965004586942756/photo/1",
+              "media_key": "3_1841964943060688896",
+              "start": 41,
+              "url": "https://t.co/XAnbOIS3ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842074206995177478",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841965004586942756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 清华附中朝阳分校总是贡献出一些很好的梗。 https://t.co/XAnbOIS3ji"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841964943060688896"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "1841965004586942756",
+        "created_at": "2024-10-03T22:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T23:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841965004586942756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAnbOIS3ji",
+              "end": 44,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1841965004586942756/photo/1",
+              "media_key": "3_1841964943060688896",
+              "start": 21,
+              "url": "https://t.co/XAnbOIS3ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841965004586942756",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 254583,
+          "like_count": 1306,
+          "quote_count": 5,
+          "reply_count": 34,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "清华附中朝阳分校总是贡献出一些很好的梗。 https://t.co/XAnbOIS3ji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 459,
+          "like_count": 21675,
+          "listed_count": 2,
+          "tweet_count": 8362
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215169,
+          "following_count": 1852,
+          "like_count": 185,
+          "listed_count": 1164,
+          "tweet_count": 27731
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

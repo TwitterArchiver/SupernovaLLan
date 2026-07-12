@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2059261728718979214",
+    "created_at": "2026-05-26T14:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059287642257453263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551235687277465600",
+          "start": 0,
+          "username": "zyfisapoppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059287642257453263",
+    "in_reply_to_user_id": "1551235687277465600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059261728718979214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyfisapoppy 那剂量上劲了包睡死的😌不过吃了这么多舍曲林这两天注意血清素综合征风险别碰相关的药了要不难受死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2059261728718979214",
+        "created_at": "2026-05-26T14:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059287642257453263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551235687277465600",
+              "start": 0,
+              "username": "zyfisapoppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059287642257453263",
+        "in_reply_to_user_id": "1551235687277465600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059261728718979214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyfisapoppy 那剂量上劲了包睡死的😌不过吃了这么多舍曲林这两天注意血清素综合征风险别碰相关的药了要不难受死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551235687277465600",
+        "conversation_id": "2059261728718979214",
+        "created_at": "2026-05-26T13:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059261728718979214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059261728718979214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后续就是睡过去了，睡到第二天自然就起来，没有早起也没有太晚起，就是口苦怎么压都压不住，可能是因为又整了几片佐匹克隆。吞药是不对的我知道，精神病药物的剂量也不会致死，但是我有点撑不住了想找通往天国的方式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 589,
+          "like_count": 25951,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 10814
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T15:59:54.000Z",
+        "description": "一个平平无奇恋爱脑罢了\n纯双相发疯碎碎念\n有洁癖，不考虑跟任何我对象以外的人做",
+        "id": "1551235687277465600",
+        "name": "汤显祖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827744480943800321/xQnwkjFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 152,
+          "like_count": 839,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 392
+        },
+        "username": "zyfisapoppy",
+        "verified": false
+      }
+    ]
+  }
+}

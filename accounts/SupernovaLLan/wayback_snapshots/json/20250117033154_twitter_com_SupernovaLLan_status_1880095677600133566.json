@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1880095677600133566",
+    "created_at": "2025-01-17T03:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T04:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880095677600133566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/elonmusk/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/elonmusk/status/1880040599761596689",
+          "start": 10,
+          "url": "https://t.co/IT0x9CeMJM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880095677600133566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880040599761596689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你的名字（人造版） https://t.co/IT0x9CeMJM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1880095677600133566",
+        "created_at": "2025-01-17T03:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T04:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880095677600133566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/elonmusk/status/1880040599761596689",
+              "start": 10,
+              "url": "https://t.co/IT0x9CeMJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880095677600133566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880040599761596689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的名字（人造版） https://t.co/IT0x9CeMJM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1880026934861602816"
+          ],
+          "media_source_tweet_id": [
+            "1880027949862384107"
+          ]
+        },
+        "author_id": "44196397",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "1880040599761596689",
+        "created_at": "2025-01-16T23:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T00:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880040599761596689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nn3PiP8XwG",
+              "end": 82,
+              "expanded_url": "https://x.com/KingDomRedux/status/1880027949862384107/video/1",
+              "media_key": "13_1880026934861602816",
+              "start": 59,
+              "url": "https://t.co/nn3PiP8XwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880040599761596689",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28670,
+          "impression_count": 19562656,
+          "like_count": 354684,
+          "quote_count": 3319,
+          "reply_count": 12726,
+          "retweet_count": 37691
+        },
+        "reply_settings": "everyone",
+        "text": "Success is uncertain, but entertainment is guaranteed! ✨ \n https://t.co/nn3PiP8XwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 519,
+          "like_count": 23093,
+          "listed_count": 2,
+          "media_count": 1013,
+          "tweet_count": 9290
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "1879993225349582908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212854288,
+          "following_count": 940,
+          "like_count": 114780,
+          "listed_count": 156731,
+          "media_count": 3108,
+          "tweet_count": 66960
+        },
+        "username": "elonmusk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838123454639546368"
+      ],
+      "media_source_tweet_id": [
+        "1838123464613339450"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1838476842187076009",
+    "created_at": "2024-09-24T07:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T08:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838476842187076009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1385991185689284608",
+          "start": 3,
+          "username": "Joshua78261443"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7wvzhnrvjq",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Joshua78261443/status/1838123464613339450/photo/1",
+          "media_key": "3_1838123454639546368",
+          "start": 20,
+          "url": "https://t.co/7WvzHnRvJQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838476842187076009",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838123464613339450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Joshua78261443: https://t.co/7WvzHnRvJQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1406,
+        "media_key": "3_1838123454639546368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYJTiw8aoAABjmd.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838123454639546368"
+          ],
+          "media_source_tweet_id": [
+            "1838123464613339450"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1838476842187076009",
+        "created_at": "2024-09-24T07:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T08:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838476842187076009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1385991185689284608",
+              "start": 3,
+              "username": "Joshua78261443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wvzhnrvjq",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Joshua78261443/status/1838123464613339450/photo/1",
+              "media_key": "3_1838123454639546368",
+              "start": 20,
+              "url": "https://t.co/7WvzHnRvJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838476842187076009",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838123464613339450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Joshua78261443: https://t.co/7WvzHnRvJQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838123454639546368"
+          ]
+        },
+        "author_id": "1385991185689284608",
+        "conversation_id": "1838123464613339450",
+        "created_at": "2024-09-23T07:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T08:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838123464613339450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wvzhnrvjq",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Joshua78261443/status/1838123464613339450/photo/1",
+              "media_key": "3_1838123454639546368",
+              "start": 0,
+              "url": "https://t.co/7WvzHnRvJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838123464613339450",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7561,
+          "like_count": 207,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7WvzHnRvJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 451,
+          "like_count": 21275,
+          "listed_count": 2,
+          "tweet_count": 8234
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T16:17:18.000Z",
+        "description": "",
+        "id": "1385991185689284608",
+        "name": "Joshua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820898695673692160/sQ2ScosE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3996,
+          "following_count": 1137,
+          "like_count": 32374,
+          "listed_count": 23,
+          "tweet_count": 16154
+        },
+        "username": "Joshua78261443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050905854120275968"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2050905863465152989",
+    "created_at": "2026-05-03T11:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T12:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050905863465152989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/03PBYDGz3s",
+          "end": 45,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2050905863465152989/photo/1",
+          "media_key": "3_2050905854120275968",
+          "start": 22,
+          "url": "https://t.co/03PBYDGz3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050905863465152989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那++++++++++++++直到血糖爆表 https://t.co/03PBYDGz3s"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050905863465152989].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050905863465152989",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050905863465152989"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2050905854120275968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZIAhabsAA5lM4.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra  ¿提问？↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 547,
+          "like_count": 24806,
+          "listed_count": 2,
+          "media_count": 1126,
+          "tweet_count": 10347
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

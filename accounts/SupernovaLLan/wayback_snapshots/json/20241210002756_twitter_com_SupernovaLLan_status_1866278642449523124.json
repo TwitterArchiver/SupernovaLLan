@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1866278642449523124",
+    "created_at": "2024-12-10T00:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T01:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866278642449523124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600277431256256512",
+          "start": 3,
+          "username": "Oriyukiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866278642449523124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866126552674791496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oriyukiiiii: 让我说理想中的恋爱对象的话\n1.有自己的想法、深度的内核、灵魂。\n2.能够保持安全距离，懂得给互相留一定私人空间的重要性\n3.我们之间不是对方的附属品，我们是独立的人，并不隶属于谁，我们是平等且需要互相尊重的。\n4.能够自理，有独自一人打工生活…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1866278642449523124",
+        "created_at": "2024-12-10T00:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T01:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866278642449523124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600277431256256512",
+              "start": 3,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866278642449523124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866126552674791496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oriyukiiiii: 让我说理想中的恋爱对象的话\n1.有自己的想法、深度的内核、灵魂。\n2.能够保持安全距离，懂得给互相留一定私人空间的重要性\n3.我们之间不是对方的附属品，我们是独立的人，并不隶属于谁，我们是平等且需要互相尊重的。\n4.能够自理，有独自一人打工生活…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600277431256256512",
+        "conversation_id": "1866126552674791496",
+        "created_at": "2024-12-09T14:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T15:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866126552674791496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866126552674791496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "让我说理想中的恋爱对象的话\n1.有自己的想法、深度的内核、灵魂。\n2.能够保持安全距离，懂得给互相留一定私人空间的重要性\n3.我们之间不是对方的附属品，我们是独立的人，并不隶属于谁，我们是平等且需要互相尊重的。\n4.能够自理，有独自一人打工生活的能力。\n5.不会太过共情，懂得有的时候让对方自己消化会更好一点。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2997,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "让我说理想中的恋爱对象的话\n1.有自己的想法、深度的内核、灵魂。\n2.能够保持安全距离，懂得给互相留一定私人空间的重要性\n3.我们之间不是对方的附属品，我们是独立的人，并不隶属于谁，我们是平等且需要互相尊重的。\n4.能够自理，有独自一人打工生活的能力。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 488,
+          "like_count": 22387,
+          "listed_count": 2,
+          "media_count": 997,
+          "tweet_count": 9082
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9976,
+          "following_count": 527,
+          "like_count": 3092,
+          "listed_count": 16,
+          "media_count": 1024,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

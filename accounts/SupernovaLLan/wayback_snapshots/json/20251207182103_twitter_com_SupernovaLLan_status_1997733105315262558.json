@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1996813148280803411",
+    "created_at": "2025-12-07T18:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T19:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997733105315262558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1780610230235312128",
+          "start": 0,
+          "username": "storMTXsnow8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997733105315262558",
+    "in_reply_to_user_id": "1780610230235312128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996813148280803411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@storMTXsnow8964 诗云第二作*"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1996813148280803411",
+        "created_at": "2025-12-07T18:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T19:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997733105315262558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1780610230235312128",
+              "start": 0,
+              "username": "storMTXsnow8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997733105315262558",
+        "in_reply_to_user_id": "1780610230235312128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996813148280803411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@storMTXsnow8964 诗云第二作*"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780610230235312128",
+        "conversation_id": "1996813148280803411",
+        "created_at": "2025-12-05T05:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T06:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996813148280803411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grainyrain_awa…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/grainyrain_awa/status/1994290620756820124",
+              "start": 20,
+              "url": "https://t.co/dyw7qmqIuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996813148280803411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994290620756820124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉唉唉唉唉\n唉唉唉唉唉唉唉\n唉唉唉唉唉 https://t.co/dyw7qmqIuL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 535,
+          "like_count": 24996,
+          "listed_count": 2,
+          "media_count": 1087,
+          "tweet_count": 9954
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T14:52:48.000Z",
+        "description": "朋友们都死了喵。紫砂去了（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whatisdxm.com",
+                "end": 23,
+                "expanded_url": "https://whatisdxm.com/",
+                "start": 0,
+                "url": "https://t.co/sJ8trpJ2Oi"
+              }
+            ]
+          }
+        },
+        "id": "1780610230235312128",
+        "location": "未知区域",
+        "name": "风雪",
+        "pinned_tweet_id": "1989336719649616030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909628865607352320/XhP9WSGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 2220,
+          "like_count": 17271,
+          "listed_count": 0,
+          "media_count": 537,
+          "tweet_count": 5044
+        },
+        "url": "https://t.co/sJ8trpJ2Oi",
+        "username": "storMTXsnow8964",
+        "verified": false
+      }
+    ]
+  }
+}

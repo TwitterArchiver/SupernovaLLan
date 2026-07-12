@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068162274876108800"
+      ],
+      "media_source_tweet_id": [
+        "2068162330932981909"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068377312454905959",
+    "created_at": "2026-06-20T16:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068377312454905959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "126581934",
+          "start": 3,
+          "username": "dearemon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q6VSb8rui9",
+          "end": 46,
+          "expanded_url": "https://x.com/dearemon/status/2068162330932981909/video/1",
+          "media_key": "13_2068162274876108800",
+          "start": 23,
+          "url": "https://t.co/Q6VSb8rui9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068377312454905959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068162330932981909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearemon: 毫无争议的哈哈哈 https://t.co/Q6VSb8rui9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12333,
+        "height": 854,
+        "media_key": "13_2068162274876108800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068162274876108800/img/7ICD-u7RDRa_hzKY.jpg",
+        "public_metrics": {
+          "view_count": 263883
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068162274876108800/vid/avc1/320x378/fLnTUguK1UmXP7su.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068162274876108800/vid/avc1/480x568/6FqrSCQMHgqIFgVo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068162274876108800/vid/avc1/720x854/yNYp8aDEQZuifSk3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068162274876108800/pl/pHGtf4quuNipkl3i.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068162274876108800"
+          ],
+          "media_source_tweet_id": [
+            "2068162330932981909"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068377312454905959",
+        "created_at": "2026-06-20T16:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068377312454905959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "126581934",
+              "start": 3,
+              "username": "dearemon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6VSb8rui9",
+              "end": 46,
+              "expanded_url": "https://x.com/dearemon/status/2068162330932981909/video/1",
+              "media_key": "13_2068162274876108800",
+              "start": 23,
+              "url": "https://t.co/Q6VSb8rui9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068377312454905959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068162330932981909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearemon: 毫无争议的哈哈哈 https://t.co/Q6VSb8rui9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068162274876108800"
+          ]
+        },
+        "author_id": "126581934",
+        "conversation_id": "2068162330932981909",
+        "created_at": "2026-06-20T02:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068162330932981909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6VSb8rui9",
+              "end": 32,
+              "expanded_url": "https://x.com/dearemon/status/2068162330932981909/video/1",
+              "media_key": "13_2068162274876108800",
+              "start": 9,
+              "url": "https://t.co/Q6VSb8rui9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068162330932981909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 503353,
+          "like_count": 2475,
+          "quote_count": 9,
+          "reply_count": 311,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "毫无争议的哈哈哈 https://t.co/Q6VSb8rui9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 622,
+          "like_count": 27093,
+          "listed_count": 2,
+          "media_count": 1201,
+          "tweet_count": 11201
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62986,
+          "following_count": 695,
+          "like_count": 5869,
+          "listed_count": 232,
+          "media_count": 33211,
+          "tweet_count": 401476
+        },
+        "url": "",
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

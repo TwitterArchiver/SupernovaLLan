@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1833407160212135936"
+      ],
+      "media_source_tweet_id": [
+        "1833407222052745246"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1834039829954527598",
+    "created_at": "2024-09-12T01:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T02:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834039829954527598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "776961507917639681",
+          "start": 3,
+          "username": "tingyun97"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1kpld4sifw",
+          "end": 98,
+          "expanded_url": "https://twitter.com/tingyun97/status/1833407222052745246/video/1",
+          "media_key": "13_1833407160212135936",
+          "start": 75,
+          "url": "https://t.co/1KPlD4SIfW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834039829954527598",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833407222052745246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingyun97: 如果把一个培养皿、蓖麻油和一些滚珠轴承放在一个电场中，可能会偶然发现一种有趣的行为：自组装的电线看起来几乎是有生命的。 https://t.co/1KPlD4SIfW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44203,
+        "height": 360,
+        "media_key": "13_1833407160212135936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1833407160212135936/img/JmSi016NHM9y-QCh.jpg",
+        "public_metrics": {
+          "view_count": 269850
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1833407160212135936/vid/avc1/480x270/eePGZhIKzuSjb63l.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1833407160212135936/vid/avc1/640x360/gC47GEWzfcgDVBvu.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1833407160212135936/pl/Y4zsvrrrZg6qXsXj.m3u8?tag=16"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1833407160212135936"
+          ],
+          "media_source_tweet_id": [
+            "1833407222052745246"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1834039829954527598",
+        "created_at": "2024-09-12T01:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T02:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834039829954527598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "776961507917639681",
+              "start": 3,
+              "username": "tingyun97"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kpld4sifw",
+              "end": 98,
+              "expanded_url": "https://twitter.com/tingyun97/status/1833407222052745246/video/1",
+              "media_key": "13_1833407160212135936",
+              "start": 75,
+              "url": "https://t.co/1KPlD4SIfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834039829954527598",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833407222052745246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingyun97: 如果把一个培养皿、蓖麻油和一些滚珠轴承放在一个电场中，可能会偶然发现一种有趣的行为：自组装的电线看起来几乎是有生命的。 https://t.co/1KPlD4SIfW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1833407160212135936"
+          ]
+        },
+        "author_id": "776961507917639681",
+        "conversation_id": "1833407222052745246",
+        "created_at": "2024-09-10T07:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T08:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833407222052745246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kpld4sifw",
+              "end": 83,
+              "expanded_url": "https://twitter.com/tingyun97/status/1833407222052745246/video/1",
+              "media_key": "13_1833407160212135936",
+              "start": 60,
+              "url": "https://t.co/1KPlD4SIfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833407222052745246",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 365,
+          "impression_count": 501373,
+          "like_count": 1152,
+          "quote_count": 12,
+          "reply_count": 59,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "如果把一个培养皿、蓖麻油和一些滚珠轴承放在一个电场中，可能会偶然发现一种有趣的行为：自组装的电线看起来几乎是有生命的。 https://t.co/1KPlD4SIfW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 443,
+          "like_count": 20783,
+          "listed_count": 2,
+          "tweet_count": 8096
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-17T01:50:33.000Z",
+        "description": "生平至此 有你的光陰 都值得虛度",
+        "id": "776961507917639681",
+        "location": "北平",
+        "name": "停雲",
+        "pinned_tweet_id": "1245338957363195906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830205344464982016/ZSSrdfUC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117589,
+          "following_count": 2018,
+          "like_count": 33801,
+          "listed_count": 440,
+          "tweet_count": 59313
+        },
+        "username": "tingyun97",
+        "verified": true
+      }
+    ]
+  }
+}

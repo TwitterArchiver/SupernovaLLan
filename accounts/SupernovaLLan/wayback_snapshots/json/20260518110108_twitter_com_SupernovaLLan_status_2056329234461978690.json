@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2056240337757306963",
+    "created_at": "2026-05-18T11:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056329234461978690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056329234461978690",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056240337757306963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总结：药效发挥没预期那么快，也没那么高，实际效果连第二高原都没上去，按剂量理论上应该达到的。昂丹司琼救我老命几乎抵消所有副作用，肠胃如死水一般平静，没有恶心和腹泻出现。\n总结下来评价为NPC，吃起来那么费劲药效不一定怎么好，不搭配止吐药会恶心吐到晕，综合评判不如愈美，没有od价值"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056240323723145216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk7rhRaMAAs8m9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2056240337757306963",
+        "created_at": "2026-05-18T11:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056329234461978690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056329234461978690",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056240337757306963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总结：药效发挥没预期那么快，也没那么高，实际效果连第二高原都没上去，按剂量理论上应该达到的。昂丹司琼救我老命几乎抵消所有副作用，肠胃如死水一般平静，没有恶心和腹泻出现。\n总结下来评价为NPC，吃起来那么费劲药效不一定怎么好，不搭配止吐药会恶心吐到晕，综合评判不如愈美，没有od价值"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056240323723145216"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2056240337757306963",
+        "created_at": "2026-05-18T05:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056240337757306963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6R9MGVe956",
+              "end": 175,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2056240337757306963/photo/1",
+              "media_key": "3_2056240323723145216",
+              "start": 152,
+              "url": "https://t.co/6R9MGVe956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056240337757306963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟诸多推友交流过之后基本确定这个几把药吃起来会上吐下泻，原因是成分表里面采用了上古老方酚酞右美沙芬，还有愈创木酚磺酸钾，这俩垃圾货就是会让人很不舒服上吐下泻的）现在亲自下场验证一下，也做一下记录✍🏻\n有效成分240mg\n（不知道是不是按DXM计算）折合16t\n昂丹司琼1t  4mg 止吐\n下面开始记录 https://t.co/6R9MGVe956"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 572,
+          "like_count": 25559,
+          "listed_count": 2,
+          "media_count": 1146,
+          "tweet_count": 10676
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2071846647240548427",
+    "created_at": "2026-06-30T06:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071850490678378834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313677891163414533",
+          "start": 0,
+          "username": "cookiessin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071850490678378834",
+    "in_reply_to_user_id": "1313677891163414533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071850104638849446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cookiessin1 那还是校准一下秤吧😾怀了都没有涨这么快的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2071850104638849446].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2071850104638849446",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2071850104638849446"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2071846647240548427",
+        "created_at": "2026-06-30T06:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071850490678378834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313677891163414533",
+              "start": 0,
+              "username": "cookiessin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071850490678378834",
+        "in_reply_to_user_id": "1313677891163414533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071850104638849446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cookiessin1 那还是校准一下秤吧😾怀了都没有涨这么快的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 621,
+          "like_count": 27119,
+          "listed_count": 2,
+          "media_count": 1206,
+          "tweet_count": 11245
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T03:09:56.000Z",
+        "description": "@hannibals4PlZ_r的主人格 #VForVictory 世界和平派",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 21,
+                "tag": "VForVictory"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hannibals4PlZ_r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitality.gg/en/",
+                "end": 23,
+                "expanded_url": "https://vitality.gg/en/",
+                "start": 0,
+                "url": "https://t.co/XQjCT48EdL"
+              }
+            ]
+          }
+        },
+        "id": "1313677891163414533",
+        "location": "221B Baker Street",
+        "name": "R号机不是二号机_(。-∀-)",
+        "pinned_tweet_id": "1900442345835028942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021934227671937024/Aad5lwuD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 286,
+          "like_count": 15366,
+          "listed_count": 1,
+          "media_count": 1510,
+          "tweet_count": 9159
+        },
+        "url": "https://t.co/XQjCT48EdL",
+        "username": "cookiessin1",
+        "verified": false
+      }
+    ]
+  }
+}

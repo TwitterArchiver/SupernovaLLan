@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2023464602533798030",
+    "created_at": "2026-02-17T02:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T03:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023584034597843317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992300667395092480",
+          "start": 0,
+          "username": "Albert_C_Anker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023584034597843317",
+    "in_reply_to_user_id": "1992300667395092480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023464602533798030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Albert_C_Anker 祝你马年大吉吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2023464602533798030",
+        "created_at": "2026-02-17T02:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T03:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023584034597843317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992300667395092480",
+              "start": 0,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023584034597843317",
+        "in_reply_to_user_id": "1992300667395092480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023464602533798030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Albert_C_Anker 祝你马年大吉吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992300667395092480",
+        "conversation_id": "2023464602533798030",
+        "created_at": "2026-02-16T18:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023464602533798030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023464602533798030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝你们马年天天驰骥骥🤓✌️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 530,
+          "like_count": 24558,
+          "listed_count": 2,
+          "media_count": 1098,
+          "tweet_count": 10045
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T18:34:34.000Z",
+        "description": "怪话制造机|伪人日记本|默认友好基本无雷|不关心政治|INFJ sp/so5w6|分裂情感障碍&阿斯伯格人士|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BV1z4411Y7tX",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BV1z4411Y7tX",
+                "start": 0,
+                "url": "https://t.co/xiOAWgwQyL"
+              }
+            ]
+          }
+        },
+        "id": "1992300667395092480",
+        "location": "Tromsø, Norway",
+        "name": "伪人阿尔伯特",
+        "pinned_tweet_id": "2011040777640820845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022152434731335680/7w9oGGgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 145,
+          "like_count": 2703,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/xiOAWgwQyL",
+        "username": "Albert_C_Anker",
+        "verified": false
+      }
+    ]
+  }
+}

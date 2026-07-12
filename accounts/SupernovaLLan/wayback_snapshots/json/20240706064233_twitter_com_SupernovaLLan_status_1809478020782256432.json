@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1809448173556908361",
+    "created_at": "2024-07-06T06:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T07:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809478020782256432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1548471557873610752",
+          "start": 0,
+          "username": "In2dTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809478020782256432",
+    "in_reply_to_user_id": "1548471557873610752",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809448173556908361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@In2dTt 俺女朋友也好喜欢汤汤但是害羞不敢出来见你👉🏻👈🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1809448173556908361",
+        "created_at": "2024-07-06T06:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T07:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809478020782256432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809478020782256432",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809448173556908361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 俺女朋友也好喜欢汤汤但是害羞不敢出来见你👉🏻👈🏻"
+      },
+      {
+        "attachments": {},
+        "author_id": "1548471557873610752",
+        "conversation_id": "1809448173556908361",
+        "created_at": "2024-07-06T04:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T05:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809448173556908361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809448173556908361",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有广州的推友和我面基吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 433,
+          "like_count": 20387,
+          "listed_count": 2,
+          "tweet_count": 7932
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "☆邪氣眼電波女☆ ダーリン@Akira_10190208 繪畫帳號@in2dkira",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Akira_10190208"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "in2dtt",
+        "pinned_tweet_id": "1756002376929173836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756997289837752320/8y00WAZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28335,
+          "following_count": 229,
+          "like_count": 10511,
+          "listed_count": 29,
+          "tweet_count": 2989
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

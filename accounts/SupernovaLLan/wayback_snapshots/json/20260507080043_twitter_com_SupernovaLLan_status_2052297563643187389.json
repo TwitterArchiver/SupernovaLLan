@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052297553643991041",
+        "3_2052297553643970560"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2052297563643187389",
+    "created_at": "2026-05-07T08:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052297563643187389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGTe6WUZgn",
+          "end": 52,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2052297563643187389/photo/1",
+          "media_key": "3_2052297553643991041",
+          "start": 29,
+          "url": "https://t.co/gGTe6WUZgn"
+        },
+        {
+          "display_url": "pic.x.com/gGTe6WUZgn",
+          "end": 52,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2052297563643187389/photo/1",
+          "media_key": "3_2052297553643970560",
+          "start": 29,
+          "url": "https://t.co/gGTe6WUZgn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052297563643187389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "幼时向往职业其实是恐怖分子（？）表现出异乎寻常的破坏欲👾 https://t.co/gGTe6WUZgn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052297563643187389].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052297563643187389",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052297563643187389"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2052297553643991041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs5wGJacAE6dYI.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052297553643970560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs5wGJaIAAhDc0.jpg",
+        "width": 1440
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 553,
+          "like_count": 24992,
+          "listed_count": 2,
+          "media_count": 1127,
+          "tweet_count": 10398
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

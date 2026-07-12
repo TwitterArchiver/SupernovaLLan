@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1946056238229491860",
+    "created_at": "2025-07-20T04:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T05:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946785930788151470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "Cypress_7593"
+        },
+        {
+          "end": 39,
+          "id": "1749719755119071232",
+          "start": 24,
+          "username": "lan_shang32900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946785930788151470",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946056238229491860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cypress_7593 INFJ新增两位我和@lan_shang32900 \n双双从INFP转过来不知道发生了什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1946056238229491860",
+        "created_at": "2025-07-20T04:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T05:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946785930788151470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            },
+            {
+              "end": 39,
+              "id": "1749719755119071232",
+              "start": 24,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946785930788151470",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946056238229491860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 INFJ新增两位我和@lan_shang32900 \n双双从INFP转过来不知道发生了什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692136120027320320",
+        "conversation_id": "1946056238229491860",
+        "created_at": "2025-07-18T03:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T04:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946056238229491860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cypress_7593/s…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/Cypress_7593/status/1945881795096109386",
+              "start": 126,
+              "url": "https://t.co/51Qc8RJxfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946056238229491860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1586,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945881795096109386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "智商比较高，但是精神分裂谱系障碍\n无性恋，但是有性瘾（自慰成瘾）\n事INFJ，但是有阿斯伯格\n事求知欲爆棚的5号人格，但是脑子彻底坏了\n想健身，但是有心脏病\n想创作好多oc和画面，但是根本不会画画肢体残疾\n\n我真的想笑，人在我极度无语的时候是真的会笑 https://t.co/51Qc8RJxfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 548,
+          "like_count": 24794,
+          "listed_count": 2,
+          "media_count": 1063,
+          "tweet_count": 9737
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "【⚠️本账号随时可能被某🦊夺舍】你好我是柏树七代目|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性精神病&阿斯伯格|INFJ 5w6|无性恋&泛浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress|逃生舱@Cypress_1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Cypress_1118"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANITY】",
+        "pinned_tweet_id": "1940655533679432057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 1000,
+          "like_count": 20496,
+          "listed_count": 5,
+          "media_count": 790,
+          "tweet_count": 5683
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 664,
+          "like_count": 33485,
+          "listed_count": 0,
+          "media_count": 636,
+          "tweet_count": 8101
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

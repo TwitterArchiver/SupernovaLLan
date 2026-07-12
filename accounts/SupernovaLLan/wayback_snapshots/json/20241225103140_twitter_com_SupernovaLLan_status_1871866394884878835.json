@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1871866394884878835",
+    "created_at": "2024-12-25T10:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T11:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871866394884878835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/laomanpindao/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/laomanpindao/status/1871728282091274717",
+          "start": 30,
+          "url": "https://t.co/OUT7lPZSJq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871866394884878835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871728282091274717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦不在阿根廷住集装箱板房的时候他们工会怎么没过来解放我…… https://t.co/OUT7lPZSJq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1871866394884878835",
+        "created_at": "2024-12-25T10:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T11:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871866394884878835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laomanpindao/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/laomanpindao/status/1871728282091274717",
+              "start": 30,
+              "url": "https://t.co/OUT7lPZSJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871866394884878835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871728282091274717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦不在阿根廷住集装箱板房的时候他们工会怎么没过来解放我…… https://t.co/OUT7lPZSJq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871728278236729344"
+          ]
+        },
+        "author_id": "1645340482061631491",
+        "conversation_id": "1871728282091274717",
+        "created_at": "2024-12-25T01:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T02:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871728282091274717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKk1YR2FZq",
+              "end": 164,
+              "expanded_url": "https://x.com/laomanpindao/status/1871728282091274717/photo/1",
+              "media_key": "3_1871728278236729344",
+              "start": 141,
+              "url": "https://t.co/JKk1YR2FZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871728282091274717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "特么笑屎我了。这是我本年度看到的最搞笑的土木专业新闻。中国籍的建筑工人，在巴西住工棚，被巴西政府认定为虐待。\n在国内，建筑工人住工棚已经算是不错的待遇了好吧，有些甚至连这种待遇都没有，尤其是一些临工，只能在路边随便躺一宿的，也是比比皆是。\n这件事最搞笑之处在于，连巴西这种穷屌丝 国家，也觉得中国工人在受虐，中国工人自己倒是毫无感觉。真是笑屎我了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 217230,
+          "like_count": 1356,
+          "quote_count": 10,
+          "reply_count": 105,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "特么笑屎我了。这是我本年度看到的最搞笑的土木专业新闻。中国籍的建筑工人，在巴西住工棚，被巴西政府认定为虐待。\n在国内，建筑工人住工棚已经算是不错的待遇了好吧，有些甚至连这种待遇都没有，尤其是一些临工，只能在路边随便躺一宿的，也是比比皆是。\n这件事最搞笑之处在于，连巴西这种穷屌丝… https://t.co/JKk1YR2FZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 502,
+          "like_count": 22710,
+          "listed_count": 2,
+          "media_count": 1005,
+          "tweet_count": 9179
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T08:18:59.000Z",
+        "description": "数据在手，天下我有！\n油管号也是“老蛮频道”。",
+        "id": "1645340482061631491",
+        "name": "老蛮频道",
+        "pinned_tweet_id": "1869896993184854435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658285496731340801/LVwKwyad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285637,
+          "following_count": 436,
+          "like_count": 63,
+          "listed_count": 1486,
+          "media_count": 1251,
+          "tweet_count": 7186
+        },
+        "username": "laomanpindao",
+        "verified": true
+      }
+    ]
+  }
+}

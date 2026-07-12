@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062596507338166272"
+      ],
+      "media_source_tweet_id": [
+        "2062596558512931011"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2062598938201567261",
+    "created_at": "2026-06-04T18:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062598938201567261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858727254345281536",
+          "start": 3,
+          "username": "NNNullptr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggKa7bJeH2",
+          "end": 95,
+          "expanded_url": "https://x.com/NNNullptr/status/2062596558512931011/video/1",
+          "media_key": "7_2062596507338166272",
+          "start": 72,
+          "url": "https://t.co/ggKa7bJeH2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062598938201567261",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062596558512931011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NNNullptr: Your phone linging，Your phone linging，pick up your phone https://t.co/ggKa7bJeH2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14349,
+        "height": 1280,
+        "media_key": "7_2062596507338166272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062596507338166272/pu/img/YS09sr13deYvACuB.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062596507338166272/pu/vid/avc1/320x568/vQhp-8cjXea8LL8u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062596507338166272/pu/vid/avc1/480x852/D5Yefws3KYw45K6r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062596507338166272/pu/vid/avc1/720x1280/ekPXrapQiLka7067.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062596507338166272/pu/pl/qf3nfm4o7wt6azLJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062596507338166272"
+          ],
+          "media_source_tweet_id": [
+            "2062596558512931011"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2062598938201567261",
+        "created_at": "2026-06-04T18:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062598938201567261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858727254345281536",
+              "start": 3,
+              "username": "NNNullptr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggKa7bJeH2",
+              "end": 95,
+              "expanded_url": "https://x.com/NNNullptr/status/2062596558512931011/video/1",
+              "media_key": "7_2062596507338166272",
+              "start": 72,
+              "url": "https://t.co/ggKa7bJeH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062598938201567261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062596558512931011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NNNullptr: Your phone linging，Your phone linging，pick up your phone https://t.co/ggKa7bJeH2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062596507338166272"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "2062596558512931011",
+        "created_at": "2026-06-04T18:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062596558512931011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggKa7bJeH2",
+              "end": 80,
+              "expanded_url": "https://x.com/NNNullptr/status/2062596558512931011/video/1",
+              "media_key": "7_2062596507338166272",
+              "start": 57,
+              "url": "https://t.co/ggKa7bJeH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062596558512931011",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Your phone linging，Your phone linging，pick up your phone https://t.co/ggKa7bJeH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 590,
+          "like_count": 26298,
+          "listed_count": 2,
+          "media_count": 1167,
+          "tweet_count": 10946
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 172,
+          "like_count": 6480,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

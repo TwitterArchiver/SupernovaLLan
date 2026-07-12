@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855558887245791232"
+      ],
+      "media_source_tweet_id": [
+        "1855558902907285769"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1855621178771079327",
+    "created_at": "2024-11-10T14:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T15:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855621178771079327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2382210504",
+          "start": 3,
+          "username": "youhaveagift"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y0Ze7COTsP",
+          "end": 45,
+          "expanded_url": "https://x.com/youhaveagift/status/1855558902907285769/photo/1",
+          "media_key": "3_1855558887245791232",
+          "start": 22,
+          "url": "https://t.co/y0Ze7COTsP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855621178771079327",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855558902907285769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @youhaveagift: 🫨🫨🫨 https://t.co/y0Ze7COTsP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_1855558887245791232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcBE-g4awAAQkaO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855558887245791232"
+          ],
+          "media_source_tweet_id": [
+            "1855558902907285769"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1855621178771079327",
+        "created_at": "2024-11-10T14:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T15:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855621178771079327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2382210504",
+              "start": 3,
+              "username": "youhaveagift"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0Ze7COTsP",
+              "end": 45,
+              "expanded_url": "https://x.com/youhaveagift/status/1855558902907285769/photo/1",
+              "media_key": "3_1855558887245791232",
+              "start": 22,
+              "url": "https://t.co/y0Ze7COTsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855621178771079327",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855558902907285769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @youhaveagift: 🫨🫨🫨 https://t.co/y0Ze7COTsP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855558887245791232"
+          ]
+        },
+        "author_id": "2382210504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1855558902907285769",
+        "created_at": "2024-11-10T10:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T11:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855558902907285769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0Ze7COTsP",
+              "end": 27,
+              "expanded_url": "https://x.com/youhaveagift/status/1855558902907285769/photo/1",
+              "media_key": "3_1855558887245791232",
+              "start": 4,
+              "url": "https://t.co/y0Ze7COTsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855558902907285769",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 59571,
+          "like_count": 2059,
+          "quote_count": 15,
+          "reply_count": 1,
+          "retweet_count": 193
+        },
+        "reply_settings": "following",
+        "text": "🫨🫨🫨 https://t.co/y0Ze7COTsP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 470,
+          "like_count": 21947,
+          "listed_count": 2,
+          "tweet_count": 8746
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-10T14:19:47.000Z",
+        "description": "慵懶人格，喜歡耍廢，發廢推。",
+        "id": "2382210504",
+        "location": "台灣",
+        "name": "🍌θωθ蛋破崙θωθ🍌",
+        "pinned_tweet_id": "1400781686112092162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855251755896119296/QFiSnr_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12590,
+          "following_count": 13853,
+          "like_count": 159494,
+          "listed_count": 67,
+          "tweet_count": 123737
+        },
+        "username": "youhaveagift",
+        "verified": false
+      }
+    ]
+  }
+}

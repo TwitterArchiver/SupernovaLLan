@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1851902789884031336",
+    "created_at": "2024-10-31T08:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T09:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851907069756211456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1435889042155995136",
+          "start": 0,
+          "username": "bluefluoxetine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851907069756211456",
+    "in_reply_to_user_id": "1435889042155995136",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851902789884031336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluefluoxetine 俺也一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1851902789884031336",
+        "created_at": "2024-10-31T08:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T09:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851907069756211456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1435889042155995136",
+              "start": 0,
+              "username": "bluefluoxetine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851907069756211456",
+        "in_reply_to_user_id": "1435889042155995136",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851902789884031336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluefluoxetine 俺也一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851902786356826112"
+          ]
+        },
+        "author_id": "1435889042155995136",
+        "conversation_id": "1851902789884031336",
+        "created_at": "2024-10-31T08:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T09:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851902789884031336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRsL1bcHpn",
+              "end": 30,
+              "expanded_url": "https://x.com/bluefluoxetine/status/1851902789884031336/photo/1",
+              "media_key": "3_1851902786356826112",
+              "start": 7,
+              "url": "https://t.co/gRsL1bcHpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851902789884031336",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？发两次了 https://t.co/gRsL1bcHpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 468,
+          "like_count": 21680,
+          "listed_count": 2,
+          "tweet_count": 8646
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T08:53:38.000Z",
+        "description": "⚠️self-harm\n\n我的女友@nagaseruna7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "nagaseruna7777"
+              }
+            ]
+          }
+        },
+        "id": "1435889042155995136",
+        "location": "银河车站",
+        "name": "Yan（戒od割手失败版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634429527710367744/2nOMuHEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3345,
+          "following_count": 241,
+          "like_count": 44154,
+          "listed_count": 7,
+          "tweet_count": 10923
+        },
+        "username": "bluefluoxetine",
+        "verified": false
+      }
+    ]
+  }
+}

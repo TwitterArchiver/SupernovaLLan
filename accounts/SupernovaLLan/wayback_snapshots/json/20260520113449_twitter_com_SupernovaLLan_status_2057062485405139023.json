@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2056932848855302503",
+    "created_at": "2026-05-20T11:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057062485405139023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992300667395092480",
+          "start": 0,
+          "username": "Albert_C_Anker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057062485405139023",
+    "in_reply_to_user_id": "1992300667395092480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056932848855302503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Albert_C_Anker 纯纯区别对待就是说刚认识人分配点算力显得不那么人机给对方先稳住，混熟了之后演都不演了直接开摆😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2056932848855302503",
+        "created_at": "2026-05-20T11:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057062485405139023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992300667395092480",
+              "start": 0,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057062485405139023",
+        "in_reply_to_user_id": "1992300667395092480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056932848855302503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Albert_C_Anker 纯纯区别对待就是说刚认识人分配点算力显得不那么人机给对方先稳住，混熟了之后演都不演了直接开摆😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992300667395092480",
+        "conversation_id": "2056932848855302503",
+        "created_at": "2026-05-20T02:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056932848855302503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056932848855302503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等一下。\n是的我他妈只对刚认识的人情商高。\n不然是不可能会出现『说我情商高说我人好和说我情商巨低的人他妈是同一个人』的情况的。\n问就是阿斯伯格天生只会认知共情，认知共情这东西巨耗脑力，我到了后面就不想那么占用大脑能量了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 574,
+          "like_count": 25617,
+          "listed_count": 2,
+          "media_count": 1146,
+          "tweet_count": 10693
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T18:34:34.000Z",
+        "description": "怪话制造机|伪人日记本|虚无主义者|默认友好基本无雷|不关心政治|INFJ sp/so5w6|分裂情感障碍&阿斯伯格人士|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BV1z4411Y7tX",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BV1z4411Y7tX",
+                "start": 0,
+                "url": "https://t.co/xiOAWgxooj"
+              }
+            ]
+          }
+        },
+        "id": "1992300667395092480",
+        "location": "Tromsø, Norway",
+        "name": "伪人阿尔伯特",
+        "pinned_tweet_id": "2042353903682142500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022152434731335680/7w9oGGgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 211,
+          "like_count": 11674,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/xiOAWgxooj",
+        "username": "Albert_C_Anker",
+        "verified": false
+      }
+    ]
+  }
+}

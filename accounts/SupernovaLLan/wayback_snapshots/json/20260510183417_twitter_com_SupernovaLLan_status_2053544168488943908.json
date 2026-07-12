@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2053407696343408865",
+    "created_at": "2026-05-10T18:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053544168488943908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053544168488943908",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053407696343408865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six p2也许可以通过提高胃中对应盐的浓度梯度做交换进行一个相对的速释，比如是聚苯乙烯磺酸钠那就配食盐氯化钠一起吃，磺酸钾的话没有单氯化钾可以通过低钠盐里面大概35%的氯化钾凑合吧）但是这样搞吃过量盐终究是肾承压，实难推荐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 927,
+        "media_key": "3_2053407685639569408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8raSGagAA9Wh_.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1043,
+        "media_key": "3_2053407688965656576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8raefakAAaAKf.jpg",
+        "width": 1440
+      },
+      {
+        "height": 923,
+        "media_key": "3_2053407693990432768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8raxNakAAAxPd.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2053407696343408865",
+        "created_at": "2026-05-10T18:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053544168488943908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053544168488943908",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053407696343408865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six p2也许可以通过提高胃中对应盐的浓度梯度做交换进行一个相对的速释，比如是聚苯乙烯磺酸钠那就配食盐氯化钠一起吃，磺酸钾的话没有单氯化钾可以通过低钠盐里面大概35%的氯化钾凑合吧）但是这样搞吃过量盐终究是肾承压，实难推荐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053407685639569408",
+            "3_2053407688965656576",
+            "3_2053407693990432768"
+          ]
+        },
+        "author_id": "622036546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053407696343408865",
+        "created_at": "2026-05-10T09:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053407696343408865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YiO7fx8gNd",
+              "end": 82,
+              "expanded_url": "https://x.com/overdose_six/status/2053407696343408865/photo/1",
+              "media_key": "3_2053407685639569408",
+              "start": 59,
+              "url": "https://t.co/YiO7fx8gNd"
+            },
+            {
+              "display_url": "pic.x.com/YiO7fx8gNd",
+              "end": 82,
+              "expanded_url": "https://x.com/overdose_six/status/2053407696343408865/photo/1",
+              "media_key": "3_2053407688965656576",
+              "start": 59,
+              "url": "https://t.co/YiO7fx8gNd"
+            },
+            {
+              "display_url": "pic.x.com/YiO7fx8gNd",
+              "end": 82,
+              "expanded_url": "https://x.com/overdose_six/status/2053407696343408865/photo/1",
+              "media_key": "3_2053407693990432768",
+              "start": 59,
+              "url": "https://t.co/YiO7fx8gNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053407696343408865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1108,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 有一定的滥用价值但不高\np2 它属于离子交换树脂的一种 结构非常稳定 想要破坏一般很难 而且不建议\np3 可以 https://t.co/YiO7fx8gNd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 566,
+          "like_count": 25229,
+          "listed_count": 2,
+          "media_count": 1132,
+          "tweet_count": 10506
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 | 提问箱https://t.co/bP1darW0le",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 51,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 28,
+                "url": "https://t.co/bP1darW0le"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2979,
+          "following_count": 98,
+          "like_count": 11763,
+          "listed_count": 8,
+          "media_count": 721,
+          "tweet_count": 4244
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1867216966760689772",
+    "created_at": "2024-12-12T14:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T15:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867218309713940875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867218309713940875",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867216966760689772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 你的世界不应只有小男友\n因为还有黑神话x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1867216966760689772",
+        "created_at": "2024-12-12T14:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T15:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867218309713940875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867218309713940875",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867216966760689772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 你的世界不应只有小男友\n因为还有黑神话x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650760116918943744",
+        "conversation_id": "1867216966760689772",
+        "created_at": "2024-12-12T14:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T15:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867216966760689772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867216966760689772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小男友不理我了😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 490,
+          "like_count": 22436,
+          "listed_count": 2,
+          "media_count": 999,
+          "tweet_count": 9102
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "https://t.co/ZnwIMvxxKK博客",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/ZnwIMvxxKK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "   ",
+        "name": "TFEI终端机",
+        "pinned_tweet_id": "1861045420178472963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861060221797605376/eCnGL3pL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3456,
+          "following_count": 907,
+          "like_count": 43611,
+          "listed_count": 5,
+          "media_count": 300,
+          "tweet_count": 8654
+        },
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

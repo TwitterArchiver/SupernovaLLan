@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051168548010225664",
+        "3_2051168548555571200",
+        "3_2051168550963097600"
+      ],
+      "media_source_tweet_id": [
+        "2051168562988151084",
+        "2051168562988151084",
+        "2051168562988151084"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2059568126002684308",
+    "created_at": "2026-05-27T09:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059568126002684308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Request Box",
+          "display_url": "skeb.jp/@Dormicumproje…",
+          "end": 102,
+          "expanded_url": "https://skeb.jp/@Dormicumproject",
+          "start": 79,
+          "status": 200,
+          "title": "ドルミカム（Dormicum） (@Dormicumproject) | Skeb",
+          "unwound_url": "https://skeb.jp/@Dormicumproject",
+          "url": "https://t.co/s2IMSykPm5"
+        },
+        {
+          "display_url": "pic.x.com/BgjsaGLHVt",
+          "end": 126,
+          "expanded_url": "https://x.com/Dormicumproject/status/2051168562988151084/photo/1",
+          "media_key": "3_2051168548010225664",
+          "start": 103,
+          "url": "https://t.co/BgjsaGLHVt"
+        },
+        {
+          "display_url": "pic.x.com/BgjsaGLHVt",
+          "end": 126,
+          "expanded_url": "https://x.com/Dormicumproject/status/2051168562988151084/photo/1",
+          "media_key": "3_2051168548555571200",
+          "start": 103,
+          "url": "https://t.co/BgjsaGLHVt"
+        },
+        {
+          "display_url": "pic.x.com/BgjsaGLHVt",
+          "end": 126,
+          "expanded_url": "https://x.com/Dormicumproject/status/2051168562988151084/photo/1",
+          "media_key": "3_2051168550963097600",
+          "start": 103,
+          "url": "https://t.co/BgjsaGLHVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059568126002684308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 795
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051168562988151084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: 【コミッションのお知らせ】\n一次的にコミッションやります。美しく猟奇的なイラストが得意です。よろしくお願いします。 https://t.co/s2IMSykPm5 https://t.co/BgjsaGLHVt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2051168548010225664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHc27UaacAAT5Bj.jpg",
+        "width": 891
+      },
+      {
+        "height": 844,
+        "media_key": "3_2051168548555571200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHc27WcbwAAgvD4.jpg",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "media_key": "3_2051168550963097600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHc27fabsAAAwo3.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051168548010225664",
+            "3_2051168548555571200",
+            "3_2051168550963097600"
+          ],
+          "media_source_tweet_id": [
+            "2051168562988151084",
+            "2051168562988151084",
+            "2051168562988151084"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2059568126002684308",
+        "created_at": "2026-05-27T09:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059568126002684308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Request Box",
+              "display_url": "skeb.jp/@Dormicumproje…",
+              "end": 102,
+              "expanded_url": "https://skeb.jp/@Dormicumproject",
+              "start": 79,
+              "status": 200,
+              "title": "ドルミカム（Dormicum） (@Dormicumproject) | Skeb",
+              "unwound_url": "https://skeb.jp/@Dormicumproject",
+              "url": "https://t.co/s2IMSykPm5"
+            },
+            {
+              "display_url": "pic.x.com/BgjsaGLHVt",
+              "end": 126,
+              "expanded_url": "https://x.com/Dormicumproject/status/2051168562988151084/photo/1",
+              "media_key": "3_2051168548010225664",
+              "start": 103,
+              "url": "https://t.co/BgjsaGLHVt"
+            },
+            {
+              "display_url": "pic.x.com/BgjsaGLHVt",
+              "end": 126,
+              "expanded_url": "https://x.com/Dormicumproject/status/2051168562988151084/photo/1",
+              "media_key": "3_2051168548555571200",
+              "start": 103,
+              "url": "https://t.co/BgjsaGLHVt"
+            },
+            {
+              "display_url": "pic.x.com/BgjsaGLHVt",
+              "end": 126,
+              "expanded_url": "https://x.com/Dormicumproject/status/2051168562988151084/photo/1",
+              "media_key": "3_2051168550963097600",
+              "start": 103,
+              "url": "https://t.co/BgjsaGLHVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059568126002684308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 795
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051168562988151084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: 【コミッションのお知らせ】\n一次的にコミッションやります。美しく猟奇的なイラストが得意です。よろしくお願いします。 https://t.co/s2IMSykPm5 https://t.co/BgjsaGLHVt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051168548010225664",
+            "3_2051168548555571200",
+            "3_2051168550963097600"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2051168562988151084",
+        "created_at": "2026-05-04T05:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051168562988151084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Request Box",
+              "display_url": "skeb.jp/@Dormicumproje…",
+              "end": 81,
+              "expanded_url": "https://skeb.jp/@Dormicumproject",
+              "start": 58,
+              "status": 200,
+              "title": "ドルミカム（Dormicum） (@Dormicumproject) | Skeb",
+              "unwound_url": "https://skeb.jp/@Dormicumproject",
+              "url": "https://t.co/s2IMSykPm5"
+            },
+            {
+              "display_url": "pic.x.com/BgjsaGLHVt",
+              "end": 105,
+              "expanded_url": "https://x.com/Dormicumproject/status/2051168562988151084/photo/1",
+              "media_key": "3_2051168548010225664",
+              "start": 82,
+              "url": "https://t.co/BgjsaGLHVt"
+            },
+            {
+              "display_url": "pic.x.com/BgjsaGLHVt",
+              "end": 105,
+              "expanded_url": "https://x.com/Dormicumproject/status/2051168562988151084/photo/1",
+              "media_key": "3_2051168548555571200",
+              "start": 82,
+              "url": "https://t.co/BgjsaGLHVt"
+            },
+            {
+              "display_url": "pic.x.com/BgjsaGLHVt",
+              "end": 105,
+              "expanded_url": "https://x.com/Dormicumproject/status/2051168562988151084/photo/1",
+              "media_key": "3_2051168550963097600",
+              "start": 82,
+              "url": "https://t.co/BgjsaGLHVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051168562988151084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1864,
+          "impression_count": 596084,
+          "like_count": 9381,
+          "quote_count": 70,
+          "reply_count": 15,
+          "retweet_count": 795
+        },
+        "reply_settings": "everyone",
+        "text": "【コミッションのお知らせ】\n一次的にコミッションやります。美しく猟奇的なイラストが得意です。よろしくお願いします。 https://t.co/s2IMSykPm5 https://t.co/BgjsaGLHVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 590,
+          "like_count": 25990,
+          "listed_count": 2,
+          "media_count": 1160,
+          "tweet_count": 10829
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n漫画はここから読めますhttps://t.co/SB66qxPOdk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxPOdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLjTn"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "2051168562988151084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164575,
+          "following_count": 0,
+          "like_count": 3744,
+          "listed_count": 660,
+          "media_count": 1167,
+          "tweet_count": 2380
+        },
+        "url": "https://t.co/CtEGqQLjTn",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

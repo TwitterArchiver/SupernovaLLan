@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1969933597718311380",
+    "created_at": "2025-09-22T17:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T18:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970173867630174575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "AlbertIsCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970173867630174575",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969933597718311380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlbertIsCypress 诶2.5mg莱博雷生+10mg喹硫平联用对小蝙蝠这种顽固入睡困难有效，效果强于唑吡坦而且没有睡前的亢奋和幻觉，服药大概半小时直接一键关机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1969933597718311380",
+        "created_at": "2025-09-22T17:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970173867630174575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "AlbertIsCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970173867630174575",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969933597718311380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlbertIsCypress 诶2.5mg莱博雷生+10mg喹硫平联用对小蝙蝠这种顽固入睡困难有效，效果强于唑吡坦而且没有睡前的亢奋和幻觉，服药大概半小时直接一键关机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692136120027320320",
+        "conversation_id": "1969933597718311380",
+        "created_at": "2025-09-22T01:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T02:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969933597718311380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AlbertIsCypres…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/AlbertIsCypress/status/1969772741793632685",
+              "start": 31,
+              "url": "https://t.co/Tatr8w41JL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969933597718311380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969772741793632685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爹死了。基本上没用。一点多的时候实在不行吃了颗扎来普隆。。。 https://t.co/Tatr8w41JL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 545,
+          "like_count": 24863,
+          "listed_count": 2,
+          "media_count": 1082,
+          "tweet_count": 9868
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "低浮上|不是人类不说人话&精神(不是情绪)状态是量子叠加态|成分复杂关注请谨慎|INFJ sp/so5w6|Median系统|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|接伤口定制 请私信@kanbenshiteyo0o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 114,
+                "username": "kanbenshiteyo0o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1965435278488903800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965431647366774786/86s4Wmng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1164,
+          "like_count": 32928,
+          "listed_count": 7,
+          "media_count": 1395,
+          "tweet_count": 9555
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "AlbertIsCypress",
+        "verified": true
+      }
+    ]
+  }
+}

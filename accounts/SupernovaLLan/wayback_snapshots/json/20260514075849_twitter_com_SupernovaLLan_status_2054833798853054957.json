@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2054825724696215612",
+    "created_at": "2026-05-14T07:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054833798853054957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912916776519954432",
+          "start": 0,
+          "username": "liu_lu43456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/supernovallan/…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/supernovallan/status/2054580485406466431",
+          "start": 34,
+          "url": "https://t.co/pHUYFP9HP3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054833798853054957",
+    "in_reply_to_user_id": "1912916776519954432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054580485406466431",
+        "type": "quoted"
+      },
+      {
+        "id": "2054825724696215612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_lu43456 还记得我吗🤣刚好刷到你这药效反馈帖了—— https://t.co/pHUYFP9HP3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054825709470883840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQ1GIhaIAA9lTo.jpg",
+        "width": 878
+      },
+      {
+        "height": 2132,
+        "media_key": "3_2054825709470965760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQ1GIhbYAA-dQO.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2054825724696215612",
+        "created_at": "2026-05-14T07:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054833798853054957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/supernovallan/status/2054580485406466431",
+              "start": 34,
+              "url": "https://t.co/pHUYFP9HP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054833798853054957",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054580485406466431",
+            "type": "quoted"
+          },
+          {
+            "id": "2054825724696215612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 还记得我吗🤣刚好刷到你这药效反馈帖了—— https://t.co/pHUYFP9HP3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2054435044606066709",
+        "created_at": "2026-05-13T15:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054580485406466431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054580485406466431",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054435044606066709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 做好腹泻准备，建议预备止泻药，说明书解读成分存在导致腹泻可能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054825709470883840",
+            "3_2054825709470965760"
+          ]
+        },
+        "author_id": "1912916776519954432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054825724696215612",
+        "created_at": "2026-05-14T07:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054825724696215612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/74zv23WfG1",
+              "end": 23,
+              "expanded_url": "https://x.com/liu_lu43456/status/2054825724696215612/photo/1",
+              "media_key": "3_2054825709470883840",
+              "start": 0,
+              "url": "https://t.co/74zv23WfG1"
+            },
+            {
+              "display_url": "pic.x.com/74zv23WfG1",
+              "end": 23,
+              "expanded_url": "https://x.com/liu_lu43456/status/2054825724696215612/photo/1",
+              "media_key": "3_2054825709470965760",
+              "start": 0,
+              "url": "https://t.co/74zv23WfG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054825724696215612",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/74zv23WfG1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 571,
+          "like_count": 25362,
+          "listed_count": 2,
+          "media_count": 1139,
+          "tweet_count": 10582
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/MtX🏳️‍⚧️/给点钱钱给我钱/平等歧视所有人/禁止政治讨论吵架/✟昇天✟平易近人/当我好友吧💗/聊天消失/难主动/行星小鹿，游荡宇宙/",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "2032181190757634518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568491171610625/R3Z2flJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 146,
+          "like_count": 429,
+          "listed_count": 3,
+          "media_count": 371,
+          "tweet_count": 2472
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

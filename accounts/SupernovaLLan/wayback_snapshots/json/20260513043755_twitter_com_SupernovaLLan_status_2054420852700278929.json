@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2054163294999712046",
+    "created_at": "2026-05-13T04:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T05:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054420852700278929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1449738313540071431",
+          "start": 0,
+          "username": "ez4y2f"
+        },
+        {
+          "end": 22,
+          "id": "1883117066812882944",
+          "start": 8,
+          "username": "jituiroubaogu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054420852700278929",
+    "in_reply_to_user_id": "1449738313540071431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054241764609806456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ez4y2f @jituiroubaogu 喔原来是模拟副作用进行更严格双盲实验的安慰剂， 学到了^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2054163294999712046",
+        "created_at": "2026-05-13T04:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054420852700278929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1449738313540071431",
+              "start": 0,
+              "username": "ez4y2f"
+            },
+            {
+              "end": 22,
+              "id": "1883117066812882944",
+              "start": 8,
+              "username": "jituiroubaogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054420852700278929",
+        "in_reply_to_user_id": "1449738313540071431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054241764609806456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ez4y2f @jituiroubaogu 喔原来是模拟副作用进行更严格双盲实验的安慰剂， 学到了^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449738313540071431",
+        "conversation_id": "2054163294999712046",
+        "created_at": "2026-05-12T16:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054241764609806456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            },
+            {
+              "end": 29,
+              "id": "1883117066812882944",
+              "start": 15,
+              "username": "jituiroubaogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054241764609806456",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054164153674420311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan @jituiroubaogu 有主动安慰剂的，可以去搜搜看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 567,
+          "like_count": 25309,
+          "listed_count": 2,
+          "media_count": 1135,
+          "tweet_count": 10547
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-17T14:05:35.000Z",
+        "description": "D3bug the w0r1d | 狐狗。| AuDHD | they/them | 不登校 | 成分复杂 欢迎来狐狸窝玩 | 🌈🦊🐾🎵💻💡✂^-^里@hd4y2f❤️@ez4y2f\n尽己所能无偿提供技术帮助和减害措施\n有些时候我需要保全自己 抱歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "hd4y2f"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "username": "ez4y2f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "y2.fo",
+                "end": 23,
+                "expanded_url": "https://y2.fo",
+                "start": 0,
+                "url": "https://t.co/X1cdlKbipY"
+              }
+            ]
+          }
+        },
+        "id": "1449738313540071431",
+        "location": "Foxnest",
+        "name": "ez4y2f",
+        "pinned_tweet_id": "2030757444847333657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037204527623888896/z2uuhR7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 148,
+          "like_count": 1546,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/X1cdlKbipY",
+        "username": "ez4y2f",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 630,
+          "like_count": 2227,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

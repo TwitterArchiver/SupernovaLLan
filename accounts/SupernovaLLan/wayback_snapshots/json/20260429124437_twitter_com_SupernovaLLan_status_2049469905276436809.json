@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049469896694865920"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049469905276436809",
+    "created_at": "2026-04-29T12:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049469905276436809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SkowybuKSi",
+          "end": 165,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2049469905276436809/photo/1",
+          "media_key": "3_2049469896694865920",
+          "start": 142,
+          "url": "https://t.co/SkowybuKSi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049469905276436809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对鈴蘭来说这是一例持续了34个月的自杀干预，幸运地是可以说取得了阶段性成功，不幸地是鈴蘭自身状态下滑也到相当糟糕的状态。不过自从去年此时确诊抑郁状态至今，得益于干预对象的精神反哺，并没有再进一步恶化。\n没有划好边界导致的替代性创伤给我上了一课，从谷底爬出来的路仍然漫长得看不见希望。 https://t.co/SkowybuKSi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049469905276436809].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049469905276436809",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049469905276436809"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2049469896694865920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEuAzJaoAAnAw-.jpg",
+        "width": 690
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 540,
+          "like_count": 24649,
+          "listed_count": 2,
+          "media_count": 1118,
+          "tweet_count": 10277
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

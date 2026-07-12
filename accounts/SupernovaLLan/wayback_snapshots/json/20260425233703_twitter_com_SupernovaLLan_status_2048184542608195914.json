@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2048184542608195914",
+    "created_at": "2026-04-25T23:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T00:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048184542608195914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/flechazo777_/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/flechazo777_/status/2048018962001387865",
+          "start": 32,
+          "url": "https://t.co/eUq7DY5sMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048184542608195914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048018962001387865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "特别对的感觉🥺自己为人做了些什么让人开心了这种情绪也会反馈回来 https://t.co/eUq7DY5sMS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2048184542608195914",
+        "created_at": "2026-04-25T23:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T00:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048184542608195914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/flechazo777_/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/flechazo777_/status/2048018962001387865",
+              "start": 32,
+              "url": "https://t.co/eUq7DY5sMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048184542608195914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048018962001387865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特别对的感觉🥺自己为人做了些什么让人开心了这种情绪也会反馈回来 https://t.co/eUq7DY5sMS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650435393370882048",
+        "conversation_id": "2048018962001387865",
+        "created_at": "2026-04-25T12:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048018962001387865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048018962001387865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 64118,
+          "like_count": 672,
+          "quote_count": 1,
+          "reply_count": 107,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总有人问我为什么要做好事 我今天收了一个1314的门槛刚过五分钟 在抖音刷到了两个农民叔叔阿姨 很卖力地在感谢别人送的假礼物 我就刷了一个抖1还有飞机给他们 他们一边跳舞一边感谢我说了半个小时 还说明天要去买大猪蹄 我感觉特别开心哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 526,
+          "like_count": 24471,
+          "listed_count": 2,
+          "media_count": 1109,
+          "tweet_count": 10196
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T09:44:08.000Z",
+        "description": "某个入的小号喵",
+        "id": "1650435393370882048",
+        "name": "Yuri",
+        "pinned_tweet_id": "2023123853694963933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894717221303140352/kHERlBDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21473,
+          "following_count": 38,
+          "like_count": 44,
+          "listed_count": 49,
+          "media_count": 76,
+          "tweet_count": 1237
+        },
+        "username": "flechazo777_",
+        "verified": false
+      }
+    ]
+  }
+}

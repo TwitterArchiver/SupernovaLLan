@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2054696093955539275",
+    "created_at": "2026-05-13T22:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T23:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054696093955539275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhuan1467/stat…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/zhuan1467/status/2035607094729248895",
+          "start": 35,
+          "url": "https://t.co/tQk39ByMuY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054696093955539275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035607094729248895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唔哇这个摇摆错觉真的很精妙一眼飘飘的以为自己o大了😵‍💫😵‍💫😵‍💫 https://t.co/tQk39ByMuY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035607091856265216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_t3Wxb0AA0Ioc.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2054696093955539275",
+        "created_at": "2026-05-13T22:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T23:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054696093955539275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhuan1467/stat…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/zhuan1467/status/2035607094729248895",
+              "start": 35,
+              "url": "https://t.co/tQk39ByMuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054696093955539275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035607094729248895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唔哇这个摇摆错觉真的很精妙一眼飘飘的以为自己o大了😵‍💫😵‍💫😵‍💫 https://t.co/tQk39ByMuY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035607091856265216"
+          ]
+        },
+        "author_id": "1897239031261618179",
+        "conversation_id": "2035607094729248895",
+        "created_at": "2026-03-22T06:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035607094729248895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "地雷系"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "病みかわ"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "ぴえん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S37TKWCUuS",
+              "end": 173,
+              "expanded_url": "https://x.com/zhuan1467/status/2035607094729248895/photo/1",
+              "media_key": "3_2035607091856265216",
+              "start": 150,
+              "url": "https://t.co/S37TKWCUuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035607094729248895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "＋大丈夫＋大丈夫＋大丈夫\n ＋大丈夫＋大丈夫＋大丈夫\n  ＋大丈夫＋大丈夫＋大丈夫\n\n  夫丈大＋夫丈大＋夫丈大＋\n 夫丈大＋夫丈大＋夫丈大＋\n夫丈大＋夫丈大＋夫丈大＋\n\n＋大丈夫＋大丈夫＋大丈夫\n ＋大丈夫＋大丈夫＋大丈夫\n  ＋大丈夫＋大丈夫＋大丈夫\n#地雷女子 #地雷系 #病みかわ\n#ぴえん https://t.co/S37TKWCUuS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 570,
+          "like_count": 25346,
+          "listed_count": 2,
+          "media_count": 1137,
+          "tweet_count": 10571
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T10:53:37.000Z",
+        "description": "おくすり飲んで寝よう\n\n磊々落々楽に生きたいね.",
+        "id": "1897239031261618179",
+        "name": "あめ꒷꒦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953847946983972865/yM-nNqWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 38,
+          "like_count": 1889,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 62
+        },
+        "username": "zhuan1467",
+        "verified": false
+      }
+    ]
+  }
+}

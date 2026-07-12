@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1817039165051334764",
+    "created_at": "2024-07-27T03:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T04:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817039165051334764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "992551168944439296",
+          "start": 3,
+          "username": "palecGFsZXBhbGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817039165051334764",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816938060812288380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @palecGFsZXBhbGU: 大象，大象，你的脖子为什么那么长\n他妈的，干你娘，我是长颈鹿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1817039165051334764",
+        "created_at": "2024-07-27T03:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T04:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817039165051334764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "992551168944439296",
+              "start": 3,
+              "username": "palecGFsZXBhbGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817039165051334764",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816938060812288380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @palecGFsZXBhbGU: 大象，大象，你的脖子为什么那么长\n他妈的，干你娘，我是长颈鹿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992551168944439296",
+        "conversation_id": "1816938060812288380",
+        "created_at": "2024-07-26T20:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T21:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816938060812288380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816938060812288380",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大象，大象，你的脖子为什么那么长\n他妈的，干你娘，我是长颈鹿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 431,
+          "like_count": 20395,
+          "listed_count": 2,
+          "tweet_count": 7945
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "id": "992551168944439296",
+        "name": "'",
+        "pinned_tweet_id": "1766722081822331131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786758713510084608/vwgfL__n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 839,
+          "like_count": 10986,
+          "listed_count": 4,
+          "tweet_count": 28
+        },
+        "username": "palecGFsZXBhbGU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1938585895294357965",
+    "created_at": "2025-06-27T15:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T16:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938619707562844457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780620789211152384",
+          "start": 0,
+          "username": "maque478728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938619707562844457",
+    "in_reply_to_user_id": "1780620789211152384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938585895294357965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maque478728 无能力者娜娜*"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_1938585892337389568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guc9mRdakAA_PaF.jpg",
+        "width": 1213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1938585895294357965",
+        "created_at": "2025-06-27T15:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T16:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938619707562844457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780620789211152384",
+              "start": 0,
+              "username": "maque478728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938619707562844457",
+        "in_reply_to_user_id": "1780620789211152384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938585895294357965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maque478728 无能力者娜娜*"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938585892337389568"
+          ]
+        },
+        "author_id": "1780620789211152384",
+        "conversation_id": "1938585895294357965",
+        "created_at": "2025-06-27T13:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T14:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938585895294357965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SX0kA1c4DZ",
+              "end": 30,
+              "expanded_url": "https://x.com/maque478728/status/1938585895294357965/photo/1",
+              "media_key": "3_1938585892337389568",
+              "start": 7,
+              "url": "https://t.co/SX0kA1c4DZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938585895294357965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "化妆好难…… https://t.co/SX0kA1c4DZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 549,
+          "like_count": 24710,
+          "listed_count": 2,
+          "media_count": 1058,
+          "tweet_count": 9698
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T15:34:32.000Z",
+        "description": "可以称呼我为小麻雀.是在离家出走的小女孩.目前在计划自杀当然也不一定会真的自杀只是不太想活着罢了.🚪价位是168/368/520/1314...一阶门槛解锁视频/语音全天陪聊入门后可加福利群不定时发送群主色图入二阶门槛可时不时找博主裸聊",
+        "id": "1780620789211152384",
+        "name": "enter",
+        "pinned_tweet_id": "1888718082056880228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780631846205972480/-6JlBmvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 101,
+          "like_count": 507,
+          "listed_count": 8,
+          "media_count": 203,
+          "tweet_count": 1140
+        },
+        "username": "maque478728",
+        "verified": false
+      }
+    ]
+  }
+}

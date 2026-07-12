@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1871400941532094535",
+    "created_at": "2024-12-24T16:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T17:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871593550036734223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663160032693981184",
+          "start": 0,
+          "username": "QingSong79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871593550036734223",
+    "in_reply_to_user_id": "1663160032693981184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871591559071928627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingSong79 🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1871400941532094535",
+        "created_at": "2024-12-24T16:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T17:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871593550036734223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663160032693981184",
+              "start": 0,
+              "username": "QingSong79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871593550036734223",
+        "in_reply_to_user_id": "1663160032693981184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871591559071928627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingSong79 🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663160032693981184",
+        "conversation_id": "1871400941532094535",
+        "created_at": "2024-12-24T16:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T17:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871591559071928627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871591559071928627",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871590473489661959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan 也不是被错杀，的确市盈率有些问题\n\n我是昨天已经T出了自选\n\n但是盘中的时候看到分歧换手，又上板了，去排的单，赌昨天是冰点，实际上昨天的确是冰点\n\n但是买完后，发现，嗯？这不是我刚T出自选的吗？然后麻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 503,
+          "like_count": 22688,
+          "listed_count": 2,
+          "media_count": 1004,
+          "tweet_count": 9175
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T12:27:19.000Z",
+        "description": "Dérobe la foudre aux Dieux & le sceptre aux tyrans.||01/投机学习/感悟分享/Crypto/A股/期货/外汇黄金 ||体制.代际.群体〈观物取象，反观其物〉",
+        "id": "1663160032693981184",
+        "location": "Los Angeles, CA",
+        "name": "Azu",
+        "pinned_tweet_id": "1869772107149979773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726997190210691072/II_9GOau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11788,
+          "following_count": 845,
+          "like_count": 1717,
+          "listed_count": 158,
+          "media_count": 915,
+          "tweet_count": 5720
+        },
+        "username": "QingSong79",
+        "verified": true
+      }
+    ]
+  }
+}

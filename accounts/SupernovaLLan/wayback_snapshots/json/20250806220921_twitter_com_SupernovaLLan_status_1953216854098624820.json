@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953216847295418368"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1953216841926754691",
+    "created_at": "2025-08-06T22:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T23:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953216854098624820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5WVz186YJ3",
+          "end": 76,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1953216854098624820/photo/1",
+          "media_key": "3_1953216847295418368",
+          "start": 53,
+          "url": "https://t.co/5WVz186YJ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953216854098624820",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953216841926754691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊！死亡！我必称颂你的名！然后啥也不做，想必你也懒得挥动镰刀将我的神魂收割\n到处滋苦水）然后眠了令人发笑 https://t.co/5WVz186YJ3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1953216854098624820].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1953216854098624820",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1953216854098624820"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1953216847295418368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxs4X8BaEAAD2nZ.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1953216841926754691",
+        "created_at": "2025-08-06T22:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T23:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953216841926754691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953216841926754691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相似的心情达到顶点）我从小缺乏各种欲望一直佛佛的活着，充满别无所求的微微死感。\n不缺爱就没有渴望被爱，生活温饱小康也对钱没什么渴望，被罩着没受什么压迫也对支配权力缺乏兴趣，自己冲冲就能满足x欲对性也没什么执念）总之就是平平淡淡的活着，没死不是因为想活而只是懒得死、、等待着那一刻到来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 547,
+          "like_count": 24673,
+          "listed_count": 2,
+          "media_count": 1070,
+          "tweet_count": 9771
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

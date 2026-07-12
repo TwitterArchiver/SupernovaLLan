@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2065319370155598262",
+    "created_at": "2026-06-12T06:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065322745219748084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065322745219748084",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065319370155598262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS 怎么还有紧急避孕药😢问题严重吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065319343634956288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl9ACEawAAmZsX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065319339201564672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl8_xjakAAve3z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065319340522790912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl8_2ea4AAmgZc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2065319370155598262",
+        "created_at": "2026-06-12T06:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065322745219748084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065322745219748084",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065319370155598262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS 怎么还有紧急避孕药😢问题严重吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065319343634956288",
+            "3_2065319339201564672",
+            "3_2065319340522790912"
+          ]
+        },
+        "author_id": "2998529749",
+        "conversation_id": "2065319370155598262",
+        "created_at": "2026-06-12T06:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065319370155598262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7oqjhWjjY",
+              "end": 41,
+              "expanded_url": "https://x.com/STULRS/status/2065319370155598262/photo/1",
+              "media_key": "3_2065319343634956288",
+              "start": 18,
+              "url": "https://t.co/N7oqjhWjjY"
+            },
+            {
+              "display_url": "pic.x.com/N7oqjhWjjY",
+              "end": 41,
+              "expanded_url": "https://x.com/STULRS/status/2065319370155598262/photo/1",
+              "media_key": "3_2065319339201564672",
+              "start": 18,
+              "url": "https://t.co/N7oqjhWjjY"
+            },
+            {
+              "display_url": "pic.x.com/N7oqjhWjjY",
+              "end": 41,
+              "expanded_url": "https://x.com/STULRS/status/2065319370155598262/photo/1",
+              "media_key": "3_2065319340522790912",
+              "start": 18,
+              "url": "https://t.co/N7oqjhWjjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065319370155598262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很讨厌！经过这件事之后就我就都在磕 https://t.co/N7oqjhWjjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 603,
+          "like_count": 26592,
+          "listed_count": 2,
+          "media_count": 1181,
+          "tweet_count": 11046
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0（11年）|躁郁|抽烟|受虐|戒药|戒割|坏小孩（理解能力有问题，冒泡勿喷）  门槛🚪66.6  好友位，闲聊，朋友圈开放\n不接线下   不接爸爸活",
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "喵大王",
+        "pinned_tweet_id": "2062845256304120062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063013655164456960/rPLO7_K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 550,
+          "like_count": 41896,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 12577
+        },
+        "username": "STULRS",
+        "verified": false
+      }
+    ]
+  }
+}

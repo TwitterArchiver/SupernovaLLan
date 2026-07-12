@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054049582825590784",
+        "3_2054049582842253312"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2054049591059005727",
+    "created_at": "2026-05-12T04:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T05:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054049591059005727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WjW5G8jqhF",
+          "end": 108,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2054049591059005727/photo/1",
+          "media_key": "3_2054049582825590784",
+          "start": 85,
+          "url": "https://t.co/WjW5G8jqhF"
+        },
+        {
+          "display_url": "pic.x.com/WjW5G8jqhF",
+          "end": 108,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2054049591059005727/photo/1",
+          "media_key": "3_2054049582842253312",
+          "start": 85,
+          "url": "https://t.co/WjW5G8jqhF"
+        },
+        {
+          "display_url": "x.com/lidangzzz/stat…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/lidangzzz/status/2054024909332885964",
+          "start": 109,
+          "url": "https://t.co/7ZRYxCCsWt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054049591059005727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054024909332885964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦回十多年前的晶体化学吧🤔\n那时候硫酸铜就也是作为入门的基础款\n彼时化学品管制还相对松弛，个人无证都可以搞到一堆，别说做晶体了就算是****都易如反掌）怀念那段黄金时代 https://t.co/WjW5G8jqhF https://t.co/7ZRYxCCsWt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054049591059005727].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054049591059005727",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054049591059005727"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2054049582825590784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFzNndb0AAN9I-.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1268,
+        "media_key": "3_2054049582842253312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFzNnhaEAAPdgS.jpg",
+        "width": 1179
+      },
+      {
+        "duration_ms": 8173,
+        "height": 1280,
+        "media_key": "7_2054024896376688640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054024896376688640/pu/img/jGrm3syguVmvfLcF.jpg",
+        "public_metrics": {
+          "view_count": 7494
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054024896376688640/pu/vid/avc1/320x568/fBGaRq1UUisuMz-z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054024896376688640/pu/vid/avc1/480x852/u6GyXS4BSkHkxT3F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054024896376688640/pu/vid/avc1/720x1280/FL_BiAZeLn-pSzy_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054024896376688640/pu/pl/cralommpSXdENVkA.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1807,
+        "media_key": "3_2054024899715321856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFcw3tW0AAlb3d.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1910,
+        "media_key": "3_2054024902705926144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFcxC2X0AAqlhZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2054024904484225024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFcxJeWgAATLir.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054024896376688640",
+            "3_2054024899715321856",
+            "3_2054024902705926144",
+            "3_2054024904484225024"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "2054024909332885964",
+        "created_at": "2026-05-12T02:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054024909332885964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lObu532bXD",
+              "end": 167,
+              "expanded_url": "https://x.com/lidangzzz/status/2054024909332885964/video/1",
+              "media_key": "7_2054024896376688640",
+              "start": 144,
+              "url": "https://t.co/lObu532bXD"
+            },
+            {
+              "display_url": "pic.x.com/lObu532bXD",
+              "end": 167,
+              "expanded_url": "https://x.com/lidangzzz/status/2054024909332885964/video/1",
+              "media_key": "3_2054024899715321856",
+              "start": 144,
+              "url": "https://t.co/lObu532bXD"
+            },
+            {
+              "display_url": "pic.x.com/lObu532bXD",
+              "end": 167,
+              "expanded_url": "https://x.com/lidangzzz/status/2054024909332885964/video/1",
+              "media_key": "3_2054024902705926144",
+              "start": 144,
+              "url": "https://t.co/lObu532bXD"
+            },
+            {
+              "display_url": "pic.x.com/lObu532bXD",
+              "end": 167,
+              "expanded_url": "https://x.com/lidangzzz/status/2054024909332885964/video/1",
+              "media_key": "3_2054024904484225024",
+              "start": 144,
+              "url": "https://t.co/lObu532bXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054024909332885964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 16662,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我发现了一个庞大的互联网亚文化小圈子，\n\n这个圈子的人买一罐一罐的硫酸铜粉末，精确掌握溶液蒸发和晶体析出的形状和速度，做成一堆硫酸铜工艺品，\n\n关键是这个圈子的群体貌似非常巨大，在抖音随随便便就有几万人，一大堆教程，一大堆工艺品展示，\n\n我实在是震惊了，没想到这种亚文化这么有趣又疯癫。 https://t.co/lObu532bXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 565,
+          "like_count": 25266,
+          "listed_count": 2,
+          "media_count": 1134,
+          "tweet_count": 10524
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nTEMm"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604309,
+          "following_count": 2702,
+          "like_count": 28372,
+          "listed_count": 3865,
+          "media_count": 9694,
+          "tweet_count": 46068
+        },
+        "url": "https://t.co/RcYK9nTEMm",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

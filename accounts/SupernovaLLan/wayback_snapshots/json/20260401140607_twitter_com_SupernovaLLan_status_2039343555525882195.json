@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2039343555525882195",
+    "created_at": "2026-04-01T14:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T15:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039343555525882195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/supernovallan/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/supernovallan/status/2015448034310823969",
+          "start": 11,
+          "url": "https://t.co/xqB0awSvxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039343555525882195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015448034310823969",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有八个半小时出发！ https://t.co/xqB0awSvxD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_2015448007484088320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hPSNVboAAegnq.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2039343555525882195",
+        "created_at": "2026-04-01T14:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039343555525882195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/supernovallan/status/2015448034310823969",
+              "start": 11,
+              "url": "https://t.co/xqB0awSvxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039343555525882195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015448034310823969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有八个半小时出发！ https://t.co/xqB0awSvxD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015448007484088320"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2015448034310823969",
+        "created_at": "2026-01-25T15:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015448034310823969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W04BaLNcn0",
+              "end": 30,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2015448034310823969/photo/1",
+              "media_key": "3_2015448007484088320",
+              "start": 7,
+              "url": "https://t.co/W04BaLNcn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015448034310823969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上船，启航！ https://t.co/W04BaLNcn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 522,
+          "like_count": 24181,
+          "listed_count": 2,
+          "media_count": 1102,
+          "tweet_count": 10083
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1807891374169276571",
+    "created_at": "2024-07-04T12:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T13:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808836945797394786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808836945797394786",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807891374169276571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 心疼红毛前任还没发现多俩老婆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1807891374169276571",
+        "created_at": "2024-07-04T12:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T13:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808836945797394786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808836945797394786",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807891374169276571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 心疼红毛前任还没发现多俩老婆"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807891367516876800",
+            "3_1807891367705956353"
+          ]
+        },
+        "author_id": "1657055349982244865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1807891374169276571",
+        "created_at": "2024-07-01T21:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T22:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807891374169276571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gCJinM9y5E",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Glagagapot/status/1807891374169276571/photo/1",
+              "media_key": "3_1807891367516876800",
+              "start": 3,
+              "url": "https://t.co/gCJinM9y5E"
+            },
+            {
+              "display_url": "pic.twitter.com/gCJinM9y5E",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Glagagapot/status/1807891374169276571/photo/1",
+              "media_key": "3_1807891367705956353",
+              "start": 3,
+              "url": "https://t.co/gCJinM9y5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807891374169276571",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 820,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑得 https://t.co/gCJinM9y5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 434,
+          "like_count": 20412,
+          "listed_count": 2,
+          "tweet_count": 7928
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "我是Gla嘎拉｜点赞关注不代表立场",
+        "id": "1657055349982244865",
+        "location": "嘎拉国",
+        "name": "嘎拉嘎嘎脸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808219519955132418/-SdGclqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 933,
+          "like_count": 28824,
+          "listed_count": 2,
+          "tweet_count": 10330
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

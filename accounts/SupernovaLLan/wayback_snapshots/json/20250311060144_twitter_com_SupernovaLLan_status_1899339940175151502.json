@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1899339427828453885",
+    "created_at": "2025-03-11T06:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T07:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899339940175151502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874049299124019201",
+          "start": 0,
+          "username": "Mistery5387057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899339940175151502",
+    "in_reply_to_user_id": "1874049299124019201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899339427828453885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mistery5387057 请独自安心休息恢复能量👋🏻保重呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1992,
+        "media_key": "3_1899339423130497024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlvPJGeWsAAUjb6.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1899339427828453885",
+        "created_at": "2025-03-11T06:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T07:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899339940175151502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874049299124019201",
+              "start": 0,
+              "username": "Mistery5387057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899339940175151502",
+        "in_reply_to_user_id": "1874049299124019201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899339427828453885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mistery5387057 请独自安心休息恢复能量👋🏻保重呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899339423130497024"
+          ]
+        },
+        "author_id": "1874049299124019201",
+        "conversation_id": "1899339427828453885",
+        "created_at": "2025-03-11T05:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T06:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899339427828453885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3q7Ec7fHll",
+              "end": 30,
+              "expanded_url": "https://x.com/Mistery5387057/status/1899339427828453885/photo/1",
+              "media_key": "3_1899339423130497024",
+              "start": 7,
+              "url": "https://t.co/3q7Ec7fHll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899339427828453885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "さようなら👋 https://t.co/3q7Ec7fHll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 525,
+          "like_count": 23647,
+          "listed_count": 2,
+          "media_count": 1026,
+          "tweet_count": 9416
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T11:05:58.000Z",
+        "description": "一个逻辑的梳理者，趋势的跟随者。 没有群，不私聊，不收费 。各人观点不构成投资建议，股市有风险，投资需谨慎，盈亏自负！",
+        "id": "1874049299124019201",
+        "location": "東京 世田谷区",
+        "name": "Mistery",
+        "pinned_tweet_id": "1899205354476752997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896008448698941440/fSEwRu_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23955,
+          "following_count": 21,
+          "like_count": 12872,
+          "listed_count": 351,
+          "media_count": 1431,
+          "tweet_count": 7483
+        },
+        "username": "Mistery5387057",
+        "verified": true
+      }
+    ]
+  }
+}

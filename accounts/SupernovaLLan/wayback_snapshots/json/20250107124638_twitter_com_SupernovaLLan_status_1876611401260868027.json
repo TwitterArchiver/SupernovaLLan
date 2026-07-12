@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1876561515924619507",
+    "created_at": "2025-01-07T12:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T13:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876611401260868027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1506154024252448770",
+          "start": 0,
+          "username": "Usagiblueberry"
+        },
+        {
+          "end": 32,
+          "id": "1272405078683430913",
+          "start": 16,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876611401260868027",
+    "in_reply_to_user_id": "1506154024252448770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876568827905147162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usagiblueberry @PaitangOfficial 我也同意，小南有些有气无力的感觉，真的累坏了一样。和小毛一起的经验告诉我，你要是为她耽误很多事情她知道了会压力更大，但是你要是只忙自己的事情不管也会难受，个中平衡很难把握"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1876561515924619507",
+        "created_at": "2025-01-07T12:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T13:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876611401260868027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1506154024252448770",
+              "start": 0,
+              "username": "Usagiblueberry"
+            },
+            {
+              "end": 32,
+              "id": "1272405078683430913",
+              "start": 16,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876611401260868027",
+        "in_reply_to_user_id": "1506154024252448770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876568827905147162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usagiblueberry @PaitangOfficial 我也同意，小南有些有气无力的感觉，真的累坏了一样。和小毛一起的经验告诉我，你要是为她耽误很多事情她知道了会压力更大，但是你要是只忙自己的事情不管也会难受，个中平衡很难把握"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506154024252448770",
+        "conversation_id": "1876561515924619507",
+        "created_at": "2025-01-07T09:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T10:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876568827905147162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876568827905147162",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876561515924619507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 可能不是她有替代品，也不是你不够好（你已经做得特别特别好了）而是她目前没有能力处理好感情，也许是因为恋爱让她感到负担😔抱抱你😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 515,
+          "like_count": 22930,
+          "listed_count": 2,
+          "media_count": 1012,
+          "tweet_count": 9252
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T06:21:54.000Z",
+        "description": "I stand with Iranians not Khamenei.ꪔ̤",
+        "id": "1506154024252448770",
+        "location": "Rabbit Hill",
+        "name": "ᕱᕱ",
+        "pinned_tweet_id": "1800825750435827771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875127805496934400/5zS1Js_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 491,
+          "like_count": 53324,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 2912
+        },
+        "username": "Usagiblueberry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "有利他林合法替代品，有大量高性价比促智药、抗抑郁药（抗抑郁促智双效）、不销售任何非法产品想快速回复TG✈️：@paitangcuzhi2｜初级生物黑客｜低质量健康科学媒体｜低级科学工作者｜高级促智药供应服务商",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "paitangcuzhi2"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "既見未來 為何不拜？",
+        "name": "🏴☯️Ye經理不是利他林",
+        "pinned_tweet_id": "1876234475849547893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860951392808030209/VyIc2tlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8464,
+          "following_count": 338,
+          "like_count": 5943,
+          "listed_count": 25,
+          "media_count": 1286,
+          "tweet_count": 10744
+        },
+        "username": "PaitangOfficial",
+        "verified": true
+      }
+    ]
+  }
+}

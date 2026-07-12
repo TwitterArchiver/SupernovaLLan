@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2061134666103726351",
+    "created_at": "2026-06-09T08:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064258328902213730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1861269935458263042",
+          "start": 0,
+          "username": "azmiao1112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064258328902213730",
+    "in_reply_to_user_id": "1861269935458263042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061134666103726351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azmiao1112 萝莉大叔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2017,
+        "media_key": "3_2061134648898629632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqfCvXaMAAQFfs.jpg",
+        "width": 1849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2061134666103726351",
+        "created_at": "2026-06-09T08:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064258328902213730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1861269935458263042",
+              "start": 0,
+              "username": "azmiao1112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064258328902213730",
+        "in_reply_to_user_id": "1861269935458263042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061134666103726351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azmiao1112 萝莉大叔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061134648898629632"
+          ]
+        },
+        "author_id": "1861269935458263042",
+        "conversation_id": "2061134666103726351",
+        "created_at": "2026-05-31T17:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061134666103726351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ehr2EVVs1",
+              "end": 51,
+              "expanded_url": "https://x.com/azmiao1112/status/2061134666103726351/photo/1",
+              "media_key": "3_2061134648898629632",
+              "start": 28,
+              "url": "https://t.co/4Ehr2EVVs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061134666103726351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3605,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "首先 我成年了\n其次 我很老了\n所以我是大叔大叔大叔！ https://t.co/4Ehr2EVVs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 600,
+          "like_count": 26486,
+          "listed_count": 2,
+          "media_count": 1178,
+          "tweet_count": 10993
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T04:46:06.000Z",
+        "description": "photographer/摄影师",
+        "id": "1861269935458263042",
+        "location": "Eastern District, Hong Kong",
+        "name": "木梓南",
+        "pinned_tweet_id": "1976242767211921798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052734915775692800/kRunyDzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3995,
+          "following_count": 378,
+          "like_count": 78,
+          "listed_count": 13,
+          "media_count": 209,
+          "tweet_count": 996
+        },
+        "username": "azmiao1112",
+        "verified": false
+      }
+    ]
+  }
+}

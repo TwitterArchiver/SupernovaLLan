@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851785895440998400"
+      ],
+      "media_source_tweet_id": [
+        "1851785904937144334"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      }
+    ],
+    "conversation_id": "1852180073455194548",
+    "created_at": "2024-11-01T02:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T03:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852180073455194548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768435540125212672",
+          "start": 3,
+          "username": "JosgateX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WSoqD51YSw",
+          "end": 74,
+          "expanded_url": "https://x.com/JosgateX/status/1851785904937144334/photo/1",
+          "media_key": "3_1851785895440998400",
+          "start": 51,
+          "url": "https://t.co/WSoqD51YSw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852180073455194548",
+    "lang": "ca",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851785904937144334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JosgateX: Resumen de Steins;Gate en una imagen https://t.co/WSoqD51YSw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1886,
+        "media_key": "3_1851785895440998400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbLddfHW4AAWBLF.jpg",
+        "width": 1522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851785895440998400"
+          ],
+          "media_source_tweet_id": [
+            "1851785904937144334"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "1852180073455194548",
+        "created_at": "2024-11-01T02:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T03:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852180073455194548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768435540125212672",
+              "start": 3,
+              "username": "JosgateX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSoqD51YSw",
+              "end": 74,
+              "expanded_url": "https://x.com/JosgateX/status/1851785904937144334/photo/1",
+              "media_key": "3_1851785895440998400",
+              "start": 51,
+              "url": "https://t.co/WSoqD51YSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852180073455194548",
+        "lang": "ca",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851785904937144334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JosgateX: Resumen de Steins;Gate en una imagen https://t.co/WSoqD51YSw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851785895440998400"
+          ]
+        },
+        "author_id": "1768435540125212672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "1851785904937144334",
+        "created_at": "2024-10-31T00:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T01:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851785904937144334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSoqD51YSw",
+              "end": 60,
+              "expanded_url": "https://x.com/JosgateX/status/1851785904937144334/photo/1",
+              "media_key": "3_1851785895440998400",
+              "start": 37,
+              "url": "https://t.co/WSoqD51YSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851785904937144334",
+        "lang": "ca",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7844,
+          "like_count": 461,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "Resumen de Steins;Gate en una imagen https://t.co/WSoqD51YSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 469,
+          "like_count": 21744,
+          "listed_count": 2,
+          "tweet_count": 8663
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T00:34:38.000Z",
+        "description": "Soy alguien que ama Steins;Gate y sube contenido de él todos los días | también soy Youtuber de Steins;Gate | level 18 :D\n|\nserver de discord de S;G Hispano ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/aHJ5Td99UE",
+                "end": 23,
+                "expanded_url": "https://discord.gg/aHJ5Td99UE",
+                "start": 0,
+                "url": "https://t.co/qvxF4ryt3Q"
+              }
+            ]
+          }
+        },
+        "id": "1768435540125212672",
+        "location": "Akihabara (algun dia) PE",
+        "name": "JOSGATE",
+        "pinned_tweet_id": "1852106186033709156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816701370747047936/R7dWRC6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 10,
+          "like_count": 7446,
+          "listed_count": 1,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/qvxF4ryt3Q",
+        "username": "JosgateX",
+        "verified": false
+      }
+    ]
+  }
+}

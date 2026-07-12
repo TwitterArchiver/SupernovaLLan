@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1894777136193687819",
+    "created_at": "2025-02-26T16:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T17:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894792498800927127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552294746118246407",
+          "start": 0,
+          "username": "TheIcoPacif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894792498800927127",
+    "in_reply_to_user_id": "1552294746118246407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894787056863453610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheIcoPacif 转发抽象文案你起什么哄🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1894777136193687819",
+        "created_at": "2025-02-26T16:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T17:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894792498800927127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552294746118246407",
+              "start": 0,
+              "username": "TheIcoPacif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894792498800927127",
+        "in_reply_to_user_id": "1552294746118246407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894787056863453610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheIcoPacif 转发抽象文案你起什么哄🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552294746118246407",
+        "conversation_id": "1894777136193687819",
+        "created_at": "2025-02-26T16:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T17:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894787056863453610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894787056863453610",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894777136193687819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 上CSU上的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 524,
+          "like_count": 23423,
+          "listed_count": 2,
+          "media_count": 1023,
+          "tweet_count": 9375
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T14:08:16.000Z",
+        "description": "",
+        "id": "1552294746118246407",
+        "location": "自由的家园，勇敢的故乡",
+        "name": "IcoPacif",
+        "pinned_tweet_id": "1706282797445582969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600119958586896385/7HzZA-Ek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 151,
+          "like_count": 2312,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2743
+        },
+        "username": "TheIcoPacif",
+        "verified": false
+      }
+    ]
+  }
+}

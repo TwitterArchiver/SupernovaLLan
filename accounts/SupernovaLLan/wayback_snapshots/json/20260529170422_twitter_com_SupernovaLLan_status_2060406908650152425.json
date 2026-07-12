@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060406902518067200",
+        "3_2060406902501310464"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060406908650152425",
+    "created_at": "2026-05-29T17:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060406908650152425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gSLVT5F5jf",
+          "end": 135,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2060406908650152425/photo/1",
+          "media_key": "3_2060406902518067200",
+          "start": 112,
+          "url": "https://t.co/gSLVT5F5jf"
+        },
+        {
+          "display_url": "pic.x.com/gSLVT5F5jf",
+          "end": 135,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2060406908650152425/photo/1",
+          "media_key": "3_2060406902501310464",
+          "start": 112,
+          "url": "https://t.co/gSLVT5F5jf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060406908650152425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三年又三年前的两年，铃兰好像是非常念旧的人，所有的匆匆过客都能留下一笔，不论是朋友、恋人。每一位和我有所交集的人都倒映着自我的碎片，我很珍惜地收拢起这些镜中的我，不忍放手\n分手了也是老朋友，都过得还好，希望大家最后都能幸福 https://t.co/gSLVT5F5jf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060406908650152425].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060406908650152425",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060406908650152425"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 867,
+        "media_key": "3_2060406902518067200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgJKU1aMAAvYlt.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1221,
+        "media_key": "3_2060406902501310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgJKUxagAAk913.jpg",
+        "width": 1125
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 591,
+          "like_count": 26145,
+          "listed_count": 2,
+          "media_count": 1167,
+          "tweet_count": 10900
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

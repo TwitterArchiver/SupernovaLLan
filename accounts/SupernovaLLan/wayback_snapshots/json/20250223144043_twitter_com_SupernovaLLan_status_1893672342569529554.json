@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893191483030740992",
+        "13_1893191482905108485"
+      ],
+      "media_source_tweet_id": [
+        "1893191556083130880",
+        "1893191556083130880"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1893672342569529554",
+    "created_at": "2025-02-23T14:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T15:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893672342569529554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600277431256256512",
+          "start": 3,
+          "username": "Oriyukiiiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j8yoskUH81",
+          "end": 55,
+          "expanded_url": "https://x.com/Oriyukiiiii/status/1893191556083130880/video/1",
+          "media_key": "3_1893191483030740992",
+          "start": 32,
+          "url": "https://t.co/j8yoskUH81"
+        },
+        {
+          "display_url": "pic.x.com/j8yoskUH81",
+          "end": 55,
+          "expanded_url": "https://x.com/Oriyukiiiii/status/1893191556083130880/video/1",
+          "media_key": "13_1893191482905108485",
+          "start": 32,
+          "url": "https://t.co/j8yoskUH81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893672342569529554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893191556083130880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oriyukiiiii: 帮助海鸥…完成了…薯条梦…. https://t.co/j8yoskUH81"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_1893191483030740992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkX3n43XoAA22uv.jpg",
+        "width": 1179
+      },
+      {
+        "duration_ms": 5470,
+        "height": 960,
+        "media_key": "13_1893191482905108485",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1893191482905108485/img/jurQqHSgM89IAk3G.jpg",
+        "public_metrics": {
+          "view_count": 7641
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893191482905108485/vid/avc1/320x568/3vSJxI7eaing1SB0.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893191482905108485/vid/avc1/480x852/HJxhpxCmzp--1-d2.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893191482905108485/vid/avc1/540x960/zz1qVk_RqjJ2q_xn.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1893191482905108485/pl/F8TasbdN91gbePwz.m3u8?tag=16"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893191483030740992",
+            "13_1893191482905108485"
+          ],
+          "media_source_tweet_id": [
+            "1893191556083130880",
+            "1893191556083130880"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1893672342569529554",
+        "created_at": "2025-02-23T14:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T15:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893672342569529554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600277431256256512",
+              "start": 3,
+              "username": "Oriyukiiiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8yoskUH81",
+              "end": 55,
+              "expanded_url": "https://x.com/Oriyukiiiii/status/1893191556083130880/video/1",
+              "media_key": "3_1893191483030740992",
+              "start": 32,
+              "url": "https://t.co/j8yoskUH81"
+            },
+            {
+              "display_url": "pic.x.com/j8yoskUH81",
+              "end": 55,
+              "expanded_url": "https://x.com/Oriyukiiiii/status/1893191556083130880/video/1",
+              "media_key": "13_1893191482905108485",
+              "start": 32,
+              "url": "https://t.co/j8yoskUH81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893672342569529554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893191556083130880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oriyukiiiii: 帮助海鸥…完成了…薯条梦…. https://t.co/j8yoskUH81"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893191483030740992",
+            "13_1893191482905108485"
+          ]
+        },
+        "author_id": "1600277431256256512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1893191556083130880",
+        "created_at": "2025-02-22T06:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T07:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893191556083130880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8yoskUH81",
+              "end": 38,
+              "expanded_url": "https://x.com/Oriyukiiiii/status/1893191556083130880/video/1",
+              "media_key": "3_1893191483030740992",
+              "start": 15,
+              "url": "https://t.co/j8yoskUH81"
+            },
+            {
+              "display_url": "pic.x.com/j8yoskUH81",
+              "end": 38,
+              "expanded_url": "https://x.com/Oriyukiiiii/status/1893191556083130880/video/1",
+              "media_key": "13_1893191482905108485",
+              "start": 15,
+              "url": "https://t.co/j8yoskUH81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893191556083130880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 21719,
+          "like_count": 269,
+          "quote_count": 4,
+          "reply_count": 30,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "帮助海鸥…完成了…薯条梦…. https://t.co/j8yoskUH81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 522,
+          "like_count": 23567,
+          "listed_count": 2,
+          "media_count": 1023,
+          "tweet_count": 9374
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。 “心怀梦想的人身上那种闪闪发光的温柔，对如今的我来说太痛了。”  https://t.co/Qm0OpuzJ0u提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oriyukiiiiii",
+                "end": 67,
+                "expanded_url": "https://ngl.link/oriyukiiiiii",
+                "start": 44,
+                "url": "https://t.co/Qm0OpuzJ0u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12258,
+          "following_count": 587,
+          "like_count": 4162,
+          "listed_count": 18,
+          "media_count": 1525,
+          "tweet_count": 5557
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

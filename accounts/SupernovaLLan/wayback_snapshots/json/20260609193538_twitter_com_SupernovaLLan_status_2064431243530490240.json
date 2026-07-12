@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2064431243530490240",
+    "created_at": "2026-06-09T19:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T20:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064431243530490240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lzg_Althea/sta…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/Lzg_Althea/status/2064399027232469435",
+          "start": 56,
+          "url": "https://t.co/K20sF9tsKS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064431243530490240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064399027232469435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hhh对的对的这就是我为啥戒o了，平日不嗑药的，有时想着就吃一点吧，然后补药能给自己补到断片还是逮着什么炫什么 https://t.co/K20sF9tsKS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064399011646435328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY39qPacAANueP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064431243530490240",
+        "created_at": "2026-06-09T19:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064431243530490240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lzg_Althea/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Lzg_Althea/status/2064399027232469435",
+              "start": 56,
+              "url": "https://t.co/K20sF9tsKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064431243530490240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064399027232469435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hhh对的对的这就是我为啥戒o了，平日不嗑药的，有时想着就吃一点吧，然后补药能给自己补到断片还是逮着什么炫什么 https://t.co/K20sF9tsKS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064399011646435328"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064399027232469435",
+        "created_at": "2026-06-09T17:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064399027232469435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPxUwe3z4X",
+              "end": 64,
+              "expanded_url": "https://x.com/Lzg_Althea/status/2064399027232469435/photo/1",
+              "media_key": "3_2064399011646435328",
+              "start": 41,
+              "url": "https://t.co/uPxUwe3z4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064399027232469435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "注意看日期 明明清醒时都没有过量意图的 吓死人了我都把药放在床下了还是忍不住补量 https://t.co/uPxUwe3z4X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 601,
+          "like_count": 26519,
+          "listed_count": 2,
+          "media_count": 1178,
+          "tweet_count": 11012
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "1915163759582261466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 278,
+          "like_count": 6486,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1395
+        },
+        "username": "Lzg_Althea",
+        "verified": false
+      }
+    ]
+  }
+}

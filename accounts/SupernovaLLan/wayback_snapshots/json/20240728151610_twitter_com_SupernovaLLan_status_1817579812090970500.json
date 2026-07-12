@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1817579802918072320"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      }
+    ],
+    "conversation_id": "1817579812090970500",
+    "created_at": "2024-07-28T15:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T16:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817579812090970500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/phDVPz8CvB",
+          "end": 23,
+          "expanded_url": "https://twitter.com/SupernovaLLan/status/1817579812090970500/photo/1",
+          "media_key": "3_1817579802918072320",
+          "start": 0,
+          "url": "https://t.co/phDVPz8CvB"
+        },
+        {
+          "display_url": "x.com/96stats/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/96stats/status/1817235699759792330",
+          "start": 24,
+          "url": "https://t.co/AtPqnPMhNi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817579812090970500",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817235699759792330",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/phDVPz8CvB https://t.co/AtPqnPMhNi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1817579812090970500].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1817579812090970500",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1817579812090970500"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_1817579802918072320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTlXM2fbMAAHNOL.jpg",
+        "width": 502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817235684094062593"
+          ]
+        },
+        "author_id": "54313278",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "1817235699759792330",
+        "created_at": "2024-07-27T16:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T17:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817235699759792330"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 83,
+              "normalized_text": "olympics",
+              "probability": 0.5127,
+              "start": 76,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/y8E7yt9NaZ",
+              "end": 111,
+              "expanded_url": "https://twitter.com/96Stats/status/1817235699759792330/photo/1",
+              "media_key": "3_1817235684094062593",
+              "start": 88,
+              "url": "https://t.co/y8E7yt9NaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817235699759792330",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 1146362,
+          "like_count": 7684,
+          "quote_count": 159,
+          "reply_count": 423,
+          "retweet_count": 835
+        },
+        "reply_settings": "everyone",
+        "text": "Chinese social media: “what’s the guy from journey to the west doing at the olympics…?” https://t.co/y8E7yt9NaZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 431,
+          "like_count": 20403,
+          "listed_count": 2,
+          "tweet_count": 7955
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-06T19:56:38.000Z",
+        "description": "鹿可 لۇك ｜ PhD in AI for colorectal cancer detection. Background in Statistics and Epidemiology. Now in China. #HEX #PulseChain",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "HEX"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "tag": "PulseChain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/livinlavidal…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/livinlavidaluke",
+                "start": 0,
+                "url": "https://t.co/c8YdNCKgrg"
+              }
+            ]
+          }
+        },
+        "id": "54313278",
+        "location": "Shanghai, China",
+        "name": "livinlavidaluke",
+        "pinned_tweet_id": "1502696581552013314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1283655275208155136/G8toKLyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6970,
+          "following_count": 4425,
+          "like_count": 3256,
+          "listed_count": 33,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/c8YdNCKgrg",
+        "username": "96Stats",
+        "verified": true
+      }
+    ]
+  }
+}

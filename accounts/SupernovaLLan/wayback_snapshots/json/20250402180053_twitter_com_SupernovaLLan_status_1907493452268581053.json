@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1907493452268581053",
+    "created_at": "2025-04-02T18:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T19:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907493452268581053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1907313888917659753",
+          "start": 22,
+          "url": "https://t.co/XfXMhrf67k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907493452268581053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907313888917659753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "灌氢气球，持打火机😄\n宁为玉碎，不为瓦全🤪 https://t.co/XfXMhrf67k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49533,
+        "height": 1920,
+        "media_key": "7_1907312893999337472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907312893999337472/pu/img/J-nNJlAty2dublhZ.jpg",
+        "public_metrics": {
+          "view_count": 77720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907312893999337472/pu/vid/avc1/320x568/JBK3nklQh-63c2qc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907312893999337472/pu/vid/avc1/480x852/AZ2NBwyurkNIIo7Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907312893999337472/pu/vid/avc1/720x1280/yWsCiLqnJdt-voaa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907312893999337472/pu/pl/LVPlNoc8IL6lRGBW.m3u8?tag=12&v=bd4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 96036,
+        "height": 1920,
+        "media_key": "7_1907312946440728576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907312946440728576/pu/img/pU8y6DyCf26djMO9.jpg",
+        "public_metrics": {
+          "view_count": 6035
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907312946440728576/pu/vid/avc1/320x568/hTaya6UAPTnGDCQU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907312946440728576/pu/vid/avc1/480x852/_3o6XK1hvU7I_HXN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907312946440728576/pu/vid/avc1/720x1280/ajlZ_4D_Y3OoOpRW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907312946440728576/pu/pl/TWoPZnWVeQmKewZY.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1907493452268581053",
+        "created_at": "2025-04-02T18:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T19:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907493452268581053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1907313888917659753",
+              "start": 22,
+              "url": "https://t.co/XfXMhrf67k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907493452268581053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907313888917659753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "灌氢气球，持打火机😄\n宁为玉碎，不为瓦全🤪 https://t.co/XfXMhrf67k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907312893999337472",
+            "7_1907312946440728576"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1907313888917659753",
+        "created_at": "2025-04-02T06:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T07:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907313888917659753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bwbLVxvzAQ",
+              "end": 102,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1907313888917659753/video/1",
+              "media_key": "7_1907312893999337472",
+              "start": 79,
+              "url": "https://t.co/bwbLVxvzAQ"
+            },
+            {
+              "display_url": "pic.x.com/bwbLVxvzAQ",
+              "end": 102,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1907313888917659753/video/1",
+              "media_key": "7_1907312946440728576",
+              "start": 79,
+              "url": "https://t.co/bwbLVxvzAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907313888917659753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 165150,
+          "like_count": 636,
+          "quote_count": 19,
+          "reply_count": 111,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "4月1日，天津。城管强行把摊贩的气球放飞，路人们见状一拥而上哄抢气球。\n 4月1日，天津。城管要没收摊贩的气球，摊贩死死抓着气球不撒手，随后被城管按倒在地。 https://t.co/bwbLVxvzAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 539,
+          "like_count": 23933,
+          "listed_count": 2,
+          "media_count": 1034,
+          "tweet_count": 9518
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964872,
+          "following_count": 946,
+          "like_count": 6145,
+          "listed_count": 8083,
+          "media_count": 25818,
+          "tweet_count": 32235
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

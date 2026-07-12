@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1895066501239185782",
+    "created_at": "2025-02-28T03:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T04:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895321977788997726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1444640763070005251",
+          "start": 0,
+          "username": "hqin_chihiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895321977788997726",
+    "in_reply_to_user_id": "1444640763070005251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895066501239185782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hqin_chihiro 我的情况是靠高中底子四六级连续飘过，这个水平经过若干年下降之后工作上还是能和西班牙语母语的人交流🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_1895066498336727041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkyg8JMaoAE__Rt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1895066501239185782",
+        "created_at": "2025-02-28T03:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T04:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895321977788997726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "hqin_chihiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895321977788997726",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895066501239185782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hqin_chihiro 我的情况是靠高中底子四六级连续飘过，这个水平经过若干年下降之后工作上还是能和西班牙语母语的人交流🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895066498336727041"
+          ]
+        },
+        "author_id": "1444640763070005251",
+        "conversation_id": "1895066501239185782",
+        "created_at": "2025-02-27T11:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T12:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895066501239185782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yjAYPxGzG",
+              "end": 183,
+              "expanded_url": "https://x.com/hqin_chihiro/status/1895066501239185782/photo/1",
+              "media_key": "3_1895066498336727041",
+              "start": 160,
+              "url": "https://t.co/3yjAYPxGzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895066501239185782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4762,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来不想发四六级分，但是今天的对话实在太乐了\n前情提要：四级裸考571\n二老问我六级多少保研够用，我说除了清北500就行\n我爸就不高兴了，说他在网上今天就看见一个616的一个650的，开始说xxx（高考695+，高一过了雅思）估计四六级就能过650balabala,网上说六级过600才能跟英国人交流\n不知道说什么（笑 https://t.co/3yjAYPxGzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 526,
+          "like_count": 23478,
+          "listed_count": 2,
+          "media_count": 1023,
+          "tweet_count": 9384
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "No! More! No! Fake!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hqinchriso.github.io",
+                "end": 23,
+                "expanded_url": "http://hqinchriso.github.io",
+                "start": 0,
+                "url": "https://t.co/mvUyfVbtaq"
+              }
+            ]
+          }
+        },
+        "id": "1444640763070005251",
+        "location": "Northeast China",
+        "name": "Hqin",
+        "pinned_tweet_id": "1888645971611099589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890321751579717635/tyU1QCqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 814,
+          "like_count": 12155,
+          "listed_count": 5,
+          "media_count": 475,
+          "tweet_count": 6913
+        },
+        "url": "https://t.co/mvUyfVbtaq",
+        "username": "hqin_chihiro",
+        "verified": false
+      }
+    ]
+  }
+}

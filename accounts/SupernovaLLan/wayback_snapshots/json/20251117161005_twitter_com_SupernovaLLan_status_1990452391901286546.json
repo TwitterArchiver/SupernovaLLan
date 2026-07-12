@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990452378647334913",
+        "3_1990452378601238528"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1990449298346308057",
+    "created_at": "2025-11-17T16:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T17:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990452391901286546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "AnIncandescence"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UKOMdUfhne",
+          "end": 59,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1990452391901286546/photo/1",
+          "media_key": "3_1990452378647334913",
+          "start": 36,
+          "url": "https://t.co/UKOMdUfhne"
+        },
+        {
+          "display_url": "pic.x.com/UKOMdUfhne",
+          "end": 59,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1990452391901286546/photo/1",
+          "media_key": "3_1990452378601238528",
+          "start": 36,
+          "url": "https://t.co/UKOMdUfhne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990452391901286546",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990449298346308057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnIncandescence 在阿根廷的第200天，天空烧出了火彩 https://t.co/UKOMdUfhne"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990452391901286546].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990452391901286546",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990452391901286546"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990452378647334913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-B5HubEAEJUAf.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990452378601238528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-B5HjbsAA-Lzu.jpg",
+        "width": 945
+      },
+      {
+        "height": 360,
+        "media_key": "16_1990449245061554176",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G59_CuNWoAA2RlT.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G59_CuNWoAA2RlT.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1990449245061554176"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "conversation_id": "1990449298346308057",
+        "created_at": "2025-11-17T15:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990449298346308057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ENfbWcX5w",
+              "end": 39,
+              "expanded_url": "https://x.com/AnIncandescence/status/1990449298346308057/photo/1",
+              "media_key": "16_1990449245061554176",
+              "start": 16,
+              "url": "https://t.co/1ENfbWcX5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990449298346308057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是这片陌生天空的最后一次燃烧吗 https://t.co/1ENfbWcX5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 537,
+          "like_count": 24993,
+          "listed_count": 2,
+          "media_count": 1087,
+          "tweet_count": 9929
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/iO6MRJNm9j"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1976277813784457417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 212,
+          "like_count": 11356,
+          "listed_count": 3,
+          "media_count": 850,
+          "tweet_count": 4377
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ]
+  }
+}

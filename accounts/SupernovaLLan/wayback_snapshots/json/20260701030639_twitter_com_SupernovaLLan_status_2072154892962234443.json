@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2072154892962234443",
+    "created_at": "2026-07-01T03:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072154892962234443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/szygls/status/…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/szygls/status/2071810454662664384",
+          "start": 54,
+          "url": "https://t.co/n64dcUe9lI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072154892962234443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071810454662664384",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是真的那心理测量者确实也领先一个时代了🤣科幻里看到这种分发式的恐怖袭击时候觉得新奇真没想到能在战场上见到 https://t.co/n64dcUe9lI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 330945,
+        "height": 486,
+        "media_key": "13_2071808878178643968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071808878178643968/img/q0w_c-PuWbZFTIJg.jpg",
+        "public_metrics": {
+          "view_count": 59065
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071808878178643968/vid/avc1/480x270/TS0VHMtKHeUDzZFI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071808878178643968/vid/avc1/640x360/0SZeiU6_v9sQVQS5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071808878178643968/vid/avc1/864x486/zjGRNQsFye8mm0Gj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071808878178643968/pl/YDlyL1ViNH8aPnf-.m3u8"
+          }
+        ],
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2072154892962234443",
+        "created_at": "2026-07-01T03:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072154892962234443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/szygls/status/…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/szygls/status/2071810454662664384",
+              "start": 54,
+              "url": "https://t.co/n64dcUe9lI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072154892962234443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071810454662664384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是真的那心理测量者确实也领先一个时代了🤣科幻里看到这种分发式的恐怖袭击时候觉得新奇真没想到能在战场上见到 https://t.co/n64dcUe9lI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071808878178643968"
+          ]
+        },
+        "author_id": "1638810204220575744",
+        "conversation_id": "2071810454662664384",
+        "created_at": "2026-06-30T04:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071810454662664384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PNteQGP1ot",
+              "end": 141,
+              "expanded_url": "https://x.com/szygls/status/2071810454662664384/video/1",
+              "media_key": "13_2071808878178643968",
+              "start": 118,
+              "url": "https://t.co/PNteQGP1ot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071810454662664384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "乌军无人机飞手被俘交代出来的东西，让不少人心里一沉，原来仗打到今天，样子已经彻底变了。\n事情出在俄乌前线，一片被炮火炸平的高层废墟里，俄军费了九牛二虎之力拿下一块阵地，抓了个乌军的无人机飞手一审问，交代出来的实情，让大伙心里直冒凉气。\n这片阵地满打满算就趴着十六个乌军，对面压过来的，可是一整个俄军合成营三四百号人，坦克、装甲车和重火力全配齐了。\n按常理，扛住这种规模的冲锋，怎么也得挖深战壕，架起重机枪死磕。\n结果这十六个人手里连把像样的步枪都没摸，阵地上全是堆成山的f p v自杀式无人机和几台终端设备。\n他们往深里挖着十几个人，根本不去碰遥控器，他们的活极其简单，充其量就是个前线打杂的。把无人机一架架摆放整齐，通上电调试好，直接连接一个叫黄蜂世界的远程空政治网里划定好大致的房区，剩下的事全交给系统去自动派单。\n这套网络搭在星链上，只要网线不断，全世界随便哪条街上的网民都能登录进去，这就真成打游戏了。按下攻击键的人一大半，根本没踏进过乌克兰半步。\n他们可能正坐在波兰街头的咖啡馆里，喝着拿铁，或者躺在北美的卧室大床上。这些人里头混着退伍老兵搞i t的码农，数量最多的其实是平时痴迷飞行模拟，爱玩穿越机的年轻电竞玩家戴上威尔眼镜，手里攥着手柄，盯着第一视角的屏幕，跟平常在家里打排位赛没有任何区别。连签证都不用办，连炮弹的响声都听不见，只要家里路由器够稳，隔着半个地球就能直接拔刀相响。\n更有意思的是，里头的赏金机制，这就跟咱们平时跑外卖接单一样，明码标价，多劳多得。画面传回系统，一核实干掉一辆坦克给多少钱？炸掉一辆装甲车爆多少金币？端掉一个人员掩体，都有对应的价码，钱直接打进账户。纯纯的计件工资，重赏之下，必有勇夫。\n全球各地不同时区的人轮流上线，白班、夜班，严丝合缝的衔接前线那片天上的无人机，二十四小时跟绿头营一样嗡嗡转，底下的俄军连喘口大气的功夫都没有。早几年咱们聊无人机打仗，飞手还得缩在前线几公里的掩体里，死死盯着屏幕，稍微一露头就被对面的反制炮火连锅端了。人员损耗一直是个大麻烦。现在玩法变了，前线就留几个换电池的修理工，真正的杀手躲在几千公里外吹空调。\n俄军这次拼了老命冲上阵地，抓到的不过是几个前台服务员。真正下死手的人，早退出了系统，下楼买夜宵去了。\n以前老一辈总数落年轻人打游戏是不务正业，谁能想到这本事，直接搬到了绞肉机一样的战场上。那些常年玩穿越机的老手飞起f p v来，比正规军的新兵担子溜多了，手感和准星极其可怕。战争的门槛就这么被一根根网线生生拉到了地下室里，打仗，再也不用穿军装。受军训，只要懂点技术，愿意掺和进去两千公里的距离，在卫星网络面前跟一层窗户纸一样薄。\n乌军算盘打得极精，俄军一个营的装备，几百万上千万美金，一架小飞机的成本满打满算几百块，十六个人，配上一堆便宜塑料件，硬生生顶住了一支重装部队。\n这买卖简直划算到了家，麻烦事儿也就跟着来了。当一个平民坐在沙发上动动手指头，就这能随便决定千里之外一条鲜活人命的去留。\n这笔账该算在谁头上？这些隔空打牛的玩家，算不算正规战斗员，真要是犯了事，拿哪条国际法去抓人，条文里全是大窟窿。美国那边的智库早就就盯上了，这是白纸黑字地写着，只要网速够快，会用手柄，任何人都能无缝切换成数字。战场上的冷血狙击手，这套模式要是落到极端组织手里，地球怕是真要进入一个毫无底线低门槛的杀戮时代，俄军现在也是焦头烂额，前线被这帮机械蜂群搞得神经衰弱，后方还得提防无人机偷偷溜进来炸炼油厂、干扰机、激光炮全搬上来了。\n星链的抗干扰底子太厚，根本清不干净。往后想要是再把a i自动识别，量子加密这些狠活加上去，战争彻底变成一堆算法，在云端互相撕咬。\n当杀戮变成一种可以在手机上订阅能打卡领工资的兼职任务人，对生命最起码的那点敬畏心早就烟消云散了。打仗不用死，自己人，扣扳机的顾虑就会少的可怜，摩擦起火的概率绝对直线飙升。\n黄蜂世界听着是个挺时髦的软件名，背地里却是把潘多拉魔盒先开了一道大缝，科技跑得越快，咱们越得拽紧手里的缰绳。\n技术进步的初衷是为了造福全人类，改善咱们的生活，绝不是用来批量制造生灵涂炭的机器。咱们生在和平年代，更得看清这些冰冷武器背后的残酷真相。无论战争形态怎么变异，尊重生命，维护世界和平，守住人类。的道德底线，才是全人类必须共同坚守的正道。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 72509,
+          "like_count": 327,
+          "quote_count": 10,
+          "reply_count": 49,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "乌军无人机飞手被俘交代出来的东西，让不少人心里一沉，原来仗打到今天，样子已经彻底变了。\n事情出在俄乌前线，一片被炮火炸平的高层废墟里，俄军费了九牛二虎之力拿下一块阵地，抓了个乌军的无人机飞手一审问，交代出来的实情，让大伙心里直冒凉气。 https://t.co/PNteQGP1ot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 624,
+          "like_count": 27098,
+          "listed_count": 2,
+          "media_count": 1208,
+          "tweet_count": 11262
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T07:49:45.000Z",
+        "description": "Current events and gossip; love for the country; friendly discussion; no profanity.",
+        "id": "1638810204220575744",
+        "name": "yanguoliusheng",
+        "pinned_tweet_id": "1870813526211924308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052894827579346944/EMxw8De__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68786,
+          "following_count": 19896,
+          "like_count": 50321,
+          "listed_count": 285,
+          "media_count": 41209,
+          "tweet_count": 90572
+        },
+        "url": "",
+        "username": "szygls",
+        "verified": true
+      }
+    ]
+  }
+}

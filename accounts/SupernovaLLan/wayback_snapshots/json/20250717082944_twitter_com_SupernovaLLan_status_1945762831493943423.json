@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945762821213450240"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1945762831493943423",
+    "created_at": "2025-07-17T08:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T09:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945762831493943423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ybDxkJljht",
+          "end": 28,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1945762831493943423/photo/1",
+          "media_key": "3_1945762821213450240",
+          "start": 5,
+          "url": "https://t.co/ybDxkJljht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945762831493943423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蓝冰—— https://t.co/ybDxkJljht"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945762831493943423].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945762831493943423",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945762831493943423"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945762821213450240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwC8-g-W8AA4MRJ.jpg",
+        "width": 1822
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 548,
+          "like_count": 24830,
+          "listed_count": 2,
+          "media_count": 1063,
+          "tweet_count": 9732
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904065688605786112"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1904064394537083321",
+    "created_at": "2025-03-24T07:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T08:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904065695241150699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752729743471132672",
+          "start": 0,
+          "username": "yamato812536"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IJ5OkEDxVJ",
+          "end": 64,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1904065695241150699/photo/1",
+          "media_key": "3_1904065688605786112",
+          "start": 41,
+          "url": "https://t.co/IJ5OkEDxVJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904065695241150699",
+    "in_reply_to_user_id": "1752729743471132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904064394537083321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamato812536 从早捡到晚最后一底没币了🤧好消息是把成本又压下来了） https://t.co/IJ5OkEDxVJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1904065695241150699].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1904065695241150699",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1904065695241150699"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904065688605786112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmyZp9ZbgAAFLhM.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1904064385162842112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmyYeFsakAAK09h.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904064385162842112"
+          ]
+        },
+        "author_id": "1752729743471132672",
+        "conversation_id": "1904064394537083321",
+        "created_at": "2025-03-24T06:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T07:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904064394537083321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JlHE9axRIl",
+              "end": 55,
+              "expanded_url": "https://x.com/yamato812536/status/1904064394537083321/photo/1",
+              "media_key": "3_1904064385162842112",
+              "start": 32,
+              "url": "https://t.co/JlHE9axRIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904064394537083321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 412,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点名表扬一下我的徒弟 别人割肉她贪婪 开开心心捡带血的筹码 👍 https://t.co/JlHE9axRIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 530,
+          "like_count": 23784,
+          "listed_count": 2,
+          "media_count": 1030,
+          "tweet_count": 9462
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T16:25:21.000Z",
+        "description": "我在国内没有抖音 小红书 这些垃圾平台的账号 我也不荐股 不要被冒牌货骗 我只是好玩顺手分享一下知识 要看来X上看",
+        "id": "1752729743471132672",
+        "location": "North-East Region, Singapore",
+        "name": "yamato23",
+        "pinned_tweet_id": "1904064976572293221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796802887827566592/OMLV2oJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23552,
+          "following_count": 317,
+          "like_count": 17308,
+          "listed_count": 347,
+          "media_count": 1112,
+          "tweet_count": 18790
+        },
+        "username": "yamato812536",
+        "verified": true
+      }
+    ]
+  }
+}

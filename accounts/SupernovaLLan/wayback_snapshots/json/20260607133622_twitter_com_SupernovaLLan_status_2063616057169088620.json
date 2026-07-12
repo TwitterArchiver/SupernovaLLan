@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063615999115743232",
+        "13_2063615999254118400"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2063616057169088620",
+    "created_at": "2026-06-07T13:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063616057169088620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kz5dswgu7o",
+          "end": 60,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2063616057169088620/video/1",
+          "media_key": "13_2063615999115743232",
+          "start": 37,
+          "url": "https://t.co/Kz5dswgu7o"
+        },
+        {
+          "display_url": "pic.x.com/Kz5dswgu7o",
+          "end": 60,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2063616057169088620/video/1",
+          "media_key": "13_2063615999254118400",
+          "start": 37,
+          "url": "https://t.co/Kz5dswgu7o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063616057169088620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以为偷吃猫粮得很隐蔽然而大嘴套子暴露了））就这样肆无忌惮地吃猫粮喝猫水😾 https://t.co/Kz5dswgu7o"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063616057169088620].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063616057169088620",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063616057169088620"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2023,
+        "height": 1280,
+        "media_key": "13_2063615999115743232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063615999115743232/img/SAL3qiNnbfML9RoC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063615999115743232/vid/avc1/320x568/_AnY_mccsOL2V0mY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063615999115743232/vid/avc1/480x852/x8TUO0LERkGpBgvo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063615999115743232/vid/avc1/720x1280/5tnsxuckhKjATkjC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063615999115743232/pl/40L45BbEZtjsv9zm.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 1866,
+        "height": 1280,
+        "media_key": "13_2063615999254118400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063615999254118400/img/RTbbmCyrbX_DvjGg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063615999254118400/vid/avc1/320x568/pXA2fI6NAE4IEm3W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063615999254118400/vid/avc1/480x852/xxrLg0Del_90oit8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063615999254118400/vid/avc1/720x1280/AmiIM17prLuyKHN5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063615999254118400/pl/F_7wros2jMqVD4Fw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 599,
+          "like_count": 26427,
+          "listed_count": 2,
+          "media_count": 1174,
+          "tweet_count": 10977
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

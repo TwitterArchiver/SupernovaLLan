@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902726227166646272"
+      ],
+      "media_source_tweet_id": [
+        "1902726257034367450"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1903056689429131566",
+    "created_at": "2025-03-21T12:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T13:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903056689429131566"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "LightBringer",
+          "probability": 0.5429,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1643627392521338880",
+          "start": 3,
+          "username": "Kuroneko__x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YUf4I62Oh0",
+          "end": 57,
+          "expanded_url": "https://x.com/Kuroneko__x/status/1902726257034367450/photo/1",
+          "media_key": "3_1902726227166646272",
+          "start": 34,
+          "url": "https://t.co/YUf4I62Oh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903056689429131566",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902726257034367450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuroneko__x: The LightBringer https://t.co/YUf4I62Oh0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1902726227166646272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmfXbCsWUAA0JlF.jpg",
+        "width": 2741
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902726227166646272"
+          ],
+          "media_source_tweet_id": [
+            "1902726257034367450"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1903056689429131566",
+        "created_at": "2025-03-21T12:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903056689429131566"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "LightBringer",
+              "probability": 0.5429,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1643627392521338880",
+              "start": 3,
+              "username": "Kuroneko__x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YUf4I62Oh0",
+              "end": 57,
+              "expanded_url": "https://x.com/Kuroneko__x/status/1902726257034367450/photo/1",
+              "media_key": "3_1902726227166646272",
+              "start": 34,
+              "url": "https://t.co/YUf4I62Oh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903056689429131566",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902726257034367450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuroneko__x: The LightBringer https://t.co/YUf4I62Oh0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902726227166646272"
+          ]
+        },
+        "author_id": "1643627392521338880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1902726257034367450",
+        "created_at": "2025-03-20T14:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T15:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902726257034367450"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "LightBringer",
+              "probability": 0.6662,
+              "start": 4,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YUf4I62Oh0",
+              "end": 40,
+              "expanded_url": "https://x.com/Kuroneko__x/status/1902726257034367450/photo/1",
+              "media_key": "3_1902726227166646272",
+              "start": 17,
+              "url": "https://t.co/YUf4I62Oh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902726257034367450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 26316,
+          "like_count": 1909,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "The LightBringer https://t.co/YUf4I62Oh0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 528,
+          "like_count": 23703,
+          "listed_count": 2,
+          "media_count": 1028,
+          "tweet_count": 9445
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T14:52:09.000Z",
+        "description": "Prompt Explorer.\n⛧Fantasy Girls & Beautiful Monsters⛧\nFull Collections :  https://t.co/aRVzhCG9AV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rb.gy/wdtwqo",
+                "end": 97,
+                "expanded_url": "http://rb.gy/wdtwqo",
+                "start": 74,
+                "url": "https://t.co/aRVzhCG9AV"
+              }
+            ]
+          }
+        },
+        "id": "1643627392521338880",
+        "name": "Kuroneko",
+        "pinned_tweet_id": "1902981007860519091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900291031746105344/QhbnYaZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120645,
+          "following_count": 963,
+          "like_count": 79735,
+          "listed_count": 759,
+          "media_count": 3239,
+          "tweet_count": 17069
+        },
+        "username": "Kuroneko__x",
+        "verified": true
+      }
+    ]
+  }
+}

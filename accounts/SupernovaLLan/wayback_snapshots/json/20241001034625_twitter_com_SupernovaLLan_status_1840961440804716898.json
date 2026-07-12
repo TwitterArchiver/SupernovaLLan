@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1840961440804716898",
+    "created_at": "2024-10-01T03:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T04:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840961440804716898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbyk666/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/bbyk666/status/1840618969289625609",
+          "start": 8,
+          "url": "https://t.co/SJrXjja2Dr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840961440804716898",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840618969289625609",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被胡说八道吓晕 https://t.co/SJrXjja2Dr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1840961440804716898",
+        "created_at": "2024-10-01T03:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T04:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840961440804716898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbyk666/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/bbyk666/status/1840618969289625609",
+              "start": 8,
+              "url": "https://t.co/SJrXjja2Dr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840961440804716898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840618969289625609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被胡说八道吓晕 https://t.co/SJrXjja2Dr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1840618898439475200"
+          ]
+        },
+        "author_id": "2893886738",
+        "conversation_id": "1840618969289625609",
+        "created_at": "2024-09-30T05:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T06:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840618969289625609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LdIieJ6eBt",
+              "end": 88,
+              "expanded_url": "https://x.com/bbyk666/status/1840618969289625609/video/1",
+              "media_key": "7_1840618898439475200",
+              "start": 65,
+              "url": "https://t.co/LdIieJ6eBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840618969289625609",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 198572,
+          "like_count": 219,
+          "quote_count": 21,
+          "reply_count": 140,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "董宇辉直播翻车\n近日，董宇辉在直播中讲解居里夫人时出现了明显事实错误，他称居里夫人发现了铀、发明了X光机、获得了诺贝尔文学奖等。 https://t.co/LdIieJ6eBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 457,
+          "like_count": 21506,
+          "listed_count": 2,
+          "tweet_count": 8310
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T15:19:57.000Z",
+        "description": "欢迎关注YouTube频道：https://t.co/XQRiJuIWBH\n不看病、不卖药，相关资料和视频源自网络，点赞=已阅。不要相信评论区的“诈骗黄推”和各种“非官方”广告。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bbyk168?si=wH…",
+                "end": 37,
+                "expanded_url": "https://youtube.com/@bbyk168?si=wHK9ZVOdMVrGbHS3",
+                "start": 14,
+                "url": "https://t.co/XQRiJuIWBH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bbyk168?si=wH…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bbyk168?si=wHK9ZVOdMVrGbHS3",
+                "start": 0,
+                "url": "https://t.co/XQRiJuIWBH"
+              }
+            ]
+          }
+        },
+        "id": "2893886738",
+        "location": "地球和火星之间",
+        "name": "背包健客",
+        "pinned_tweet_id": "1839646663306342613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817918441044807680/hKAVDYHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132791,
+          "following_count": 1230,
+          "like_count": 13800,
+          "listed_count": 510,
+          "tweet_count": 7175
+        },
+        "url": "https://t.co/XQRiJuIWBH",
+        "username": "bbyk666",
+        "verified": true
+      }
+    ]
+  }
+}

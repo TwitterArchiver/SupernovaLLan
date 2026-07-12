@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865279642929893381"
+      ],
+      "media_source_tweet_id": [
+        "1865279647057088747"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1865851044997271817",
+    "created_at": "2024-12-08T20:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T21:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865851044997271817"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "牧瀬 紅莉栖",
+          "probability": 0.612,
+          "start": 41,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2842498975",
+          "start": 3,
+          "username": "nanapink_japan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W11we0Y1sh",
+          "end": 77,
+          "expanded_url": "https://x.com/nanapink_japan/status/1865279647057088747/photo/1",
+          "media_key": "3_1865279642929893381",
+          "start": 54,
+          "url": "https://t.co/W11we0Y1sh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865851044997271817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865279647057088747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanapink_japan: ⟡.·コスプレ\nシュタインズ・ゲート / 牧瀬 紅莉栖 ⟡.·*. https://t.co/W11we0Y1sh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1865279642929893381",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeLN89uakAUwLz1.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865279642929893381"
+          ],
+          "media_source_tweet_id": [
+            "1865279647057088747"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1865851044997271817",
+        "created_at": "2024-12-08T20:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T21:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865851044997271817"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "牧瀬 紅莉栖",
+              "probability": 0.612,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2842498975",
+              "start": 3,
+              "username": "nanapink_japan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W11we0Y1sh",
+              "end": 77,
+              "expanded_url": "https://x.com/nanapink_japan/status/1865279647057088747/photo/1",
+              "media_key": "3_1865279642929893381",
+              "start": 54,
+              "url": "https://t.co/W11we0Y1sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865851044997271817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865279647057088747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanapink_japan: ⟡.·コスプレ\nシュタインズ・ゲート / 牧瀬 紅莉栖 ⟡.·*. https://t.co/W11we0Y1sh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865279642929893381"
+          ]
+        },
+        "author_id": "2842498975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1865279647057088747",
+        "created_at": "2024-12-07T06:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T07:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865279647057088747"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "牧瀬 紅莉栖",
+              "probability": 0.5869,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W11we0Y1sh",
+              "end": 57,
+              "expanded_url": "https://x.com/nanapink_japan/status/1865279647057088747/photo/1",
+              "media_key": "3_1865279642929893381",
+              "start": 34,
+              "url": "https://t.co/W11we0Y1sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865279647057088747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 10810,
+          "like_count": 576,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "⟡.·コスプレ\nシュタインズ・ゲート / 牧瀬 紅莉栖 ⟡.·*. https://t.co/W11we0Y1sh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 487,
+          "like_count": 22330,
+          "listed_count": 2,
+          "media_count": 996,
+          "tweet_count": 9062
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-06T15:23:48.000Z",
+        "description": "福岡在住たまに東京！海外！色々お仕事してるコスプレイヤー兼コンカフェプロデューサー🎀 𝙉𝙚𝙭𝙩⇝11/23アコスタ福岡 11/24アコスタ大阪 12/1 KPF北九州 12/29C105東3ク13a @nanapink_p 👈日常、コンカフェ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "nanapink_p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3RPS6EXRY6OJG?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/CpeI5JtsAv"
+              }
+            ]
+          }
+        },
+        "id": "2842498975",
+        "name": "ななぴんく🩷冬コミ2日目 東ク13a",
+        "pinned_tweet_id": "1860274464493306343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832363722163286018/XVJzCBQC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23390,
+          "following_count": 1232,
+          "like_count": 19575,
+          "listed_count": 334,
+          "media_count": 3709,
+          "tweet_count": 23228
+        },
+        "url": "https://t.co/CpeI5JtsAv",
+        "username": "nanapink_japan",
+        "verified": false
+      }
+    ]
+  }
+}

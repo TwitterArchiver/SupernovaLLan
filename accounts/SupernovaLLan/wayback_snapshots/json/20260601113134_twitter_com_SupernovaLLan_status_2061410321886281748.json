@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2061410321886281748",
+    "created_at": "2026-06-01T11:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061410321886281748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blossom11710/s…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/blossom11710/status/2061357306898706438",
+          "start": 77,
+          "url": "https://t.co/mKhD9LaFFe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061410321886281748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061357306898706438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看见这个密密麻麻的支链爪子不敢想外侧空间位阻得有多大，中间的磷氧要抓住一个什么小玩意配位，外面搞这么多疏水基团是要几个配体包一个中心做成疏水囊泡吗（？） https://t.co/mKhD9LaFFe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2061357300783382528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtpiyRaAAA578z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2061410321886281748",
+        "created_at": "2026-06-01T11:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061410321886281748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blossom11710/s…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/blossom11710/status/2061357306898706438",
+              "start": 77,
+              "url": "https://t.co/mKhD9LaFFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061410321886281748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061357306898706438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看见这个密密麻麻的支链爪子不敢想外侧空间位阻得有多大，中间的磷氧要抓住一个什么小玩意配位，外面搞这么多疏水基团是要几个配体包一个中心做成疏水囊泡吗（？） https://t.co/mKhD9LaFFe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061357300783382528"
+          ]
+        },
+        "author_id": "980690237906075650",
+        "conversation_id": "2061357306898706438",
+        "created_at": "2026-06-01T08:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061357306898706438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1CvcnsZ89",
+              "end": 49,
+              "expanded_url": "https://x.com/Blossom11710/status/2061357306898706438/photo/1",
+              "media_key": "3_2061357300783382528",
+              "start": 26,
+              "url": "https://t.co/n1CvcnsZ89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061357306898706438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 20818,
+          "like_count": 925,
+          "quote_count": 14,
+          "reply_count": 4,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "論文読んでたらクトゥルフ神話みたいな配位子出てきた https://t.co/n1CvcnsZ89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 587,
+          "like_count": 26230,
+          "listed_count": 2,
+          "media_count": 1167,
+          "tweet_count": 10922
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-02T06:15:47.000Z",
+        "description": "ここが私のアナザースカイ",
+        "id": "980690237906075650",
+        "name": "✿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356155318720372739/nQ9BfoA5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 259,
+          "like_count": 97693,
+          "listed_count": 4,
+          "media_count": 4298,
+          "tweet_count": 64227
+        },
+        "username": "Blossom11710",
+        "verified": false
+      }
+    ]
+  }
+}

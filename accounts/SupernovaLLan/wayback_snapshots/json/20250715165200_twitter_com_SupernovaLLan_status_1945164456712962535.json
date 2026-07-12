@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1945164456712962535",
+    "created_at": "2025-07-15T16:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T17:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945164456712962535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 52,
+          "id": "868831876315848705",
+          "start": 43,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "性价值观测试",
+          "display_url": "idrlabs.com/cn/sex-values/…",
+          "end": 39,
+          "expanded_url": "https://www.idrlabs.com/cn/sex-values/53.57-84.38-66.67-40.63-68.75/result.php",
+          "start": 16,
+          "status": 200,
+          "title": "性价值观测试：我的性价值观分数",
+          "unwound_url": "https://www.idrlabs.com/cn/sex-values/53.57-84.38-66.67-40.63-68.75/result.php",
+          "url": "https://t.co/26ysgIYbNn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945164456712962535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "性价值观测试：我的性价值观分数 https://t.co/26ysgIYbNn 来自 @idr_labs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945164456712962535].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945164456712962535",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945164456712962535"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 547,
+          "like_count": 24820,
+          "listed_count": 2,
+          "media_count": 1062,
+          "tweet_count": 9729
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idrlabs.com",
+                "end": 23,
+                "expanded_url": "https://idrlabs.com/",
+                "start": 0,
+                "url": "https://t.co/RRNJ3gvQIb"
+              }
+            ]
+          }
+        },
+        "id": "868831876315848705",
+        "name": "IDRlabs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9821,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 43,
+          "media_count": 19,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/RRNJ3gvQIb",
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

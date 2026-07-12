@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1857785504173011288",
+    "created_at": "2024-11-16T14:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T15:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857798924372959739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857798924372959739",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857785504173011288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 我带小毛带得血条快爆炸了🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1857785504173011288",
+        "created_at": "2024-11-16T14:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T15:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857798924372959739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857798924372959739",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857785504173011288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 我带小毛带得血条快爆炸了🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1857785504173011288",
+        "created_at": "2024-11-16T13:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T14:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857785504173011288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NankyuSeiichi/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/NankyuSeiichi/status/1857783705843994796",
+              "start": 141,
+              "url": "https://t.co/nTYndqb5Jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857785504173011288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857783705843994796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俗话说上床容易同居难，破坏家庭体系，只需要离间她和她父母，跟她说自己带她走就可以，但怎么自己一个人做得比对方相处了那么久的父母，还可能是两者合力做得更好，需要考虑的事情就很多了。男性思维总是以为可以靠着什么大决战来赢得一切，结果不还是都在长年累月的镇压游击里面血槽空了落荒而逃吗？ https://t.co/nTYndqb5Jk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 470,
+          "like_count": 21989,
+          "listed_count": 2,
+          "tweet_count": 8804
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙/幻觉游泳/历史进程/非常感谢/为时不晚",
+        "id": "1815649539057201152",
+        "name": "南宫清一（戒色第0天）",
+        "pinned_tweet_id": "1849645849363804304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 610,
+          "like_count": 5967,
+          "listed_count": 2,
+          "tweet_count": 3346
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

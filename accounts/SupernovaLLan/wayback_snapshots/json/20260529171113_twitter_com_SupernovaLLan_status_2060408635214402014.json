@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2060408254958796828",
+    "created_at": "2026-05-29T17:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060408635214402014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1548471557873610752",
+          "start": 0,
+          "username": "In2dTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060408635214402014",
+    "in_reply_to_user_id": "1548471557873610752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060408254958796828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@In2dTt 正在不太礼貌地请求加入你家"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6335,
+        "height": 1280,
+        "media_key": "13_2060407918349234176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060407918349234176/img/LUhiUO8oxGLLHwp6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060407918349234176/vid/avc1/320x568/9piOQIYuJh24pg14.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060407918349234176/vid/avc1/480x852/lfAPSO7jKsKYt3d3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060407918349234176/vid/avc1/720x1280/eq5GJHhCZ6XCT3G3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060407918349234176/pl/-K-JBZxkTHqVOJfD.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2060408254958796828",
+        "created_at": "2026-05-29T17:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060408635214402014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060408635214402014",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060408254958796828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 正在不太礼貌地请求加入你家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060407918349234176"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2060408254958796828",
+        "created_at": "2026-05-29T17:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060408254958796828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/akCypw4mb9",
+              "end": 32,
+              "expanded_url": "https://x.com/In2dTt/status/2060408254958796828/video/1",
+              "media_key": "13_2060407918349234176",
+              "start": 9,
+              "url": "https://t.co/akCypw4mb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060408254958796828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨你广东双马尾 https://t.co/akCypw4mb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 591,
+          "like_count": 26149,
+          "listed_count": 2,
+          "media_count": 1167,
+          "tweet_count": 10901
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28970,
+          "following_count": 289,
+          "like_count": 10670,
+          "listed_count": 25,
+          "media_count": 872,
+          "tweet_count": 3226
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

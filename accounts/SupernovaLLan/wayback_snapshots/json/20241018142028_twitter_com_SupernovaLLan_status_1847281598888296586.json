@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1846933087047110658"
+      ],
+      "media_source_tweet_id": [
+        "1846933092835201535"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1847281598888296586",
+    "created_at": "2024-10-18T14:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T15:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847281598888296586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1272847257029668864",
+          "start": 3,
+          "username": "CiShengWeiAiACG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O0y710TeTl",
+          "end": 56,
+          "expanded_url": "https://x.com/CiShengWeiAiACG/status/1846933092835201535/photo/1",
+          "media_key": "3_1846933087047110658",
+          "start": 33,
+          "url": "https://t.co/O0y710TeTl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847281598888296586",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846933092835201535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CiShengWeiAiACG: 怎麼就我還是處男嗎😭😭 https://t.co/O0y710TeTl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1846933087047110658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaGf23Fb0AI-EQ7.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846933087047110658"
+          ],
+          "media_source_tweet_id": [
+            "1846933092835201535"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1847281598888296586",
+        "created_at": "2024-10-18T14:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T15:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847281598888296586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1272847257029668864",
+              "start": 3,
+              "username": "CiShengWeiAiACG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O0y710TeTl",
+              "end": 56,
+              "expanded_url": "https://x.com/CiShengWeiAiACG/status/1846933092835201535/photo/1",
+              "media_key": "3_1846933087047110658",
+              "start": 33,
+              "url": "https://t.co/O0y710TeTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847281598888296586",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846933092835201535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CiShengWeiAiACG: 怎麼就我還是處男嗎😭😭 https://t.co/O0y710TeTl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846933087047110658"
+          ]
+        },
+        "author_id": "1272847257029668864",
+        "conversation_id": "1846933092835201535",
+        "created_at": "2024-10-17T15:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T16:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1846933092835201535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O0y710TeTl",
+              "end": 35,
+              "expanded_url": "https://x.com/CiShengWeiAiACG/status/1846933092835201535/photo/1",
+              "media_key": "3_1846933087047110658",
+              "start": 12,
+              "url": "https://t.co/O0y710TeTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846933092835201535",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 62674,
+          "like_count": 825,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "怎麼就我還是處男嗎😭😭 https://t.co/O0y710TeTl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 462,
+          "like_count": 21565,
+          "listed_count": 2,
+          "tweet_count": 8480
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-16T11:03:40.000Z",
+        "description": "想個自我介紹好麻煩啊，也不知道要寫什麼，隨便寫寫算了| |愛打遊戲，喜歡ACGN，且只是個臭看番的死宅（偶爾也會看看黃圖）| |政治立場：個人覺得算是中間偏左?偶爾鍵政| |不支持但也不反對LGBTQ，你（妳）覺得自己是什麼性別我就會以社會上相對應的性別和以及個人習慣來和你（妳）相處。（瘋狂疊甲）| |這沒位置寫了QQ",
+        "id": "1272847257029668864",
+        "location": "你家門口",
+        "name": "此生唯愛二次元",
+        "pinned_tweet_id": "1802589888686289165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1272847367293685762/ea0WF4n4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 348,
+          "like_count": 2300,
+          "listed_count": 0,
+          "tweet_count": 1426
+        },
+        "username": "CiShengWeiAiACG",
+        "verified": false
+      }
+    ]
+  }
+}

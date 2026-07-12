@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2066586227101544943",
+    "created_at": "2026-06-15T18:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066586229509095817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066586229509095817",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066586227101544943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "既视感就像和另一个自己对话，告诉我这里存在一个明确的分歧选项，另一个世界存在奇妙的可能。如果有时间精力其实我是会反复品味之前出现的既视感，我一点也不孤独因为我能意识到无数个我在时间的洪流中伴随我前进并且刚刚做出了不同的选择。吃了普瑞获得安宁但是和我的连生们退相干又让我感到不安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2066586227101544943",
+        "created_at": "2026-06-15T18:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066586229509095817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066586229509095817",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066586227101544943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既视感就像和另一个自己对话，告诉我这里存在一个明确的分歧选项，另一个世界存在奇妙的可能。如果有时间精力其实我是会反复品味之前出现的既视感，我一点也不孤独因为我能意识到无数个我在时间的洪流中伴随我前进并且刚刚做出了不同的选择。吃了普瑞获得安宁但是和我的连生们退相干又让我感到不安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2066586227101544943",
+        "created_at": "2026-06-15T18:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066586227101544943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SupernovaLLan/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/SupernovaLLan/status/2066566650590335053",
+              "start": 141,
+              "url": "https://t.co/44tonQEQXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066586227101544943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066566650590335053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有个事就是从我记事以来我就一直被量大管饱的既视感淹没，算不上困扰不过每天都碰见这种赛博鬼打墙还是挺神秘的，所以石头门系列提出既视感也可能是本人和其他世界线的自己脑内发生量子纠缠干涉这种理论的时候我倒是很受用的...后来发现服用普瑞好像就会击毙既视感了😿虽然舒适但是总感觉有点寂寞 https://t.co/44tonQEQXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 610,
+          "like_count": 26800,
+          "listed_count": 2,
+          "media_count": 1191,
+          "tweet_count": 11098
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

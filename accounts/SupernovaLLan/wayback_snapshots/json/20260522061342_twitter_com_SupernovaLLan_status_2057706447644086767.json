@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2057542850439717227",
+    "created_at": "2026-05-22T06:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057706447644086767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634143760690057216",
+          "start": 0,
+          "username": "Akiscara_6484"
+        },
+        {
+          "end": 28,
+          "id": "2018495751400140800",
+          "start": 15,
+          "username": "weak17747144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057706447644086767",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057696517176406180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiscara_6484 @weak17747144 看了症状！感觉可能类似胃溃疡胃炎胃反流食管炎什么的，奥美拉唑和铝碳酸镁咀嚼片（达喜的）这些应该可以抑制胃酸和保护胃粘膜这样子止痛，但是也可能掩盖症状。去医院系统检查是非常好的，可能需要做胃镜看一下可以比较准地确定问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2057542850439717227",
+        "created_at": "2026-05-22T06:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057706447644086767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            },
+            {
+              "end": 28,
+              "id": "2018495751400140800",
+              "start": 15,
+              "username": "weak17747144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057706447644086767",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057696517176406180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 @weak17747144 看了症状！感觉可能类似胃溃疡胃炎胃反流食管炎什么的，奥美拉唑和铝碳酸镁咀嚼片（达喜的）这些应该可以抑制胃酸和保护胃粘膜这样子止痛，但是也可能掩盖症状。去医院系统检查是非常好的，可能需要做胃镜看一下可以比较准地确定问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634143760690057216",
+        "conversation_id": "2057542850439717227",
+        "created_at": "2026-05-22T05:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057696517176406180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2018495751400140800",
+              "start": 0,
+              "username": "weak17747144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057696517176406180",
+        "in_reply_to_user_id": "2018495751400140800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057654488958214363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weak17747144 好，我现在目前在药店开了止疼药，我打算明天的时候去医院进行检查。然后我一共是发了两个帖子，第1篇帖子我删了，所以说会有一个遗传，但我指的不是这个。我指的是癌。也有可能是我想多了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 579,
+          "like_count": 25715,
+          "listed_count": 2,
+          "media_count": 1151,
+          "tweet_count": 10738
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友，家有男友）\n//@Akiscara_3405姐姐（理解有问题脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）性骚扰c你妈！s全家！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 154,
+          "like_count": 6901,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 3408
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T01:25:27.000Z",
+        "description": "平民一个",
+        "id": "2018495751400140800",
+        "name": "weak177 weak177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035560286334398464/ZAjIpgSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 78,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "weak17747144",
+        "verified": false
+      }
+    ]
+  }
+}

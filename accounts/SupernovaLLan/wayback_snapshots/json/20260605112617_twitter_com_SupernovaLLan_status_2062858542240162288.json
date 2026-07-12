@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062400056683094016"
+      ],
+      "media_source_tweet_id": [
+        "2062610337782751745"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062858542240162288",
+    "created_at": "2026-06-05T11:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062858542240162288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/srB1NksTUh",
+          "end": 23,
+          "expanded_url": "https://x.com/Hombrelmparable/status/2062610337782751745/video/1",
+          "media_key": "13_2062400056683094016",
+          "start": 0,
+          "url": "https://t.co/srB1NksTUh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062858542240162288",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/srB1NksTUh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062858542240162288].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062858542240162288",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062858542240162288"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26447,
+        "height": 928,
+        "media_key": "13_2062400056683094016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062400056683094016/img/l4ws9MsroWt1Rgv_.jpg",
+        "public_metrics": {
+          "view_count": 346925
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062400056683094016/vid/avc1/480x500/xkcDsFFICGAU0Cj6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062400056683094016/vid/avc1/888x928/EtfzrGM7u9hWREGw.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062400056683094016/vid/avc1/320x334/hNMHLSHOriTCO4yU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062400056683094016/vid/avc1/720x752/dyExySA5U4_qYmWu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062400056683094016/pl/Reo1wzmK1NFYDXyc.m3u8?v=03a"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 591,
+          "like_count": 26320,
+          "listed_count": 2,
+          "media_count": 1168,
+          "tweet_count": 10950
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

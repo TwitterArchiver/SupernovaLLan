@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053831651780890625"
+      ],
+      "media_source_tweet_id": [
+        "2053831662853816630"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2053851283480785096",
+    "created_at": "2026-05-11T14:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053851283480785096"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "烟代"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "电子烟"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1632832954421633029",
+          "start": 3,
+          "username": "482xxnay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/szim3BeBoY",
+          "end": 65,
+          "expanded_url": "https://x.com/482xxnay/status/2053831662853816630/photo/1",
+          "media_key": "3_2053831651780890625",
+          "start": 42,
+          "url": "https://t.co/szim3BeBoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053851283480785096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053831662853816630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @482xxnay: 我今天 抱歉药物治疗加抢票 慢了更新 #烟代 #电子烟 https://t.co/szim3BeBoY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2053831651780890625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICtAXDakAEu8Xu.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053831651780890625"
+          ],
+          "media_source_tweet_id": [
+            "2053831662853816630"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2053851283480785096",
+        "created_at": "2026-05-11T14:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053851283480785096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "烟代"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "电子烟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1632832954421633029",
+              "start": 3,
+              "username": "482xxnay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/szim3BeBoY",
+              "end": 65,
+              "expanded_url": "https://x.com/482xxnay/status/2053831662853816630/photo/1",
+              "media_key": "3_2053831651780890625",
+              "start": 42,
+              "url": "https://t.co/szim3BeBoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053851283480785096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053831662853816630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @482xxnay: 我今天 抱歉药物治疗加抢票 慢了更新 #烟代 #电子烟 https://t.co/szim3BeBoY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053831651780890625"
+          ]
+        },
+        "author_id": "1632832954421633029",
+        "conversation_id": "2053831662853816630",
+        "created_at": "2026-05-11T13:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053831662853816630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "烟代"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "电子烟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/szim3BeBoY",
+              "end": 51,
+              "expanded_url": "https://x.com/482xxnay/status/2053831662853816630/photo/1",
+              "media_key": "3_2053831651780890625",
+              "start": 28,
+              "url": "https://t.co/szim3BeBoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053831662853816630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我今天 抱歉药物治疗加抢票 慢了更新 #烟代 #电子烟 https://t.co/szim3BeBoY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 565,
+          "like_count": 25255,
+          "listed_count": 2,
+          "media_count": 1133,
+          "tweet_count": 10518
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck\n各类型一次性电子烟 烟弹 烟杆 锐克五六代杆子正品还有其他的杆子 冰熊 等 青海+10运费 禁发西藏/新疆/海南 库存消耗快 备注请填写主口味和备用口味 售后需要一口气的开箱视频不然没有视频拒绝守候 请拍摄第一次使用 每天18:30截单 如果可以请给我一些客返哦",
+        "id": "1632832954421633029",
+        "name": "im gay（yan的电子烟版）",
+        "pinned_tweet_id": "2052774374865006816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 499,
+          "like_count": 3763,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 4122
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}

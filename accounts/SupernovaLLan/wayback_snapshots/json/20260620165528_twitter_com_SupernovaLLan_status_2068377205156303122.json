@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068318007043252224"
+      ],
+      "media_source_tweet_id": [
+        "2068318342327472520"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068377205156303122",
+    "created_at": "2026-06-20T16:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068377205156303122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "335776639",
+          "start": 3,
+          "username": "15424578268"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MDQDF4qO6I",
+          "end": 49,
+          "expanded_url": "https://x.com/15424578268/status/2068318342327472520/video/1",
+          "media_key": "13_2068318007043252224",
+          "start": 26,
+          "url": "https://t.co/MDQDF4qO6I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068377205156303122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14982
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068318342327472520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @15424578268: 単位を変える魔法 https://t.co/MDQDF4qO6I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25000,
+        "height": 1240,
+        "media_key": "13_2068318007043252224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068318007043252224/img/PUkGUDyaN3M9gdwh.jpg",
+        "public_metrics": {
+          "view_count": 1446607
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068318007043252224/vid/avc1/720x720/05lvKB3dqnfn2fT5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068318007043252224/vid/avc1/540x540/gyMcjdhT9KR4mGQk.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068318007043252224/vid/avc1/1240x1240/UD9UYrLf-r0509ek.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068318007043252224/vid/avc1/320x320/YBZ9pEiISah6dTVX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068318007043252224/pl/zWq4gtzbGueuE9iO.m3u8?v=cfc"
+          }
+        ],
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068318007043252224"
+          ],
+          "media_source_tweet_id": [
+            "2068318342327472520"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068377205156303122",
+        "created_at": "2026-06-20T16:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068377205156303122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "335776639",
+              "start": 3,
+              "username": "15424578268"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDQDF4qO6I",
+              "end": 49,
+              "expanded_url": "https://x.com/15424578268/status/2068318342327472520/video/1",
+              "media_key": "13_2068318007043252224",
+              "start": 26,
+              "url": "https://t.co/MDQDF4qO6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068377205156303122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14982
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068318342327472520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @15424578268: 単位を変える魔法 https://t.co/MDQDF4qO6I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068318007043252224"
+          ]
+        },
+        "author_id": "335776639",
+        "conversation_id": "2068318342327472520",
+        "created_at": "2026-06-20T13:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068318342327472520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDQDF4qO6I",
+              "end": 32,
+              "expanded_url": "https://x.com/15424578268/status/2068318342327472520/video/1",
+              "media_key": "13_2068318007043252224",
+              "start": 9,
+              "url": "https://t.co/MDQDF4qO6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068318342327472520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18189,
+          "impression_count": 3073533,
+          "like_count": 144579,
+          "quote_count": 213,
+          "reply_count": 207,
+          "retweet_count": 14993
+        },
+        "reply_settings": "everyone",
+        "text": "単位を変える魔法 https://t.co/MDQDF4qO6I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 622,
+          "like_count": 27093,
+          "listed_count": 2,
+          "media_count": 1201,
+          "tweet_count": 11200
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-15T06:39:17.000Z",
+        "description": "design, music, animation 👾 @THEBLUEHAMHAM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "THEBLUEHAMHAM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/ArimuraTaish…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/ArimuraTaishi12",
+                "start": 0,
+                "url": "https://t.co/8M6dnvyjJP"
+              }
+            ]
+          }
+        },
+        "id": "335776639",
+        "name": "有村泰志",
+        "pinned_tweet_id": "1833797752230498341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000279048883437568/gUlBdLBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162525,
+          "following_count": 982,
+          "like_count": 5654,
+          "listed_count": 939,
+          "media_count": 73,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/8M6dnvyjJP",
+        "username": "15424578268",
+        "verified": true
+      }
+    ]
+  }
+}

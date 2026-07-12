@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835164891260633089"
+      ],
+      "media_source_tweet_id": [
+        "1835164897505931635"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      }
+    ],
+    "conversation_id": "1835714144538132544",
+    "created_at": "2024-09-16T16:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T17:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835714144538132544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "108823290",
+          "start": 3,
+          "username": "fluor_doublet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b3uvxr4cln",
+          "end": 58,
+          "expanded_url": "https://twitter.com/fluor_doublet/status/1835164897505931635/photo/1",
+          "media_key": "3_1835164891260633089",
+          "start": 35,
+          "url": "https://t.co/b3UVXR4CLn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835714144538132544",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5609
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835164897505931635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fluor_doublet: 娘、新しい寿司ネタを開発する。 https://t.co/b3UVXR4CLn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_1835164891260633089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXfQvtfbwAEvD_H.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835164891260633089"
+          ],
+          "media_source_tweet_id": [
+            "1835164897505931635"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "1835714144538132544",
+        "created_at": "2024-09-16T16:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T17:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835714144538132544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "108823290",
+              "start": 3,
+              "username": "fluor_doublet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3uvxr4cln",
+              "end": 58,
+              "expanded_url": "https://twitter.com/fluor_doublet/status/1835164897505931635/photo/1",
+              "media_key": "3_1835164891260633089",
+              "start": 35,
+              "url": "https://t.co/b3UVXR4CLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835714144538132544",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5609
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835164897505931635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fluor_doublet: 娘、新しい寿司ネタを開発する。 https://t.co/b3UVXR4CLn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835164891260633089"
+          ]
+        },
+        "author_id": "108823290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "1835164897505931635",
+        "created_at": "2024-09-15T03:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T04:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835164897505931635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3uvxr4cln",
+              "end": 39,
+              "expanded_url": "https://twitter.com/fluor_doublet/status/1835164897505931635/photo/1",
+              "media_key": "3_1835164891260633089",
+              "start": 16,
+              "url": "https://t.co/b3UVXR4CLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835164897505931635",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2110,
+          "impression_count": 4805891,
+          "like_count": 75733,
+          "quote_count": 904,
+          "reply_count": 438,
+          "retweet_count": 5609
+        },
+        "reply_settings": "everyone",
+        "text": "娘、新しい寿司ネタを開発する。 https://t.co/b3UVXR4CLn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 445,
+          "like_count": 21009,
+          "listed_count": 2,
+          "tweet_count": 8160
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-27T03:46:30.000Z",
+        "description": "父母娘のやまねこ家3人でお送りしてます。おとうさんは科学と色文化と高倍率マクロ写真が、おかあさんはピアノとお菓子が、娘はポケモンとゲームが好き。ツイートは個人の意見です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fukuinkan.co.jp/search.php?aut…",
+                "end": 23,
+                "expanded_url": "https://www.fukuinkan.co.jp/search.php?author_id=11069&tan=%E7%94%B0%E4%B8%AD%E9%99%B5%E4%BA%8C",
+                "start": 0,
+                "url": "https://t.co/yhDhAK4U7d"
+              }
+            ]
+          }
+        },
+        "id": "108823290",
+        "location": "フィールド調査中につき追跡不能",
+        "name": "山猫だぶ㌠",
+        "pinned_tweet_id": "1796516534350967294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612494906421047296/at83bTEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20632,
+          "following_count": 593,
+          "like_count": 29447,
+          "listed_count": 690,
+          "tweet_count": 330684
+        },
+        "url": "https://t.co/yhDhAK4U7d",
+        "username": "fluor_doublet",
+        "verified": true
+      }
+    ]
+  }
+}

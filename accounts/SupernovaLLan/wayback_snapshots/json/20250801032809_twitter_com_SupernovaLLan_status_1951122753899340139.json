@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951122746987126787"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1951122753899340139",
+    "created_at": "2025-08-01T03:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T04:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951122753899340139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qkw6LbwCoT",
+          "end": 23,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1951122753899340139/photo/1",
+          "media_key": "3_1951122746987126787",
+          "start": 0,
+          "url": "https://t.co/Qkw6LbwCoT"
+        },
+        {
+          "display_url": "x.com/__inty__/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/__inty__/status/1950590057330413718",
+          "start": 24,
+          "url": "https://t.co/BgCtbT6gyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951122753899340139",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950590057330413718",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Qkw6LbwCoT https://t.co/BgCtbT6gyc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1951122753899340139].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1951122753899340139",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1951122753899340139"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 443,
+        "media_key": "3_1951122746987126787",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxPHzQdaIAM7qYh.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1027764083565711360",
+        "conversation_id": "1950590057330413718",
+        "created_at": "2025-07-30T16:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T17:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950590057330413718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950590057330413718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 1377172,
+          "like_count": 1681,
+          "quote_count": 61,
+          "reply_count": 475,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "科学家称，一项新研究表明，一艘长约 7 英里、可能带有敌意的外星飞船可能正朝着地球飞来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 548,
+          "like_count": 24739,
+          "listed_count": 2,
+          "media_count": 1067,
+          "tweet_count": 9759
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "为你分享世界热点新闻。\n\n我的YouTube主页 https://t.co/QWKpvf4NCB  \n时政聊天群 https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@inty",
+                "end": 48,
+                "expanded_url": "http://youtube.com/@inty",
+                "start": 25,
+                "url": "https://t.co/QWKpvf4NCB"
+              },
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 80,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 57,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "Inty News",
+        "pinned_tweet_id": "1950900584933978531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719147,
+          "following_count": 37,
+          "like_count": 1454,
+          "listed_count": 2130,
+          "media_count": 32220,
+          "tweet_count": 91135
+        },
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

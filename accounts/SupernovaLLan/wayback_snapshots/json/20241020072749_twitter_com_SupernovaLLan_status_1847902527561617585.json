@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1847699750297944064"
+      ],
+      "media_source_tweet_id": [
+        "1847699754605556170"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1847902527561617585",
+    "created_at": "2024-10-20T07:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T08:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847902527561617585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768435540125212672",
+          "start": 3,
+          "username": "JosgateX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/idGcmyhl9A",
+          "end": 69,
+          "expanded_url": "https://x.com/JosgateX/status/1847699754605556170/photo/1",
+          "media_key": "3_1847699750297944064",
+          "start": 46,
+          "url": "https://t.co/idGcmyhl9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847902527561617585",
+    "lang": "es",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847699754605556170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JosgateX: Okabe en los capítulos 21 y 22: https://t.co/idGcmyhl9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1639,
+        "media_key": "3_1847699750297944064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaRZIiQWQAAZrJR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847699750297944064"
+          ],
+          "media_source_tweet_id": [
+            "1847699754605556170"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1847902527561617585",
+        "created_at": "2024-10-20T07:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T08:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847902527561617585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768435540125212672",
+              "start": 3,
+              "username": "JosgateX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/idGcmyhl9A",
+              "end": 69,
+              "expanded_url": "https://x.com/JosgateX/status/1847699754605556170/photo/1",
+              "media_key": "3_1847699750297944064",
+              "start": 46,
+              "url": "https://t.co/idGcmyhl9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847902527561617585",
+        "lang": "es",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847699754605556170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JosgateX: Okabe en los capítulos 21 y 22: https://t.co/idGcmyhl9A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847699750297944064"
+          ]
+        },
+        "author_id": "1768435540125212672",
+        "conversation_id": "1847699754605556170",
+        "created_at": "2024-10-19T18:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T19:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847699754605556170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/idGcmyhl9A",
+              "end": 55,
+              "expanded_url": "https://x.com/JosgateX/status/1847699754605556170/photo/1",
+              "media_key": "3_1847699750297944064",
+              "start": 32,
+              "url": "https://t.co/idGcmyhl9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847699754605556170",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 5917,
+          "like_count": 320,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "Okabe en los capítulos 21 y 22: https://t.co/idGcmyhl9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 463,
+          "like_count": 21663,
+          "listed_count": 2,
+          "tweet_count": 8516
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T00:34:38.000Z",
+        "description": "Soy alguien que ama Steins;Gate y sube contenido de él todos los días | también soy Youtuber de Steins;Gate | level 18 :D\n|\nserver de discord de S;G Hispano ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/aHJ5Td99UE",
+                "end": 23,
+                "expanded_url": "https://discord.gg/aHJ5Td99UE",
+                "start": 0,
+                "url": "https://t.co/qvxF4ryt3Q"
+              }
+            ]
+          }
+        },
+        "id": "1768435540125212672",
+        "location": "Akihabara (algun dia) PE",
+        "name": "JOSGATE",
+        "pinned_tweet_id": "1840082994012324014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816701370747047936/R7dWRC6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 12,
+          "like_count": 7010,
+          "listed_count": 1,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/qvxF4ryt3Q",
+        "username": "JosgateX",
+        "verified": false
+      }
+    ]
+  }
+}

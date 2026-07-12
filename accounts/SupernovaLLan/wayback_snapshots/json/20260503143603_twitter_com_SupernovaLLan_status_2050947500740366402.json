@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050947492884406275"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2050947500740366402",
+    "created_at": "2026-05-03T14:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050947500740366402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MXzFURnR7v",
+          "end": 130,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2050947500740366402/photo/1",
+          "media_key": "3_2050947492884406275",
+          "start": 107,
+          "url": "https://t.co/MXzFURnR7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050947500740366402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你呀、铃兰应该很了解你并且相处的时候共情全开，大概可以站在你的视角一起看问题了！作为朋友不冷漠疏远也不急切强迫，我们就有淡如水的君子之交了——那其实会很温暖，不管什么时候都有一个支撑和助力的朋友是真的很安心😌 https://t.co/MXzFURnR7v"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050947500740366402].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050947500740366402",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050947500740366402"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2050947492884406275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZt4N5aYAMLjnz.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra  ¿提问？↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 546,
+          "like_count": 24813,
+          "listed_count": 2,
+          "media_count": 1127,
+          "tweet_count": 10350
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

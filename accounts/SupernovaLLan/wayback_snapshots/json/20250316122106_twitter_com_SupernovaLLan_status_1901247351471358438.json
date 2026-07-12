@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1901247351471358438",
+    "created_at": "2025-03-16T12:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T13:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901247351471358438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/didengshengwu/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/didengshengwu/status/1901061809098133964",
+          "start": 31,
+          "url": "https://t.co/tkp0eX1KdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901247351471358438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901061809098133964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "信息检索能力在信息时代真的是一个人的智商衡量指标之一🙂‍↕️ https://t.co/tkp0eX1KdP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_1901061801288306688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmHtotHakAA8Wki.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1901247351471358438",
+        "created_at": "2025-03-16T12:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T13:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901247351471358438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/didengshengwu/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/didengshengwu/status/1901061809098133964",
+              "start": 31,
+              "url": "https://t.co/tkp0eX1KdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901247351471358438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901061809098133964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "信息检索能力在信息时代真的是一个人的智商衡量指标之一🙂‍↕️ https://t.co/tkp0eX1KdP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901061801288306688"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901061809098133964",
+        "created_at": "2025-03-16T00:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T01:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901061809098133964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsEHJR6GR2",
+              "end": 23,
+              "expanded_url": "https://x.com/didengshengwu/status/1901061809098133964/photo/1",
+              "media_key": "3_1901061801288306688",
+              "start": 0,
+              "url": "https://t.co/TsEHJR6GR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901061809098133964",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 19079,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TsEHJR6GR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 526,
+          "like_count": 23640,
+          "listed_count": 2,
+          "media_count": 1027,
+          "tweet_count": 9430
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "喜欢心理学和炒币，关注我一起刨析人性真像 ！ \n#OKX 是全球领先的 #Crypto 交易平台，提供 #btc #eth 等多种交易，帮您安全投资数字资产，注册链接：https://t.co/regYGr8viq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "OKX"
+              },
+              {
+                "end": 43,
+                "start": 36,
+                "tag": "Crypto"
+              },
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "btc"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "eth"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/cn/join/2347246",
+                "end": 107,
+                "expanded_url": "http://www.okx.com/cn/join/2347246",
+                "start": 84,
+                "url": "https://t.co/regYGr8viq"
+              }
+            ]
+          }
+        },
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155298,
+          "following_count": 932,
+          "like_count": 2177,
+          "listed_count": 607,
+          "media_count": 1798,
+          "tweet_count": 3967
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

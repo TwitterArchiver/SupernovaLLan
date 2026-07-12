@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862010028779245568",
+        "3_1862010031610490880",
+        "3_1862010034865213440",
+        "3_1862010037599870976"
+      ],
+      "media_source_tweet_id": [
+        "1862010040343044121",
+        "1862010040343044121",
+        "1862010040343044121",
+        "1862010040343044121"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1862352893665583315",
+    "created_at": "2024-11-29T04:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T05:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862352893665583315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "947446126550048771",
+          "start": 3,
+          "username": "CPC_222"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uWOscggwod",
+          "end": 50,
+          "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+          "media_key": "3_1862010028779245568",
+          "start": 27,
+          "url": "https://t.co/uWOscggwod"
+        },
+        {
+          "display_url": "pic.x.com/uWOscggwod",
+          "end": 50,
+          "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+          "media_key": "3_1862010031610490880",
+          "start": 27,
+          "url": "https://t.co/uWOscggwod"
+        },
+        {
+          "display_url": "pic.x.com/uWOscggwod",
+          "end": 50,
+          "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+          "media_key": "3_1862010034865213440",
+          "start": 27,
+          "url": "https://t.co/uWOscggwod"
+        },
+        {
+          "display_url": "pic.x.com/uWOscggwod",
+          "end": 50,
+          "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+          "media_key": "3_1862010037599870976",
+          "start": 27,
+          "url": "https://t.co/uWOscggwod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862352893665583315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 370
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862010040343044121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CPC_222: 我的人生需要更多這種圓餅圖 https://t.co/uWOscggwod"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1862010028779245568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdcwQX2aEAA6Y2U.jpg",
+        "width": 828
+      },
+      {
+        "height": 1081,
+        "media_key": "3_1862010031610490880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdcwQiZbcAARHHN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 709,
+        "media_key": "3_1862010034865213440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdcwQuhakAAhWla.jpg",
+        "width": 600
+      },
+      {
+        "height": 815,
+        "media_key": "3_1862010037599870976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdcwQ4taIAAmE6r.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862010028779245568",
+            "3_1862010031610490880",
+            "3_1862010034865213440",
+            "3_1862010037599870976"
+          ],
+          "media_source_tweet_id": [
+            "1862010040343044121",
+            "1862010040343044121",
+            "1862010040343044121",
+            "1862010040343044121"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1862352893665583315",
+        "created_at": "2024-11-29T04:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T05:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862352893665583315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "947446126550048771",
+              "start": 3,
+              "username": "CPC_222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uWOscggwod",
+              "end": 50,
+              "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+              "media_key": "3_1862010028779245568",
+              "start": 27,
+              "url": "https://t.co/uWOscggwod"
+            },
+            {
+              "display_url": "pic.x.com/uWOscggwod",
+              "end": 50,
+              "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+              "media_key": "3_1862010031610490880",
+              "start": 27,
+              "url": "https://t.co/uWOscggwod"
+            },
+            {
+              "display_url": "pic.x.com/uWOscggwod",
+              "end": 50,
+              "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+              "media_key": "3_1862010034865213440",
+              "start": 27,
+              "url": "https://t.co/uWOscggwod"
+            },
+            {
+              "display_url": "pic.x.com/uWOscggwod",
+              "end": 50,
+              "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+              "media_key": "3_1862010037599870976",
+              "start": 27,
+              "url": "https://t.co/uWOscggwod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862352893665583315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862010040343044121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CPC_222: 我的人生需要更多這種圓餅圖 https://t.co/uWOscggwod"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862010028779245568",
+            "3_1862010031610490880",
+            "3_1862010034865213440",
+            "3_1862010037599870976"
+          ]
+        },
+        "author_id": "947446126550048771",
+        "conversation_id": "1862010040343044121",
+        "created_at": "2024-11-28T05:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T06:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862010040343044121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uWOscggwod",
+              "end": 37,
+              "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+              "media_key": "3_1862010028779245568",
+              "start": 14,
+              "url": "https://t.co/uWOscggwod"
+            },
+            {
+              "display_url": "pic.x.com/uWOscggwod",
+              "end": 37,
+              "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+              "media_key": "3_1862010031610490880",
+              "start": 14,
+              "url": "https://t.co/uWOscggwod"
+            },
+            {
+              "display_url": "pic.x.com/uWOscggwod",
+              "end": 37,
+              "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+              "media_key": "3_1862010034865213440",
+              "start": 14,
+              "url": "https://t.co/uWOscggwod"
+            },
+            {
+              "display_url": "pic.x.com/uWOscggwod",
+              "end": 37,
+              "expanded_url": "https://x.com/CPC_222/status/1862010040343044121/photo/1",
+              "media_key": "3_1862010037599870976",
+              "start": 14,
+              "url": "https://t.co/uWOscggwod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862010040343044121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 58044,
+          "like_count": 2348,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "我的人生需要更多這種圓餅圖 https://t.co/uWOscggwod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 485,
+          "like_count": 22167,
+          "listed_count": 2,
+          "media_count": 983,
+          "tweet_count": 8926
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-31T12:35:34.000Z",
+        "description": "怪圖生產器 怪怪的想法很多\n\n這裡是讓我放怪圖的小地方",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/cat.memes222?m…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/cat.memes222?mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/vQEFrweQhU"
+              }
+            ]
+          }
+        },
+        "id": "947446126550048771",
+        "name": "貓咪打電腦💻 沒錯我就是貓咪迷因啦",
+        "pinned_tweet_id": "1765723681224110424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656149700163293185/NYedOrsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 2787,
+          "like_count": 114483,
+          "listed_count": 12,
+          "media_count": 2514,
+          "tweet_count": 11236
+        },
+        "url": "https://t.co/vQEFrweQhU",
+        "username": "CPC_222",
+        "verified": false
+      }
+    ]
+  }
+}

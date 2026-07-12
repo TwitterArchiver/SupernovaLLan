@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1883135639274791138",
+    "created_at": "2025-01-25T13:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T14:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883137799358119998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "damatte0526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883137799358119998",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883135639274791138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte0526 萌咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1883135639274791138",
+        "created_at": "2025-01-25T13:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T14:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883137799358119998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "damatte0526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883137799358119998",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883135639274791138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte0526 萌咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883135631439839233"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "1883135639274791138",
+        "created_at": "2025-01-25T12:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T13:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883135639274791138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qebzNHIM8",
+              "end": 23,
+              "expanded_url": "https://x.com/damatte0526/status/1883135639274791138/photo/1",
+              "media_key": "3_1883135631439839233",
+              "start": 0,
+              "url": "https://t.co/4qebzNHIM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883135639274791138",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4qebzNHIM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 524,
+          "like_count": 23231,
+          "listed_count": 2,
+          "media_count": 1018,
+          "tweet_count": 9316
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "很毛茸茸的善良角色。｜欢迎互fo私信！",
+        "id": "1592719222940962817",
+        "location": "美丽的小咪之家",
+        "name": "腋窝",
+        "pinned_tweet_id": "1855566813163332085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883135457296617472/4AOpR5zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 387,
+          "like_count": 742,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 309
+        },
+        "username": "damatte0526",
+        "verified": false
+      }
+    ]
+  }
+}

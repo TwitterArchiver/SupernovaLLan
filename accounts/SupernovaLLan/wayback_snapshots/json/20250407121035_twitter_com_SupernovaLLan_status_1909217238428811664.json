@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1909217068974756185",
+    "created_at": "2025-04-07T12:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T13:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909217238428811664"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "隆重介绍最",
+          "probability": 0.537,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1363804005583888386",
+          "start": 0,
+          "username": "Lgasuiyuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909217238428811664",
+    "in_reply_to_user_id": "1363804005583888386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909217068974756185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lgasuiyuno 隆重介绍最新入圈新人：俺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1909217068974756185",
+        "created_at": "2025-04-07T12:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T13:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909217238428811664"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "隆重介绍最",
+              "probability": 0.537,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1363804005583888386",
+              "start": 0,
+              "username": "Lgasuiyuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909217238428811664",
+        "in_reply_to_user_id": "1363804005583888386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909217068974756185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lgasuiyuno 隆重介绍最新入圈新人：俺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363804005583888386",
+        "conversation_id": "1909217068974756185",
+        "created_at": "2025-04-07T12:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T13:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909217068974756185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909217068974756185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特抑郁圈都是烂人了 讨厌。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 547,
+          "like_count": 24025,
+          "listed_count": 2,
+          "media_count": 1038,
+          "tweet_count": 9538
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T10:53:16.000Z",
+        "description": "......呜.......\n‖双相|精神疾病|目前饲养两只咪物一只汪物|♂|05-_-||这是我的日记|互关欢迎|od会发疯|👁️女友@suyan_dog\n里森堡卢伦贝格精神病保护协会已死 驻马德里分会基金组织将永远纪念它✟✟✟✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "suyan_dog"
+              }
+            ]
+          }
+        },
+        "id": "1363804005583888386",
+        "location": "卢伦贝格",
+        "name": "✟罂粟花与堡协会✟",
+        "pinned_tweet_id": "1894923502891000237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863050008976637952/OaGJENLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 771,
+          "like_count": 8267,
+          "listed_count": 2,
+          "media_count": 1266,
+          "tweet_count": 10124
+        },
+        "username": "Lgasuiyuno",
+        "verified": false
+      }
+    ]
+  }
+}

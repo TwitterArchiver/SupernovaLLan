@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2068029120269996037",
+    "created_at": "2026-06-19T17:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068029120269996037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086/status/2067150415993716813",
+          "start": 8,
+          "url": "https://t.co/1Qqiqk2v7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068029120269996037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067150415993716813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长期素食导致的 https://t.co/1Qqiqk2v7M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2067150370158301184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_-TzaaUAA_vZ_.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2068029120269996037",
+        "created_at": "2026-06-19T17:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068029120269996037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086/status/2067150415993716813",
+              "start": 8,
+              "url": "https://t.co/1Qqiqk2v7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068029120269996037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067150415993716813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长期素食导致的 https://t.co/1Qqiqk2v7M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067150370158301184"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2067150415993716813",
+        "created_at": "2026-06-17T07:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067150415993716813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fV8fmo2qm",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2067150415993716813/photo/1",
+              "media_key": "3_2067150370158301184",
+              "start": 0,
+              "url": "https://t.co/1fV8fmo2qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067150415993716813",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 23216,
+          "like_count": 610,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1fV8fmo2qm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 623,
+          "like_count": 27050,
+          "listed_count": 2,
+          "media_count": 1198,
+          "tweet_count": 11189
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121013,
+          "following_count": 1121,
+          "like_count": 52159,
+          "listed_count": 295,
+          "media_count": 22270,
+          "tweet_count": 32751
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

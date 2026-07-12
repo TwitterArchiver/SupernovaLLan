@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "In the years since man first ventured into space, scientific discoveries have had a dramatic impact on mankind's perception of both the universe and the human race's relationship to it. This ambitious series examines the known universe and the speculative worlds that may lie out there beyond the edge of the unknown.",
+          "id": "10001282221",
+          "name": "The Universe"
+        }
+      }
+    ],
+    "conversation_id": "2056240337757306963",
+    "created_at": "2026-05-18T13:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056361640967475649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《How the Universe Works Season music v1》，由 Various Artists 演唱，收录于《How the Universe Works Season music》专辑中，《How the Universe Works Season music v1》下载，《How the Universe Works Season music v1》在线试听，更多How the Universe Works Season music v1相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/7ijV9vf",
+          "end": 129,
+          "expanded_url": "https://163cn.tv/7ijV9vf",
+          "start": 106,
+          "status": 200,
+          "title": "How the Universe Works Season music v1 - Various Artists - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=36102307&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=121925532&playerUIModeId=76001&app_version=9.2.60&dlt=0846",
+          "url": "https://t.co/wWNAgst5y7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056361640967475649",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056240337757306963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2107\n内幻变成巨大的铝箔投影面\n感觉自己在飞升，鼻尖失去触感脸麻麻的头有点痛\n\n配乐\n\n分享Various Artists的单曲《How the Universe Works Season music v1》https://t.co/wWNAgst5y7 (@网易云音乐)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056240323723145216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk7rhRaMAAs8m9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "In the years since man first ventured into space, scientific discoveries have had a dramatic impact on mankind's perception of both the universe and the human race's relationship to it. This ambitious series examines the known universe and the speculative worlds that may lie out there beyond the edge of the unknown.",
+              "id": "10001282221",
+              "name": "The Universe"
+            }
+          }
+        ],
+        "conversation_id": "2056240337757306963",
+        "created_at": "2026-05-18T13:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056361640967475649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《How the Universe Works Season music v1》，由 Various Artists 演唱，收录于《How the Universe Works Season music》专辑中，《How the Universe Works Season music v1》下载，《How the Universe Works Season music v1》在线试听，更多How the Universe Works Season music v1相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/7ijV9vf",
+              "end": 129,
+              "expanded_url": "https://163cn.tv/7ijV9vf",
+              "start": 106,
+              "status": 200,
+              "title": "How the Universe Works Season music v1 - Various Artists - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=36102307&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=121925532&playerUIModeId=76001&app_version=9.2.60&dlt=0846",
+              "url": "https://t.co/wWNAgst5y7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056361640967475649",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056240337757306963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2107\n内幻变成巨大的铝箔投影面\n感觉自己在飞升，鼻尖失去触感脸麻麻的头有点痛\n\n配乐\n\n分享Various Artists的单曲《How the Universe Works Season music v1》https://t.co/wWNAgst5y7 (@网易云音乐)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056240323723145216"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2056240337757306963",
+        "created_at": "2026-05-18T05:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056240337757306963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6R9MGVe956",
+              "end": 175,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2056240337757306963/photo/1",
+              "media_key": "3_2056240323723145216",
+              "start": 152,
+              "url": "https://t.co/6R9MGVe956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056240337757306963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟诸多推友交流过之后基本确定这个几把药吃起来会上吐下泻，原因是成分表里面采用了上古老方酚酞右美沙芬，还有愈创木酚磺酸钾，这俩垃圾货就是会让人很不舒服上吐下泻的）现在亲自下场验证一下，也做一下记录✍🏻\n有效成分240mg\n（不知道是不是按DXM计算）折合16t\n昂丹司琼1t  4mg 止吐\n下面开始记录 https://t.co/6R9MGVe956"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 574,
+          "like_count": 25576,
+          "listed_count": 2,
+          "media_count": 1146,
+          "tweet_count": 10685
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

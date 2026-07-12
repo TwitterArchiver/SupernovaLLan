@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2049822021497057516",
+    "created_at": "2026-04-30T12:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049822021497057516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/supernovallan/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/supernovallan/status/1666464086480044038",
+          "start": 12,
+          "url": "https://t.co/iz7kWEC5A8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049822021497057516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1666464086480044038",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神秘小果冻我有点想你了 https://t.co/iz7kWEC5A8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_1666464062467710980",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FyB4PEpXoAQ2VQc.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2049822021497057516",
+        "created_at": "2026-04-30T12:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049822021497057516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/supernovallan/status/1666464086480044038",
+              "start": 12,
+              "url": "https://t.co/iz7kWEC5A8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049822021497057516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1666464086480044038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神秘小果冻我有点想你了 https://t.co/iz7kWEC5A8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1666464062467710980"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1666464086480044038",
+        "created_at": "2023-06-07T15:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-07T16:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1666464086480044038"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "鈴蘭今天的饭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tm0vb3IvwP",
+              "end": 47,
+              "expanded_url": "https://x.com/SupernovaLLan/status/1666464086480044038/photo/1",
+              "media_key": "3_1666464062467710980",
+              "start": 24,
+              "url": "https://t.co/Tm0vb3IvwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1666464086480044038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#鈴蘭今天的饭\n新皮肤小黄！她是菠萝味的我天呢 https://t.co/Tm0vb3IvwP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 541,
+          "like_count": 24683,
+          "listed_count": 2,
+          "media_count": 1118,
+          "tweet_count": 10298
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

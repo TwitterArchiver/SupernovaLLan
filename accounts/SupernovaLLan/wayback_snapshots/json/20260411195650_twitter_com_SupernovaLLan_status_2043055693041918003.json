@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2042965842296525286",
+    "created_at": "2026-04-11T19:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T20:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043055693041918003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "765807474964258816",
+          "start": 0,
+          "username": "xixi_epicene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043055693041918003",
+    "in_reply_to_user_id": "765807474964258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042965842296525286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi_epicene 密码先盲猜一个1.048596"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_2042965839909896192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoSm3gWQAAfix6.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2042965842296525286",
+        "created_at": "2026-04-11T19:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043055693041918003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "765807474964258816",
+              "start": 0,
+              "username": "xixi_epicene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043055693041918003",
+        "in_reply_to_user_id": "765807474964258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042965842296525286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi_epicene 密码先盲猜一个1.048596"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042965839909896192"
+          ]
+        },
+        "author_id": "765807474964258816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2042965842296525286",
+        "created_at": "2026-04-11T13:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042965842296525286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dn7nLYwUsL",
+              "end": 164,
+              "expanded_url": "https://x.com/xixi_epicene/status/2042965842296525286/photo/1",
+              "media_key": "3_2042965839909896192",
+              "start": 141,
+              "url": "https://t.co/dn7nLYwUsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042965842296525286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4844,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于有时间买设备把家里每层楼的wifi做覆盖了\n\n搭好之后老婆问我家里的wifi密码是多少\n\n我：诶，你不应该先问家里wifi叫什么名字吗？\n\n老婆：还用问！？0秒认出好吗！\n\n其实我只是想以后每次有客人来问我wifi是哪个的时候我能拿起手机说\n\n“El Psy Congroo” https://t.co/dn7nLYwUsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 521,
+          "like_count": 24235,
+          "listed_count": 2,
+          "media_count": 1104,
+          "tweet_count": 10105
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "man！♂/ 我老婆 @cosplay_riji /贞操锁讨论群组：https://t.co/2Vyp1e2bQa  / 支持创作及加入discord群组：https://t.co/W97Ha4pBXr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cosplay_riji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ZK2MPOZDlbBiM…",
+                "end": 57,
+                "expanded_url": "https://t.me/+ZK2MPOZDlbBiMGE0",
+                "start": 34,
+                "url": "https://t.co/2Vyp1e2bQa"
+              },
+              {
+                "display_url": "buymeacoffee.com/xixiepicene",
+                "end": 101,
+                "expanded_url": "https://buymeacoffee.com/xixiepicene",
+                "start": 78,
+                "url": "https://t.co/W97Ha4pBXr"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "pinned_tweet_id": "2042207259107676328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030556534648774656/eKmm0DZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38155,
+          "following_count": 1938,
+          "like_count": 18782,
+          "listed_count": 124,
+          "media_count": 1612,
+          "tweet_count": 8430
+        },
+        "username": "xixi_epicene",
+        "verified": false
+      }
+    ]
+  }
+}

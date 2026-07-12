@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2060024137398268178",
+    "created_at": "2026-05-28T15:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060024137398268178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1467095000609849345",
+          "start": 3,
+          "username": "carnagesociety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060024137398268178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057432622423498792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carnagesociety: 🩸ANNOUNCE🩸\n長らく開発を進めておりました、\n非日常的日常学園グロコメディヴィジュアルノベル「HIGHSCHOOL GORE-GIRL 軽音部」\"体験版\"の最終チェックが完了しました！\n\n現在、配信サイトにデータを提出し審査待ちの…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060024137398268178].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060024137398268178",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060024137398268178"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3030,
+        "media_key": "3_2057431355429199872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI126sIboAArQfE.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057431355429199872"
+          ]
+        },
+        "author_id": "1467095000609849345",
+        "conversation_id": "2057432622423498792",
+        "created_at": "2026-05-21T12:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057432622423498792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRnHWTSYLf",
+              "end": 174,
+              "expanded_url": "https://x.com/carnagesociety/status/2057432622423498792/photo/1",
+              "media_key": "3_2057431355429199872",
+              "start": 151,
+              "url": "https://t.co/cRnHWTSYLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057432622423498792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "🩸ANNOUNCE🩸\n長らく開発を進めておりました、\n非日常的日常学園グロコメディヴィジュアルノベル「HIGHSCHOOL GORE-GIRL 軽音部」\"体験版\"の最終チェックが完了しました！\n\n現在、配信サイトにデータを提出し審査待ちの状態です。\n問題がなければ5月30日㈯から配信開始となります！\n\n正式なスケジュールが決定次第再度アナウンスさせていただきますので、どうかお見逃しなく🔥"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 28311,
+          "like_count": 531,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "🩸ANNOUNCE🩸\n長らく開発を進めておりました、\n非日常的日常学園グロコメディヴィジュアルノベル「HIGHSCHOOL GORE-GIRL 軽音部」\"体験版\"の最終チェックが完了しました！\n\n現在、配信サイトにデータを提出し審査待ちの状態です。\n問題がなければ5月30日㈯から配信開始となります！ https://t.co/cRnHWTSYLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 592,
+          "like_count": 26113,
+          "listed_count": 2,
+          "media_count": 1163,
+          "tweet_count": 10877
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀sub account▶@GorezonoNeo \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "ご依頼は(@yuki12278947 )のDMへ",
+        "name": "幽妃-yuki-🫀GORE−GlRL PROJECT / 流血少女",
+        "pinned_tweet_id": "2057432622423498792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059214465842008064/axp9MpAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41950,
+          "following_count": 774,
+          "like_count": 99696,
+          "listed_count": 179,
+          "media_count": 1570,
+          "tweet_count": 40911
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

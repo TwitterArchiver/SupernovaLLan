@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2007020347468705990",
+    "created_at": "2026-01-02T09:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T10:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007021507424526707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "minami886886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007021507424526707",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007020347468705990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minami886886 还好考完就忘了根本估不出分）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007020347468705990].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007020347468705990",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2007020347468705990"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2007020347468705990",
+        "created_at": "2026-01-02T09:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007021507424526707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "minami886886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007021507424526707",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007020347468705990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minami886886 还好考完就忘了根本估不出分）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 529,
+          "like_count": 24472,
+          "listed_count": 2,
+          "media_count": 1088,
+          "tweet_count": 9974
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "我是南",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/OXuM4vbTaK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "鼠鼠星",
+        "name": "🍀南南南南南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993369268914917376/XvDfQ5d7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3442,
+          "following_count": 909,
+          "like_count": 57391,
+          "listed_count": 6,
+          "media_count": 598,
+          "tweet_count": 12820
+        },
+        "url": "https://t.co/OXuM4vbTaK",
+        "username": "minami886886",
+        "verified": false
+      }
+    ]
+  }
+}

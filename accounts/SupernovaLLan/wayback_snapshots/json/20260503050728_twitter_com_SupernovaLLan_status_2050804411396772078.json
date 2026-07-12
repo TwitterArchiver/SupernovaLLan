@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2050804238922785267",
+    "created_at": "2026-05-03T05:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050804411396772078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023762324038004736",
+          "start": 0,
+          "username": "salmon__sukiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050804411396772078",
+    "in_reply_to_user_id": "2023762324038004736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050804238922785267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@salmon__sukiii 再不摘花蕊有你受的了……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050804238922785267].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050804238922785267",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050804238922785267"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2050804238922785267",
+        "created_at": "2026-05-03T05:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050804411396772078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023762324038004736",
+              "start": 0,
+              "username": "salmon__sukiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050804411396772078",
+        "in_reply_to_user_id": "2023762324038004736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050804238922785267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@salmon__sukiii 再不摘花蕊有你受的了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 545,
+          "like_count": 24799,
+          "listed_count": 2,
+          "media_count": 1123,
+          "tweet_count": 10340
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:12:00.000Z",
+        "description": "转推内容可能有血腥画面请注意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thaliana_su",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thaliana_su",
+                "start": 0,
+                "url": "https://t.co/7qPJkRQkeL"
+              }
+            ]
+          }
+        },
+        "id": "2023762324038004736",
+        "name": "小苏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048996480149819392/2UIAbTWj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 155,
+          "like_count": 2929,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/7qPJkRQkeL",
+        "username": "salmon__sukiii",
+        "verified": false
+      }
+    ]
+  }
+}

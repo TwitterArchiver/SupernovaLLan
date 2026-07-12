@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054744867360960512"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2054744878693957825",
+    "created_at": "2026-05-14T02:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T03:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054744878693957825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/740zHvs3Ml",
+          "end": 41,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2054744878693957825/photo/1",
+          "media_key": "3_2054744867360960512",
+          "start": 18,
+          "url": "https://t.co/740zHvs3Ml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054744878693957825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不行了\n那阵子吃的什么雷霆大药丸 https://t.co/740zHvs3Ml"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054744878693957825].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054744878693957825",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054744878693957825"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054744867360960512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPrkgMbcAAlioB.jpg",
+        "width": 1168
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 570,
+          "like_count": 25352,
+          "listed_count": 2,
+          "media_count": 1138,
+          "tweet_count": 10577
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

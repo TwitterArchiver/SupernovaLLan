@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2057093166495572327",
+    "created_at": "2026-05-20T14:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057102636269400483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1858727254345281536",
+          "start": 0,
+          "username": "NNNullptr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057102636269400483",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057093166495572327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NNNullptr 哇还有古法coser真的很难得😗\n感觉这个衣服除了改绿坝娘也可以改花京院的衣服hhhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057093163752493057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxDVV9aEAEwQZS.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057093163584729088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxDVVVaMAAtXL2.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2057093166495572327",
+        "created_at": "2026-05-20T14:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057102636269400483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057102636269400483",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057093166495572327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 哇还有古法coser真的很难得😗\n感觉这个衣服除了改绿坝娘也可以改花京院的衣服hhhh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057093163752493057",
+            "3_2057093163584729088"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "2057093166495572327",
+        "created_at": "2026-05-20T13:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057093166495572327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2uXixlwLW",
+              "end": 44,
+              "expanded_url": "https://x.com/NNNullptr/status/2057093166495572327/photo/1",
+              "media_key": "3_2057093163752493057",
+              "start": 21,
+              "url": "https://t.co/K2uXixlwLW"
+            },
+            {
+              "display_url": "pic.x.com/K2uXixlwLW",
+              "end": 44,
+              "expanded_url": "https://x.com/NNNullptr/status/2057093166495572327/photo/1",
+              "media_key": "3_2057093163584729088",
+              "start": 21,
+              "url": "https://t.co/K2uXixlwLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057093166495572327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pdd29块钱购入，准备拿来改成cos服 https://t.co/K2uXixlwLW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 574,
+          "like_count": 25627,
+          "listed_count": 2,
+          "media_count": 1146,
+          "tweet_count": 10699
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 159,
+          "like_count": 5845,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

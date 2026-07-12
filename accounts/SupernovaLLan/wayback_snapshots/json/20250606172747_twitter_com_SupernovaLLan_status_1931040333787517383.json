@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930476919528796166"
+      ],
+      "media_source_tweet_id": [
+        "1930476926638141907"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1931040333787517383",
+    "created_at": "2025-06-06T17:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T18:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931040333787517383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1326673322",
+          "start": 3,
+          "username": "JMJ111_Os"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SdHIDzraFV",
+          "end": 66,
+          "expanded_url": "https://x.com/JMJ111_Os/status/1930476926638141907/photo/1",
+          "media_key": "3_1930476919528796166",
+          "start": 43,
+          "url": "https://t.co/SdHIDzraFV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931040333787517383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930476926638141907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JMJ111_Os: 沒想到這麼快就要用上這一張了\nMY們加油 MYMYMY https://t.co/SdHIDzraFV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930476919528796166",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gspuh7uasAYCJFr.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930476919528796166"
+          ],
+          "media_source_tweet_id": [
+            "1930476926638141907"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1931040333787517383",
+        "created_at": "2025-06-06T17:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T18:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931040333787517383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1326673322",
+              "start": 3,
+              "username": "JMJ111_Os"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdHIDzraFV",
+              "end": 66,
+              "expanded_url": "https://x.com/JMJ111_Os/status/1930476926638141907/photo/1",
+              "media_key": "3_1930476919528796166",
+              "start": 43,
+              "url": "https://t.co/SdHIDzraFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931040333787517383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930476926638141907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JMJ111_Os: 沒想到這麼快就要用上這一張了\nMY們加油 MYMYMY https://t.co/SdHIDzraFV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930476919528796166"
+          ]
+        },
+        "author_id": "1326673322",
+        "conversation_id": "1930476926638141907",
+        "created_at": "2025-06-05T04:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T05:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930476926638141907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdHIDzraFV",
+              "end": 51,
+              "expanded_url": "https://x.com/JMJ111_Os/status/1930476926638141907/photo/1",
+              "media_key": "3_1930476919528796166",
+              "start": 28,
+              "url": "https://t.co/SdHIDzraFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930476926638141907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 159800,
+          "like_count": 3159,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "沒想到這麼快就要用上這一張了\nMY們加油 MYMYMY https://t.co/SdHIDzraFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 548,
+          "like_count": 24634,
+          "listed_count": 2,
+          "media_count": 1055,
+          "tweet_count": 9675
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-04T10:49:31.000Z",
+        "description": "🇹🇼 MY aespa 💙🌙⭐️🦋 Live MY Life 💫",
+        "id": "1326673322",
+        "location": "台灣",
+        "name": "J炡氣M狗勾J",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921070569878921216/ZTZTdds__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 355,
+          "like_count": 51265,
+          "listed_count": 1,
+          "media_count": 1225,
+          "tweet_count": 11367
+        },
+        "username": "JMJ111_Os",
+        "verified": false
+      }
+    ]
+  }
+}

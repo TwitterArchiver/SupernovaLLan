@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049846831107166208"
+      ],
+      "media_source_tweet_id": [
+        "2049846840884183409"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2050219663179792662",
+    "created_at": "2026-05-01T14:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050219663179792662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804798191940124673",
+          "start": 3,
+          "username": "Rin1732996"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1y3YB0UeSL",
+          "end": 48,
+          "expanded_url": "https://x.com/Rin1732996/status/2049846840884183409/photo/1",
+          "media_key": "3_2049846831107166208",
+          "start": 25,
+          "url": "https://t.co/1y3YB0UeSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050219663179792662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049846840884183409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rin1732996: ｢平穏に刺激を｣ https://t.co/1y3YB0UeSL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2464,
+        "media_key": "3_2049846831107166208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKE1RQaUAAEYfK.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049846831107166208"
+          ],
+          "media_source_tweet_id": [
+            "2049846840884183409"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2050219663179792662",
+        "created_at": "2026-05-01T14:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050219663179792662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804798191940124673",
+              "start": 3,
+              "username": "Rin1732996"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1y3YB0UeSL",
+              "end": 48,
+              "expanded_url": "https://x.com/Rin1732996/status/2049846840884183409/photo/1",
+              "media_key": "3_2049846831107166208",
+              "start": 25,
+              "url": "https://t.co/1y3YB0UeSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050219663179792662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049846840884183409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rin1732996: ｢平穏に刺激を｣ https://t.co/1y3YB0UeSL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049846831107166208"
+          ]
+        },
+        "author_id": "1804798191940124673",
+        "conversation_id": "2049846840884183409",
+        "created_at": "2026-04-30T13:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049846840884183409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1y3YB0UeSL",
+              "end": 32,
+              "expanded_url": "https://x.com/Rin1732996/status/2049846840884183409/photo/1",
+              "media_key": "3_2049846831107166208",
+              "start": 9,
+              "url": "https://t.co/1y3YB0UeSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049846840884183409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 7773,
+          "like_count": 820,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "｢平穏に刺激を｣ https://t.co/1y3YB0UeSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 542,
+          "like_count": 24728,
+          "listed_count": 2,
+          "media_count": 1120,
+          "tweet_count": 10316
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T08:47:01.000Z",
+        "description": "趣味でAIイラストを載せてるただの病み散らかしてる人。│H▶八朔さん  @tiksca2299 │弟子▶ふじ○さん  @fujimaru_niji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "tiksca2299"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "fujimaru_niji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RinAiIllust",
+                "end": 23,
+                "expanded_url": "https://lit.link/RinAiIllust",
+                "start": 0,
+                "url": "https://t.co/RkWva4KWVT"
+              }
+            ]
+          }
+        },
+        "id": "1804798191940124673",
+        "location": "-143",
+        "name": "Rin_981",
+        "pinned_tweet_id": "2049151134733152286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027176610399657984/Ha8W8WFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63174,
+          "following_count": 289,
+          "like_count": 116097,
+          "listed_count": 218,
+          "media_count": 3823,
+          "tweet_count": 38537
+        },
+        "url": "https://t.co/RkWva4KWVT",
+        "username": "Rin1732996",
+        "verified": true
+      }
+    ]
+  }
+}

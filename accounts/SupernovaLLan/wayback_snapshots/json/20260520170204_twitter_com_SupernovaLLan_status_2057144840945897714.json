@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2057066423730786665",
+    "created_at": "2026-05-20T17:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057144840945897714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1077906424661856257",
+          "start": 0,
+          "username": "nf0RvF9qLpjzOpv"
+        },
+        {
+          "end": 27,
+          "id": "1858727254345281536",
+          "start": 17,
+          "username": "NNNullptr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/madeshiapramod…",
+          "end": 51,
+          "expanded_url": "https://x.com/madeshiapramod/status/2056920361657413727",
+          "start": 28,
+          "url": "https://t.co/hoEIqnBLX9"
+        },
+        {
+          "display_url": "x.com/madeshiapramod…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/madeshiapramod/status/2056920361657413727",
+          "start": 52,
+          "url": "https://t.co/D29Sbk7BHh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057144840945897714",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056920361657413727",
+        "type": "quoted"
+      },
+      {
+        "id": "2057142625929666806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nf0RvF9qLpjzOpv @NNNullptr https://t.co/hoEIqnBLX9 https://t.co/D29Sbk7BHh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 403200,
+        "height": 1080,
+        "media_key": "13_2056919721761767424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056919721761767424/img/4ckA_dNlejUrXzt1.jpg",
+        "public_metrics": {
+          "view_count": 88480
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056919721761767424/vid/avc1/1920x1080/BU1cXeQiMR-wchse.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056919721761767424/pl/tmYeN0gP6DK108MW.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056919721761767424/vid/avc1/1280x720/V81PPitwjsZvA3A0.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056919721761767424/vid/avc1/480x270/uJddSLE5Nat7r8v0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056919721761767424/vid/avc1/640x360/bzOjVfMI5hlnDYk0.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2057066423730786665",
+        "created_at": "2026-05-20T17:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057144840945897714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1077906424661856257",
+              "start": 0,
+              "username": "nf0RvF9qLpjzOpv"
+            },
+            {
+              "end": 27,
+              "id": "1858727254345281536",
+              "start": 17,
+              "username": "NNNullptr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/madeshiapramod…",
+              "end": 51,
+              "expanded_url": "https://x.com/madeshiapramod/status/2056920361657413727",
+              "start": 28,
+              "url": "https://t.co/hoEIqnBLX9"
+            },
+            {
+              "display_url": "x.com/madeshiapramod…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/madeshiapramod/status/2056920361657413727",
+              "start": 52,
+              "url": "https://t.co/D29Sbk7BHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057144840945897714",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056920361657413727",
+            "type": "quoted"
+          },
+          {
+            "id": "2057142625929666806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nf0RvF9qLpjzOpv @NNNullptr https://t.co/hoEIqnBLX9 https://t.co/D29Sbk7BHh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056919721761767424"
+          ]
+        },
+        "author_id": "944430305384939520",
+        "conversation_id": "2056920361657413727",
+        "created_at": "2026-05-20T02:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056920361657413727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gp5CYGD2YJ",
+              "end": 172,
+              "expanded_url": "https://x.com/MadeshiaPramod/status/2056920361657413727/video/1",
+              "media_key": "13_2056919721761767424",
+              "start": 149,
+              "url": "https://t.co/gp5CYGD2YJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056920361657413727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 166,
+                "start": 163,
+                "tag": "科普"
+              },
+              {
+                "end": 172,
+                "start": 167,
+                "tag": "探索发现"
+              },
+              {
+                "end": 179,
+                "start": 173,
+                "tag": "老鼠乌托邦"
+              },
+              {
+                "end": 184,
+                "start": 180,
+                "tag": "低欲望"
+              }
+            ]
+          },
+          "text": "8只老鼠住进了天堂，五年后全死了。验尸报告写不出死因。 \n\n一个56年前的老鼠实验，精准预言了今天的我们。\n\n不想社交，不想恋爱，每天吃饭睡觉刷手机，活着但好像也没在活。\n\n1968年科学家把8只老鼠关进完美世界，它们的结局是集体灭绝。\n\n死因不是饥饿不是疾病，是一种验尸报告永远写不出来的东西。\n\n看完这期你会坐不住的。\n\n#科普 #探索发现 #老鼠乌托邦 #低欲望"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 540,
+          "impression_count": 77966,
+          "like_count": 839,
+          "quote_count": 2,
+          "reply_count": 89,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "8只老鼠住进了天堂，五年后全死了。验尸报告写不出死因。 \n\n一个56年前的老鼠实验，精准预言了今天的我们。\n\n不想社交，不想恋爱，每天吃饭睡觉刷手机，活着但好像也没在活。\n\n1968年科学家把8只老鼠关进完美世界，它们的结局是集体灭绝。\n\n死因不是饥饿不是疾病，是一种验尸报告永远写不出来的东西。 https://t.co/gp5CYGD2YJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2057066423730786665",
+        "created_at": "2026-05-20T16:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057142625929666806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1077906424661856257",
+              "start": 0,
+              "username": "nf0RvF9qLpjzOpv"
+            },
+            {
+              "end": 27,
+              "id": "1858727254345281536",
+              "start": 17,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057142625929666806",
+        "in_reply_to_user_id": "1077906424661856257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057141836851134961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nf0RvF9qLpjzOpv @NNNullptr 还得是无限能源才能真正极大丰富口牙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 575,
+          "like_count": 25637,
+          "listed_count": 2,
+          "media_count": 1146,
+          "tweet_count": 10707
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-26T12:38:12.000Z",
+        "description": "",
+        "id": "1077906424661856257",
+        "name": "2501_0",
+        "pinned_tweet_id": "1177544367357100034",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 77,
+          "like_count": 423849,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 186019
+        },
+        "username": "nf0RvF9qLpjzOpv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 160,
+          "like_count": 5852,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-23T04:51:46.000Z",
+        "description": "PolyMarket官方注册链接：https://t.co/BmTBQI0IVH 预测市场最快的跟单平台PolyCop：https://t.co/thOLnlbOnk 加入我的PolyMarket电报群：https://t.co/0Zx4qbW5yC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/zh/?r=PM888",
+                "end": 40,
+                "expanded_url": "https://polymarket.com/zh/?r=PM888",
+                "start": 17,
+                "url": "https://t.co/BmTBQI0IVH"
+              },
+              {
+                "display_url": "t.me/PolyCop_BOT?st…",
+                "end": 83,
+                "expanded_url": "https://t.me/PolyCop_BOT?start=ref_YINGGE888",
+                "start": 60,
+                "url": "https://t.co/thOLnlbOnk"
+              },
+              {
+                "display_url": "t.me/PM13168",
+                "end": 125,
+                "expanded_url": "https://t.me/PM13168",
+                "start": 102,
+                "url": "https://t.co/0Zx4qbW5yC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2ljk.v516.shop/ok168",
+                "end": 23,
+                "expanded_url": "https://2ljk.v516.shop/ok168",
+                "start": 0,
+                "url": "https://t.co/tgHrYPctZh"
+              }
+            ]
+          }
+        },
+        "id": "944430305384939520",
+        "location": "币圈你需要的全部工具👉",
+        "name": "哈希猎人",
+        "pinned_tweet_id": "2056920361657413727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980460279868563456/bpisH3PC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7101,
+          "following_count": 3354,
+          "like_count": 7716,
+          "listed_count": 15,
+          "media_count": 6698,
+          "tweet_count": 16188
+        },
+        "url": "https://t.co/tgHrYPctZh",
+        "username": "MadeshiaPramod",
+        "verified": true
+      }
+    ]
+  }
+}

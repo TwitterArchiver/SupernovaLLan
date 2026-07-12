@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1867522590673437144",
+    "created_at": "2024-12-13T11:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T12:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867532344971997607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725932482858827776",
+          "start": 0,
+          "username": "DEATH_zero_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867532344971997607",
+    "in_reply_to_user_id": "1725932482858827776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867522590673437144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DEATH_zero_ 感觉得按经济实力+素质筛人）大学生也就回国留子检测过了可以纳入考虑罢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1867522590673437144",
+        "created_at": "2024-12-13T11:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T12:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867532344971997607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725932482858827776",
+              "start": 0,
+              "username": "DEATH_zero_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867532344971997607",
+        "in_reply_to_user_id": "1725932482858827776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867522590673437144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DEATH_zero_ 感觉得按经济实力+素质筛人）大学生也就回国留子检测过了可以纳入考虑罢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725932482858827776",
+        "conversation_id": "1867522590673437144",
+        "created_at": "2024-12-13T10:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T11:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867522590673437144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867522590673437144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经不太想接大学生的单子了...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 492,
+          "like_count": 22455,
+          "listed_count": 2,
+          "media_count": 1000,
+          "tweet_count": 9109
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T17:42:35.000Z",
+        "description": "18↓ 苏拉，门槛有，168r可线下//北京接陪聊陪玩线下//谢谢你愿意关照我，希望你每天都愉快//愈發逐漸的開始厭惡自己...",
+        "id": "1725932482858827776",
+        "location": "🔞BLOODY、SELF-HARM、SEX ",
+        "name": "老鼠奴",
+        "pinned_tweet_id": "1865658188554813632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845426686013341696/Zt8SX8Yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 132,
+          "like_count": 3246,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1058
+        },
+        "username": "DEATH_zero_",
+        "verified": false
+      }
+    ]
+  }
+}

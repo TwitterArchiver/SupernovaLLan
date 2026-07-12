@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1829173441523790123",
+    "created_at": "2024-08-29T15:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T16:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829173441523790123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshiko763/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/hoshiko763/status/1829012895323304049",
+          "start": 21,
+          "url": "https://t.co/8gc7dfbsso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829173441523790123",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829012895323304049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都“女性资源”了🙂‍↔️🙂‍↔️🙂‍↔️ https://t.co/8gc7dfbsso"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1829173441523790123",
+        "created_at": "2024-08-29T15:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T16:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829173441523790123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshiko763/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hoshiko763/status/1829012895323304049",
+              "start": 21,
+              "url": "https://t.co/8gc7dfbsso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829173441523790123",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829012895323304049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都“女性资源”了🙂‍↔️🙂‍↔️🙂‍↔️ https://t.co/8gc7dfbsso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1829012849538031616"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "1829012895323304049",
+        "created_at": "2024-08-29T04:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T05:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829012895323304049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3cgqysvfka",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hoshiko763/status/1829012895323304049/video/1",
+              "media_key": "7_1829012849538031616",
+              "start": 8,
+              "url": "https://t.co/3CgqySVFKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829012895323304049",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1747,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉缺一个劳荣枝 https://t.co/3CgqySVFKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1817575782975504822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 433,
+          "like_count": 20500,
+          "listed_count": 2,
+          "tweet_count": 7986
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "カヌレ天使🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797659604396204032/eXK9nL-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23124,
+          "following_count": 2298,
+          "like_count": 30661,
+          "listed_count": 27,
+          "tweet_count": 29140
+        },
+        "username": "hoshiko763",
+        "verified": false
+      }
+    ]
+  }
+}

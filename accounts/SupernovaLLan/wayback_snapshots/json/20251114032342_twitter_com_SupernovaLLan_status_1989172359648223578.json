@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1989171543310823743",
+    "created_at": "2025-11-14T03:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989172359648223578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833297075456643073",
+          "start": 0,
+          "username": "MX_XYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989172359648223578",
+    "in_reply_to_user_id": "1833297075456643073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989171543310823743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MX_XYB 那必须看看九阳的哈基米概念🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_1989171538805800960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5r0-bfWQAA6Y2d.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1989171543310823743",
+        "created_at": "2025-11-14T03:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989172359648223578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833297075456643073",
+              "start": 0,
+              "username": "MX_XYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989172359648223578",
+        "in_reply_to_user_id": "1833297075456643073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989171543310823743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MX_XYB 那必须看看九阳的哈基米概念🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989171538805800960"
+          ]
+        },
+        "author_id": "1833297075456643073",
+        "conversation_id": "1989171543310823743",
+        "created_at": "2025-11-14T03:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989171543310823743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/csz6HVgQ08",
+              "end": 52,
+              "expanded_url": "https://x.com/MX_XYB/status/1989171543310823743/photo/1",
+              "media_key": "3_1989171538805800960",
+              "start": 29,
+              "url": "https://t.co/csz6HVgQ08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989171543310823743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚上狠狠地把我大脑子塞进今天连板的小低位里反复复盘！ https://t.co/csz6HVgQ08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 539,
+          "like_count": 24995,
+          "listed_count": 2,
+          "media_count": 1086,
+          "tweet_count": 9922
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T00:11:52.000Z",
+        "description": "🤫",
+        "id": "1833297075456643073",
+        "name": "饼饼",
+        "pinned_tweet_id": "1988194376435245534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987916909111648256/djfpMFT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8355,
+          "following_count": 133,
+          "like_count": 3182,
+          "listed_count": 151,
+          "media_count": 782,
+          "tweet_count": 3267
+        },
+        "username": "MX_XYB",
+        "verified": false
+      }
+    ]
+  }
+}

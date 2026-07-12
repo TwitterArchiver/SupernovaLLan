@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2054387127505543416",
+    "created_at": "2026-05-13T02:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054387127505543416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1324198319535521795",
+          "start": 3,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054387127505543416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054177269829046520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KKaWSB: 1955年，美国芝加哥。\n\n一个名叫文森特·科苏加（Vincent Kosuga）的普通洋葱农场主，做了一件前无古人的事。\n\n他觉得老老实实种地赚钱太慢了，于是决定在金融市场里“做一回庄”。\n\n那年秋天，他动用巨资，疯狂买下了芝加哥市场上 98% 的洋葱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2054387127505543416",
+        "created_at": "2026-05-13T02:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054387127505543416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1324198319535521795",
+              "start": 3,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054387127505543416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054177269829046520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KKaWSB: 1955年，美国芝加哥。\n\n一个名叫文森特·科苏加（Vincent Kosuga）的普通洋葱农场主，做了一件前无古人的事。\n\n他觉得老老实实种地赚钱太慢了，于是决定在金融市场里“做一回庄”。\n\n那年秋天，他动用巨资，疯狂买下了芝加哥市场上 98% 的洋葱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324198319535521795",
+        "conversation_id": "2054177269829046520",
+        "created_at": "2026-05-12T12:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054177269829046520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054177269829046520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1955年，美国芝加哥。\n\n一个名叫文森特·科苏加（Vincent Kosuga）的普通洋葱农场主，做了一件前无古人的事。\n\n他觉得老老实实种地赚钱太慢了，于是决定在金融市场里“做一回庄”。\n\n那年秋天，他动用巨资，疯狂买下了芝加哥市场上 98% 的洋葱。\n\n整整 3000 万磅的洋葱，全被他塞进了自己的冷库里。\n\n市面上的洋葱瞬间绝迹，价格自然开始疯狂飙升。\n\n全美国的交易员都知道文森特手里垄断了洋葱，大家都在猜他什么时候会在高位套现。\n\n但文森特不仅不卖，他还做了一个让所有人惊掉下巴的操作。\n\n他跑去芝加哥商品交易所，疯狂买入了天量的“洋葱看空合约（做空期货）”。\n\n交易员们都笑他是个不懂金融的土老帽：你手里囤了那么多现货洋葱，如果价格跌了你不是亏死吗？你为什么还要做空？\n\n于是，华尔街的投机客们疯狂做多，充当他的对手盘。\n\n就在期货合约快要交割的时候，文森特亮出了底牌。\n\n他突然打开冷库大门，把 3000 万磅洋葱像倾倒垃圾一样，全数砸向了市场。\n\n洋葱价格瞬间遭遇了史诗级的雪崩。\n\n一袋 50 磅的洋葱，从 2.75 美元暴跌到了区区 10 美分。\n\n到了最后，装洋葱的那个空麻袋，甚至比里面装的 50 磅洋葱还要贵两倍。\n\n那些做多的华尔街交易员全部爆仓，倾家荡产。\n\n而文森特虽然在“现货”上亏了钱，但他通过高杠杆的“做空合约”，狂赚了数百万美元（相当于今天的几千万美元），完成了惊天收割。\n\n全美国的农民和交易员都被气疯了，联名把文森特告上了美国国会。\n\n最后，美国总统亲自签署了一项极其罕见的法案——《洋葱期货法案》。\n\n直到今天，洋葱依然是美国历史上唯一一个，被联邦法律明文禁止进行期货交易的农产品。\n\n🖊️这就是金融衍生品市场上最冷酷的“跨市场收割”。\n\n普通人总是天真地以为，是资产的真实价值（现货）决定了期货合约的价格。\n\n但在高级的资本博弈里，逻辑往往是反过来的。\n\n顶级的庄家根本不在乎手里的现货是涨是跌，甚至不在乎现货烂在库房里。\n\n因为现货只是他用来操控盘面、制造情绪的“武器”。\n\n而衍生品市场里那十倍、百倍的杠杆，才是他真正收割财富的“提款机”。\n\n在加密货币市场或任何高杠杆的博弈中。\n\n当你看到某个代币的价格异常坚挺，或者某个项目的基本面看似无懈可击时。\n\n不要轻易冲进去接盘。\n\n因为你永远不知道，隐藏在暗处的对手盘，是不是已经在合约市场里布下了天罗地网。\n\n他们手里的现货，也许根本就不是用来投资的，而是随时准备砸向你的那 3000 万磅洋葱。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 115036,
+          "like_count": 571,
+          "quote_count": 3,
+          "reply_count": 47,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "1955年，美国芝加哥。\n\n一个名叫文森特·科苏加（Vincent Kosuga）的普通洋葱农场主，做了一件前无古人的事。\n\n他觉得老老实实种地赚钱太慢了，于是决定在金融市场里“做一回庄”。\n\n那年秋天，他动用巨资，疯狂买下了芝加哥市场上 98% 的洋葱。\n\n整整 3000 万磅的洋葱，全被他塞进了自己的冷库里。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 567,
+          "like_count": 25297,
+          "listed_count": 2,
+          "media_count": 1135,
+          "tweet_count": 10540
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co Founder @ CarbonSilicon AI | AI Quant Trading in Palo Alto | 加密投研 | 美股 | 科技 | 政治经济学 | 用趣闻对冲无聊世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SilentFleetKK",
+                "end": 23,
+                "expanded_url": "https://github.com/SilentFleetKK",
+                "start": 0,
+                "url": "https://t.co/TpeTVm0Rrr"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83636,
+          "following_count": 2900,
+          "like_count": 9482,
+          "listed_count": 680,
+          "media_count": 6858,
+          "tweet_count": 13868
+        },
+        "url": "https://t.co/TpeTVm0Rrr",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

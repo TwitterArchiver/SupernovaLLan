@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Skiing",
+          "id": "847902877347495936",
+          "name": "Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Cross Country Skiing",
+          "id": "1473337451569508352",
+          "name": "Alpine Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Skiing",
+          "id": "847902877347495936",
+          "name": "Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1260978608199266304",
+          "name": "Winter sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cross Country Skiing",
+          "id": "1473337451569508352",
+          "name": "Alpine Skiing"
+        }
+      }
+    ],
+    "conversation_id": "1835661245917388825",
+    "created_at": "2024-09-16T12:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T13:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835661245917388825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1438389777250668544",
+          "start": 3,
+          "username": "TwitteeJapan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835661245917388825",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2753
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835113332359282782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TwitteeJapan: 地雷系女子\n・対戦車地雷系女子\n・対人地雷系女子\n・跳躍地雷系女子\n・指向性地雷系女子\n・核地雷系女子\n\n水雷系女子\n・触発機雷系女子\n・磁気機雷系女子\n・複合機雷系女子\n・魚形水雷系女子\n・酸素魚雷系女子\n・誘導魚雷系女子\n・核魚雷系女子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Cross Country Skiing",
+              "id": "1473337451569508352",
+              "name": "Alpine Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260978608199266304",
+              "name": "Winter sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cross Country Skiing",
+              "id": "1473337451569508352",
+              "name": "Alpine Skiing"
+            }
+          }
+        ],
+        "conversation_id": "1835661245917388825",
+        "created_at": "2024-09-16T12:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T13:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835661245917388825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1438389777250668544",
+              "start": 3,
+              "username": "TwitteeJapan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835661245917388825",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2753
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835113332359282782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TwitteeJapan: 地雷系女子\n・対戦車地雷系女子\n・対人地雷系女子\n・跳躍地雷系女子\n・指向性地雷系女子\n・核地雷系女子\n\n水雷系女子\n・触発機雷系女子\n・磁気機雷系女子\n・複合機雷系女子\n・魚形水雷系女子\n・酸素魚雷系女子\n・誘導魚雷系女子\n・核魚雷系女子…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438389777250668544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Cross Country Skiing",
+              "id": "1473337451569508352",
+              "name": "Alpine Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cross Country Skiing",
+              "id": "1473337451569508352",
+              "name": "Alpine Skiing"
+            }
+          }
+        ],
+        "conversation_id": "1835113332359282782",
+        "created_at": "2024-09-15T00:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T01:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835113332359282782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835113332359282782",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1096,
+          "impression_count": 427200,
+          "like_count": 14013,
+          "quote_count": 123,
+          "reply_count": 94,
+          "retweet_count": 2753
+        },
+        "reply_settings": "everyone",
+        "text": "地雷系女子\n・対戦車地雷系女子\n・対人地雷系女子\n・跳躍地雷系女子\n・指向性地雷系女子\n・核地雷系女子\n\n水雷系女子\n・触発機雷系女子\n・磁気機雷系女子\n・複合機雷系女子\n・魚形水雷系女子\n・酸素魚雷系女子\n・誘導魚雷系女子\n・核魚雷系女子\n・人間魚雷系女子\n・爆雷系女子\n・核爆雷系女子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 444,
+          "like_count": 20974,
+          "listed_count": 2,
+          "tweet_count": 8144
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T06:30:54.000Z",
+        "description": "Mein Name bedeutet \"Zerstörerschiff\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/search?src=typ…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/search?src=typed_query&q=from%3AZ3O5RzOIH67srgJ",
+                "start": 0,
+                "url": "https://t.co/hMB1iFht4X"
+              }
+            ]
+          }
+        },
+        "id": "1438389777250668544",
+        "location": "JST (UTC+9)",
+        "name": "つぇるしゅてーらー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829721990204379136/qtTT5fzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5957,
+          "following_count": 2801,
+          "like_count": 358793,
+          "listed_count": 23,
+          "tweet_count": 29118
+        },
+        "url": "https://t.co/hMB1iFht4X",
+        "username": "TwitteeJapan",
+        "verified": true
+      }
+    ]
+  }
+}

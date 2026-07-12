@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1898929850226004106",
+    "created_at": "2025-03-10T10:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T11:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899046474845167763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899046474845167763",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898929850226004106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 确实是非常有创意的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_1898929093296717824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlpZ8wubAAA8uec.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1898929850226004106",
+        "created_at": "2025-03-10T10:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T11:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899046474845167763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899046474845167763",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898929850226004106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 确实是非常有创意的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898929093296717824"
+          ]
+        },
+        "author_id": "1815649539057201152",
+        "conversation_id": "1898929850226004106",
+        "created_at": "2025-03-10T02:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T03:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898929850226004106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Ko3AMmX9O",
+              "end": 152,
+              "expanded_url": "https://x.com/NankyuSeiichi/status/1898929850226004106/photo/1",
+              "media_key": "3_1898929093296717824",
+              "start": 129,
+              "url": "https://t.co/9Ko3AMmX9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898929850226004106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 400,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据意林报道，一位美国老人在游泳途中溺水身亡，其家属将游泳池告上法院，认为法院没有尽到提醒老人游泳池里有水的义务。而法院裁定，因为特朗普并没有说过游泳池里必须要有水，因此老人溺亡，就是游泳池没有尽到提醒责任。\n因此，一种基于浮板和提示牌的泳池有水装置应运而出 https://t.co/9Ko3AMmX9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 527,
+          "like_count": 23627,
+          "listed_count": 2,
+          "media_count": 1026,
+          "tweet_count": 9413
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙、历史进程、自然边界、为时不晚",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1894371095572254742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 977,
+          "like_count": 12525,
+          "listed_count": 3,
+          "media_count": 472,
+          "tweet_count": 5459
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

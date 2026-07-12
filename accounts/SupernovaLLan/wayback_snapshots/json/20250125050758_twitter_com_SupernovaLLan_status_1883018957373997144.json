@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1883002116987584675",
+    "created_at": "2025-01-25T05:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T06:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883018957373997144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858727254345281536",
+          "start": 0,
+          "username": "minamiovo233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883018957373997144",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883002116987584675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minamiovo233 萌翻了补⭐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1883002116987584675",
+        "created_at": "2025-01-25T05:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T06:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883018957373997144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "minamiovo233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883018957373997144",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883002116987584675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minamiovo233 萌翻了补⭐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883002105906290688"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1883002116987584675",
+        "created_at": "2025-01-25T04:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T05:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883002116987584675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhqioMhsZp",
+              "end": 23,
+              "expanded_url": "https://x.com/minamiovo233/status/1883002116987584675/photo/1",
+              "media_key": "3_1883002105906290688",
+              "start": 0,
+              "url": "https://t.co/mhqioMhsZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883002116987584675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mhqioMhsZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 524,
+          "like_count": 23219,
+          "listed_count": 2,
+          "media_count": 1018,
+          "tweet_count": 9313
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "像一只可爱的小动物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "仓小南🍄",
+        "pinned_tweet_id": "1882545001277878679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870673115895975936/BHJIyYZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 25,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "minamiovo233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1853281057904505251",
+    "created_at": "2024-11-04T12:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T13:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853412569698157032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "damatte0526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853412569698157032",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853281057904505251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte0526 美咪"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1853281057904505251].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1853281057904505251",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1853281057904505251"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1853281057904505251",
+        "created_at": "2024-11-04T12:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T13:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853412569698157032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "damatte0526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853412569698157032",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853281057904505251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte0526 美咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 469,
+          "like_count": 21795,
+          "listed_count": 2,
+          "tweet_count": 8691
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "イイイイイイイイリスちゃんだよ",
+        "id": "1592719222940962817",
+        "name": "家之咪小",
+        "pinned_tweet_id": "1850482797150122167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592723653812027395/CZnNF8WX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 155,
+          "like_count": 75,
+          "listed_count": 0,
+          "tweet_count": 58
+        },
+        "username": "damatte0526",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1865056954009424214",
+    "created_at": "2024-12-06T17:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T18:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865088722548724134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1627206611617058816",
+          "start": 0,
+          "username": "zhg492979261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865088722548724134",
+    "in_reply_to_user_id": "1627206611617058816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865056954009424214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhg492979261 哇 ʔ•̫͡•ʕ那可太多啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1865056954009424214",
+        "created_at": "2024-12-06T17:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T18:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865088722548724134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1627206611617058816",
+              "start": 0,
+              "username": "zhg492979261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865088722548724134",
+        "in_reply_to_user_id": "1627206611617058816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865056954009424214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhg492979261 哇 ʔ•̫͡•ʕ那可太多啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627206611617058816",
+        "conversation_id": "1865056954009424214",
+        "created_at": "2024-12-06T15:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T16:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865056954009424214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865056954009424214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州有什么好玩的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 487,
+          "like_count": 22240,
+          "listed_count": 2,
+          "media_count": 995,
+          "tweet_count": 9033
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T07:21:33.000Z",
+        "description": "叫我枳子或者桎梏都可以\n\n06女高/中抑中焦/被害妄想症倾向/杂圈/热爱有生命力的绘画和文字/傻逼蝻给我润出去 /日常推（偶尔血图不预警）/接塔罗/接约稿/🚪52r\n\n防爆小号@ZhiZi5655",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "ZhiZi5655"
+              }
+            ]
+          }
+        },
+        "id": "1627206611617058816",
+        "location": "Higashiosaka-shi, Osaka",
+        "name": "桎梏🦋🕸（不想上美术课）",
+        "pinned_tweet_id": "1755643466250678589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825123365776220160/54rN7enJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 400,
+          "like_count": 21546,
+          "listed_count": 5,
+          "media_count": 701,
+          "tweet_count": 7612
+        },
+        "username": "zhg492979261",
+        "verified": false
+      }
+    ]
+  }
+}

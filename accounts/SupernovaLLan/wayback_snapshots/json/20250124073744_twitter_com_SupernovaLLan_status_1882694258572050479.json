@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1882672493636518036",
+    "created_at": "2025-01-24T07:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T08:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882694258572050479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364625913783017472",
+          "start": 0,
+          "username": "ssssshnn8804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882694258572050479",
+    "in_reply_to_user_id": "1364625913783017472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882672493636518036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssssshnn8804 我炒！冰！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1882672493636518036].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1882672493636518036",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1882672493636518036"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1882672493636518036",
+        "created_at": "2025-01-24T07:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T08:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882694258572050479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1364625913783017472",
+              "start": 0,
+              "username": "ssssshnn8804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882694258572050479",
+        "in_reply_to_user_id": "1364625913783017472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882672493636518036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssssshnn8804 我炒！冰！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 522,
+          "like_count": 23203,
+          "listed_count": 2,
+          "media_count": 1018,
+          "tweet_count": 9307
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-24T17:19:17.000Z",
+        "description": "女高中生｜理科生｜INTP-T｜喜欢读书｜轻百控｜术力口｜三无控｜乐子人｜尼奈❤️｜｜｜｜此号永久锁推作为纪念",
+        "id": "1364625913783017472",
+        "location": "门槛很高👋🏻建议走开",
+        "name": "击穿！！紫罗兰！！！",
+        "pinned_tweet_id": "1653636971594645504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644961289792258048/UXDVUEs2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 685,
+          "like_count": 11346,
+          "listed_count": 8,
+          "media_count": 286,
+          "tweet_count": 4283
+        },
+        "username": "ssssshnn8804",
+        "verified": false
+      }
+    ]
+  }
+}

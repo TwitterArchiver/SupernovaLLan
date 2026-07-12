@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1906016018541228455",
+    "created_at": "2025-04-01T09:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T10:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906996564423487912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1713720595920334848",
+          "start": 0,
+          "username": "dacejiangu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906996564423487912",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906018086287008227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dacejiangu 昨天给了个地板但不碰，小吸一口验证猜想，今天摸了天板直接20个点只恨吸少了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1906016018541228455",
+        "created_at": "2025-04-01T09:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T10:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906996564423487912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1713720595920334848",
+              "start": 0,
+              "username": "dacejiangu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906996564423487912",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906018086287008227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dacejiangu 昨天给了个地板但不碰，小吸一口验证猜想，今天摸了天板直接20个点只恨吸少了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1906016018541228455",
+        "created_at": "2025-03-29T16:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T17:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906018086287008227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1713720595920334848",
+              "start": 0,
+              "username": "dacejiangu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906018086287008227",
+        "in_reply_to_user_id": "1713720595920334848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 655,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906016018541228455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dacejiangu 德美化工\n首板第二天被板块和量化一起爆头了估计是，期待一下修复"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 538,
+          "like_count": 23909,
+          "listed_count": 2,
+          "media_count": 1034,
+          "tweet_count": 9507
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:56:55.000Z",
+        "description": "大策复盘的小号，公众号：大策好股，每日关注一个个股",
+        "id": "1713720595920334848",
+        "location": "北京",
+        "name": "大策好股",
+        "pinned_tweet_id": "1847140188272971954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286566866116608/XlP3BZDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15439,
+          "following_count": 38,
+          "like_count": 237,
+          "listed_count": 258,
+          "media_count": 156,
+          "tweet_count": 959
+        },
+        "username": "dacejiangu",
+        "verified": true
+      }
+    ]
+  }
+}

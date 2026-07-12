@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917618448357855232",
+        "3_1917618448299089926",
+        "3_1917618448320102400",
+        "7_1917618448332644357"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1917618486874103888",
+    "created_at": "2025-04-30T16:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T17:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917618486874103888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1749719755119071232",
+          "start": 7,
+          "username": "lan_shang32900"
+        },
+        {
+          "end": 33,
+          "id": "1650760116918943744",
+          "start": 23,
+          "username": "yusanyyy8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0LKDTMNjwM",
+          "end": 86,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1917618486874103888/video/1",
+          "media_key": "3_1917618448357855232",
+          "start": 63,
+          "url": "https://t.co/0LKDTMNjwM"
+        },
+        {
+          "display_url": "pic.x.com/0LKDTMNjwM",
+          "end": 86,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1917618486874103888/video/1",
+          "media_key": "3_1917618448299089926",
+          "start": 63,
+          "url": "https://t.co/0LKDTMNjwM"
+        },
+        {
+          "display_url": "pic.x.com/0LKDTMNjwM",
+          "end": 86,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1917618486874103888/video/1",
+          "media_key": "3_1917618448320102400",
+          "start": 63,
+          "url": "https://t.co/0LKDTMNjwM"
+        },
+        {
+          "display_url": "pic.x.com/0LKDTMNjwM",
+          "end": 86,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1917618486874103888/video/1",
+          "media_key": "7_1917618448332644357",
+          "start": 63,
+          "url": "https://t.co/0LKDTMNjwM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917618486874103888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天玩得开心\n@lan_shang32900 @yusanyyy8 \n神人KTV🤣然后一起打mai还有太鼓\n以及逛大街压马路 https://t.co/0LKDTMNjwM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917618486874103888].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917618486874103888",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917618486874103888"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1917618448357855232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpy_0Z0bEAARtvk.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1279,
+        "media_key": "3_1917618448299089926",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpy_0ZmaYAYr0k6.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1917618448320102400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpy_0ZrbAAAYdoT.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 11510,
+        "height": 900,
+        "media_key": "7_1917618448332644357",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1917618448332644357/pu/img/a3bXIk2Npn3t-JNd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1917618448332644357/pu/vid/avc1/384x270/oATZYXIXPKDsIj_e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1917618448332644357/pu/vid/avc1/512x360/Y9MGUK9eub_iEm5t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1917618448332644357/pu/vid/avc1/1024x720/Q0yF0bmuWECmoxCs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1917618448332644357/pu/pl/48vnHS04iDekvHNL.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 553,
+          "like_count": 24325,
+          "listed_count": 2,
+          "media_count": 1043,
+          "tweet_count": 9604
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪80猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（求口令红包）",
+        "pinned_tweet_id": "1910714515223961942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 646,
+          "like_count": 31153,
+          "listed_count": 0,
+          "media_count": 544,
+          "tweet_count": 7187
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "喜欢二次元 小动物 做手工",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/ZnwIMvxxKK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "鼠鼠星",
+        "name": "击穿紫罗兰",
+        "pinned_tweet_id": "1913006347765137642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911801764120051712/Bp8ULHQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3702,
+          "following_count": 954,
+          "like_count": 54241,
+          "listed_count": 6,
+          "media_count": 491,
+          "tweet_count": 10827
+        },
+        "url": "https://t.co/ZnwIMvxxKK",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

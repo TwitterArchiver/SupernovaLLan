@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867772922712272896"
+      ],
+      "media_source_tweet_id": [
+        "1867772926956908791"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1868145085898207712",
+    "created_at": "2024-12-15T04:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T05:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868145085898207712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1458616645078126597",
+          "start": 3,
+          "username": "bad_texter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ElgHm3vkiW",
+          "end": 44,
+          "expanded_url": "https://x.com/bad_texter/status/1867772926956908791/photo/1",
+          "media_key": "3_1867772922712272896",
+          "start": 21,
+          "url": "https://t.co/ElgHm3vkiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868145085898207712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3760
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867772926956908791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bad_texter: 射の精神 https://t.co/ElgHm3vkiW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_1867772922712272896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Geupk8tbsAA-HFa.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867772922712272896"
+          ],
+          "media_source_tweet_id": [
+            "1867772926956908791"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1868145085898207712",
+        "created_at": "2024-12-15T04:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T05:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868145085898207712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1458616645078126597",
+              "start": 3,
+              "username": "bad_texter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElgHm3vkiW",
+              "end": 44,
+              "expanded_url": "https://x.com/bad_texter/status/1867772926956908791/photo/1",
+              "media_key": "3_1867772922712272896",
+              "start": 21,
+              "url": "https://t.co/ElgHm3vkiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868145085898207712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3760
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867772926956908791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bad_texter: 射の精神 https://t.co/ElgHm3vkiW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867772922712272896"
+          ]
+        },
+        "author_id": "1458616645078126597",
+        "conversation_id": "1867772926956908791",
+        "created_at": "2024-12-14T03:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T04:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867772926956908791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElgHm3vkiW",
+              "end": 28,
+              "expanded_url": "https://x.com/bad_texter/status/1867772926956908791/photo/1",
+              "media_key": "3_1867772922712272896",
+              "start": 5,
+              "url": "https://t.co/ElgHm3vkiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867772926956908791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2903,
+          "impression_count": 5016533,
+          "like_count": 47501,
+          "quote_count": 528,
+          "reply_count": 568,
+          "retweet_count": 3760
+        },
+        "reply_settings": "everyone",
+        "text": "射の精神 https://t.co/ElgHm3vkiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 496,
+          "like_count": 22487,
+          "listed_count": 2,
+          "media_count": 1000,
+          "tweet_count": 9117
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-11T02:04:51.000Z",
+        "description": "Communication Breakdown. https://t.co/3UJXIWkMqD  お問合せ:communication.breakdown.japan@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/KWmxsQSzQag",
+                "end": 48,
+                "expanded_url": "https://youtu.be/KWmxsQSzQag",
+                "start": 25,
+                "url": "https://t.co/3UJXIWkMqD"
+              }
+            ]
+          }
+        },
+        "id": "1458616645078126597",
+        "name": "会話",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458619463805595648/m1Gx3UUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486256,
+          "following_count": 15,
+          "like_count": 1526,
+          "listed_count": 1176,
+          "media_count": 5572,
+          "tweet_count": 5851
+        },
+        "username": "bad_texter",
+        "verified": true
+      }
+    ]
+  }
+}

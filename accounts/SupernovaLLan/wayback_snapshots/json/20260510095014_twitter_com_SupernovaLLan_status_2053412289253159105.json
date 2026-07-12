@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2053056854222381131",
+    "created_at": "2026-05-10T09:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053412289253159105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053412289253159105",
+    "in_reply_to_user_id": "193648759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053056854222381131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 动漫方面没那么有名、但是在SF圈子算是小有名气吧！有宇宙三国志的名声ww近年来进行了重置但是感觉观看群体还是以看过老版的人为主，没有吸引来太多更年轻的观众。当年我在大学的科幻社团和动漫社团都有试图引起话题讨论，倒是科幻社团进行了热烈讨论，还有几个杨提督粉丝🤣动漫社团则完全无视掉了，泣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2053056854222381131",
+        "created_at": "2026-05-10T09:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053412289253159105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053412289253159105",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053056854222381131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 动漫方面没那么有名、但是在SF圈子算是小有名气吧！有宇宙三国志的名声ww近年来进行了重置但是感觉观看群体还是以看过老版的人为主，没有吸引来太多更年轻的观众。当年我在大学的科幻社团和动漫社团都有试图引起话题讨论，倒是科幻社团进行了热烈讨论，还有几个杨提督粉丝🤣动漫社团则完全无视掉了，泣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2053056854222381131",
+        "created_at": "2026-05-09T10:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053056854222381131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053056854222381131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 22167,
+          "like_count": 220,
+          "quote_count": 2,
+          "reply_count": 188,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在中国、銀河英雄伝説是有名吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053381479594639360/lofObEUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 563,
+          "like_count": 25207,
+          "listed_count": 2,
+          "media_count": 1131,
+          "tweet_count": 10491
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11041,
+          "following_count": 1403,
+          "like_count": 72410,
+          "listed_count": 129,
+          "media_count": 4350,
+          "tweet_count": 54286
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

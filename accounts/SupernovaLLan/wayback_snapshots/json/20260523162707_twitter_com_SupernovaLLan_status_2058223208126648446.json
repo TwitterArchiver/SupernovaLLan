@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058083968986353664"
+      ],
+      "media_source_tweet_id": [
+        "2058152713700172186"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2058223208126648446",
+    "created_at": "2026-05-23T16:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T17:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058223208126648446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cs0E7icR7s",
+          "end": 131,
+          "expanded_url": "https://x.com/igeekbb/status/2058152713700172186/photo/1",
+          "media_key": "3_2058083968986353664",
+          "start": 108,
+          "url": "https://t.co/cs0E7icR7s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058223208126648446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058152713700172186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 别说民科，化学正规军都折了不少天才，比如瑞典著名化学家卡尔·威廉·舍勒，这大牛在化学研究时有一个习惯，亲自用舌头品尝和鼻子闻他所发现的新化学物质。结果常年积累的重金属中毒，43岁就挂了。… https://t.co/cs0E7icR7s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_2058083968986353664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_IdzFbkAAgYmG.jpg",
+        "width": 1622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058083968986353664"
+          ],
+          "media_source_tweet_id": [
+            "2058152713700172186"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2058223208126648446",
+        "created_at": "2026-05-23T16:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058223208126648446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cs0E7icR7s",
+              "end": 131,
+              "expanded_url": "https://x.com/igeekbb/status/2058152713700172186/photo/1",
+              "media_key": "3_2058083968986353664",
+              "start": 108,
+              "url": "https://t.co/cs0E7icR7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058223208126648446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058152713700172186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 别说民科，化学正规军都折了不少天才，比如瑞典著名化学家卡尔·威廉·舍勒，这大牛在化学研究时有一个习惯，亲自用舌头品尝和鼻子闻他所发现的新化学物质。结果常年积累的重金属中毒，43岁就挂了。… https://t.co/cs0E7icR7s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058083968986353664"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2058152713700172186",
+        "created_at": "2026-05-23T11:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058152713700172186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cs0E7icR7s",
+              "end": 117,
+              "expanded_url": "https://x.com/igeekbb/status/2058152713700172186/photo/1",
+              "media_key": "3_2058083968986353664",
+              "start": 94,
+              "url": "https://t.co/cs0E7icR7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058152713700172186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别说民科，化学正规军都折了不少天才，比如瑞典著名化学家卡尔·威廉·舍勒，这大牛在化学研究时有一个习惯，亲自用舌头品尝和鼻子闻他所发现的新化学物质。结果常年积累的重金属中毒，43岁就挂了。\n\n超级耐毒王，莫瓦桑叔叔有严谨的科学实验与过硬的身体素质，中毒四次搞出来了氟单，在他之前，已经有众多化学家前赴后继被干倒，他八字够硬最终成为了制取单质氟的幸存者，并因此荣获1906年的诺贝尔化学奖，领奖返回巴黎三个月后就挂了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 47841,
+          "like_count": 418,
+          "quote_count": 0,
+          "reply_count": 98,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "别说民科，化学正规军都折了不少天才，比如瑞典著名化学家卡尔·威廉·舍勒，这大牛在化学研究时有一个习惯，亲自用舌头品尝和鼻子闻他所发现的新化学物质。结果常年积累的重金属中毒，43岁就挂了。 https://t.co/cs0E7icR7s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 583,
+          "like_count": 25818,
+          "listed_count": 2,
+          "media_count": 1157,
+          "tweet_count": 10778
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80259,
+          "following_count": 1,
+          "like_count": 15375,
+          "listed_count": 330,
+          "media_count": 7958,
+          "tweet_count": 12463
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

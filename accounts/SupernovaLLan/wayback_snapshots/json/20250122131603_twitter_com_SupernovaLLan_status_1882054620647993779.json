@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1882015392761315456",
+    "created_at": "2025-01-22T13:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T14:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882054620647993779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1729161158924353536",
+          "start": 0,
+          "username": "nanovo23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882054620647993779",
+    "in_reply_to_user_id": "1729161158924353536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882047920410878258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanovo23 嗯嗯非常！我来吔"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1882047920410878258].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1882047920410878258",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1882047920410878258"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1882015392761315456",
+        "created_at": "2025-01-22T13:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T14:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882054620647993779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1729161158924353536",
+              "start": 0,
+              "username": "nanovo23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882054620647993779",
+        "in_reply_to_user_id": "1729161158924353536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882047920410878258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanovo23 嗯嗯非常！我来吔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 520,
+          "like_count": 23160,
+          "listed_count": 2,
+          "media_count": 1016,
+          "tweet_count": 9301
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T15:32:03.000Z",
+        "description": "",
+        "id": "1729161158924353536",
+        "name": "鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882013624631472128/ixotLBMD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 92,
+          "like_count": 525,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 145
+        },
+        "username": "nanovo23",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1834265033356059066",
+    "created_at": "2024-09-12T19:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T20:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834307556665426233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804491839329927168",
+          "start": 0,
+          "username": "zzzjjjppp8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834307556665426233",
+    "in_reply_to_user_id": "1804491839329927168",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834265033356059066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzjjjppp8964 狠狠地嘴"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1834265033356059066].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1834265033356059066",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1834265033356059066"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1834265033356059066",
+        "created_at": "2024-09-12T19:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T20:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834307556665426233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804491839329927168",
+              "start": 0,
+              "username": "zzzjjjppp8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834307556665426233",
+        "in_reply_to_user_id": "1804491839329927168",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834265033356059066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzjjjppp8964 狠狠地嘴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 445,
+          "like_count": 20814,
+          "listed_count": 2,
+          "tweet_count": 8118
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T12:29:32.000Z",
+        "description": "刻薄善妒",
+        "id": "1804491839329927168",
+        "location": "你坟头",
+        "name": "网络太上皇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810758019787149318/FhRBd4FI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 20,
+          "like_count": 173,
+          "listed_count": 0,
+          "tweet_count": 264
+        },
+        "username": "zzzjjjppp8964",
+        "verified": false
+      }
+    ]
+  }
+}

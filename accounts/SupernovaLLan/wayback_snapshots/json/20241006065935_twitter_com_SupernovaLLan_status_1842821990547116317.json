@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1842778342434767112",
+    "created_at": "2024-10-06T06:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T07:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842821990547116317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842821990547116317",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842778342434767112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 不如太古汇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1842778342434767112",
+        "created_at": "2024-10-06T06:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T07:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842821990547116317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842821990547116317",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842778342434767112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 不如太古汇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842778329998561280",
+            "3_1842778329990205440"
+          ]
+        },
+        "author_id": "1815649539057201152",
+        "conversation_id": "1842778342434767112",
+        "created_at": "2024-10-06T04:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T05:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842778342434767112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhDIQrZl1m",
+              "end": 40,
+              "expanded_url": "https://x.com/NankyuSeiichi/status/1842778342434767112/photo/1",
+              "media_key": "3_1842778329998561280",
+              "start": 17,
+              "url": "https://t.co/hhDIQrZl1m"
+            },
+            {
+              "display_url": "pic.x.com/hhDIQrZl1m",
+              "end": 40,
+              "expanded_url": "https://x.com/NankyuSeiichi/status/1842778342434767112/photo/1",
+              "media_key": "3_1842778329990205440",
+              "start": 17,
+              "url": "https://t.co/hhDIQrZl1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842778342434767112",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 449,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们深圳的公共厕所怎么那么豪华？ https://t.co/hhDIQrZl1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 460,
+          "like_count": 21732,
+          "listed_count": 2,
+          "tweet_count": 8385
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙/幻觉游泳/历史进程/不进则退",
+        "id": "1815649539057201152",
+        "name": "南宫清一（戒色第0天）",
+        "pinned_tweet_id": "1837497453349605653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 482,
+          "like_count": 3409,
+          "listed_count": 1,
+          "tweet_count": 2412
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

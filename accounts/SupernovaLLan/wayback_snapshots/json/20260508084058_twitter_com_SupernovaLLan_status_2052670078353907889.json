@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052522029694472192"
+      ],
+      "media_source_tweet_id": [
+        "2052522044701679675"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201630855812112384",
+          "name": "PlayStation Vita"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201630855812112384",
+          "name": "PlayStation Vita"
+        }
+      }
+    ],
+    "conversation_id": "2052670078353907889",
+    "created_at": "2026-05-08T08:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052670078353907889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2892225253",
+          "start": 3,
+          "username": "IkitaMato"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tucd8S8FBP",
+          "end": 55,
+          "expanded_url": "https://x.com/IkitaMato/status/2052522044701679675/photo/1",
+          "media_key": "3_2052522029694472192",
+          "start": 32,
+          "url": "https://t.co/Tucd8S8FBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052670078353907889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 326
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052522044701679675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IkitaMato: 昨日寝る前にVITA起動した比較 https://t.co/Tucd8S8FBP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052522029694472192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwF6UmaUAAEB7i.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052522029694472192"
+          ],
+          "media_source_tweet_id": [
+            "2052522044701679675"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201630855812112384",
+              "name": "PlayStation Vita"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201630855812112384",
+              "name": "PlayStation Vita"
+            }
+          }
+        ],
+        "conversation_id": "2052670078353907889",
+        "created_at": "2026-05-08T08:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052670078353907889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2892225253",
+              "start": 3,
+              "username": "IkitaMato"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tucd8S8FBP",
+              "end": 55,
+              "expanded_url": "https://x.com/IkitaMato/status/2052522044701679675/photo/1",
+              "media_key": "3_2052522029694472192",
+              "start": 32,
+              "url": "https://t.co/Tucd8S8FBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052670078353907889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 326
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052522044701679675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IkitaMato: 昨日寝る前にVITA起動した比較 https://t.co/Tucd8S8FBP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052522029694472192"
+          ]
+        },
+        "author_id": "2892225253",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201630855812112384",
+              "name": "PlayStation Vita"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201630855812112384",
+              "name": "PlayStation Vita"
+            }
+          }
+        ],
+        "conversation_id": "2052522044701679675",
+        "created_at": "2026-05-07T22:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T23:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052522044701679675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tucd8S8FBP",
+              "end": 40,
+              "expanded_url": "https://x.com/IkitaMato/status/2052522044701679675/photo/1",
+              "media_key": "3_2052522029694472192",
+              "start": 17,
+              "url": "https://t.co/Tucd8S8FBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052522044701679675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 330,
+          "impression_count": 147737,
+          "like_count": 1690,
+          "quote_count": 70,
+          "reply_count": 20,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "昨日寝る前にVITA起動した比較 https://t.co/Tucd8S8FBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 555,
+          "like_count": 25055,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10423
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-06T13:03:47.000Z",
+        "description": "サードメルト5周年に作成。 カオヘ信者のチヨマルスタジオファン。 あと07th Expansion作品も好き。 基本的に原作厨になる傾向あり。 いいね代わりのリツイートします。 最近不定期に寝てる。 アイコンはくりづかさん(@k_kurizuka)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "k_kurizuka"
+              }
+            ]
+          }
+        },
+        "id": "2892225253",
+        "name": "まと",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212307317338718208/1uz37TKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 346,
+          "like_count": 2,
+          "listed_count": 19,
+          "media_count": 2905,
+          "tweet_count": 168981
+        },
+        "username": "IkitaMato",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2071934870738329600",
+    "created_at": "2026-07-01T01:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072135576833421347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443895367997829121",
+          "start": 0,
+          "username": "watashishinu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072135576833421347",
+    "in_reply_to_user_id": "1443895367997829121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072125721045303754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@watashishinu 还可以不要肉的嘛！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072125721045303754].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072125721045303754",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2072125721045303754"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2071934870738329600",
+        "created_at": "2026-07-01T01:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072135576833421347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443895367997829121",
+              "start": 0,
+              "username": "watashishinu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072135576833421347",
+        "in_reply_to_user_id": "1443895367997829121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072125721045303754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@watashishinu 还可以不要肉的嘛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 624,
+          "like_count": 27095,
+          "listed_count": 2,
+          "media_count": 1208,
+          "tweet_count": 11261
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-01T11:07:44.000Z",
+        "description": "プロフ 窝布素小响\n水仙恋/𝓲𝓷𝓯𝓳/  精神脆弱敏感\n相互间无法停止的感情，从今天开始做魔王，狩猎小响豹豹，努力，干饭人。",
+        "id": "1443895367997829121",
+        "name": "こだま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979631014965092352/hQb4wWGc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 339,
+          "like_count": 19956,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 9197
+        },
+        "url": "",
+        "username": "watashishinu",
+        "verified": false
+      }
+    ]
+  }
+}

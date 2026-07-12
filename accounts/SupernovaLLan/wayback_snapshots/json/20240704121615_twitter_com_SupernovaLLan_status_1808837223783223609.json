@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1808819104146731324",
+    "created_at": "2024-07-04T12:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T13:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808837223783223609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1363804005583888386",
+          "start": 0,
+          "username": "gasuiyuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808837223783223609",
+    "in_reply_to_user_id": "1363804005583888386",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808819104146731324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gasuiyuno 卧槽冰）我4t就已经睡成铸币了你这人还在么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1808819104146731324",
+        "created_at": "2024-07-04T12:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T13:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808837223783223609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1363804005583888386",
+              "start": 0,
+              "username": "gasuiyuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808837223783223609",
+        "in_reply_to_user_id": "1363804005583888386",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808819104146731324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gasuiyuno 卧槽冰）我4t就已经睡成铸币了你这人还在么"
+      },
+      {
+        "attachments": {},
+        "author_id": "1363804005583888386",
+        "conversation_id": "1808819104146731324",
+        "created_at": "2024-07-04T11:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T12:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808819104146731324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808819104146731324",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "24太猛了 我以为别人说4t就够了是开玩笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 434,
+          "like_count": 20416,
+          "listed_count": 2,
+          "tweet_count": 7929
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T10:53:16.000Z",
+        "description": "......呜.......\n‖双相|精神疾病|目前饲养两只咪物一只汪物|♂|这是我的日记|互关欢迎|od会发疯|对不起所有人‖",
+        "id": "1363804005583888386",
+        "location": "卢伦贝格",
+        "name": "✟里森堡卢伦贝格精神病保护协会✟",
+        "pinned_tweet_id": "1772882146417406111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779770744685408256/RawVllkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 634,
+          "like_count": 6887,
+          "listed_count": 3,
+          "tweet_count": 8076
+        },
+        "username": "gasuiyuno",
+        "verified": false
+      }
+    ]
+  }
+}

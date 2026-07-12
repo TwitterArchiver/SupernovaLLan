@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064713419111251968"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2064556692218712375",
+    "created_at": "2026-06-10T14:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064713427290099833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735728536827334657",
+          "start": 0,
+          "username": "SakurasakaRiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iom2tPuu1e",
+          "end": 39,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2064713427290099833/photo/1",
+          "media_key": "3_2064713419111251968",
+          "start": 16,
+          "url": "https://t.co/iom2tPuu1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064713427290099833",
+    "in_reply_to_user_id": "1735728536827334657",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064556692218712375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurasakaRiko https://t.co/iom2tPuu1e"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064713427290099833].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064713427290099833",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064713427290099833"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064713419111251968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdV6lUbwAADkan.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2064556670282616832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbHWmbb0AAyq7c.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064556670282616832"
+          ]
+        },
+        "author_id": "1735728536827334657",
+        "conversation_id": "2064556692218712375",
+        "created_at": "2026-06-10T03:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064556692218712375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYhq5Krm33",
+              "end": 58,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2064556692218712375/photo/1",
+              "media_key": "3_2064556670282616832",
+              "start": 35,
+              "url": "https://t.co/tYhq5Krm33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064556692218712375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3417,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oonp大早上起来打开群还有第二关\n8+256电脑存储是给人类用的吗 https://t.co/tYhq5Krm33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 601,
+          "like_count": 26532,
+          "listed_count": 2,
+          "media_count": 1180,
+          "tweet_count": 11021
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n前移动端音游公司总助｜PM｜周边主管｜赛事策划\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2045383031490560228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063885823553191936/2yMWRrzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 249,
+          "like_count": 5224,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 1732
+        },
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1912708632690716937",
+    "created_at": "2025-04-17T03:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T04:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912709178529050948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752729743471132672",
+          "start": 0,
+          "username": "yamato812536"
+        },
+        {
+          "end": 26,
+          "id": "1723186518876209153",
+          "start": 14,
+          "username": "hu_fan53701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912709178529050948",
+    "in_reply_to_user_id": "1752729743471132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912708632690716937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamato812536 @hu_fan53701 太猛了真有人盯着吗？一条帖子直接砸开板了🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1912708632690716937",
+        "created_at": "2025-04-17T03:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T04:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912709178529050948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752729743471132672",
+              "start": 0,
+              "username": "yamato812536"
+            },
+            {
+              "end": 26,
+              "id": "1723186518876209153",
+              "start": 14,
+              "username": "hu_fan53701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912709178529050948",
+        "in_reply_to_user_id": "1752729743471132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912708632690716937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamato812536 @hu_fan53701 太猛了真有人盯着吗？一条帖子直接砸开板了🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752729743471132672",
+        "conversation_id": "1912708632690716937",
+        "created_at": "2025-04-17T03:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T04:20:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912707803015245993",
+          "1912708632690716937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 111,
+              "id": "1723186518876209153",
+              "start": 99,
+              "username": "hu_fan53701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912708632690716937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "军/民两用飞机零部件纯国产化是谣言 大家乐一乐就行 军工产业链一定是相互依存关系 而不是替代 这是基本常识 尤其是中国目前情况 根本不允许 借谣言收割一下而已 （给大家纯科普一下飞机行业的基本常识）@hu_fan53701  得空你讲吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 547,
+          "like_count": 24120,
+          "listed_count": 2,
+          "media_count": 1040,
+          "tweet_count": 9559
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T16:25:21.000Z",
+        "description": "我在国内没有抖音 小红书 这些垃圾平台的账号 我也不荐股 不要被冒牌货骗 我只是好玩顺手分享一下知识 要看来X上看",
+        "id": "1752729743471132672",
+        "location": "广州 北京路步行街",
+        "name": "yamato23",
+        "pinned_tweet_id": "1912708632690716937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796802887827566592/OMLV2oJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24514,
+          "following_count": 345,
+          "like_count": 19584,
+          "listed_count": 359,
+          "media_count": 1233,
+          "tweet_count": 20525
+        },
+        "username": "yamato812536",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-11T03:51:12.000Z",
+        "description": "Ten Bagger\n分享投资认知，追寻时代企业",
+        "id": "1723186518876209153",
+        "name": "绕不过去的低位 Value_Discover",
+        "pinned_tweet_id": "1879803598168887675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852908922627350528/KeBmKF1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6293,
+          "following_count": 571,
+          "like_count": 234,
+          "listed_count": 125,
+          "media_count": 281,
+          "tweet_count": 1354
+        },
+        "username": "hu_fan53701",
+        "verified": false
+      }
+    ]
+  }
+}

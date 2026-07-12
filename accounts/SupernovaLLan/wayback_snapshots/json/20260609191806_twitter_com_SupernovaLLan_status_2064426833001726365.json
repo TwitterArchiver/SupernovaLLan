@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2064062042542162363",
+    "created_at": "2026-06-09T19:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T20:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064426833001726365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2503360483",
+          "start": 0,
+          "username": "toporiame"
+        },
+        {
+          "end": 20,
+          "id": "1060114903770353664",
+          "start": 11,
+          "username": "erik5187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064426833001726365",
+    "in_reply_to_user_id": "2503360483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064218309298430453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toporiame @erik5187 文体不限要是有详尽了解真可以去试着写说明文hhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064062042542162363",
+        "created_at": "2026-06-09T19:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064426833001726365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2503360483",
+              "start": 0,
+              "username": "toporiame"
+            },
+            {
+              "end": 20,
+              "id": "1060114903770353664",
+              "start": 11,
+              "username": "erik5187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064426833001726365",
+        "in_reply_to_user_id": "2503360483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064218309298430453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toporiame @erik5187 文体不限要是有详尽了解真可以去试着写说明文hhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2503360483",
+        "conversation_id": "2064062042542162363",
+        "created_at": "2026-06-09T05:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064218309298430453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1060114903770353664",
+              "start": 0,
+              "username": "erik5187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064218309298430453",
+        "in_reply_to_user_id": "1060114903770353664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1636,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064213043870081337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erik5187 不研究 浅尝辄止😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 601,
+          "like_count": 26519,
+          "listed_count": 2,
+          "media_count": 1178,
+          "tweet_count": 11009
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-18T04:31:03.000Z",
+        "description": "魔女見習い・ナツノ🫐(she/they; 2002-2024 & 2013-now). i think so, therefore i am. English/中文/Deutsch/日本語. 胆小鬼, ⊥ of the ⊥, 学代数的.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/naco._.naco",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/naco._.naco",
+                "start": 0,
+                "url": "https://t.co/nEIPhZ1EVH"
+              }
+            ]
+          }
+        },
+        "id": "2503360483",
+        "location": "Berlin, Germany",
+        "name": "nacno.-.roshanak🏳️‍⚧️",
+        "pinned_tweet_id": "2063616084150718637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827792705511944192/1Rk5XpNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 174,
+          "like_count": 6433,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/nEIPhZ1EVH",
+        "username": "toporiame",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-07T10:21:03.000Z",
+        "description": "要来到我这里坐一坐，听点故事吗？\n| 不懂数学，不会魔法，不是猫猫\n| 在数理逻辑与复杂度的交叉处\n| 曾经：some algebraic geometry，cat theory\n| ADHD/疑似ASD\n| 学术号（已弃用）@liesbg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "liesbg"
+              }
+            ]
+          }
+        },
+        "id": "1060114903770353664",
+        "location": "Turing universe",
+        "name": "炒面面包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529885573132865536/eLIGnu_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 131,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 971
+        },
+        "username": "erik5187",
+        "verified": false
+      }
+    ]
+  }
+}

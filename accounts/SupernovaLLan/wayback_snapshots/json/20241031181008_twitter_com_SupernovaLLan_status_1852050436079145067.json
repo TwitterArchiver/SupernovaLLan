@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1852048736610062599",
+    "created_at": "2024-10-31T18:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T19:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852050436079145067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1807862187416793088",
+          "start": 0,
+          "username": "kinoko5111225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852050436079145067",
+    "in_reply_to_user_id": "1807862187416793088",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852048736610062599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinoko5111225 菇菇是好女孩🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1852048736610062599",
+        "created_at": "2024-10-31T18:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T19:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852050436079145067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1807862187416793088",
+              "start": 0,
+              "username": "kinoko5111225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852050436079145067",
+        "in_reply_to_user_id": "1807862187416793088",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852048736610062599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinoko5111225 菇菇是好女孩🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807862187416793088",
+        "conversation_id": "1852048736610062599",
+        "created_at": "2024-10-31T18:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T19:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852048736610062599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852048736610062599",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也算是个好事吧，离开我你会过的更舒心一些，因为我是个蠢货，从生病开始我就变成了蠢货，从我出生上学开始我就是个蠢货，我没有正常的认知，跟普通人的认知完全不一样，我连最基本的日常生活都不能保障。我就是个傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 469,
+          "like_count": 21736,
+          "listed_count": 2,
+          "tweet_count": 8662
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T19:42:01.000Z",
+        "description": "我的人生就像碳酸锂一样恶心",
+        "id": "1807862187416793088",
+        "name": "kinoko培养日记3.0",
+        "pinned_tweet_id": "1832249857471606820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851983111112060928/y3FO6d-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 37,
+          "like_count": 1353,
+          "listed_count": 0,
+          "tweet_count": 473
+        },
+        "username": "kinoko5111225",
+        "verified": false
+      }
+    ]
+  }
+}

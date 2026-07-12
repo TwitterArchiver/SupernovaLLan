@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2060193943862878483",
+    "created_at": "2026-05-29T07:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060257452780921006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1648540039419412481",
+          "start": 0,
+          "username": "FreakyDuckkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060257452780921006",
+    "in_reply_to_user_id": "1648540039419412481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060193943862878483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreakyDuckkkk 三战这块跳线真是鸡皮疙瘩直起hhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2060193861008543744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdHZrXa0AA1p_6.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2060193935616782336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdHeBTaMAAoVNe.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2060193943862878483",
+        "created_at": "2026-05-29T07:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060257452780921006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1648540039419412481",
+              "start": 0,
+              "username": "FreakyDuckkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060257452780921006",
+        "in_reply_to_user_id": "1648540039419412481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060193943862878483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreakyDuckkkk 三战这块跳线真是鸡皮疙瘩直起hhh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060193861008543744",
+            "3_2060193935616782336"
+          ]
+        },
+        "author_id": "1648540039419412481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060193943862878483",
+        "created_at": "2026-05-29T02:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060193943862878483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SktHWjYp81",
+              "end": 29,
+              "expanded_url": "https://x.com/FreakyDuckkkk/status/2060193943862878483/photo/1",
+              "media_key": "3_2060193861008543744",
+              "start": 6,
+              "url": "https://t.co/SktHWjYp81"
+            },
+            {
+              "display_url": "pic.x.com/SktHWjYp81",
+              "end": 29,
+              "expanded_url": "https://x.com/FreakyDuckkkk/status/2060193943862878483/photo/1",
+              "media_key": "3_2060193935616782336",
+              "start": 6,
+              "url": "https://t.co/SktHWjYp81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060193943862878483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又在影射了 https://t.co/SktHWjYp81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 591,
+          "like_count": 26126,
+          "listed_count": 2,
+          "media_count": 1166,
+          "tweet_count": 10886
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T04:12:36.000Z",
+        "description": "Withered flowers blossom,  in the stream of tears they still think of the cause\n\nThe 1st fan of duckling,  Mrs. Bunny @wiirogetr8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "wiirogetr8964"
+              }
+            ]
+          }
+        },
+        "id": "1648540039419412481",
+        "location": "东突厥斯坦再教育营",
+        "name": "IMBABYDUCKLING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653615188774629377/rti_Bbae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6580,
+          "following_count": 1095,
+          "like_count": 384152,
+          "listed_count": 29,
+          "media_count": 5988,
+          "tweet_count": 53070
+        },
+        "username": "FreakyDuckkkk",
+        "verified": false
+      }
+    ]
+  }
+}

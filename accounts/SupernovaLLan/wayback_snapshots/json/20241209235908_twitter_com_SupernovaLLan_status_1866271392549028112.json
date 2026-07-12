@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866235411342696448"
+      ],
+      "media_source_tweet_id": [
+        "1866235414979514638"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1866271392549028112",
+    "created_at": "2024-12-09T23:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T00:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866271392549028112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1777383951943839744",
+          "start": 3,
+          "username": "aravemen24"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8WGyHlUsFt",
+          "end": 39,
+          "expanded_url": "https://x.com/aravemen24/status/1866235414979514638/photo/1",
+          "media_key": "3_1866235411342696448",
+          "start": 16,
+          "url": "https://t.co/8WGyHlUsFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866271392549028112",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866235414979514638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aravemen24: https://t.co/8WGyHlUsFt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1866235411342696448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeYzOAhWIAAU_bU.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866235411342696448"
+          ],
+          "media_source_tweet_id": [
+            "1866235414979514638"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1866271392549028112",
+        "created_at": "2024-12-09T23:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T00:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866271392549028112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1777383951943839744",
+              "start": 3,
+              "username": "aravemen24"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WGyHlUsFt",
+              "end": 39,
+              "expanded_url": "https://x.com/aravemen24/status/1866235414979514638/photo/1",
+              "media_key": "3_1866235411342696448",
+              "start": 16,
+              "url": "https://t.co/8WGyHlUsFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866271392549028112",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866235414979514638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aravemen24: https://t.co/8WGyHlUsFt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866235411342696448"
+          ]
+        },
+        "author_id": "1777383951943839744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1866235414979514638",
+        "created_at": "2024-12-09T21:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T22:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866235414979514638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WGyHlUsFt",
+              "end": 23,
+              "expanded_url": "https://x.com/aravemen24/status/1866235414979514638/photo/1",
+              "media_key": "3_1866235411342696448",
+              "start": 0,
+              "url": "https://t.co/8WGyHlUsFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866235414979514638",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 156,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8WGyHlUsFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 488,
+          "like_count": 22387,
+          "listed_count": 2,
+          "media_count": 997,
+          "tweet_count": 9078
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T17:12:34.000Z",
+        "description": "que haces leyendo esto? vete a ver lo de debajo",
+        "id": "1777383951943839744",
+        "name": "Aravemen24",
+        "pinned_tweet_id": "1842351226312139110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817524476898091008/ejp6AMTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 14,
+          "like_count": 5347,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 1017
+        },
+        "username": "aravemen24",
+        "verified": false
+      }
+    ]
+  }
+}

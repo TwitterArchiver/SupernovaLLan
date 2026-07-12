@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059698130321596416"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2059698137170886842",
+    "created_at": "2026-05-27T18:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059698137170886842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ubah8UsOQo",
+          "end": 51,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2059698137170886842/photo/1",
+          "media_key": "3_2059698130321596416",
+          "start": 28,
+          "url": "https://t.co/Ubah8UsOQo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059698137170886842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三麟苏打水重度依赖）今天第四瓶了我就这样摄入碳酸饮料😌 https://t.co/Ubah8UsOQo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059698137170886842].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059698137170886842",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059698137170886842"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059698130321596416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWEiWpa4AArHHU.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 592,
+          "like_count": 26046,
+          "listed_count": 2,
+          "media_count": 1163,
+          "tweet_count": 10861
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

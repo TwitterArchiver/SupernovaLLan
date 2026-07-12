@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2016907913907032065",
+    "created_at": "2026-01-30T04:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T05:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017092020343652465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554424317483655175",
+          "start": 0,
+          "username": "yuu00401"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lyangminn/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/lyangminn/status/2017053285564502490",
+          "start": 24,
+          "url": "https://t.co/gaEkDd8F2c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017092020343652465",
+    "in_reply_to_user_id": "1554424317483655175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017053285564502490",
+        "type": "quoted"
+      },
+      {
+        "id": "2016907913907032065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuu00401 感觉这个说法倒是有点靠谱的 https://t.co/gaEkDd8F2c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2017053040898166784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4DDcvbUAABA6r.jpg",
+        "width": 2078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2016907913907032065",
+        "created_at": "2026-01-30T04:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017092020343652465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554424317483655175",
+              "start": 0,
+              "username": "yuu00401"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lyangminn/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lyangminn/status/2017053285564502490",
+              "start": 24,
+              "url": "https://t.co/gaEkDd8F2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017092020343652465",
+        "in_reply_to_user_id": "1554424317483655175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017053285564502490",
+            "type": "quoted"
+          },
+          {
+            "id": "2016907913907032065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuu00401 感觉这个说法倒是有点靠谱的 https://t.co/gaEkDd8F2c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017053040898166784"
+          ]
+        },
+        "author_id": "859799418",
+        "conversation_id": "2017053285564502490",
+        "created_at": "2026-01-30T01:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017053285564502490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZZPQ2ubGT",
+              "end": 159,
+              "expanded_url": "https://x.com/Lyangminn/status/2017053285564502490/photo/1",
+              "media_key": "3_2017053040898166784",
+              "start": 136,
+              "url": "https://t.co/aZZPQ2ubGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017053285564502490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个关于黄金的阴谋论。\n\n黄金暴跌原因？\n其实这是因为黄金超过5300美元时候，整体市值超过了全部美债存量市值，进而引发了系统性的抛售。\n大家在思考一件事：黄金会不会大到“不被允许再继续吸纳全球避险资金”。\n在当前体系下：\n黄金 ≈ 非主权、非信用、零收益资产\n美债 ≈ 全球最大、最核心的无风险资产锚\n一旦黄金市值结构性压过美债，就不是市场问题，而是金融秩序问题了。\n美债的作用是：给全球资金提供规模最大、可计息、可抵押、可交易的资产池，吸收全球储蓄，维持美元循环\n如果黄金比美债还“值钱”，意味着全球避险资金彻底抛弃信用体系，美元锚被掏空。\n这在非极端金融崩溃中，是系统不允许发生的状态。\n所以，一旦黄金市值逼近美债，美债一定会“扩容”来重新压住黄金。\n如果金价在 5300 之后继续大幅线性上涨，意味着什么？\n市场不再信任美债、不再信任美元、不再信任任何主权信用\n那对应的不是：“黄金牛市 2.0”\n而是：“全球金融秩序重置”\n在这种场景下：股票早已崩塌、债市失序、资本管制、金融冻结会先发生\n你未必能“顺利卖出黄金”。\n所以在“正常世界线”里，市场更可能选择在 5300 附近反复交易、而不是无限拔高。\n黄金可以涨，但不能大到取代美债成为全球第一安全资产；一旦金价涨到让黄金“体量上威胁美元体系”，那就不是持有信号，而是兑现信号。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 26792,
+          "like_count": 144,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "一个关于黄金的阴谋论。\n\n黄金暴跌原因？\n其实这是因为黄金超过5300美元时候，整体市值超过了全部美债存量市值，进而引发了系统性的抛售。\n大家在思考一件事：黄金会不会大到“不被允许再继续吸纳全球避险资金”。\n在当前体系下：\n黄金 ≈ 非主权、非信用、零收益资产\n美债 ≈ https://t.co/aZZPQ2ubGT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554424317483655175",
+        "conversation_id": "2016907913907032065",
+        "created_at": "2026-01-29T16:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016907913907032065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuu00401/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/yuu00401/status/2016760510872768671",
+              "start": 10,
+              "url": "https://t.co/ADU3ojyJpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016907913907032065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3847,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016760510872768671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪条狗凌晨砸我盘? https://t.co/ADU3ojyJpz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 532,
+          "like_count": 24467,
+          "listed_count": 2,
+          "media_count": 1090,
+          "tweet_count": 9991
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931386075710365696/hZ7z3fLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3837,
+          "following_count": 753,
+          "like_count": 71685,
+          "listed_count": 6,
+          "media_count": 2245,
+          "tweet_count": 33561
+        },
+        "username": "yuu00401",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-03T14:42:29.000Z",
+        "description": "Founder of @TechFlowPost\n美港A股、Crypto 韭菜/学习 AI /想成为情感博主",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "TechFlowPost"
+              }
+            ]
+          }
+        },
+        "id": "859799418",
+        "location": "祖安",
+        "name": "梁岷Liam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1136420498223460352/fN51qpH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 546,
+          "like_count": 396,
+          "listed_count": 64,
+          "media_count": 57,
+          "tweet_count": 168
+        },
+        "username": "Lyangminn",
+        "verified": true
+      }
+    ]
+  }
+}

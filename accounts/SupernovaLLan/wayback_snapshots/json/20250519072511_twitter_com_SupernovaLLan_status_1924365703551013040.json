@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1924365703551013040",
+    "created_at": "2025-05-19T07:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T08:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924365703551013040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1506847564171124736",
+          "start": 3,
+          "username": "RJDAIGOGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924365703551013040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924054366748815515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RJDAIGOGO: 赖清德就职总统一周年，接受播客采访，谈台海关系和前景：\n\n要坚定的走和平路线！战争没有赢家！\n\n要正视中华民国存在的事实，要尊重台湾人民自由民主的人权和生活方式！\n\n台湾一直对中国大陆具有善意，台商投资对中国大陆很重要。北京方面应考虑改变对台策略。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 324666,
+        "height": 886,
+        "media_key": "13_1924053982361575424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1924053982361575424/img/56Ao_suckBLoJ3Z0.jpg",
+        "public_metrics": {
+          "view_count": 49921
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924053982361575424/vid/avc1/584x270/k86WHt6YafqtQmNL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924053982361575424/vid/avc1/1560x720/H39vB-0X4ycAcKIf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924053982361575424/vid/avc1/1920x886/8ZJzhKP3lDnAxbCT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924053982361575424/vid/avc1/780x360/YkeHQEEFKaBOhFJ-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1924053982361575424/pl/knoyro3lztTmPqa8.m3u8?v=057"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1924365703551013040",
+        "created_at": "2025-05-19T07:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T08:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924365703551013040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1506847564171124736",
+              "start": 3,
+              "username": "RJDAIGOGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924365703551013040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924054366748815515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RJDAIGOGO: 赖清德就职总统一周年，接受播客采访，谈台海关系和前景：\n\n要坚定的走和平路线！战争没有赢家！\n\n要正视中华民国存在的事实，要尊重台湾人民自由民主的人权和生活方式！\n\n台湾一直对中国大陆具有善意，台商投资对中国大陆很重要。北京方面应考虑改变对台策略。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1924053982361575424"
+          ]
+        },
+        "author_id": "1506847564171124736",
+        "conversation_id": "1924054366748815515",
+        "created_at": "2025-05-18T10:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924054366748815515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abBX6bYHnu",
+              "end": 148,
+              "expanded_url": "https://x.com/RJDAIGOGO/status/1924054366748815515/video/1",
+              "media_key": "13_1924053982361575424",
+              "start": 125,
+              "url": "https://t.co/abBX6bYHnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924054366748815515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "赖清德就职总统一周年，接受播客采访，谈台海关系和前景：\n\n要坚定的走和平路线！战争没有赢家！\n\n要正视中华民国存在的事实，要尊重台湾人民自由民主的人权和生活方式！\n\n台湾一直对中国大陆具有善意，台商投资对中国大陆很重要。北京方面应考虑改变对台策略。\n\n我作为总统的首要任务就是延续国家的生存发展！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 136891,
+          "like_count": 114,
+          "quote_count": 5,
+          "reply_count": 100,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "赖清德就职总统一周年，接受播客采访，谈台海关系和前景：\n\n要坚定的走和平路线！战争没有赢家！\n\n要正视中华民国存在的事实，要尊重台湾人民自由民主的人权和生活方式！\n\n台湾一直对中国大陆具有善意，台商投资对中国大陆很重要。北京方面应考虑改变对台策略。 https://t.co/abBX6bYHnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 551,
+          "like_count": 24509,
+          "listed_count": 2,
+          "media_count": 1051,
+          "tweet_count": 9637
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T04:17:40.000Z",
+        "description": "纯纯纯理中客",
+        "id": "1506847564171124736",
+        "name": "RJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645072499405881344/UX7zH8Ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5587,
+          "following_count": 2061,
+          "like_count": 18172,
+          "listed_count": 28,
+          "media_count": 1651,
+          "tweet_count": 21646
+        },
+        "username": "RJDAIGOGO",
+        "verified": true
+      }
+    ]
+  }
+}

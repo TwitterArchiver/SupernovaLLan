@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1875572333815165054",
+    "created_at": "2025-01-05T07:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T08:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875806691369136160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1506154024252448770",
+          "start": 0,
+          "username": "Usagiblueberry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875806691369136160",
+    "in_reply_to_user_id": "1506154024252448770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875572333815165054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usagiblueberry 哎耶稣✝️💟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1875572333815165054",
+        "created_at": "2025-01-05T07:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T08:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875806691369136160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1506154024252448770",
+              "start": 0,
+              "username": "Usagiblueberry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875806691369136160",
+        "in_reply_to_user_id": "1506154024252448770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875572333815165054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usagiblueberry 哎耶稣✝️💟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506154024252448770",
+        "conversation_id": "1875572333815165054",
+        "created_at": "2025-01-04T15:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T16:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875572333815165054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875572333815165054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隐约觉得博爱是生命的厚度的体现，爱爱我的人，也爱陌生人，同样爱我的仇敌。见到的越多，就越容易去爱每一个人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 511,
+          "like_count": 22886,
+          "listed_count": 0,
+          "media_count": 1011,
+          "tweet_count": 9242
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T06:21:54.000Z",
+        "description": "I stand with Iranians not Khamenei.ꪔ̤",
+        "id": "1506154024252448770",
+        "location": "Rabbit Hill",
+        "name": "ᕱᕱ",
+        "pinned_tweet_id": "1800825750435827771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875127805496934400/5zS1Js_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 492,
+          "like_count": 53258,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 2904
+        },
+        "username": "Usagiblueberry",
+        "verified": false
+      }
+    ]
+  }
+}

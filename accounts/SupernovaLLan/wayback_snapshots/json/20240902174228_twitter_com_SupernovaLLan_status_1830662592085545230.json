@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1830633108754108911",
+    "created_at": "2024-09-02T17:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T18:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830662592085545230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830662592085545230",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830633108754108911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 昨天就！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1830633108754108911",
+        "created_at": "2024-09-02T17:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T18:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830662592085545230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830662592085545230",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830633108754108911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 昨天就！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650760116918943744",
+        "conversation_id": "1830633108754108911",
+        "created_at": "2024-09-02T15:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T16:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830633108754108911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830633108754108911",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好无聊好想鼠 😹 完了我亲友要和我绝交更想鼠了 😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1817575782975504822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 436,
+          "like_count": 20595,
+          "listed_count": 2,
+          "tweet_count": 8021
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yusanyyy8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yusanyyy8",
+                "start": 0,
+                "url": "https://t.co/1aIiKMVfgb"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "連線世界",
+        "name": "💉⊹˚击穿紫罗兰𓄹",
+        "pinned_tweet_id": "1826286908072477092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830260556366032896/vGXHD4IV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 780,
+          "like_count": 38400,
+          "listed_count": 4,
+          "tweet_count": 13013
+        },
+        "url": "https://t.co/1aIiKMVfgb",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

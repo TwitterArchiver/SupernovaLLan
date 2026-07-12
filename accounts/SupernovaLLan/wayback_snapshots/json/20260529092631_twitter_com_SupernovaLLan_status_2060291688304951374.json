@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2060286348343575022",
+    "created_at": "2026-05-29T09:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060291688304951374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554078434275430400",
+          "start": 0,
+          "username": "Rhine__H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060291688304951374",
+    "in_reply_to_user_id": "1554078434275430400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060286348343575022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rhine__H 好久没见莱茵出片耶这张表情好酷😎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060286341087420416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJebguga4AA_C89.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2060286348343575022",
+        "created_at": "2026-05-29T09:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060291688304951374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554078434275430400",
+              "start": 0,
+              "username": "Rhine__H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060291688304951374",
+        "in_reply_to_user_id": "1554078434275430400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060286348343575022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rhine__H 好久没见莱茵出片耶这张表情好酷😎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060286341087420416"
+          ]
+        },
+        "author_id": "1554078434275430400",
+        "conversation_id": "2060286348343575022",
+        "created_at": "2026-05-29T09:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060286348343575022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1q5qLqoSov",
+              "end": 39,
+              "expanded_url": "https://x.com/Rhine__H/status/2060286348343575022/photo/1",
+              "media_key": "3_2060286341087420416",
+              "start": 16,
+              "url": "https://t.co/1q5qLqoSov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060286348343575022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要先吃饭、先洗澡，还是……？ https://t.co/1q5qLqoSov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 591,
+          "like_count": 26132,
+          "listed_count": 2,
+          "media_count": 1166,
+          "tweet_count": 10889
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T12:16:11.000Z",
+        "description": "这里是莱茵( ˘ω˘ ) 会友善对待所有人  摄影 / ACG / COSPLAY /烹饪 什么都懂一点点 小莱茵：@Rhine___H 爱你们哦！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "Rhine___H"
+              }
+            ]
+          }
+        },
+        "id": "1554078434275430400",
+        "location": "31°25'25\"N 91°11'19\"E",
+        "name": "29°39'05N 101°40'58E",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883525122059096064/TtVf1nwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22127,
+          "following_count": 989,
+          "like_count": 44987,
+          "listed_count": 51,
+          "media_count": 1786,
+          "tweet_count": 13025
+        },
+        "username": "Rhine__H",
+        "verified": false
+      }
+    ]
+  }
+}

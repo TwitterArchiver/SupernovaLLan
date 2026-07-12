@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1873716881749905660",
+    "created_at": "2024-12-30T13:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T14:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873721278395474191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812056324567691264",
+          "start": 0,
+          "username": "Noce_I_Aeon"
+        },
+        {
+          "end": 29,
+          "id": "1272405078683430913",
+          "start": 13,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 45,
+          "id": "1506154024252448770",
+          "start": 30,
+          "username": "Usagiblueberry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873721278395474191",
+    "in_reply_to_user_id": "1812056324567691264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873720616312029523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noce_I_Aeon @PaitangOfficial @Usagiblueberry 紧张地玩😗我也喜欢临考狠狠玩，占用复习时间，这时候才有娱乐的实感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1873716881749905660",
+        "created_at": "2024-12-30T13:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T14:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873721278395474191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812056324567691264",
+              "start": 0,
+              "username": "Noce_I_Aeon"
+            },
+            {
+              "end": 29,
+              "id": "1272405078683430913",
+              "start": 13,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 45,
+              "id": "1506154024252448770",
+              "start": 30,
+              "username": "Usagiblueberry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873721278395474191",
+        "in_reply_to_user_id": "1812056324567691264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873720616312029523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noce_I_Aeon @PaitangOfficial @Usagiblueberry 紧张地玩😗我也喜欢临考狠狠玩，占用复习时间，这时候才有娱乐的实感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812056324567691264",
+        "conversation_id": "1873716881749905660",
+        "created_at": "2024-12-30T13:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T14:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873720616312029523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 32,
+              "id": "1506154024252448770",
+              "start": 17,
+              "username": "Usagiblueberry"
+            },
+            {
+              "end": 47,
+              "id": "1639996371879985157",
+              "start": 33,
+              "username": "SupernovaLLan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873720616312029523",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873720381519097963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial @Usagiblueberry @SupernovaLLan 可能是期末学业压力大了？🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 507,
+          "like_count": 22783,
+          "listed_count": 2,
+          "media_count": 1009,
+          "tweet_count": 9215
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T09:27:57.000Z",
+        "description": "帝国正太小老鼠～🐭 emmmmmm，煮虾吃找鱼吃然后被猫吃🥺😝😋",
+        "id": "1812056324567691264",
+        "name": "王靖尧🗽💎🪬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812056505325068288/Cd3EsGzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 316,
+          "like_count": 33425,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2490
+        },
+        "username": "Noce_I_Aeon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "有利他林合法替代品，有大量高性价比促智药、抗抑郁药（抗抑郁促智双效）、不销售任何非法产品想快速回复TG✈️：@paitangcuzhi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "paitangcuzhi2"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "既見未來 為何不拜？",
+        "name": "🏴☯️Ye經理不是利他林",
+        "pinned_tweet_id": "1871958384796418049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860951392808030209/VyIc2tlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8445,
+          "following_count": 330,
+          "like_count": 5882,
+          "listed_count": 24,
+          "media_count": 1259,
+          "tweet_count": 10577
+        },
+        "username": "PaitangOfficial",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-22T06:21:54.000Z",
+        "description": "I stand with Iranians not Khamenei.ꪔ̤",
+        "id": "1506154024252448770",
+        "location": "Rabbit Hill",
+        "name": "ᕱᕱ",
+        "pinned_tweet_id": "1800825750435827771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850776483238948864/i1yC9k5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 486,
+          "like_count": 53028,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 2891
+        },
+        "username": "Usagiblueberry",
+        "verified": false
+      }
+    ]
+  }
+}

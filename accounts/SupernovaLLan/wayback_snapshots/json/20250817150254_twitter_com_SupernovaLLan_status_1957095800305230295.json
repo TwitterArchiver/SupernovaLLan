@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957095790259949568",
+        "3_1957095790289342465"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1957095800305230295",
+    "created_at": "2025-08-17T15:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T16:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957095800305230295"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "露出勾引"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OJm1MtrHen",
+          "end": 56,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1957095800305230295/photo/1",
+          "media_key": "3_1957095790259949568",
+          "start": 33,
+          "url": "https://t.co/OJm1MtrHen"
+        },
+        {
+          "display_url": "pic.x.com/OJm1MtrHen",
+          "end": 56,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1957095800305230295/photo/1",
+          "media_key": "3_1957095790289342465",
+          "start": 33,
+          "url": "https://t.co/OJm1MtrHen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957095800305230295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "变成自己理想型的梨型身材了）\n兄弟兄弟快对着我导啊🫣\n#露出勾引 https://t.co/OJm1MtrHen"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957095800305230295].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957095800305230295",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957095800305230295"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1957095790259949568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykAQInbUAAuB86.jpg",
+        "width": 2048
+      },
+      {
+        "height": 855,
+        "media_key": "3_1957095790289342465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykAQIub0AEd4Cc.jpg",
+        "width": 1360
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 549,
+          "like_count": 24744,
+          "listed_count": 2,
+          "media_count": 1072,
+          "tweet_count": 9784
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

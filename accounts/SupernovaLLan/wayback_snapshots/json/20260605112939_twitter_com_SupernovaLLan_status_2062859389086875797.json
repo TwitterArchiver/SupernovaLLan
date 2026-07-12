@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2062826811084677268",
+    "created_at": "2026-06-05T11:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062859389086875797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874756593616891904",
+          "start": 0,
+          "username": "mossneverdie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062859389086875797",
+    "in_reply_to_user_id": "1874756593616891904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062826811084677268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mossneverdie 沿虾线剪开"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "下江小春cos",
+        "height": 1080,
+        "media_key": "3_2062826794936684544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCiCmlb0AA1Udn.jpg",
+        "width": 1711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2062826811084677268",
+        "created_at": "2026-06-05T11:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062859389086875797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874756593616891904",
+              "start": 0,
+              "username": "mossneverdie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062859389086875797",
+        "in_reply_to_user_id": "1874756593616891904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062826811084677268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mossneverdie 沿虾线剪开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062826794936684544"
+          ]
+        },
+        "author_id": "1874756593616891904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2062826811084677268",
+        "created_at": "2026-06-05T09:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062826811084677268"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "ShimoeKoharu"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "下江小春"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "蔚蓝档案"
+            },
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 60,
+              "start": 45,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ho4MkZZK2w",
+              "end": 166,
+              "expanded_url": "https://x.com/mossneverdie/status/2062826811084677268/photo/1",
+              "media_key": "3_2062826794936684544",
+              "start": 143,
+              "url": "https://t.co/ho4MkZZK2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062826811084677268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#ShimoeKoharu #下江小春 #蔚蓝档案 #BlueArchive #ブルアカ #cosplayㅤㅤㅤㅤㅤㅤㅤ 老师我们打这么多tag真的有人看吗...（抑郁\n好糊的流量呜呜...是不是只有大奶子才能被人喜欢...能不能过主播个门或者找主播色色助力主播做个大奶奶...🥲🥲🥲 https://t.co/ho4MkZZK2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 591,
+          "like_count": 26322,
+          "listed_count": 2,
+          "media_count": 1168,
+          "tweet_count": 10952
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T09:56:25.000Z",
+        "description": "坐标成都！求金主🙏拜托了给钱什么猎奇sm都能做 我有精神病/sh/od/自残🚪⁺✟55加微信/88+五擦边图+可约/188+luo照/1314不太可能所以我不梦了喵✞（口令红包/置顶收款码都能给了后私我加我wx）",
+        "id": "1874756593616891904",
+        "location": "成都",
+        "name": "🔞想死更想留巴黎🔞",
+        "pinned_tweet_id": "2004558554792079723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919631170717024262/cC3Kglti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 571,
+          "like_count": 2914,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 376
+        },
+        "username": "mossneverdie",
+        "verified": false
+      }
+    ]
+  }
+}

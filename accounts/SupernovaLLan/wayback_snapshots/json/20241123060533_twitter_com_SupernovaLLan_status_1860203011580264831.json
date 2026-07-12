@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1860203011580264831",
+    "created_at": "2024-11-23T06:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T07:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860203011580264831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1702221879434436608",
+          "start": 3,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860203011580264831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827341195103846654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964zhajipai: 我素鸡排\n08年 166cm44kg\n精神病/自残/od/ed/社恐\n🚪68 朋友圈+永久陪聊\n128同上+裸照福利\n520同上+收获一只小舔狗^⁠ω^\n1314同上+爸爸你说什么我言听计从\n上不封顶 给的越多我给你提供的情绪价值也越多 过门…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1860203011580264831",
+        "created_at": "2024-11-23T06:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T07:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860203011580264831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702221879434436608",
+              "start": 3,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860203011580264831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827341195103846654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964zhajipai: 我素鸡排\n08年 166cm44kg\n精神病/自残/od/ed/社恐\n🚪68 朋友圈+永久陪聊\n128同上+裸照福利\n520同上+收获一只小舔狗^⁠ω^\n1314同上+爸爸你说什么我言听计从\n上不封顶 给的越多我给你提供的情绪价值也越多 过门…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827341189823025152",
+            "3_1827341190066532354",
+            "3_1827341190079164416"
+          ]
+        },
+        "author_id": "1702221879434436608",
+        "conversation_id": "1827341195103846654",
+        "created_at": "2024-08-24T13:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T14:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827341195103846654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZy5cOMsNt",
+              "end": 159,
+              "expanded_url": "https://x.com/8964zhajipai/status/1827341195103846654/photo/1",
+              "media_key": "3_1827341189823025152",
+              "start": 136,
+              "url": "https://t.co/FZy5cOMsNt"
+            },
+            {
+              "display_url": "pic.x.com/FZy5cOMsNt",
+              "end": 159,
+              "expanded_url": "https://x.com/8964zhajipai/status/1827341195103846654/photo/1",
+              "media_key": "3_1827341190066532354",
+              "start": 136,
+              "url": "https://t.co/FZy5cOMsNt"
+            },
+            {
+              "display_url": "pic.x.com/FZy5cOMsNt",
+              "end": 159,
+              "expanded_url": "https://x.com/8964zhajipai/status/1827341195103846654/photo/1",
+              "media_key": "3_1827341190079164416",
+              "start": 136,
+              "url": "https://t.co/FZy5cOMsNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827341195103846654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14713,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我素鸡排\n08年 166cm44kg\n精神病/自残/od/ed/社恐\n🚪68 朋友圈+永久陪聊\n128同上+裸照福利\n520同上+收获一只小舔狗^⁠ω^\n1314同上+爸爸你说什么我言听计从\n上不封顶 给的越多我给你提供的情绪价值也越多 过门随机掉落图片\n欢迎互转互关喵 https://t.co/FZy5cOMsNt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 473,
+          "like_count": 22057,
+          "listed_count": 2,
+          "tweet_count": 8854
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "@mskcnmb8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "mskcnmb8964"
+              }
+            ]
+          }
+        },
+        "id": "1702221879434436608",
+        "location": "🚪68/128/520",
+        "name": "像素块",
+        "pinned_tweet_id": "1827341195103846654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821566261454618624/Iyycdi3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 0,
+          "tweet_count": 118
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

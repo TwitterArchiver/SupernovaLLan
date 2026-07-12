@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073205955337277440"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073205964891914595",
+    "created_at": "2026-07-04T00:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T01:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073205964891914595"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 14,
+          "tag": "PolitiScales"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mDX22tmvxj",
+          "end": 51,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2073205964891914595/photo/1",
+          "media_key": "3_2073205955337277440",
+          "start": 28,
+          "url": "https://t.co/mDX22tmvxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073205964891914595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "emmm这很社民\n测试来自 #PolitiScales https://t.co/mDX22tmvxj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1637,
+        "media_key": "3_2073205955337277440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWB1QIaUAAxtIo.jpg",
+        "width": 1101
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073205955337277440"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073205964891914595",
+        "created_at": "2026-07-04T00:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073205964891914595"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 14,
+              "tag": "PolitiScales"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDX22tmvxj",
+              "end": 51,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2073205964891914595/photo/1",
+              "media_key": "3_2073205955337277440",
+              "start": 28,
+              "url": "https://t.co/mDX22tmvxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073205964891914595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emmm这很社民\n测试来自 #PolitiScales https://t.co/mDX22tmvxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 623,
+          "like_count": 27135,
+          "listed_count": 2,
+          "media_count": 1216,
+          "tweet_count": 11279
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1843243912611410259",
+    "created_at": "2024-10-07T13:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T14:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843280637702381825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663205241419100162",
+          "start": 0,
+          "username": "aster20070314"
+        },
+        {
+          "end": 29,
+          "id": "1815649539057201152",
+          "start": 15,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843280637702381825",
+    "in_reply_to_user_id": "1663205241419100162",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843247903202275389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aster20070314 @NankyuSeiichi 交换完都湿了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1843243912611410259",
+        "created_at": "2024-10-07T13:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T14:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843280637702381825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663205241419100162",
+              "start": 0,
+              "username": "aster20070314"
+            },
+            {
+              "end": 29,
+              "id": "1815649539057201152",
+              "start": 15,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843280637702381825",
+        "in_reply_to_user_id": "1663205241419100162",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843247903202275389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aster20070314 @NankyuSeiichi 交换完都湿了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663205241419100162",
+        "conversation_id": "1843243912611410259",
+        "created_at": "2024-10-07T11:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T12:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843247903202275389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843247903202275389",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843243912611410259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 算"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 461,
+          "like_count": 21767,
+          "listed_count": 2,
+          "tweet_count": 8397
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T15:27:27.000Z",
+        "description": "本不应沉浸在这黑暗中的我啊，\n本不应如此沉溺腐化的我的心啊！",
+        "id": "1663205241419100162",
+        "location": "maybe在你心里",
+        "name": "焦糖星（love machine ver.）",
+        "pinned_tweet_id": "1839705144205947258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842909861052612609/Zf-FSDu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 192,
+          "like_count": 7012,
+          "listed_count": 0,
+          "tweet_count": 843
+        },
+        "username": "aster20070314",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙/幻觉游泳/历史进程/不进则退",
+        "id": "1815649539057201152",
+        "name": "南宫清一（戒色第0天）",
+        "pinned_tweet_id": "1837497453349605653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 489,
+          "like_count": 3490,
+          "listed_count": 1,
+          "tweet_count": 2437
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

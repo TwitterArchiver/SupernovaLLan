@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1988849526216495540",
+    "created_at": "2025-11-13T08:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T09:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988887403147182092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645412584625958918",
+          "start": 0,
+          "username": "orhan8902058627"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988887403147182092",
+    "in_reply_to_user_id": "1645412584625958918",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988849526216495540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orhan8902058627 九阳哈基米🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1988849526216495540",
+        "created_at": "2025-11-13T08:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T09:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988887403147182092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645412584625958918",
+              "start": 0,
+              "username": "orhan8902058627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988887403147182092",
+        "in_reply_to_user_id": "1645412584625958918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988849526216495540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orhan8902058627 九阳哈基米🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645412584625958918",
+        "conversation_id": "1988849526216495540",
+        "created_at": "2025-11-13T06:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T07:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988849526216495540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988849526216495540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2538,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看量化各种表演拉数字票\n三木  三夫 三湘 三元 七匹狼  九牧王 ，最近三字辈真🔥，已经超过🐴字辈了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 539,
+          "like_count": 24994,
+          "listed_count": 2,
+          "media_count": 1085,
+          "tweet_count": 9920
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T13:05:15.000Z",
+        "description": "知行合一之所以难，在于人性之弱、知之不深、境之多变。但正因其难，才显其贵。知而行，行而证，证而更知，方能渐入圣贤之境。",
+        "id": "1645412584625958918",
+        "name": "orhan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985753927459975169/civmgeRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16354,
+          "following_count": 1378,
+          "like_count": 2507,
+          "listed_count": 263,
+          "media_count": 267,
+          "tweet_count": 2248
+        },
+        "username": "orhan8902058627",
+        "verified": false
+      }
+    ]
+  }
+}

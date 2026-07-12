@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1993129878431187030",
+    "created_at": "2025-11-25T05:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T06:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993197536014942210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "799956219402207232",
+          "start": 0,
+          "username": "wushulaoshifu"
+        },
+        {
+          "end": 31,
+          "id": "1647878627684667398",
+          "start": 15,
+          "username": "sunnyjo37189654"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993197536014942210",
+    "in_reply_to_user_id": "799956219402207232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993176855080583399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wushulaoshifu @sunnyjo37189654 其实是量化程序测选的🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1993129878431187030",
+        "created_at": "2025-11-25T05:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993197536014942210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "799956219402207232",
+              "start": 0,
+              "username": "wushulaoshifu"
+            },
+            {
+              "end": 31,
+              "id": "1647878627684667398",
+              "start": 15,
+              "username": "sunnyjo37189654"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993197536014942210",
+        "in_reply_to_user_id": "799956219402207232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993176855080583399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wushulaoshifu @sunnyjo37189654 其实是量化程序测选的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "799956219402207232",
+        "conversation_id": "1993129878431187030",
+        "created_at": "2025-11-25T04:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993176855080583399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647878627684667398",
+              "start": 0,
+              "username": "sunnyjo37189654"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993176855080583399",
+        "in_reply_to_user_id": "1647878627684667398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993129878431187030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunnyjo37189654 都是一些腊鸡股，喊人接盘。这种博主谨慎关注。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 536,
+          "like_count": 25015,
+          "listed_count": 2,
+          "media_count": 1087,
+          "tweet_count": 9938
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-19T12:43:20.000Z",
+        "description": "老艺术家。dom",
+        "id": "799956219402207232",
+        "location": "武汉",
+        "name": "一直游到海水变蓝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510643069300850688/S_BQly8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 1041,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 249
+        },
+        "username": "wushulaoshifu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T08:24:25.000Z",
+        "description": "种一棵树最好的时间一个是十年前，还有一个是现在。\n\nhttps://t.co/2sWXhBfuOs，进群无门槛，不收费！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Michael_1188",
+                "end": 49,
+                "expanded_url": "http://t.me/Michael_1188",
+                "start": 26,
+                "url": "https://t.co/2sWXhBfuOs"
+              }
+            ]
+          }
+        },
+        "id": "1647878627684667398",
+        "name": "Michael麦克尔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647881898532937729/lvdmBh0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17654,
+          "following_count": 1460,
+          "like_count": 2604,
+          "listed_count": 261,
+          "media_count": 58,
+          "tweet_count": 1020
+        },
+        "username": "sunnyjo37189654",
+        "verified": true
+      }
+    ]
+  }
+}

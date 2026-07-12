@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2049546246675898807",
+    "created_at": "2026-04-29T18:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T19:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049550157331812822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        },
+        {
+          "end": 24,
+          "id": "1496841601640898563",
+          "start": 12,
+          "username": "1_048596_SG"
+        },
+        {
+          "end": 34,
+          "id": "1581249183972999169",
+          "start": 25,
+          "username": "hishng11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049550157331812822",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049549777906384959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acmduemsks @1_048596_SG @hishng11 不服老不行了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [1_048596_SG].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "1_048596_SG",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1_048596_SG"
+    },
+    {
+      "detail": "User has been suspended: [hishng11].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hishng11",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hishng11"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2049546246675898807",
+        "created_at": "2026-04-29T18:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049550157331812822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            },
+            {
+              "end": 24,
+              "id": "1496841601640898563",
+              "start": 12,
+              "username": "1_048596_SG"
+            },
+            {
+              "end": 34,
+              "id": "1581249183972999169",
+              "start": 25,
+              "username": "hishng11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049550157331812822",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049549777906384959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acmduemsks @1_048596_SG @hishng11 不服老不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804344378338480128",
+        "conversation_id": "2049546246675898807",
+        "created_at": "2026-04-29T18:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049549777906384959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            },
+            {
+              "end": 27,
+              "id": "1496841601640898563",
+              "start": 15,
+              "username": "1_048596_SG"
+            },
+            {
+              "end": 37,
+              "id": "1581249183972999169",
+              "start": 28,
+              "username": "hishng11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049549777906384959",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049546246675898807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan @1_048596_SG @hishng11 喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 542,
+          "like_count": 24661,
+          "listed_count": 2,
+          "media_count": 1118,
+          "tweet_count": 10290
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n这是好猫猫@maoxian1527｜好朋友@aoi4uto | Languages speaking or programming: English 🇬🇧, Mandarin 🇨🇳,  Cantonese 🇭🇰 and Haskell(GHC2024) λ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "aoi4uto"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "name": "我爱食麦当劳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 392,
+          "like_count": 4937,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2209
+        },
+        "username": "Acmduemsks",
+        "verified": true
+      }
+    ]
+  }
+}

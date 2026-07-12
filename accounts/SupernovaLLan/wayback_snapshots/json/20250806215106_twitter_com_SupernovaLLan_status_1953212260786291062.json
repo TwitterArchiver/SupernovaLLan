@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1953212243468054792",
+    "created_at": "2025-08-06T21:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T22:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953212260786291062"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953212260786291062",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953212256348746116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要去看海！）再感受一下被茫茫海浪卷走的心境"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 335,
+        "media_key": "3_1953212247188328448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxs0MLSaUAA5zYl.jpg",
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1953212243468054792",
+        "created_at": "2025-08-06T21:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T22:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953212260786291062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953212260786291062",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953212256348746116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要去看海！）再感受一下被茫茫海浪卷走的心境"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953212247188328448"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953212243468054792",
+        "created_at": "2025-08-06T21:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T22:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953212256348746116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZKUrW9sge",
+              "end": 94,
+              "expanded_url": "https://x.com/SupernovaLLan/status/1953212256348746116/photo/1",
+              "media_key": "3_1953212247188328448",
+              "start": 71,
+              "url": "https://t.co/YZKUrW9sge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953212256348746116",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953212243468054792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大抵是病得不轻）把自己折腾成这样我也是没谁了，亲近的人多数对我失望，自己更是失望）一直会诞生出“早知道这样一开始就不做那么好了嘛”这样的想法 https://t.co/YZKUrW9sge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 547,
+          "like_count": 24673,
+          "listed_count": 2,
+          "media_count": 1069,
+          "tweet_count": 9769
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

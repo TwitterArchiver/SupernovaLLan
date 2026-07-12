@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2052912507514421361",
+    "created_at": "2026-05-09T00:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T01:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052912507514421361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1391545938368421891",
+          "start": 3,
+          "username": "sonnick3D"
+        },
+        {
+          "end": 114,
+          "id": "1419158614888128515",
+          "start": 105,
+          "username": "_coffely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052912507514421361",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2220
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052555438206386595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sonnick3D: animated a funny trend I found on tiktok with the beasts. ✌️\n\nwonderful models created by @_coffely!! \nanimated by me !\nyout…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16247,
+        "height": 1440,
+        "media_key": "13_2052555169192128517",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052555169192128517/img/F-eikRwwzZPHzhZD.jpg",
+        "public_metrics": {
+          "view_count": 121413
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052555169192128517/vid/avc1/360x270/wmRKQE2FzQ3B1MVF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052555169192128517/vid/avc1/480x360/jW-mZe9dED4N1-as.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052555169192128517/vid/avc1/960x720/wwF0pPxF5qP2yW8v.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052555169192128517/pl/eR_-6GPM4-wUpjID.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2052912507514421361",
+        "created_at": "2026-05-09T00:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052912507514421361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1391545938368421891",
+              "start": 3,
+              "username": "sonnick3D"
+            },
+            {
+              "end": 114,
+              "id": "1419158614888128515",
+              "start": 105,
+              "username": "_coffely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052912507514421361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2220
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052555438206386595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sonnick3D: animated a funny trend I found on tiktok with the beasts. ✌️\n\nwonderful models created by @_coffely!! \nanimated by me !\nyout…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052555169192128517"
+          ]
+        },
+        "author_id": "1391545938368421891",
+        "conversation_id": "2052555438206386595",
+        "created_at": "2026-05-08T01:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052555438206386595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 99,
+              "id": "1419158614888128515",
+              "start": 90,
+              "username": "_coffely"
+            }
+          ],
+          "urls": [
+            {
+              "description": "mesmerizer has potential to become some peak horror type of thing, just saying-Credits-Miku & Teto Models created by @coffelyy!Animated by me!Inspiration: ht...",
+              "display_url": "youtube.com/watch?v=PmkBXH…",
+              "end": 160,
+              "expanded_url": "https://www.youtube.com/watch?v=PmkBXHi2xUY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2052555441431793672/fH3utcWw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052555441431793672/fH3utcWw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 137,
+              "status": 200,
+              "title": "You Found Mesmerizer Media! 🎪 (Miku & Teto Animation)",
+              "unwound_url": "https://www.youtube.com/watch?v=PmkBXHi2xUY",
+              "url": "https://t.co/vbAcpbgpWT"
+            },
+            {
+              "display_url": "pic.x.com/5RhInhyh9p",
+              "end": 184,
+              "expanded_url": "https://x.com/sonnick3D/status/2052555438206386595/video/1",
+              "media_key": "13_2052555169192128517",
+              "start": 161,
+              "url": "https://t.co/5RhInhyh9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052555438206386595",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5130,
+          "impression_count": 250413,
+          "like_count": 21708,
+          "quote_count": 21,
+          "reply_count": 29,
+          "retweet_count": 2220
+        },
+        "reply_settings": "everyone",
+        "text": "animated a funny trend I found on tiktok with the beasts. ✌️\n\nwonderful models created by @_coffely!! \nanimated by me !\nyoutube version: https://t.co/vbAcpbgpWT https://t.co/5RhInhyh9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 562,
+          "like_count": 25117,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10447
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-10T00:09:49.000Z",
+        "description": "Heya, I'm a 3D & 2D Artist/Generalist! 💞 Currently developing @Akeyimi | ❌ Do NOT reupload my content | 18y 🇮🇹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "Akeyimi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sonnick3D",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sonnick3D",
+                "start": 0,
+                "url": "https://t.co/aDZ2hkrcWS"
+              }
+            ]
+          }
+        },
+        "id": "1391545938368421891",
+        "location": "Italy",
+        "name": "Nick 🍓",
+        "pinned_tweet_id": "2052555438206386595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890491898650820610/AoMoF61e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5160,
+          "following_count": 386,
+          "like_count": 96657,
+          "listed_count": 8,
+          "media_count": 848,
+          "tweet_count": 3969
+        },
+        "url": "https://t.co/aDZ2hkrcWS",
+        "username": "sonnick3D",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T04:52:45.000Z",
+        "description": "on practice hiatus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/coffely",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/coffely",
+                "start": 0,
+                "url": "https://t.co/WitBgso7OO"
+              }
+            ]
+          }
+        },
+        "id": "1419158614888128515",
+        "location": "i live in your walls",
+        "name": "Coffely",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028842993893924866/RrYDl-kC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 207,
+          "like_count": 2913,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/WitBgso7OO",
+        "username": "_coffely",
+        "verified": false
+      }
+    ]
+  }
+}

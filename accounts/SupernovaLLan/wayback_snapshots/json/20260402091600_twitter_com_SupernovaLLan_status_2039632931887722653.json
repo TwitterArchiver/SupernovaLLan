@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039475223687532544"
+      ],
+      "media_source_tweet_id": [
+        "2039475729478373707"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2039632931887722653",
+    "created_at": "2026-04-02T09:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039632931887722653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1039894373742333952",
+          "start": 3,
+          "username": "DrChrisCombs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JBo01C5gdn",
+          "end": 119,
+          "expanded_url": "https://x.com/JackKuhr/status/2039475729478373707/video/1",
+          "media_key": "13_2039475223687532544",
+          "start": 96,
+          "url": "https://t.co/JBo01C5gdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039632931887722653",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3041
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039482289529237727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrChrisCombs: In all seriousness this may have been my favorite shot from Artemis II so far https://t.co/JBo01C5gdn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6260,
+        "height": 1074,
+        "media_key": "13_2039475223687532544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039475223687532544/img/YlKSlC4n9TjZbtNH.jpg",
+        "public_metrics": {
+          "view_count": 593480
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039475223687532544/vid/avc1/652x360/-d5a4gg0ULztxaK3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039475223687532544/vid/avc1/1946x1074/OsvCf42sY8EIqb_I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039475223687532544/pl/RfzutyjYQDMfRVX6.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039475223687532544/vid/avc1/488x270/CDhM1ffrw_EtEvfW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039475223687532544/vid/avc1/1304x720/CjbA_j2JDs2miy7h.mp4"
+          }
+        ],
+        "width": 1946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039475223687532544"
+          ],
+          "media_source_tweet_id": [
+            "2039475729478373707"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2039632931887722653",
+        "created_at": "2026-04-02T09:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039632931887722653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1039894373742333952",
+              "start": 3,
+              "username": "DrChrisCombs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBo01C5gdn",
+              "end": 119,
+              "expanded_url": "https://x.com/JackKuhr/status/2039475729478373707/video/1",
+              "media_key": "13_2039475223687532544",
+              "start": 96,
+              "url": "https://t.co/JBo01C5gdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039632931887722653",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3041
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039482289529237727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrChrisCombs: In all seriousness this may have been my favorite shot from Artemis II so far https://t.co/JBo01C5gdn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039475223687532544"
+          ],
+          "media_source_tweet_id": [
+            "2039475729478373707"
+          ]
+        },
+        "author_id": "1039894373742333952",
+        "conversation_id": "2039482289529237727",
+        "created_at": "2026-04-01T23:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039482289529237727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBo01C5gdn",
+              "end": 101,
+              "expanded_url": "https://x.com/JackKuhr/status/2039475729478373707/video/1",
+              "media_key": "13_2039475223687532544",
+              "start": 78,
+              "url": "https://t.co/JBo01C5gdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039482289529237727",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3030,
+          "impression_count": 751910,
+          "like_count": 26692,
+          "quote_count": 137,
+          "reply_count": 166,
+          "retweet_count": 3041
+        },
+        "reply_settings": "everyone",
+        "text": "In all seriousness this may have been my favorite shot from Artemis II so far https://t.co/JBo01C5gdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 522,
+          "like_count": 24183,
+          "listed_count": 2,
+          "media_count": 1104,
+          "tweet_count": 10088
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-12T15:11:53.000Z",
+        "description": "@deehowardorg Endowed Assoc. Prof. @UTSA Hypersonics, aerospace engineering, fluids, aerodynamics, propulsion, energy, lasers, imaging, sports science 🚀✈️💥🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "deehowardorg"
+              },
+              {
+                "end": 40,
+                "start": 35,
+                "username": "UTSA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ceid.utsa.edu/ccombs/",
+                "end": 23,
+                "expanded_url": "https://ceid.utsa.edu/ccombs/",
+                "start": 0,
+                "url": "https://t.co/apFSdzCwdI"
+              }
+            ]
+          }
+        },
+        "id": "1039894373742333952",
+        "location": "San Antonio, TX",
+        "name": "Chris Combs (iterative design enjoyer)",
+        "pinned_tweet_id": "1300787794793713664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631685083122769923/fLpTzVTR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45714,
+          "following_count": 889,
+          "like_count": 78617,
+          "listed_count": 387,
+          "media_count": 9778,
+          "tweet_count": 28441
+        },
+        "url": "https://t.co/apFSdzCwdI",
+        "username": "DrChrisCombs",
+        "verified": true
+      }
+    ]
+  }
+}

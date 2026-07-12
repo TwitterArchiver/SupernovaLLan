@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1853282009361314025",
+    "created_at": "2024-11-04T12:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T13:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853408536631648745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1566815552777383936",
+          "start": 0,
+          "username": "TianqiChen666"
+        },
+        {
+          "end": 29,
+          "id": "1818107582117994496",
+          "start": 15,
+          "username": "CypressAlbert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853408536631648745",
+    "in_reply_to_user_id": "1566815552777383936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853282009361314025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianqiChen666 @CypressAlbert 戳啦，是他妈叫专升本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1853282009361314025",
+        "created_at": "2024-11-04T12:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T13:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853408536631648745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1566815552777383936",
+              "start": 0,
+              "username": "TianqiChen666"
+            },
+            {
+              "end": 29,
+              "id": "1818107582117994496",
+              "start": 15,
+              "username": "CypressAlbert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853408536631648745",
+        "in_reply_to_user_id": "1566815552777383936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853282009361314025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianqiChen666 @CypressAlbert 戳啦，是他妈叫专升本"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853282002268717056"
+          ]
+        },
+        "author_id": "1566815552777383936",
+        "conversation_id": "1853282009361314025",
+        "created_at": "2024-11-04T03:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T04:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853282009361314025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IbtccM6gsI",
+              "end": 42,
+              "expanded_url": "https://x.com/TianqiChen666/status/1853282009361314025/photo/1",
+              "media_key": "3_1853282002268717056",
+              "start": 19,
+              "url": "https://t.co/IbtccM6gsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853282009361314025",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5569,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "他爸爸一定叫专科生吧，因为专升本（） https://t.co/IbtccM6gsI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 469,
+          "like_count": 21795,
+          "listed_count": 2,
+          "tweet_count": 8689
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T15:48:41.000Z",
+        "description": "大学生、06、中国人🇨🇳、いま成都に住んでいる、自国を愛する。もちろん、みんなと仲良くしたい\n|絡み重視|変な垢以外フォロバ💯|アニメ|kig初心者|里：@menma_sub|\n興味：#原神、#アークナイツ、#ブルアカ、#ボカロ、#着ぐるみ|\n親友:@haku_dabai @2temisinin\n|匿名質問↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 92,
+                "tag": "原神"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "menma_sub"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "haku_dabai"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "2temisinin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/TianqiChen6665…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/TianqiChen66655157",
+                "start": 0,
+                "url": "https://t.co/fCSPq9Gws0"
+              }
+            ]
+          }
+        },
+        "id": "1566815552777383936",
+        "location": "Sichuan",
+        "name": "めんま",
+        "pinned_tweet_id": "1846220626413211920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651955050032533504/SPAFB7jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5346,
+          "following_count": 4511,
+          "like_count": 48658,
+          "listed_count": 13,
+          "tweet_count": 10270
+        },
+        "url": "https://t.co/fCSPq9Gws0",
+        "username": "TianqiChen666",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "精神状态是量子叠加态|成分复杂|分裂情感性障碍|17岁苦逼高中生|INFJ-5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫|可以称呼我为姐哥吗|大概率回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论别来犯贱|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 139,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/DABgbQ6vuqF/…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/DABgbQ6vuqF/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+                "start": 0,
+                "url": "https://t.co/2DAglc5VjK"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "pinned_tweet_id": "1848292910501867732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602959516409856/nwmpqBZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 426,
+          "like_count": 4964,
+          "listed_count": 1,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/2DAglc5VjK",
+        "username": "CypressAlbert",
+        "verified": true
+      }
+    ]
+  }
+}

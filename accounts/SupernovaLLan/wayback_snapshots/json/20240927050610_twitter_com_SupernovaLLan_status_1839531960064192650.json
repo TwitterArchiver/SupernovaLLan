@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1839012155519119360",
+        "3_1839012155481300992",
+        "3_1839012155338928128",
+        "3_1839012155472896000"
+      ],
+      "media_source_tweet_id": [
+        "1839012166906904653",
+        "1839012166906904653",
+        "1839012166906904653",
+        "1839012166906904653"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1839531960064192650",
+    "created_at": "2024-09-27T05:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T06:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839531960064192650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1081248663827968000",
+          "start": 3,
+          "username": "sosakuneta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vfthoeiuyb",
+          "end": 39,
+          "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+          "media_key": "7_1839012155519119360",
+          "start": 16,
+          "url": "https://t.co/vFThOEIUyb"
+        },
+        {
+          "display_url": "pic.x.com/vfthoeiuyb",
+          "end": 39,
+          "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+          "media_key": "3_1839012155481300992",
+          "start": 16,
+          "url": "https://t.co/vFThOEIUyb"
+        },
+        {
+          "display_url": "pic.x.com/vfthoeiuyb",
+          "end": 39,
+          "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+          "media_key": "3_1839012155338928128",
+          "start": 16,
+          "url": "https://t.co/vFThOEIUyb"
+        },
+        {
+          "display_url": "pic.x.com/vfthoeiuyb",
+          "end": 39,
+          "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+          "media_key": "3_1839012155472896000",
+          "start": 16,
+          "url": "https://t.co/vFThOEIUyb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839531960064192650",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4524
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839012166906904653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sosakuneta: https://t.co/vFThOEIUyb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3333,
+        "height": 720,
+        "media_key": "7_1839012155519119360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1839012155519119360/pu/img/6mYWoAV1QRx8cinc.jpg",
+        "public_metrics": {
+          "view_count": 194708
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839012155519119360/pu/vid/avc1/480x270/ou5EiEYmmmQzXjsn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839012155519119360/pu/vid/avc1/640x360/8dikVj3c-qEtHit0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839012155519119360/pu/vid/avc1/1280x720/-gvUngBbbUjvwwAU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1839012155519119360/pu/pl/totCt8dD4gr3lmJm.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 640,
+        "media_key": "3_1839012155481300992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYV7z9kWoAAhG5J.jpg",
+        "width": 977
+      },
+      {
+        "height": 720,
+        "media_key": "3_1839012155338928128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYV7z9CaMAAz46S.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1185,
+        "media_key": "3_1839012155472896000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYV7z9iWYAA2vlU.jpg",
+        "width": 2013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1839012155519119360",
+            "3_1839012155481300992",
+            "3_1839012155338928128",
+            "3_1839012155472896000"
+          ],
+          "media_source_tweet_id": [
+            "1839012166906904653",
+            "1839012166906904653",
+            "1839012166906904653",
+            "1839012166906904653"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1839531960064192650",
+        "created_at": "2024-09-27T05:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T06:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839531960064192650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1081248663827968000",
+              "start": 3,
+              "username": "sosakuneta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfthoeiuyb",
+              "end": 39,
+              "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+              "media_key": "7_1839012155519119360",
+              "start": 16,
+              "url": "https://t.co/vFThOEIUyb"
+            },
+            {
+              "display_url": "pic.x.com/vfthoeiuyb",
+              "end": 39,
+              "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+              "media_key": "3_1839012155481300992",
+              "start": 16,
+              "url": "https://t.co/vFThOEIUyb"
+            },
+            {
+              "display_url": "pic.x.com/vfthoeiuyb",
+              "end": 39,
+              "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+              "media_key": "3_1839012155338928128",
+              "start": 16,
+              "url": "https://t.co/vFThOEIUyb"
+            },
+            {
+              "display_url": "pic.x.com/vfthoeiuyb",
+              "end": 39,
+              "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+              "media_key": "3_1839012155472896000",
+              "start": 16,
+              "url": "https://t.co/vFThOEIUyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839531960064192650",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4524
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839012166906904653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sosakuneta: https://t.co/vFThOEIUyb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1839012155519119360",
+            "3_1839012155481300992",
+            "3_1839012155338928128",
+            "3_1839012155472896000"
+          ]
+        },
+        "author_id": "1081248663827968000",
+        "conversation_id": "1839012166906904653",
+        "created_at": "2024-09-25T18:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T19:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839012166906904653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfthoeiuyb",
+              "end": 23,
+              "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+              "media_key": "7_1839012155519119360",
+              "start": 0,
+              "url": "https://t.co/vFThOEIUyb"
+            },
+            {
+              "display_url": "pic.x.com/vfthoeiuyb",
+              "end": 23,
+              "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+              "media_key": "3_1839012155481300992",
+              "start": 0,
+              "url": "https://t.co/vFThOEIUyb"
+            },
+            {
+              "display_url": "pic.x.com/vfthoeiuyb",
+              "end": 23,
+              "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+              "media_key": "3_1839012155338928128",
+              "start": 0,
+              "url": "https://t.co/vFThOEIUyb"
+            },
+            {
+              "display_url": "pic.x.com/vfthoeiuyb",
+              "end": 23,
+              "expanded_url": "https://twitter.com/sosakuneta/status/1839012166906904653/video/1",
+              "media_key": "3_1839012155472896000",
+              "start": 0,
+              "url": "https://t.co/vFThOEIUyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839012166906904653",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5012,
+          "impression_count": 590586,
+          "like_count": 37566,
+          "quote_count": 61,
+          "reply_count": 62,
+          "retweet_count": 4524
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vFThOEIUyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 453,
+          "like_count": 21360,
+          "listed_count": 2,
+          "tweet_count": 8261
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-04T17:59:04.000Z",
+        "description": "@rinngososaku←本垢(絵だけ見たい人向け) 一次創作と雑多 成人済 一次創作壁打ち@oor_cs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "rinngososaku"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "oor_cs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/muchang397?igs…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/muchang397?igshid=MjEwN2IyYWYwYw==",
+                "start": 0,
+                "url": "https://t.co/GpT0KvJ26S"
+              }
+            ]
+          }
+        },
+        "id": "1081248663827968000",
+        "name": "組織液💢",
+        "pinned_tweet_id": "1816908360366936199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683378194139971584/-0k8tkhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46173,
+          "following_count": 395,
+          "like_count": 56652,
+          "listed_count": 268,
+          "tweet_count": 56446
+        },
+        "url": "https://t.co/GpT0KvJ26S",
+        "username": "sosakuneta",
+        "verified": false
+      }
+    ]
+  }
+}

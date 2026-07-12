@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1914526101227069606",
+    "created_at": "2025-04-22T18:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T19:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914747930696933523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "Oktavia_Majo"
+        },
+        {
+          "end": 23,
+          "id": "1481172876589821952",
+          "start": 14,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914747930696933523",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914526101227069606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oktavia_Majo @pyke2076 发现有人在做重复工作😾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914525613106528256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHC5sqaAAAd9kW.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1914526003923447808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHDQcka8AAXA1a.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1914526101227069606",
+        "created_at": "2025-04-22T18:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T19:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914747930696933523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "Oktavia_Majo"
+            },
+            {
+              "end": 23,
+              "id": "1481172876589821952",
+              "start": 14,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914747930696933523",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914526101227069606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oktavia_Majo @pyke2076 发现有人在做重复工作😾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914525613106528256",
+            "3_1914526003923447808"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1914526101227069606",
+        "created_at": "2025-04-22T03:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:45:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914526007211548804",
+          "1914526101227069606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sphra1XHg0",
+              "end": 78,
+              "expanded_url": "https://x.com/Oktavia_Majo/status/1914526101227069606/photo/1",
+              "media_key": "3_1914525613106528256",
+              "start": 55,
+              "url": "https://t.co/Sphra1XHg0"
+            },
+            {
+              "display_url": "pic.x.com/Sphra1XHg0",
+              "end": 78,
+              "expanded_url": "https://x.com/Oktavia_Majo/status/1914526101227069606/photo/1",
+              "media_key": "3_1914526003923447808",
+              "start": 55,
+              "url": "https://t.co/Sphra1XHg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914526101227069606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1547,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "本月的任务是自制氰化物（再灌成胶囊随时自杀使用），产物烘干后大概是氰化钾和氰化钠的2:1混合粉末...... https://t.co/Sphra1XHg0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 551,
+          "like_count": 24255,
+          "listed_count": 2,
+          "media_count": 1042,
+          "tweet_count": 9592
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "家长不管党丨ADHD/ASD/BD/BPD 🏳️‍⚧️丨18丨爱好:数码、音乐、二次元丨称呼我“奥克塔”就好丨TG电台:https://t.co/SFnCsSwtqQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Oktavia_channeL",
+                "end": 83,
+                "expanded_url": "https://t.me/Oktavia_channeL",
+                "start": 60,
+                "url": "https://t.co/SFnCsSwtqQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oktavia_Majo",
+                "end": 23,
+                "expanded_url": "http://t.me/Oktavia_Majo",
+                "start": 0,
+                "url": "https://t.co/1rHQv8IkHY"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Tokyo-to, Japan",
+        "name": "奥克塔维亚Oktavia🏳️‍⚧️",
+        "pinned_tweet_id": "1914528592442352127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913861537967779840/lFqsdEAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 550,
+          "like_count": 2064,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/1rHQv8IkHY",
+        "username": "Oktavia_Majo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4103,
+          "following_count": 1038,
+          "like_count": 52128,
+          "listed_count": 5,
+          "media_count": 2380,
+          "tweet_count": 13334
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

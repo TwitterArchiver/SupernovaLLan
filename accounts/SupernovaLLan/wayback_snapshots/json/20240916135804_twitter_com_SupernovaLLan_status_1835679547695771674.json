@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      }
+    ],
+    "conversation_id": "1835679547695771674",
+    "created_at": "2024-09-16T13:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T14:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835679547695771674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/josgatex/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/josgatex/status/1835374053093265528",
+          "start": 4,
+          "url": "https://t.co/RportTgDNx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835679547695771674",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835374053093265528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亲娘啊 https://t.co/RportTgDNx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "1835679547695771674",
+        "created_at": "2024-09-16T13:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T14:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835679547695771674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/josgatex/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/josgatex/status/1835374053093265528",
+              "start": 4,
+              "url": "https://t.co/RportTgDNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835679547695771674",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835374053093265528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亲娘啊 https://t.co/RportTgDNx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835374026052546560",
+            "3_1835374026610380800",
+            "3_1835374043022655488",
+            "3_1835374048882143232"
+          ]
+        },
+        "author_id": "1768435540125212672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1835374053093265528",
+        "created_at": "2024-09-15T17:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T18:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835374053093265528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aurbyre62m",
+              "end": 106,
+              "expanded_url": "https://twitter.com/JosgateX/status/1835374053093265528/photo/1",
+              "media_key": "3_1835374026052546560",
+              "start": 83,
+              "url": "https://t.co/AuRbYRe62M"
+            },
+            {
+              "display_url": "pic.x.com/aurbyre62m",
+              "end": 106,
+              "expanded_url": "https://twitter.com/JosgateX/status/1835374053093265528/photo/1",
+              "media_key": "3_1835374026610380800",
+              "start": 83,
+              "url": "https://t.co/AuRbYRe62M"
+            },
+            {
+              "display_url": "pic.x.com/aurbyre62m",
+              "end": 106,
+              "expanded_url": "https://twitter.com/JosgateX/status/1835374053093265528/photo/1",
+              "media_key": "3_1835374043022655488",
+              "start": 83,
+              "url": "https://t.co/AuRbYRe62M"
+            },
+            {
+              "display_url": "pic.x.com/aurbyre62m",
+              "end": 106,
+              "expanded_url": "https://twitter.com/JosgateX/status/1835374053093265528/photo/1",
+              "media_key": "3_1835374048882143232",
+              "start": 83,
+              "url": "https://t.co/AuRbYRe62M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835374053093265528",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 8376,
+          "like_count": 365,
+          "quote_count": 7,
+          "reply_count": 43,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "Pregunta, cual de las chicas de Steins;Gate se les hace más bonita en esta imagen? https://t.co/AuRbYRe62M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 444,
+          "like_count": 20985,
+          "listed_count": 2,
+          "tweet_count": 8149
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T00:34:38.000Z",
+        "description": "Soy alguien que ama Steins;Gate y sube contenido de él todos los días | también soy Youtuber de Steins;Gate | level 18 :D\n|\nserver de discord de S;G Hispano ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/57Z43rp…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/57Z43rptCT",
+                "start": 0,
+                "url": "https://t.co/1arkO9GG6E"
+              }
+            ]
+          }
+        },
+        "id": "1768435540125212672",
+        "location": "Akihabara (algun dia) PE",
+        "name": "JOSGATE",
+        "pinned_tweet_id": "1823053536210338221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816701370747047936/R7dWRC6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 12,
+          "like_count": 5706,
+          "listed_count": 1,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/1arkO9GG6E",
+        "username": "JosgateX",
+        "verified": false
+      }
+    ]
+  }
+}

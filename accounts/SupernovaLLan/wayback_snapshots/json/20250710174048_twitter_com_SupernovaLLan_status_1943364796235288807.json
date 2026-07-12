@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1943364796235288807",
+    "created_at": "2025-07-10T17:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T18:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943364796235288807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5svzdwtrw9kzyj…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/5svzdwtrw9kzyjs/status/1943324661787562082",
+          "start": 10,
+          "url": "https://t.co/51d6mtLMea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943364796235288807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943324661787562082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱也算是个摩耶粉😭 https://t.co/51d6mtLMea"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_1943324654783041536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgTejOaEAAgO83.jpg",
+        "width": 320
+      },
+      {
+        "height": 670,
+        "media_key": "3_1943324655626129408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgTemXakAAAuqy.jpg",
+        "width": 1280
+      },
+      {
+        "height": 281,
+        "media_key": "3_1943324657291292672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgTeska8AA5rT1.jpg",
+        "width": 506
+      },
+      {
+        "height": 250,
+        "media_key": "3_1943324658411147264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgTewvakAAZaQp.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1943364796235288807",
+        "created_at": "2025-07-10T17:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T18:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943364796235288807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5svzdwtrw9kzyj…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/5svzdwtrw9kzyjs/status/1943324661787562082",
+              "start": 10,
+              "url": "https://t.co/51d6mtLMea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943364796235288807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943324661787562082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱也算是个摩耶粉😭 https://t.co/51d6mtLMea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943324654783041536",
+            "3_1943324655626129408",
+            "3_1943324657291292672",
+            "3_1943324658411147264"
+          ]
+        },
+        "author_id": "1615873887895711746",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1943324661787562082",
+        "created_at": "2025-07-10T15:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T16:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943324661787562082"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "新世紀エヴァンゲリオン",
+              "probability": 0.4423,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 18,
+              "normalized_text": "伊吹マヤ",
+              "probability": 0.8053,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 50,
+              "normalized_text": "NERV本部オペレーター",
+              "probability": 0.7073,
+              "start": 39,
+              "type": "Organization"
+            },
+            {
+              "end": 67,
+              "normalized_text": "NERV本部技術開発部技術局一課",
+              "probability": 0.463,
+              "start": 52,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 102,
+              "tag": "伊吹マヤ生誕祭2025"
+            },
+            {
+              "end": 127,
+              "start": 115,
+              "tag": "伊吹マヤ誕生祭2025"
+            },
+            {
+              "end": 140,
+              "start": 128,
+              "tag": "新世紀エヴァンゲリオン"
+            },
+            {
+              "end": 148,
+              "start": 141,
+              "tag": "アニメキャラ"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "誕生日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTSCPLkQo1",
+              "end": 177,
+              "expanded_url": "https://x.com/5sVzDwTrW9kzYjs/status/1943324661787562082/photo/1",
+              "media_key": "3_1943324654783041536",
+              "start": 154,
+              "url": "https://t.co/JTSCPLkQo1"
+            },
+            {
+              "display_url": "pic.x.com/JTSCPLkQo1",
+              "end": 177,
+              "expanded_url": "https://x.com/5sVzDwTrW9kzYjs/status/1943324661787562082/photo/1",
+              "media_key": "3_1943324655626129408",
+              "start": 154,
+              "url": "https://t.co/JTSCPLkQo1"
+            },
+            {
+              "display_url": "pic.x.com/JTSCPLkQo1",
+              "end": 177,
+              "expanded_url": "https://x.com/5sVzDwTrW9kzYjs/status/1943324661787562082/photo/1",
+              "media_key": "3_1943324657291292672",
+              "start": 154,
+              "url": "https://t.co/JTSCPLkQo1"
+            },
+            {
+              "display_url": "pic.x.com/JTSCPLkQo1",
+              "end": 177,
+              "expanded_url": "https://x.com/5sVzDwTrW9kzYjs/status/1943324661787562082/photo/1",
+              "media_key": "3_1943324658411147264",
+              "start": 154,
+              "url": "https://t.co/JTSCPLkQo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943324661787562082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今日は新世紀エヴァンゲリオンの伊吹マヤの誕生日です!伊吹二尉おめでとー🎉🎂NERV本部オペレーターでNERV本部技術開発部技術局一課に所属しており、リツコの部下で彼女を先輩と呼び慕ってる所が印象的です✨\n#伊吹マヤ生誕祭2025\n#伊吹マヤ誕生祭2025\n#新世紀エヴァンゲリオン\n#アニメキャラ\n#誕生日 https://t.co/JTSCPLkQo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 548,
+          "like_count": 24798,
+          "listed_count": 2,
+          "media_count": 1061,
+          "tweet_count": 9719
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T00:49:02.000Z",
+        "description": "元白狼天狗の優木せつ菜のサブ垢です！宜しくお願いします✨\nラブライブ、原神大好きです!\n推し\nラブライブ!→せつ菜、曜、海未、絵里、メイ\n原神→ムアラニ、胡桃、シトラリ、ニィロウ、心海\n今は使えないですが本垢→@c4UwKkR0vC2YmlW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 105,
+                "username": "c4UwKkR0vC2YmlW"
+              }
+            ]
+          }
+        },
+        "id": "1615873887895711746",
+        "name": "元白狼天狗の新・優木せつ菜",
+        "pinned_tweet_id": "1934429036627025996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789999930221998080/ZCBAFZDj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2978,
+          "following_count": 3487,
+          "like_count": 51891,
+          "listed_count": 20,
+          "media_count": 3706,
+          "tweet_count": 18311
+        },
+        "username": "5sVzDwTrW9kzYjs",
+        "verified": false
+      }
+    ]
+  }
+}

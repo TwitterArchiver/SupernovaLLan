@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1864621669077115024",
+    "created_at": "2024-12-05T14:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T15:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864676831850586534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864676831850586534",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864621669077115024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 互相坦诚讲出来）两个人一起想想总有解决办法的吧🥺船到桥头自然直"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1864621669077115024",
+        "created_at": "2024-12-05T14:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T15:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864676831850586534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864676831850586534",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864621669077115024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 互相坦诚讲出来）两个人一起想想总有解决办法的吧🥺船到桥头自然直"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1864621669077115024",
+        "created_at": "2024-12-05T10:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T11:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864621669077115024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864621669077115024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1919,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "真的不用过度思考…其实如果一段关系飘摇到了需要疯狂内耗自己的程度，你的心里已经有答案了不是吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 485,
+          "like_count": 22371,
+          "listed_count": 2,
+          "media_count": 992,
+          "tweet_count": 9003
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 此账号皮下是小动物，小动物会难过，还会把你啊呜啊呜的吃掉。｜ACG/マヌルネコ/ゴスロリ/ボカロ/スプラトゥーン3大好き｜买情趣用品找她➡️@Koko_mia_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Koko_mia_"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "location": "🚪99纯绿陪聊➕朋友圈",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1863994812103307646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859932510580252672/jB4eCxiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10825,
+          "following_count": 562,
+          "like_count": 2559,
+          "listed_count": 9,
+          "media_count": 53,
+          "tweet_count": 1036
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

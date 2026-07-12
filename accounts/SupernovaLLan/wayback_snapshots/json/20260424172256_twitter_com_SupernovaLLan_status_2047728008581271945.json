@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2047728008581271945",
+    "created_at": "2026-04-24T17:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047728008581271945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/supernovallan/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/supernovallan/status/2047616527927738782",
+          "start": 40,
+          "url": "https://t.co/OHms9JURq6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047728008581271945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047616527927738782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯嗯咖啡因真的是神中神把药效拖到现在还没完打字还经常错，现在脑袋有点痛还在晕） https://t.co/OHms9JURq6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2047728008581271945",
+        "created_at": "2026-04-24T17:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047728008581271945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/supernovallan/status/2047616527927738782",
+              "start": 40,
+              "url": "https://t.co/OHms9JURq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047728008581271945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047616527927738782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嗯咖啡因真的是神中神把药效拖到现在还没完打字还经常错，现在脑袋有点痛还在晕） https://t.co/OHms9JURq6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2047616527927738782",
+        "created_at": "2026-04-24T09:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047616527927738782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047616527927738782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4大普12右美噻奈普汀钠4t还有咖啡因100mg以及尼古丁若干……\n腿一直在抖视野好模糊呼吸好微弱晕晕的很舒服，坐着躺着都很舒服，非常想动弹动动动，想变成蝴蝶飞走\n不能被打败！继续战斗！无论如何我要活下去！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 526,
+          "like_count": 24446,
+          "listed_count": 2,
+          "media_count": 1108,
+          "tweet_count": 10185
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

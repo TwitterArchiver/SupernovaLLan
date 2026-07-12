@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053429650706341889"
+      ],
+      "media_source_tweet_id": [
+        "2053430611650679285"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2053508606168113235",
+    "created_at": "2026-05-10T16:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053508606168113235"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "841602312313364480",
+          "start": 3,
+          "username": "im909_im"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jjskds6RLG",
+          "end": 68,
+          "expanded_url": "https://x.com/im909_im/status/2053430611650679285/photo/1",
+          "media_key": "3_2053429650706341889",
+          "start": 45,
+          "url": "https://t.co/jjskds6RLG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053508606168113235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 658
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053430611650679285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @im909_im: ＃初音ミク　ア゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ https://t.co/jjskds6RLG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2053429650706341889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8_Y0WbIAE10_K.jpg",
+        "width": 2072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053429650706341889"
+          ],
+          "media_source_tweet_id": [
+            "2053430611650679285"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2053508606168113235",
+        "created_at": "2026-05-10T16:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053508606168113235"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "841602312313364480",
+              "start": 3,
+              "username": "im909_im"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjskds6RLG",
+              "end": 68,
+              "expanded_url": "https://x.com/im909_im/status/2053430611650679285/photo/1",
+              "media_key": "3_2053429650706341889",
+              "start": 45,
+              "url": "https://t.co/jjskds6RLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053508606168113235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 658
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053430611650679285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @im909_im: ＃初音ミク　ア゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ https://t.co/jjskds6RLG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053429650706341889"
+          ]
+        },
+        "author_id": "841602312313364480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2053430611650679285",
+        "created_at": "2026-05-10T11:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053430611650679285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjskds6RLG",
+              "end": 54,
+              "expanded_url": "https://x.com/im909_im/status/2053430611650679285/photo/1",
+              "media_key": "3_2053429650706341889",
+              "start": 31,
+              "url": "https://t.co/jjskds6RLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053430611650679285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 523,
+          "impression_count": 52033,
+          "like_count": 7612,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 658
+        },
+        "reply_settings": "everyone",
+        "text": "＃初音ミク　ア゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ァ゛ https://t.co/jjskds6RLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053381479594639360/lofObEUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 563,
+          "like_count": 25219,
+          "listed_count": 2,
+          "media_count": 1131,
+          "tweet_count": 10496
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-14T10:50:02.000Z",
+        "description": "創作❄️とボカロ🫧で生きてます。インスタ→ 【https://t.co/NGmIfvMEZQ…】 AI学習、無断転載は利用禁止です👀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kkoke113?igshi",
+                "end": 46,
+                "expanded_url": "http://instagram.com/kkoke113?igshi",
+                "start": 23,
+                "url": "https://t.co/NGmIfvMEZQ"
+              }
+            ]
+          }
+        },
+        "id": "841602312313364480",
+        "name": "kkoke",
+        "pinned_tweet_id": "2048358408391426140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911724189356032000/WZhoVHJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 204,
+          "like_count": 7975,
+          "listed_count": 12,
+          "media_count": 150,
+          "tweet_count": 4528
+        },
+        "username": "im909_im",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1930459378110607588",
+    "created_at": "2025-06-05T03:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T04:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930459813282230316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874049299124019201",
+          "start": 0,
+          "username": "Mistery5387057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930459813282230316",
+    "in_reply_to_user_id": "1874049299124019201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930459378110607588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mistery5387057 三十分钟线看之前拉高的量对比一下就发现一眼假了😾谁追套谁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930459374096658435",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gspekp5asAM1JnN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1930459378110607588",
+        "created_at": "2025-06-05T03:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T04:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930459813282230316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874049299124019201",
+              "start": 0,
+              "username": "Mistery5387057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930459813282230316",
+        "in_reply_to_user_id": "1874049299124019201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930459378110607588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mistery5387057 三十分钟线看之前拉高的量对比一下就发现一眼假了😾谁追套谁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930459374096658435"
+          ]
+        },
+        "author_id": "1874049299124019201",
+        "conversation_id": "1930459378110607588",
+        "created_at": "2025-06-05T02:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930459378110607588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yd8nOt4ygF",
+              "end": 55,
+              "expanded_url": "https://x.com/Mistery5387057/status/1930459378110607588/photo/1",
+              "media_key": "3_1930459374096658435",
+              "start": 32,
+              "url": "https://t.co/Yd8nOt4ygF"
+            },
+            {
+              "display_url": "x.com/mistery5387057…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/mistery5387057/status/1930447359206666367",
+              "start": 56,
+              "url": "https://t.co/pSpr1GB8p0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930459378110607588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 536,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930447359206666367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈🤣就是渣。对不对？笑死我了😂\n\n看来我识别渣男是可以的。 https://t.co/Yd8nOt4ygF https://t.co/pSpr1GB8p0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 549,
+          "like_count": 24626,
+          "listed_count": 2,
+          "media_count": 1055,
+          "tweet_count": 9669
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T11:05:58.000Z",
+        "description": "一个逻辑的梳理者，趋势的跟随者。 没有群，不私聊，不收费 ，不荐股！各人观点不构成投资建议，股市有风险，投资需谨慎，盈亏自负！东财账号已注销！专业：中医",
+        "id": "1874049299124019201",
+        "location": "東京 世田谷区",
+        "name": "Mistery",
+        "pinned_tweet_id": "1921228821535355243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896008448698941440/fSEwRu_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31998,
+          "following_count": 27,
+          "like_count": 20233,
+          "listed_count": 471,
+          "media_count": 1918,
+          "tweet_count": 12301
+        },
+        "username": "Mistery5387057",
+        "verified": true
+      }
+    ]
+  }
+}

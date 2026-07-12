@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1838456308342886401"
+      ],
+      "media_source_tweet_id": [
+        "1838456573297070425"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1838797570094624811",
+    "created_at": "2024-09-25T04:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T05:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838797570094624811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721391606069379072",
+          "start": 3,
+          "username": "lao_jiang50163"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fg0khgx4kj",
+          "end": 74,
+          "expanded_url": "https://twitter.com/lao_jiang50163/status/1838456573297070425/video/1",
+          "media_key": "7_1838456308342886401",
+          "start": 51,
+          "url": "https://t.co/fG0KHGX4kJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838797570094624811",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 753
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838456573297070425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lao_jiang50163: 白糖为何是战略物资？把它与硝酸钾混合后点燃，可怕的现象发生了 https://t.co/fG0KHGX4kJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 175752,
+        "height": 720,
+        "media_key": "7_1838456308342886401",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1838456308342886401/pu/img/X5akKFiUdZDuT3a0.jpg",
+        "public_metrics": {
+          "view_count": 267763
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838456308342886401/pu/vid/avc1/480x270/XxhAAoYx8EJmhQQ0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838456308342886401/pu/vid/avc1/640x360/QkASwLuj3q3NqZGw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838456308342886401/pu/vid/avc1/1280x720/zkyBT6CDNBU4bXXi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1838456308342886401/pu/pl/buQa-324sjYYpmjn.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1838456308342886401"
+          ],
+          "media_source_tweet_id": [
+            "1838456573297070425"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1838797570094624811",
+        "created_at": "2024-09-25T04:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T05:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838797570094624811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721391606069379072",
+              "start": 3,
+              "username": "lao_jiang50163"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg0khgx4kj",
+              "end": 74,
+              "expanded_url": "https://twitter.com/lao_jiang50163/status/1838456573297070425/video/1",
+              "media_key": "7_1838456308342886401",
+              "start": 51,
+              "url": "https://t.co/fG0KHGX4kJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838797570094624811",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 753
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838456573297070425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lao_jiang50163: 白糖为何是战略物资？把它与硝酸钾混合后点燃，可怕的现象发生了 https://t.co/fG0KHGX4kJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1838456308342886401"
+          ]
+        },
+        "author_id": "1721391606069379072",
+        "conversation_id": "1838456573297070425",
+        "created_at": "2024-09-24T05:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T06:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838456573297070425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg0khgx4kj",
+              "end": 54,
+              "expanded_url": "https://twitter.com/lao_jiang50163/status/1838456573297070425/video/1",
+              "media_key": "7_1838456308342886401",
+              "start": 31,
+              "url": "https://t.co/fG0KHGX4kJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838456573297070425",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1576,
+          "impression_count": 545336,
+          "like_count": 2384,
+          "quote_count": 20,
+          "reply_count": 49,
+          "retweet_count": 753
+        },
+        "reply_settings": "everyone",
+        "text": "白糖为何是战略物资？把它与硝酸钾混合后点燃，可怕的现象发生了 https://t.co/fG0KHGX4kJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 451,
+          "like_count": 21313,
+          "listed_count": 2,
+          "tweet_count": 8248
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:58:45.000Z",
+        "description": "有太阳升起的地方就有客家人！\nWhere the sun rises, there are Hakkas!\n\n这里是全球客家人的心灵家园！\nThis is the spiritual home of Hakka people all over the world!",
+        "id": "1721391606069379072",
+        "location": "中国",
+        "name": "客家之光",
+        "pinned_tweet_id": "1835552075771723987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789880839985360896/4uMk4hoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13964,
+          "following_count": 7987,
+          "like_count": 23813,
+          "listed_count": 14,
+          "tweet_count": 2869
+        },
+        "username": "lao_jiang50163",
+        "verified": true
+      }
+    ]
+  }
+}

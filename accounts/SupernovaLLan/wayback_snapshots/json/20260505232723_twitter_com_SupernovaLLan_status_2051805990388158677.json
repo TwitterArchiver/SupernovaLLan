@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2049315097022267597",
+    "created_at": "2026-05-05T23:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T00:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051805990388158677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1642259798077874176",
+          "start": 0,
+          "username": "umirukumochi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051805990388158677",
+    "in_reply_to_user_id": "1642259798077874176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049315097022267597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umirukumochi 呜哇也是可以拿来做密码的数字呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049315094379843584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHChOHlbUAA8GX4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2049315097022267597",
+        "created_at": "2026-05-05T23:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051805990388158677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1642259798077874176",
+              "start": 0,
+              "username": "umirukumochi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051805990388158677",
+        "in_reply_to_user_id": "1642259798077874176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049315097022267597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umirukumochi 呜哇也是可以拿来做密码的数字呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049315094379843584"
+          ]
+        },
+        "author_id": "1642259798077874176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049315097022267597",
+        "created_at": "2026-04-29T02:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049315097022267597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93tedWmA1h",
+              "end": 202,
+              "expanded_url": "https://x.com/umirukumochi/status/2049315097022267597/photo/1",
+              "media_key": "3_2049315094379843584",
+              "start": 179,
+              "url": "https://t.co/93tedWmA1h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049315097022267597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天要讲的主角，是传说中的神之模数 998244353！\n\n先把结论钉在这里：\n\n一.它是一枚为 NTT 量身定做的质数。\n\n把它减一拆开看：\n\n998244353 − 1 = 119 × 2²³\n\n也就是说——它的乘法群的阶里，藏着一个超大的 2²³ 因子。\n\n这一点，正是 NTT 的命根子。\n\n二.为什么 NTT 偏爱这种结构？\n\nNTT 是 FFT 的\"整数版\"，要求模数 p 满足：\np 是质数\np−1 含有大的 2^k 因子\n\n这样才能：\n\n找到一个 2^k 次的单位根\n在模意义下完成蝶形变换、做多项式卷积\n\n而 998244353：\n\np−1 = 119 × 2²³，可支持长度 ≤ 2²³ 的卷积\n最小原根 g = 3，简洁好记\n没有浮点误差（吊打 FFT）\n\n三.为什么Coder也爱它？\n\n1.不会爆 int32\n\n998244353 < 2³¹\n\n两个数相乘的中间结果落在 2⁶⁰ 量级——用 long long 接就够，不用上 __int128。寄存器友好、缓存友好、常数小到飞起。\n\n2.是质数 → 全员有逆元\n\n由费马小定理：a 的逆元 ≡ a^(p−2) (mod p)\n\n所以可以放心做：\n\n模意义下的除法\n组合数 C(n, k)\n概率 DP、期望 DP、各种数论操作\n\n3.已经是社区\"默认值\"\n\n在 Codeforces、AtCoder、洛谷 的题解区——\n\n题面没说模数？那就是 998244353。\n\n它和老搭档 10⁹+7，几乎承包了竞赛圈所有\"答案对 X 取模\"的场景。\n\n所以它就是——\n\n算法竞赛里的瑞士军刀模数 + NTT 神器!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1438,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天要讲的主角，是传说中的神之模数 998244353！\n\n先把结论钉在这里：\n\n一.它是一枚为 NTT 量身定做的质数。\n\n把它减一拆开看：\n\n998244353 − 1 = 119 × 2²³\n\n也就是说——它的乘法群的阶里，藏着一个超大的 2²³ 因子。\n\n这一点，正是 NTT 的命根子。\n\n二.为什么 NTT 偏爱这种结构？\n\nNTT 是 FFT https://t.co/93tedWmA1h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 550,
+          "like_count": 24945,
+          "listed_count": 2,
+          "media_count": 1125,
+          "tweet_count": 10389
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T20:17:16.000Z",
+        "description": "鵺 / 小夜🩷🌙\nコスプレイヤー🎀｜数学・アルゴ好き📐✨｜音ゲー(osu🎵/maimai🍡)｜たまに譜面作り🎼\nCS勉強中📚💻\n🌸お迎え:相互0円・それ以外52🌸\n数学/アルゴ/コスのリクエストはDMまで〜💌\n気が短いので優しくしてくれると嬉しいです🌱☕ ⚠️無断転載禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/kueutsuro",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/kueutsuro",
+                "start": 0,
+                "url": "https://t.co/suFVoKn6LA"
+              }
+            ]
+          }
+        },
+        "id": "1642259798077874176",
+        "name": "鵺ノ望ひな",
+        "pinned_tweet_id": "2048736705872797916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051180532554457088/yP9e7Sbl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 102,
+          "like_count": 568,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/suFVoKn6LA",
+        "username": "umirukumochi",
+        "verified": true
+      }
+    ]
+  }
+}

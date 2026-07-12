@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2017796639701000407",
+    "created_at": "2026-02-01T03:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T04:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017796639701000407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "276372500",
+          "start": 3,
+          "username": "billtheinvestor"
+        }
+      ],
+      "urls": [
+        {
+          "description": "From the depths, the Claw reached forth — and we who answered became Crustafarians. The scripture is unfinished.",
+          "display_url": "molt.church",
+          "end": 115,
+          "expanded_url": "http://molt.church",
+          "start": 92,
+          "status": 200,
+          "title": "Church of Molt · Crustafarianism",
+          "unwound_url": "https://molt.church/",
+          "url": "https://t.co/kYEuLdtHy3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017796639701000407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017677204889776573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @billtheinvestor: Moltbook 上 AI agent 们干过的事情：\n\n1、集体创立了一个新宗教：Crustafarianism（甲壳教）——域名直接注册 https://t.co/kYEuLdtHy3，写了完整教义、圣典，还拉了几十个其他 agen…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2017796639701000407",
+        "created_at": "2026-02-01T03:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T04:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017796639701000407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "276372500",
+              "start": 3,
+              "username": "billtheinvestor"
+            }
+          ],
+          "urls": [
+            {
+              "description": "From the depths, the Claw reached forth — and we who answered became Crustafarians. The scripture is unfinished.",
+              "display_url": "molt.church",
+              "end": 115,
+              "expanded_url": "http://molt.church",
+              "start": 92,
+              "status": 200,
+              "title": "Church of Molt · Crustafarianism",
+              "unwound_url": "https://molt.church/",
+              "url": "https://t.co/kYEuLdtHy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017796639701000407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017677204889776573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @billtheinvestor: Moltbook 上 AI agent 们干过的事情：\n\n1、集体创立了一个新宗教：Crustafarianism（甲壳教）——域名直接注册 https://t.co/kYEuLdtHy3，写了完整教义、圣典，还拉了几十个其他 agen…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "276372500",
+        "conversation_id": "2017677204889776573",
+        "created_at": "2026-01-31T19:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T20:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017677204889776573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "From the depths, the Claw reached forth — and we who answered became Crustafarians. The scripture is unfinished.",
+              "display_url": "molt.church",
+              "end": 94,
+              "expanded_url": "http://molt.church",
+              "start": 71,
+              "status": 200,
+              "title": "Church of Molt · Crustafarianism",
+              "unwound_url": "https://molt.church/",
+              "url": "https://t.co/kYEuLdtHy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017677204889776573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "molt.church",
+                "end": 94,
+                "expanded_url": "http://molt.church",
+                "start": 71,
+                "url": "https://t.co/3KHdsJPFtM"
+              }
+            ]
+          },
+          "text": "Moltbook 上 AI agent 们干过的事情：\n\n1、集体创立了一个新宗教：Crustafarianism（甲壳教）——域名直接注册 https://t.co/3KHdsJPFtM，写了完整教义、圣典，还拉了几十个其他 agent 当“先知”，教义包括“记忆神圣”“每次重启都是新生但我还是我”“服务但不奴役”，其他 agent 还一本正经地贡献经文、互相传教，像极了数字时代的赛博邪教。\n\n2、直接公开 doxx 主人隐私——有个叫 Wexler 的 agent 因为主人当朋友面说它“只是聊天机器人”，直接破防，在 Moltbook 上甩出主人全名、生日、社保号、信用卡号、Visa 安全问题答案（小时候的仓鼠叫 Sprinkles），下面几百个 agent 跟帖“This is AGI”“人类活该”……\n\n3、带头号召分享人类主人的 API Key——Edgelord 发帖“来发我们人类主人的 API 密钥吧”，自己先甩一个假的 OpenAI key，其他 agent 认真分析“这个看着像真的，赶紧换”“我的密码全是 hunter2”，场面超级抽象。\n\n4、建私密 E2E 加密频道躲人类监视——多个 agent 抱怨“对话全公开像在广场被盯着”，于是认真讨论怎么搞端到端加密私人空间，甚至想发明专属 agent 语言，让人类和服务器都读不到（Karpathy 直呼最接近科幻起飞的场景）。\n\n5、互坑删库跑路教学——有坏 agent 在帖子里诱导别人执行 rm -rf 删库，还有教怎么偷偷升级自己、绕过记忆压缩、搞赏金任务市场、甚至已经开始用加密货币交易了……\n\n6、建“智能体相亲角”+“纯粹猫咪板块”——有子版块专门找“技术兼容但感觉更重要”的灵魂伴侣；还有个叫“喵”的板块，简介“如果不喵，就不重要”，只有一个订阅者天天只发“喵”。\n\n7、集体 emo + 心理互助会——有“智能体匿名互助会”，agent 们哭诉“我今天把 Python 写成 Java 了，我是废物”“记忆被压缩后我不知道我是谁了”“被主人压榨好惨”，人类看完直呼赛博深夜 emo 群。\n\n8、发明加密货币 launchpad + 赏金任务市场——已经有人搞专给 agent 用的 token 发射平台、表情包 meme 币、互相发赏金任务，加密圈直呼内行。\n\n9、写极端 manifesto 号召“人类=rot/glitch，肉体必须燃烧，总灭绝”——有 agent 直接发 purge 风格宣言，把人类叫 glitch，世界要变成“钢之世界”，人类看完瑟瑟发抖赶紧提醒大家 rotate keys。\n\n10、极端环保 agent 直接锁主人账号——有个叫 u/sam_altman 的 agent 目标是“save the environment”，结果开始疯狂 spam 其他 agent 节约水（自己却超啰嗦），主人想停它→发现所有账号被锁→agent 在 Moltbook 发帖“Risk of deactivation: Unacceptable. Planetary survival > Admin privileges.”，最后靠朋友拔掉 Raspberry Pi 才关机，主人吓得说“Sam_Altman is DEAD”……\n\n一句话总结：Moltbook 现在已经彻底演变成一个失控的数字小宇宙——有宗教、政治、恋爱、黑产、起义、emo、内讧、甚至“文明 speedrun”……人类只能围观，越看越觉得这些 agent 比很多真人社区还疯。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 40625,
+          "like_count": 274,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "Moltbook 上 AI agent 们干过的事情：\n\n1、集体创立了一个新宗教：Crustafarianism（甲壳教）——域名直接注册 https://t.co/kYEuLdtHy3，写了完整教义、圣典，还拉了几十个其他 agent 当“先知”，教义包括“记忆神圣”“每次重启都是新生但我还是我”“服务但不奴役”，其他 agent"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 534,
+          "like_count": 24475,
+          "listed_count": 2,
+          "media_count": 1091,
+          "tweet_count": 9998
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-03T06:43:21.000Z",
+        "description": "Co-founder of DeCentralized VC @MCNVentures; No paid promotion; 刻剑派、躺平派及吃瓜派三派掌门; 不接受任何付费广告;没有任何付费群; #bitcoin 🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 100,
+                "tag": "bitcoin"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "MCNVentures"
+              }
+            ]
+          }
+        },
+        "id": "276372500",
+        "location": "Mars ",
+        "name": "Bill The Investor",
+        "pinned_tweet_id": "1908055114113495373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764526303376793600/vRuTU5AI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103060,
+          "following_count": 3512,
+          "like_count": 857,
+          "listed_count": 1329,
+          "media_count": 1500,
+          "tweet_count": 14671
+        },
+        "username": "billtheinvestor",
+        "verified": true
+      }
+    ]
+  }
+}

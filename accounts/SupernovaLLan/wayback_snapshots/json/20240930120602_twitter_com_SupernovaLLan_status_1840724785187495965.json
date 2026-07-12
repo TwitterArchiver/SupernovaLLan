@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840638985347252225",
+        "3_1840638985338814465"
+      ],
+      "media_source_tweet_id": [
+        "1840638991026278763",
+        "1840638991026278763"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1840724785187495965",
+    "created_at": "2024-09-30T12:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T13:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840724785187495965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "41808461",
+          "start": 3,
+          "username": "poooo_chu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eu7lkhfvbt",
+          "end": 54,
+          "expanded_url": "https://twitter.com/poooo_chu/status/1840638991026278763/photo/1",
+          "media_key": "3_1840638985347252225",
+          "start": 31,
+          "url": "https://t.co/EU7LKhFVbT"
+        },
+        {
+          "display_url": "pic.x.com/eu7lkhfvbt",
+          "end": 54,
+          "expanded_url": "https://twitter.com/poooo_chu/status/1840638991026278763/photo/1",
+          "media_key": "3_1840638985338814465",
+          "start": 31,
+          "url": "https://t.co/EU7LKhFVbT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840724785187495965",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840638991026278763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poooo_chu: 颱風變成「不是，哥們」的形狀了 https://t.co/EU7LKhFVbT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1840638985347252225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYtDZ7FbwAE4Ypy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 179,
+        "media_key": "3_1840638985338814465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYtDZ7DbAAEcP9R.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840638985347252225",
+            "3_1840638985338814465"
+          ],
+          "media_source_tweet_id": [
+            "1840638991026278763",
+            "1840638991026278763"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1840724785187495965",
+        "created_at": "2024-09-30T12:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T13:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840724785187495965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "41808461",
+              "start": 3,
+              "username": "poooo_chu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eu7lkhfvbt",
+              "end": 54,
+              "expanded_url": "https://twitter.com/poooo_chu/status/1840638991026278763/photo/1",
+              "media_key": "3_1840638985347252225",
+              "start": 31,
+              "url": "https://t.co/EU7LKhFVbT"
+            },
+            {
+              "display_url": "pic.x.com/eu7lkhfvbt",
+              "end": 54,
+              "expanded_url": "https://twitter.com/poooo_chu/status/1840638991026278763/photo/1",
+              "media_key": "3_1840638985338814465",
+              "start": 31,
+              "url": "https://t.co/EU7LKhFVbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840724785187495965",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840638991026278763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poooo_chu: 颱風變成「不是，哥們」的形狀了 https://t.co/EU7LKhFVbT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840638985347252225",
+            "3_1840638985338814465"
+          ]
+        },
+        "author_id": "41808461",
+        "conversation_id": "1840638991026278763",
+        "created_at": "2024-09-30T06:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T07:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840638991026278763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eu7lkhfvbt",
+              "end": 39,
+              "expanded_url": "https://twitter.com/poooo_chu/status/1840638991026278763/photo/1",
+              "media_key": "3_1840638985347252225",
+              "start": 16,
+              "url": "https://t.co/EU7LKhFVbT"
+            },
+            {
+              "display_url": "pic.x.com/eu7lkhfvbt",
+              "end": 39,
+              "expanded_url": "https://twitter.com/poooo_chu/status/1840638991026278763/photo/1",
+              "media_key": "3_1840638985338814465",
+              "start": 16,
+              "url": "https://t.co/EU7LKhFVbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840638991026278763",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 58018,
+          "like_count": 1712,
+          "quote_count": 25,
+          "reply_count": 4,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "颱風變成「不是，哥們」的形狀了 https://t.co/EU7LKhFVbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 457,
+          "like_count": 21474,
+          "listed_count": 2,
+          "tweet_count": 8296
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-22T13:12:16.000Z",
+        "description": "",
+        "id": "41808461",
+        "name": "「會長，這個世界怎麼了？」",
+        "pinned_tweet_id": "1259419704097038336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1040639825777385472/9tCA5f37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57410,
+          "following_count": 1621,
+          "like_count": 130987,
+          "listed_count": 212,
+          "tweet_count": 26198
+        },
+        "username": "poooo_chu",
+        "verified": false
+      }
+    ]
+  }
+}

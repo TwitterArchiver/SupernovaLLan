@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2071141320597619142",
+    "created_at": "2026-06-29T04:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071451348848214230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1872858571563753472",
+          "start": 0,
+          "username": "c020402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071451348848214230",
+    "in_reply_to_user_id": "1872858571563753472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071141320597619142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c020402 5mg分度值称量0.1g就比较准了，称0.1g物质和0.9g微晶纤维素，装小盒里面摇匀配成均匀的10%含量分散粉，这1g里取0.1g再加9.9g微晶纤维素摇匀之后就是配好的成品，取0.1g里面就含有10mg物质了\n微晶纤维素润滑性更好更容易摇匀，装胶囊或者压片都有帮助分散的功效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2071141320597619142",
+        "created_at": "2026-06-29T04:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071451348848214230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1872858571563753472",
+              "start": 0,
+              "username": "c020402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071451348848214230",
+        "in_reply_to_user_id": "1872858571563753472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071141320597619142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c020402 5mg分度值称量0.1g就比较准了，称0.1g物质和0.9g微晶纤维素，装小盒里面摇匀配成均匀的10%含量分散粉，这1g里取0.1g再加9.9g微晶纤维素摇匀之后就是配好的成品，取0.1g里面就含有10mg物质了\n微晶纤维素润滑性更好更容易摇匀，装胶囊或者压片都有帮助分散的功效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872858571563753472",
+        "conversation_id": "2071141320597619142",
+        "created_at": "2026-06-28T07:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071141320597619142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071141320597619142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1329,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯只有上帝知道我使用了多少物质。所以有什么称量10mg的好方法吗。?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 620,
+          "like_count": 27092,
+          "listed_count": 2,
+          "media_count": 1206,
+          "tweet_count": 11235
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T04:14:21.000Z",
+        "description": "hold me now!",
+        "id": "1872858571563753472",
+        "name": "C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060947855200952320/JE-P-e1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 27,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "c020402",
+        "verified": false
+      }
+    ]
+  }
+}

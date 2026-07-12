@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2053009137697735159",
+    "created_at": "2026-05-09T07:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053011707082285111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1502618677664882689",
+          "start": 0,
+          "username": "jingjiehaoshan2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053011707082285111",
+    "in_reply_to_user_id": "1502618677664882689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053009137697735159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjiehaoshan2 原来是调情）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2053009137697735159",
+        "created_at": "2026-05-09T07:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053011707082285111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1502618677664882689",
+              "start": 0,
+              "username": "jingjiehaoshan2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053011707082285111",
+        "in_reply_to_user_id": "1502618677664882689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053009137697735159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjiehaoshan2 原来是调情）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502618677664882689",
+        "conversation_id": "2053009137697735159",
+        "created_at": "2026-05-09T07:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053009137697735159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ptsk_ri22641/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/ptsk_ri22641/status/2052645414390947866",
+              "start": 49,
+              "url": "https://t.co/dqdrNX2PTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053009137697735159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052645414390947866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你要是骂我杂种的话我可能会生气，但是如果骂我杂鱼的话，我只会露出一副死宅微笑，然后让你多骂两句（ https://t.co/dqdrNX2PTQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 563,
+          "like_count": 25138,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10458
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T12:13:14.000Z",
+        "description": "#马克思主义菜鸟 互of看情况 不主动B人 19岁 性别是武装直升机 CSGO苦手 爱上火车 爱是自由意志的最低解放 要马列主义，不要修正主义，要团结，不要分裂，要光明正大，不要阴谋诡计",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "马克思主义菜鸟"
+              }
+            ]
+          }
+        },
+        "id": "1502618677664882689",
+        "location": "世界社会主义共和国",
+        "name": "警戒号上的理想主义者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502619071241621505/Ya90V3pK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 2896,
+          "like_count": 198709,
+          "listed_count": 9,
+          "media_count": 1595,
+          "tweet_count": 19047
+        },
+        "username": "jingjiehaoshan2",
+        "verified": false
+      }
+    ]
+  }
+}

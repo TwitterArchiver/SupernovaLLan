@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1859937099807399936"
+      ],
+      "media_source_tweet_id": [
+        "1859937155641942055"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1860286432079937751",
+    "created_at": "2024-11-23T11:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T12:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860286432079937751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492677599390322689",
+          "start": 3,
+          "username": "weirddalle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tOmbl6ILZb",
+          "end": 78,
+          "expanded_url": "https://x.com/weirddalle/status/1859937155641942055/video/1",
+          "media_key": "13_1859937099807399936",
+          "start": 55,
+          "url": "https://t.co/tOmbl6ILZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860286432079937751",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2869
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859937155641942055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weirddalle: This is the greatest video of all time https://t.co/tOmbl6ILZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11400,
+        "height": 900,
+        "media_key": "13_1859937099807399936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1859937099807399936/img/F_dVjO-lC8GyQQFF.jpg",
+        "public_metrics": {
+          "view_count": 569118
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1859937099807399936/vid/avc1/320x400/VZZ-Cn9apAVQZhVk.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1859937099807399936/vid/avc1/480x600/baIt4L05354FOU1Q.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1859937099807399936/vid/avc1/718x900/kbQgSHgVo83FKwCB.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1859937099807399936/pl/_xz1S9bPqJ5HpGsd.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1859937099807399936"
+          ],
+          "media_source_tweet_id": [
+            "1859937155641942055"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1860286432079937751",
+        "created_at": "2024-11-23T11:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T12:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860286432079937751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492677599390322689",
+              "start": 3,
+              "username": "weirddalle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOmbl6ILZb",
+              "end": 78,
+              "expanded_url": "https://x.com/weirddalle/status/1859937155641942055/video/1",
+              "media_key": "13_1859937099807399936",
+              "start": 55,
+              "url": "https://t.co/tOmbl6ILZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860286432079937751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2869
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859937155641942055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weirddalle: This is the greatest video of all time https://t.co/tOmbl6ILZb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1859937099807399936"
+          ]
+        },
+        "author_id": "1492677599390322689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1859937155641942055",
+        "created_at": "2024-11-22T12:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T13:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859937155641942055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOmbl6ILZb",
+              "end": 62,
+              "expanded_url": "https://x.com/weirddalle/status/1859937155641942055/video/1",
+              "media_key": "13_1859937099807399936",
+              "start": 39,
+              "url": "https://t.co/tOmbl6ILZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859937155641942055",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4091,
+          "impression_count": 1244431,
+          "like_count": 26957,
+          "quote_count": 101,
+          "reply_count": 92,
+          "retweet_count": 2869
+        },
+        "reply_settings": "everyone",
+        "text": "This is the greatest video of all time https://t.co/tOmbl6ILZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 473,
+          "like_count": 22067,
+          "listed_count": 2,
+          "tweet_count": 8862
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T01:50:55.000Z",
+        "description": "memes and weird ai generations | dm for promo| follow my Bluesky | https://t.co/GyouBrDs9d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boxd.it/537D7",
+                "end": 90,
+                "expanded_url": "https://boxd.it/537D7",
+                "start": 67,
+                "url": "https://t.co/GyouBrDs9d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/nocont…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/nocontextmeme.bsky.social/post/3l6rs3hdule2q",
+                "start": 0,
+                "url": "https://t.co/hgwLA9jLvm"
+              }
+            ]
+          }
+        },
+        "id": "1492677599390322689",
+        "name": "no context memes",
+        "pinned_tweet_id": "1860103469472055600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694331764091564032/My5iC3pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920842,
+          "following_count": 498,
+          "like_count": 14888,
+          "listed_count": 3267,
+          "tweet_count": 13669
+        },
+        "url": "https://t.co/hgwLA9jLvm",
+        "username": "weirddalle",
+        "verified": true
+      }
+    ]
+  }
+}

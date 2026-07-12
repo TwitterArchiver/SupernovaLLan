@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2063608110976246268",
+    "created_at": "2026-06-07T13:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063608110976246268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/venti718/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/venti718/status/2063469936916533332",
+          "start": 6,
+          "url": "https://t.co/LNvpLeiph6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063608110976246268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063469936916533332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇，这是氩 https://t.co/LNvpLeiph6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 462,
+        "media_key": "3_2063469928485883904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLq95waEAAlCcF.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2063608110976246268",
+        "created_at": "2026-06-07T13:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063608110976246268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/venti718/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/venti718/status/2063469936916533332",
+              "start": 6,
+              "url": "https://t.co/LNvpLeiph6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063608110976246268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063469936916533332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇，这是氩 https://t.co/LNvpLeiph6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063469928485883904"
+          ]
+        },
+        "author_id": "1732724006787420160",
+        "conversation_id": "2063469936916533332",
+        "created_at": "2026-06-07T03:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063469936916533332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olVth5nu41",
+              "end": 23,
+              "expanded_url": "https://x.com/Venti718/status/2063469936916533332/photo/1",
+              "media_key": "3_2063469928485883904",
+              "start": 0,
+              "url": "https://t.co/olVth5nu41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063469936916533332",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18965,
+          "like_count": 408,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/olVth5nu41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 599,
+          "like_count": 26425,
+          "listed_count": 2,
+          "media_count": 1173,
+          "tweet_count": 10976
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "准高三/友跨/简中/繁中/English/欢迎互fo/Ciallo～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "http://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/iAPAG2H15q"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "location": "Tianjin",
+        "name": "澪老师不是零老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 2383,
+          "like_count": 21628,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 6843
+        },
+        "url": "https://t.co/iAPAG2H15q",
+        "username": "Venti718",
+        "verified": false
+      }
+    ]
+  }
+}

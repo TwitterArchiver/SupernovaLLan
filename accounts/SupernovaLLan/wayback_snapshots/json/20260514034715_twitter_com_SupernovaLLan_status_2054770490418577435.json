@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054770480620707840"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2054770490418577435",
+    "created_at": "2026-05-14T03:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054770490418577435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n52T1DRWfJ",
+          "end": 164,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2054770490418577435/photo/1",
+          "media_key": "3_2054770480620707840",
+          "start": 141,
+          "url": "https://t.co/n52T1DRWfJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054770490418577435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前前前世故人之姿，真希望那时候你不要染上od呀……但是那时那些现实生活的无聊和忧郁，想被看见的烦恼，好像也只能这样排解呢……之后我们的账号都消失了，最终也失去了联系。\n终于久别重逢，看到你o得更多更频繁了，但是生命的色彩仍然鲜活，还是喜欢新鲜刺激的人事物。有些担心，但还是祝福你😾 https://t.co/n52T1DRWfJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054770490418577435].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054770490418577435",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054770490418577435"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054770480620707840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQC3ZBbIAAg-xG.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 570,
+          "like_count": 25351,
+          "listed_count": 2,
+          "media_count": 1139,
+          "tweet_count": 10578
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1891312574110588945",
+    "created_at": "2025-02-17T02:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T03:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891320210004549796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858727254345281536",
+          "start": 0,
+          "username": "minamiovo233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891320210004549796",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891312574110588945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minamiovo233 摸摸南呀我也很懂下几颗药关机的含金量🥺小毛每天都要这样才能强制关机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1891312574110588945",
+        "created_at": "2025-02-17T02:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T03:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891320210004549796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "minamiovo233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891320210004549796",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891312574110588945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minamiovo233 摸摸南呀我也很懂下几颗药关机的含金量🥺小毛每天都要这样才能强制关机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "1891312574110588945",
+        "created_at": "2025-02-17T02:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T03:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891312574110588945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minamiovo233/s…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/minamiovo233/status/1890160000993227174",
+              "start": 70,
+              "url": "https://t.co/RPcV37wJQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891312574110588945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890160000993227174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭 有人骂我嗑药 我说的是吃就能睡觉的药 我想开安眠药也不行吗 我做错什么了 我什么时候嗑药了？我说得不清楚就该被人误解吗 我哭了。。。 https://t.co/RPcV37wJQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 524,
+          "like_count": 23417,
+          "listed_count": 2,
+          "media_count": 1023,
+          "tweet_count": 9358
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "🐹🍞I\n📖 Capturing Moments\n「Trying to become the character I imagine」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "仓小南🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889828863758442500/tHJyhfH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 37,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "minamiovo233",
+        "verified": false
+      }
+    ]
+  }
+}

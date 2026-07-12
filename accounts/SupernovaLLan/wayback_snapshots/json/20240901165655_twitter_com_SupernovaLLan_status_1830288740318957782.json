@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830288733373161472"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1830285663637590381",
+    "created_at": "2024-09-01T16:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T17:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830288740318957782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676882249898401792",
+          "start": 0,
+          "username": "cyberknight369"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7yvxs4zksw",
+          "end": 39,
+          "expanded_url": "https://twitter.com/SupernovaLLan/status/1830288740318957782/photo/1",
+          "media_key": "3_1830288733373161472",
+          "start": 16,
+          "url": "https://t.co/7YVxS4ZkSw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830288740318957782",
+    "in_reply_to_user_id": "1676882249898401792",
+    "lang": "qme",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830285663637590381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyberknight369 https://t.co/7YVxS4ZkSw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1830288740318957782].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1830288740318957782",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1830288740318957782"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_1830288733373161472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWZ9590bYAA-jKX.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676882249898401792",
+        "conversation_id": "1830285663637590381",
+        "created_at": "2024-09-01T16:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T17:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830285663637590381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830285663637590381",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个正经问题\n我知道唯物史观\n但是商鞅这种人的出现是必然的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1817575782975504822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 434,
+          "like_count": 20557,
+          "listed_count": 2,
+          "tweet_count": 8009
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T09:14:23.000Z",
+        "description": "激进女权主义 ｜ 无政府共产主义 ｜ 婚姻制就是奴隶制 ｜ 反对父系确定 ｜ 打倒父亲 ｜ 跨权即人权｜ 反对主流文化 ｜ 反对首都殖民 ｜ 机械飞升是智人唯一的出路 ｜ 🧙‍♀️: @BAnarchistKUNIN ｜ 🧊: @xushao1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "BAnarchistKUNIN"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "xushao1123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/synthetic_dawn",
+                "end": 23,
+                "expanded_url": "https://t.me/synthetic_dawn",
+                "start": 0,
+                "url": "https://t.co/Czpq8HGlup"
+              }
+            ]
+          }
+        },
+        "id": "1676882249898401792",
+        "location": "宁姆格福",
+        "name": "Ⓐ赛博骑士☭ 🐉大秦帝国⚔️",
+        "pinned_tweet_id": "1813932264906223896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821942295924543488/QbCol6is_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 515,
+          "like_count": 17657,
+          "listed_count": 4,
+          "tweet_count": 8310
+        },
+        "url": "https://t.co/Czpq8HGlup",
+        "username": "cyberknight369",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060029560947961856"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060029569755955227",
+    "created_at": "2026-05-28T16:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060029569755955227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UUHZ1WAixG",
+          "end": 169,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2060029569755955227/photo/1",
+          "media_key": "3_2060029560947961856",
+          "start": 146,
+          "url": "https://t.co/UUHZ1WAixG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060029569755955227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1：得有个船医吧\n4：得有个水手\n7：劳动力/战力担当，希望这位可以凭良心护一下小男孩小女孩别被搞了\n8：还是得有个做心理按摩的\n2，3：作为起不到太多作用的乘客，但是起到一个道德绑架的作用，可以从良知上制衡约束其他人\n\n其他人：船长你殉船吧，其他人因为我的选择现在就要似了，不过我陪你们😗 https://t.co/UUHZ1WAixG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060029569755955227].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060029569755955227",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060029569755955227"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1294,
+        "media_key": "3_2060029560947961856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJax-J8bcAAsJQU.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 592,
+          "like_count": 26113,
+          "listed_count": 2,
+          "media_count": 1164,
+          "tweet_count": 10878
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

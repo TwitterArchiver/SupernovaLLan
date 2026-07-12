@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2064257914286813682",
+    "created_at": "2026-06-09T08:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064257914286813682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/supernovallan/…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/supernovallan/status/2064254515042463823",
+          "start": 133,
+          "url": "https://t.co/NWUhrj59IB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064257914286813682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064254515042463823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是想到：\n忒修斯之船最后的解法大概就是庞加莱回归，假设这艘理想的船可以永远地航行下去，船员也一批一批生老病死，那么经过无尽的岁月后总有一刻，这艘“船”会回到它一开始那个状态，连一个原子的误差都没有，虽然会是难以想象的无尽岁月，但是确实最开始原原本本的忒修斯之船 https://t.co/NWUhrj59IB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064254508562329600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW0ieTbMAAZXjZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064257914286813682",
+        "created_at": "2026-06-09T08:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064257914286813682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/supernovallan/status/2064254515042463823",
+              "start": 133,
+              "url": "https://t.co/NWUhrj59IB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064257914286813682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064254515042463823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是想到：\n忒修斯之船最后的解法大概就是庞加莱回归，假设这艘理想的船可以永远地航行下去，船员也一批一批生老病死，那么经过无尽的岁月后总有一刻，这艘“船”会回到它一开始那个状态，连一个原子的误差都没有，虽然会是难以想象的无尽岁月，但是确实最开始原原本本的忒修斯之船 https://t.co/NWUhrj59IB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064254508562329600"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064254515042463823",
+        "created_at": "2026-06-09T07:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064254515042463823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GrmnN09vom",
+              "end": 44,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2064254515042463823/photo/1",
+              "media_key": "3_2064254508562329600",
+              "start": 21,
+              "url": "https://t.co/GrmnN09vom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064254515042463823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见了朋友们，经历庞加莱回归我们还会重逢 https://t.co/GrmnN09vom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 600,
+          "like_count": 26486,
+          "listed_count": 2,
+          "media_count": 1178,
+          "tweet_count": 10992
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

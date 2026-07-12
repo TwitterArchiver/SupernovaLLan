@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063913449604935680",
+        "3_2063913449642672128"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063913460073902444",
+    "created_at": "2026-06-08T09:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063913460073902444"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "鈴蘭今天的饭"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UVVy7iq4W6",
+          "end": 155,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2063913460073902444/photo/1",
+          "media_key": "3_2063913449604935680",
+          "start": 132,
+          "url": "https://t.co/UVVy7iq4W6"
+        },
+        {
+          "display_url": "pic.x.com/UVVy7iq4W6",
+          "end": 155,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2063913460073902444/photo/1",
+          "media_key": "3_2063913449642672128",
+          "start": 132,
+          "url": "https://t.co/UVVy7iq4W6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063913460073902444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#鈴蘭今天的饭\n好久没用这个话题了！\n今天发布的是鱼头汤鱼粉、究极鲜美！鱼肉糜做的粉丝口口Q弹鱼味十足。\n昨天的双味芦笋！头部焯水白灼撒上蒜泥油泼，再倒上自制的清蒸汁；茎杆部分黄油橄榄油生煎至焦黄，撒上少许黑胡椒和百里香，整个菜芦笋双味双口感兴味十足。🤤🤤🤤🤤🤤 https://t.co/UVVy7iq4W6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063913460073902444].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063913460073902444",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063913460073902444"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063913449604935680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR-WOracAAVgWm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1768,
+        "media_key": "3_2063913449642672128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR-WO0aQAABNjE.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 601,
+          "like_count": 26447,
+          "listed_count": 2,
+          "media_count": 1176,
+          "tweet_count": 10983
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

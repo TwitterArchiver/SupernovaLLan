@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1858142385600868827",
+    "created_at": "2024-11-17T13:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T14:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858145442665759083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858145442665759083",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858142385600868827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 真假下一批就禁😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1858142385600868827",
+        "created_at": "2024-11-17T13:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T14:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858145442665759083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858145442665759083",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858142385600868827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 真假下一批就禁😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1858142385600868827",
+        "created_at": "2024-11-17T13:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T14:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858142385600868827"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "普瑞巴林",
+              "probability": 0.414,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/luonbe69/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/luonbe69/status/1858029785798377764",
+              "start": 5,
+              "url": "https://t.co/NXx8XZ33MB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858142385600868827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858029785798377764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "普瑞巴林 https://t.co/NXx8XZ33MB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 470,
+          "like_count": 22010,
+          "listed_count": 2,
+          "tweet_count": 8814
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "推特最大促智药商，有效帮助过732位（目前）ADHDer学业和工作| 雅牧主义者|不一定要卖药但是一定要解决你的问题|是服务不是零售|擅长认知神经科学 精神药理学 | 曾经的政治公众人物|梦想是人类智力总和+5% #本店只销售合法物品 想快速回复TG✈️：@Hagakuru",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "本店只销售合法物品"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Hagakuru"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "既見未來 為何不拜？",
+        "name": "🏴☯️葉經理是普羅米修斯嗎？",
+        "pinned_tweet_id": "1848717596360904886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838947042334486528/LXUKJSLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8362,
+          "following_count": 330,
+          "like_count": 5540,
+          "listed_count": 25,
+          "tweet_count": 10011
+        },
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

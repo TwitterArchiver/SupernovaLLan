@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859539506611073024"
+      ],
+      "media_source_tweet_id": [
+        "1859539512545902987"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1859600703716770279",
+    "created_at": "2024-11-21T14:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T15:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859600703716770279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1429829081684537345",
+          "start": 3,
+          "username": "Rabbubble550W"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oe58vyLSez",
+          "end": 48,
+          "expanded_url": "https://x.com/Rabbubble550W/status/1859539512545902987/photo/1",
+          "media_key": "3_1859539506611073024",
+          "start": 25,
+          "url": "https://t.co/oe58vyLSez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859600703716770279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859539512545902987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rabbubble550W: 致互关们： https://t.co/oe58vyLSez"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_1859539506611073024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc5pVDlbsAAuKAh.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859539506611073024"
+          ],
+          "media_source_tweet_id": [
+            "1859539512545902987"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1859600703716770279",
+        "created_at": "2024-11-21T14:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T15:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859600703716770279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1429829081684537345",
+              "start": 3,
+              "username": "Rabbubble550W"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oe58vyLSez",
+              "end": 48,
+              "expanded_url": "https://x.com/Rabbubble550W/status/1859539512545902987/photo/1",
+              "media_key": "3_1859539506611073024",
+              "start": 25,
+              "url": "https://t.co/oe58vyLSez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859600703716770279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859539512545902987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rabbubble550W: 致互关们： https://t.co/oe58vyLSez"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859539506611073024"
+          ]
+        },
+        "author_id": "1429829081684537345",
+        "conversation_id": "1859539512545902987",
+        "created_at": "2024-11-21T10:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T11:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859539512545902987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oe58vyLSez",
+              "end": 29,
+              "expanded_url": "https://x.com/Rabbubble550W/status/1859539512545902987/photo/1",
+              "media_key": "3_1859539506611073024",
+              "start": 6,
+              "url": "https://t.co/oe58vyLSez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859539512545902987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5378,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "致互关们： https://t.co/oe58vyLSez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 471,
+          "like_count": 22075,
+          "listed_count": 2,
+          "tweet_count": 8843
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:33:28.000Z",
+        "description": "常驻深圳，喜欢面基，欢迎私信互fo。喜欢分享日常，段子梗图大多来源于QQ空间与微信群聊，点赞转推梗图梗文不代表本人的意见 ，如有侵权请私信删除。最最最最喜欢对咱最好的人 @vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "vu_yoyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pocaro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                "start": 0,
+                "url": "https://t.co/xUAoJzmKgp"
+              }
+            ]
+          }
+        },
+        "id": "1429829081684537345",
+        "location": "上水",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1849349107871330725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845026694765346817/mJG2NgwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15084,
+          "following_count": 10881,
+          "like_count": 89334,
+          "listed_count": 45,
+          "tweet_count": 85988
+        },
+        "url": "https://t.co/xUAoJzmKgp",
+        "username": "Rabbubble550W",
+        "verified": true
+      }
+    ]
+  }
+}

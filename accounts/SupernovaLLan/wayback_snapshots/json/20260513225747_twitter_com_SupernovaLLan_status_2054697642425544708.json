@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054329270571286528"
+      ],
+      "media_source_tweet_id": [
+        "2054329818494161061"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2054697642425544708",
+    "created_at": "2026-05-13T22:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T23:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054697642425544708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044851271664869377",
+          "start": 3,
+          "username": "int_cconche"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bPc8aCnhtz",
+          "end": 103,
+          "expanded_url": "https://x.com/int_cconche/status/2054329818494161061/photo/1",
+          "media_key": "3_2054329270571286528",
+          "start": 80,
+          "url": "https://t.co/bPc8aCnhtz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054697642425544708",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054329818494161061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @int_cconche: Got nostalgic and was looking at some oldies. Here's a Suzuha. https://t.co/bPc8aCnhtz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054697642425544708].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054697642425544708",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054697642425544708"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2705,
+        "media_key": "3_2054329270571286528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJxllgWwAAerut.jpg",
+        "width": 2237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054329270571286528"
+          ]
+        },
+        "author_id": "2044851271664869377",
+        "conversation_id": "2054329818494161061",
+        "created_at": "2026-05-12T22:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054329818494161061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPc8aCnhtz",
+              "end": 86,
+              "expanded_url": "https://x.com/int_cconche/status/2054329818494161061/photo/1",
+              "media_key": "3_2054329270571286528",
+              "start": 63,
+              "url": "https://t.co/bPc8aCnhtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054329818494161061",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 4123,
+          "like_count": 565,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Got nostalgic and was looking at some oldies. Here's a Suzuha. https://t.co/bPc8aCnhtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 570,
+          "like_count": 25346,
+          "listed_count": 2,
+          "media_count": 1137,
+          "tweet_count": 10572
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T18:51:59.000Z",
+        "description": "Once again; I draw. \nMy pixiv - https://t.co/v1nCJsMlvE\nGoodies!! -  https://t.co/ro5YNH35zs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/71477…",
+                "end": 55,
+                "expanded_url": "https://www.pixiv.net/en/users/71477140",
+                "start": 32,
+                "url": "https://t.co/v1nCJsMlvE"
+              },
+              {
+                "display_url": "patreon.com/c/theconche",
+                "end": 92,
+                "expanded_url": "https://www.patreon.com/c/theconche",
+                "start": 69,
+                "url": "https://t.co/ro5YNH35zs"
+              }
+            ]
+          }
+        },
+        "id": "2044851271664869377",
+        "location": "🇨🇱Chile",
+        "name": "🔞INT_CC🔞 (Rebirth)",
+        "pinned_tweet_id": "2050980086212370581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044855281541148672/6oYsAwrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 191,
+          "like_count": 5810,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 128
+        },
+        "username": "int_cconche",
+        "verified": false
+      }
+    ]
+  }
+}

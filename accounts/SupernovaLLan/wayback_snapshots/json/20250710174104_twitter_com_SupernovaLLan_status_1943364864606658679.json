@@ -1,0 +1,598 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1943364864606658679",
+    "created_at": "2025-07-10T17:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T18:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943364864606658679"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 90,
+          "normalized_text": "NERV本部技術開発部技術局一課所属",
+          "probability": 0.2898,
+          "start": 73,
+          "type": "Organization"
+        },
+        {
+          "end": 133,
+          "normalized_text": "AAAヴンダー",
+          "probability": 0.4603,
+          "start": 127,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 14,
+          "tag": "伊吹マヤ誕生祭2025"
+        },
+        {
+          "end": 39,
+          "start": 27,
+          "tag": "伊吹マヤ生誕祭2025"
+        },
+        {
+          "end": 55,
+          "start": 40,
+          "tag": "7月11日は伊吹マヤの誕生日"
+        },
+        {
+          "end": 68,
+          "start": 56,
+          "tag": "新世紀エヴァンゲリオン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "207898118",
+          "start": 3,
+          "username": "tan_nyon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943364864606658679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943324333012627506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tan_nyon: #伊吹マヤ誕生祭2025\n#伊吹マヤ生誕祭2025\n#7月11日は伊吹マヤの誕生日\n#新世紀エヴァンゲリオン\n\n今日はNERV本部技術開発部技術局一課所属のオペレーター。赤城リツコ博士の部下にあたり彼女に強い憧れを抱いている。AAAヴンダーでは整備長…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1943302985821622275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvf_xQDakAMwYC8.jpg",
+        "width": 1280
+      },
+      {
+        "height": 544,
+        "media_key": "3_1943303016917934080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvf_zD5WoAAZpMw.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1943303048970858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvf_07TXcAABJyQ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 544,
+        "media_key": "3_1943303070521167872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvf_2LlXEAAPzRo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1943364864606658679",
+        "created_at": "2025-07-10T17:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T18:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943364864606658679"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 90,
+              "normalized_text": "NERV本部技術開発部技術局一課所属",
+              "probability": 0.2898,
+              "start": 73,
+              "type": "Organization"
+            },
+            {
+              "end": 133,
+              "normalized_text": "AAAヴンダー",
+              "probability": 0.4603,
+              "start": 127,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "伊吹マヤ誕生祭2025"
+            },
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "伊吹マヤ生誕祭2025"
+            },
+            {
+              "end": 55,
+              "start": 40,
+              "tag": "7月11日は伊吹マヤの誕生日"
+            },
+            {
+              "end": 68,
+              "start": 56,
+              "tag": "新世紀エヴァンゲリオン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "207898118",
+              "start": 3,
+              "username": "tan_nyon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943364864606658679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943324333012627506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tan_nyon: #伊吹マヤ誕生祭2025\n#伊吹マヤ生誕祭2025\n#7月11日は伊吹マヤの誕生日\n#新世紀エヴァンゲリオン\n\n今日はNERV本部技術開発部技術局一課所属のオペレーター。赤城リツコ博士の部下にあたり彼女に強い憧れを抱いている。AAAヴンダーでは整備長…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943302985821622275",
+            "3_1943303016917934080",
+            "3_1943303048970858496",
+            "3_1943303070521167872"
+          ]
+        },
+        "author_id": "207898118",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1943324333012627506",
+        "created_at": "2025-07-10T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943324333012627506"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 76,
+              "normalized_text": "NERV本部技術開発部技術局一課所属",
+              "probability": 0.2776,
+              "start": 59,
+              "type": "Organization"
+            },
+            {
+              "end": 119,
+              "normalized_text": "AAAヴンダー",
+              "probability": 0.5215,
+              "start": 113,
+              "type": "Organization"
+            },
+            {
+              "end": 134,
+              "normalized_text": "伊吹マヤさん",
+              "probability": 0.5407,
+              "start": 129,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "伊吹マヤ誕生祭2025"
+            },
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "伊吹マヤ生誕祭2025"
+            },
+            {
+              "end": 41,
+              "start": 26,
+              "tag": "7月11日は伊吹マヤの誕生日"
+            },
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "新世紀エヴァンゲリオン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LN4H1xjbnc",
+              "end": 178,
+              "expanded_url": "https://x.com/tan_nyon/status/1943324333012627506/photo/1",
+              "media_key": "3_1943302985821622275",
+              "start": 155,
+              "url": "https://t.co/LN4H1xjbnc"
+            },
+            {
+              "display_url": "pic.x.com/LN4H1xjbnc",
+              "end": 178,
+              "expanded_url": "https://x.com/tan_nyon/status/1943324333012627506/photo/1",
+              "media_key": "3_1943303016917934080",
+              "start": 155,
+              "url": "https://t.co/LN4H1xjbnc"
+            },
+            {
+              "display_url": "pic.x.com/LN4H1xjbnc",
+              "end": 178,
+              "expanded_url": "https://x.com/tan_nyon/status/1943324333012627506/photo/1",
+              "media_key": "3_1943303048970858496",
+              "start": 155,
+              "url": "https://t.co/LN4H1xjbnc"
+            },
+            {
+              "display_url": "pic.x.com/LN4H1xjbnc",
+              "end": 178,
+              "expanded_url": "https://x.com/tan_nyon/status/1943324333012627506/photo/1",
+              "media_key": "3_1943303070521167872",
+              "start": 155,
+              "url": "https://t.co/LN4H1xjbnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943324333012627506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#伊吹マヤ誕生祭2025\n#伊吹マヤ生誕祭2025\n#7月11日は伊吹マヤの誕生日\n#新世紀エヴァンゲリオン\n\n今日はNERV本部技術開発部技術局一課所属のオペレーター。赤城リツコ博士の部下にあたり彼女に強い憧れを抱いている。AAAヴンダーでは整備長を務める伊吹マヤさんの誕生日です。\nおめでとうございます🎉 https://t.co/LN4H1xjbnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 548,
+          "like_count": 24798,
+          "listed_count": 2,
+          "media_count": 1061,
+          "tweet_count": 9720
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-26T07:44:56.000Z",
+        "description": "いろいろやってるのでよかったらフォローください。 バンドリID 123892 ウマ娘 629989845 カラオケ垢 @tan_nyon2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "tan_nyon2nd"
+              }
+            ]
+          }
+        },
+        "id": "207898118",
+        "location": "群馬県",
+        "name": "tan",
+        "pinned_tweet_id": "1128981694155902977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1142775511438913536/zG8qNiuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3093,
+          "following_count": 2945,
+          "like_count": 183202,
+          "listed_count": 0,
+          "media_count": 10144,
+          "tweet_count": 33569
+        },
+        "username": "tan_nyon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10048370649",
+          "name": "宇宙戦艦ヤマト"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1397701163970011136",
+          "name": "Space Battleship Yamato"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397701163970011136",
+          "name": "Space Battleship Yamato"
+        }
+      }
+    ],
+    "conversation_id": "2056240337757306963",
+    "created_at": "2026-05-18T14:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056375679802102240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "，《null》下载，《null》在线试听，更多null相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/7iwp9IN",
+          "end": 132,
+          "expanded_url": "https://163cn.tv/7iwp9IN",
+          "start": 109,
+          "status": 200,
+          "title": "- - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=26284066&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=121925532&playerUIModeId=76001&app_version=9.2.60&dlt=0846",
+          "url": "https://t.co/kNbiw8nU3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056375679802102240",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056240337757306963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2204\n摄入蛋挞，嘴唇无感觉咀嚼也感觉弱\n\n分享Project Yamato 2199的单曲《宇宙戦艦ヤマト (TV播放版动画《宇宙战舰大和号2199》OP1 / TVアニメ『宇宙戦艦ヤマト2199』OP1テーマ)》https://t.co/kNbiw8nU3u (@网易云音乐)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056240323723145216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk7rhRaMAAs8m9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10048370649",
+              "name": "宇宙戦艦ヤマト"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1397701163970011136",
+              "name": "Space Battleship Yamato"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397701163970011136",
+              "name": "Space Battleship Yamato"
+            }
+          }
+        ],
+        "conversation_id": "2056240337757306963",
+        "created_at": "2026-05-18T14:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056375679802102240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "，《null》下载，《null》在线试听，更多null相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/7iwp9IN",
+              "end": 132,
+              "expanded_url": "https://163cn.tv/7iwp9IN",
+              "start": 109,
+              "status": 200,
+              "title": "- - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=26284066&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=121925532&playerUIModeId=76001&app_version=9.2.60&dlt=0846",
+              "url": "https://t.co/kNbiw8nU3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056375679802102240",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056240337757306963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2204\n摄入蛋挞，嘴唇无感觉咀嚼也感觉弱\n\n分享Project Yamato 2199的单曲《宇宙戦艦ヤマト (TV播放版动画《宇宙战舰大和号2199》OP1 / TVアニメ『宇宙戦艦ヤマト2199』OP1テーマ)》https://t.co/kNbiw8nU3u (@网易云音乐)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056240323723145216"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2056240337757306963",
+        "created_at": "2026-05-18T05:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056240337757306963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6R9MGVe956",
+              "end": 175,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2056240337757306963/photo/1",
+              "media_key": "3_2056240323723145216",
+              "start": 152,
+              "url": "https://t.co/6R9MGVe956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056240337757306963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟诸多推友交流过之后基本确定这个几把药吃起来会上吐下泻，原因是成分表里面采用了上古老方酚酞右美沙芬，还有愈创木酚磺酸钾，这俩垃圾货就是会让人很不舒服上吐下泻的）现在亲自下场验证一下，也做一下记录✍🏻\n有效成分240mg\n（不知道是不是按DXM计算）折合16t\n昂丹司琼1t  4mg 止吐\n下面开始记录 https://t.co/6R9MGVe956"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 574,
+          "like_count": 25579,
+          "listed_count": 2,
+          "media_count": 1146,
+          "tweet_count": 10692
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

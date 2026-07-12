@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1847286342050570502",
+    "created_at": "2024-10-28T09:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T10:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850837558751813885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1381591540355637252",
+          "start": 0,
+          "username": "BH2USU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850837558751813885",
+    "in_reply_to_user_id": "1381591540355637252",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847286342050570502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BH2USU 对于漏了真空的采血管，看到抽验血的护士的操作～是把另一个针头插进采血管抽气制造负压，也能顺利采血"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1847286342050570502",
+        "created_at": "2024-10-28T09:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T10:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850837558751813885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1381591540355637252",
+              "start": 0,
+              "username": "BH2USU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850837558751813885",
+        "in_reply_to_user_id": "1381591540355637252",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847286342050570502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BH2USU 对于漏了真空的采血管，看到抽验血的护士的操作～是把另一个针头插进采血管抽气制造负压，也能顺利采血"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847286337092874241"
+          ]
+        },
+        "author_id": "1381591540355637252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1847286342050570502",
+        "created_at": "2024-10-18T14:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T15:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847286342050570502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTJgKsUW5H",
+              "end": 76,
+              "expanded_url": "https://x.com/BH2USU/status/1847286342050570502/photo/1",
+              "media_key": "3_1847286337092874241",
+              "start": 53,
+              "url": "https://t.co/LTJgKsUW5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847286342050570502",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1953,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第1次穿刺扎进了血管，但是没有力气单手把针扎进采血管里了\n第2次穿刺采血管漏了真空\n玩了一胳膊的血\n作罢 https://t.co/LTJgKsUW5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 468,
+          "like_count": 21639,
+          "listed_count": 2,
+          "tweet_count": 8612
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T12:54:36.000Z",
+        "description": "170/70纯爱木桶饭()本体是一只狸花猫Ⅱ型BD🚪50 CNY解锁好友位\n有对象  @KaZeNaGi_Q\n键政禁止🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "KaZeNaGi_Q"
+              }
+            ]
+          }
+        },
+        "id": "1381591540355637252",
+        "location": "瀋陽",
+        "name": "神樂坂言水🍥🏳️‍⚧️BH²USU",
+        "pinned_tweet_id": "1839751606717558845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812419509258506240/c9pYnB5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 353,
+          "like_count": 2891,
+          "listed_count": 1,
+          "tweet_count": 878
+        },
+        "username": "BH2USU",
+        "verified": false
+      }
+    ]
+  }
+}

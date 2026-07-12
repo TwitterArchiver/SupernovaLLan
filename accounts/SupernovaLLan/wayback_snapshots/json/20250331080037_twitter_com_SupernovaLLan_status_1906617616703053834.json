@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1906403670562103733",
+    "created_at": "2025-03-31T08:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T09:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906617616703053834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1481943703878991872",
+          "start": 0,
+          "username": "xiaoyi_e_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906617616703053834",
+    "in_reply_to_user_id": "1481943703878991872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906403670562103733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyi_e_ 现在的肉体凡胎可能真的是硅基或者电磁生命的引导程序）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1906403670562103733",
+        "created_at": "2025-03-31T08:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T09:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906617616703053834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1481943703878991872",
+              "start": 0,
+              "username": "xiaoyi_e_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906617616703053834",
+        "in_reply_to_user_id": "1481943703878991872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906403670562103733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyi_e_ 现在的肉体凡胎可能真的是硅基或者电磁生命的引导程序）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481943703878991872",
+        "conversation_id": "1906403670562103733",
+        "created_at": "2025-03-30T17:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T18:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906403670562103733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906403670562103733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到了小时候对人文社科不感兴趣的感觉。我认为这个世界终究不是人类的。人类只是宇宙的过客。7的工作记忆，10bit/s的处理速率，10m/s的传播速度不足以承载未来。我觉得人文学科处理的知识局限于人类这个物种，而这是相对（理科）较狭隘的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 535,
+          "like_count": 23890,
+          "listed_count": 2,
+          "media_count": 1034,
+          "tweet_count": 9505
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T10:59:37.000Z",
+        "description": "A twisted angel.小C在此！ || INTP、asd?、nd、ADHD?、nerd?||非常非常热爱科学||喜欢的游戏：Rimworld、noita、inside、oneshot等||想交朋友！ 提供情绪价值 ￥50/30min.前3免费",
+        "id": "1481943703878991872",
+        "location": "Nipponbashihigashi, Osaka",
+        "name": "crazycq · 疯狂小C🌟",
+        "pinned_tweet_id": "1864264409130127541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860287077109334016/Wy_Wp6ZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 230,
+          "like_count": 8619,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1845
+        },
+        "username": "xiaoyi_e_",
+        "verified": false
+      }
+    ]
+  }
+}

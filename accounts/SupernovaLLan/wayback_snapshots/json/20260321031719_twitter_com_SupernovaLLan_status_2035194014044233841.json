@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "All conversation about the United States Federal Bureau of Investigation",
+          "id": "937710668706299904",
+          "name": "Federal Bureau of Investigation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "All conversation about the United States Federal Bureau of Investigation",
+          "id": "937710668706299904",
+          "name": "Federal Bureau of Investigation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2035194014044233841",
+    "created_at": "2026-03-21T03:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T04:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035194014044233841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1236908710523326464",
+          "start": 3,
+          "username": "lovelycake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035194014044233841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034913908260216994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovelycake: 大家还记得这个炫耀走私显卡的sb不\n他的供货商被Fbi抓了😂\n和这种人合作真是倒了血霉了🤡\n\n2年前，昆仑巢创始人苏菂，公开炫耀如何逃避美国的制裁，走私了200片英伟达的H200显卡。\n\n视频里直接展示了SuperMicro的标识。… https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68543,
+        "height": 492,
+        "media_key": "13_2034913824755826688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034913824755826688/img/Frt4qs-bw6_mpQBN.jpg",
+        "public_metrics": {
+          "view_count": 224262
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034913824755826688/vid/avc1/486x270/uLNLpwAVVWYhRuve.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034913824755826688/vid/avc1/648x360/zRBWNWEutmnRfzvG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034913824755826688/vid/avc1/886x492/d2dBSdUsekdKXJJA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034913824755826688/pl/wllwLHN5qCIIELCm.m3u8?v=aa2"
+          }
+        ],
+        "width": 886
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034913824730750976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD13V5eboAAYpXK.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2035194014044233841",
+        "created_at": "2026-03-21T03:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035194014044233841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1236908710523326464",
+              "start": 3,
+              "username": "lovelycake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035194014044233841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034913908260216994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovelycake: 大家还记得这个炫耀走私显卡的sb不\n他的供货商被Fbi抓了😂\n和这种人合作真是倒了血霉了🤡\n\n2年前，昆仑巢创始人苏菂，公开炫耀如何逃避美国的制裁，走私了200片英伟达的H200显卡。\n\n视频里直接展示了SuperMicro的标识。… https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034913824755826688",
+            "3_2034913824730750976"
+          ]
+        },
+        "author_id": "1236908710523326464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2034913908260216994",
+        "created_at": "2026-03-20T08:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034913908260216994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pwg2dcpFdm",
+              "end": 140,
+              "expanded_url": "https://x.com/lovelycake/status/2034913908260216994/video/1",
+              "media_key": "13_2034913824755826688",
+              "start": 117,
+              "url": "https://t.co/Pwg2dcpFdm"
+            },
+            {
+              "display_url": "pic.x.com/Pwg2dcpFdm",
+              "end": 140,
+              "expanded_url": "https://x.com/lovelycake/status/2034913908260216994/video/1",
+              "media_key": "3_2034913824730750976",
+              "start": 117,
+              "url": "https://t.co/Pwg2dcpFdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034913908260216994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家还记得这个炫耀走私显卡的sb不\n他的供货商被Fbi抓了😂\n和这种人合作真是倒了血霉了🤡\n\n2年前，昆仑巢创始人苏菂，公开炫耀如何逃避美国的制裁，走私了200片英伟达的H200显卡。\n\n视频里直接展示了SuperMicro的标识。\n\nFBI根据这个sb提供的信息，顺藤摸瓜，查到了他的供应商是超微电脑(SMCI)高层，直接抓了😂\n\n调查显示，廖、张、孙三人利用东南亚公司，合谋向中国买家出售数十亿美元英伟达GPU，最长面临20年刑期。\n😂😂😂"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 359492,
+          "like_count": 1238,
+          "quote_count": 23,
+          "reply_count": 104,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "大家还记得这个炫耀走私显卡的sb不\n他的供货商被Fbi抓了😂\n和这种人合作真是倒了血霉了🤡\n\n2年前，昆仑巢创始人苏菂，公开炫耀如何逃避美国的制裁，走私了200片英伟达的H200显卡。\n\n视频里直接展示了SuperMicro的标识。 https://t.co/Pwg2dcpFdm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 524,
+          "like_count": 24580,
+          "listed_count": 2,
+          "media_count": 1100,
+          "tweet_count": 10072
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-09T06:56:46.000Z",
+        "description": "面对邪恶，如果我们都沉默了，那凭什么指望别人来拯救我们。",
+        "id": "1236908710523326464",
+        "location": "日本",
+        "name": "小蛋糕(日本勇者村）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345328983622107137/M5KziEMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19419,
+          "following_count": 1973,
+          "like_count": 26836,
+          "listed_count": 82,
+          "media_count": 3124,
+          "tweet_count": 8184
+        },
+        "username": "lovelycake",
+        "verified": true
+      }
+    ]
+  }
+}

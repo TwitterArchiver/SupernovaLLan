@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863987844387348480"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1863976484995756039",
+    "created_at": "2024-12-03T16:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T17:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863987853942014096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yPLPrT7Bcm",
+          "end": 44,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1863987853942014096/photo/1",
+          "media_key": "3_1863987844387348480",
+          "start": 21,
+          "url": "https://t.co/yPLPrT7Bcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863987853942014096",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863976484995756039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 已经结束力 https://t.co/yPLPrT7Bcm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1863987853942014096].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1863987853942014096",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1863987853942014096"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1863987844387348480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd43EZJaoAAuqWJ.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1863976484995756039",
+        "created_at": "2024-12-03T15:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T16:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863976484995756039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863976484995756039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "韩国在干嘛，在政变吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 485,
+          "like_count": 22304,
+          "listed_count": 2,
+          "media_count": 989,
+          "tweet_count": 8981
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙/历史进程/沼泽浮木/为时不晚/委员会账号 @NankyuOfficial",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "NankyuOfficial"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1863574456205213709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 648,
+          "like_count": 6908,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 3733
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

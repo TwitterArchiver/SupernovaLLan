@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1856738122496950614",
+    "created_at": "2024-11-13T16:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T17:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856738122496950614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1304986508613410816",
+          "start": 3,
+          "username": "Kunluntalk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856738122496950614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856557587686126021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kunluntalk: 三大史无前例的战略任务，将把马斯克推向最具危险性挑战，和最有历史价值的战略预期：简评马斯克和美国政府效率部的诞生，是终结建制派体系，重塑美国联邦系统的美国新曼哈顿工程。美国联邦政府效率部，正式成立，说白了，就两件事，第一，赶走华盛顿DC的政府蛀虫…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1856738122496950614",
+        "created_at": "2024-11-13T16:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T17:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856738122496950614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1304986508613410816",
+              "start": 3,
+              "username": "Kunluntalk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856738122496950614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856557587686126021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kunluntalk: 三大史无前例的战略任务，将把马斯克推向最具危险性挑战，和最有历史价值的战略预期：简评马斯克和美国政府效率部的诞生，是终结建制派体系，重塑美国联邦系统的美国新曼哈顿工程。美国联邦政府效率部，正式成立，说白了，就两件事，第一，赶走华盛顿DC的政府蛀虫…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856557232063709184"
+          ]
+        },
+        "author_id": "1304986508613410816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1856557587686126021",
+        "created_at": "2024-11-13T04:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T05:38:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856557236392268249",
+          "1856557587686126021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2TU9Ht8dq",
+              "end": 166,
+              "expanded_url": "https://x.com/Kunluntalk/status/1856557587686126021/photo/1",
+              "media_key": "3_1856557232063709184",
+              "start": 143,
+              "url": "https://t.co/q2TU9Ht8dq"
+            },
+            {
+              "display_url": "x.com/kunluntalk/sta…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/kunluntalk/status/1856504334105882652",
+              "start": 167,
+              "url": "https://t.co/3792aDSjy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856557587686126021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "三大史无前例的战略任务，将把马斯克推向最具危险性挑战，和最有历史价值的战略预期：简评马斯克和美国政府效率部的诞生，是终结建制派体系，重塑美国联邦系统的美国新曼哈顿工程。美国联邦政府效率部，正式成立，说白了，就两件事，第一，赶走华盛顿DC的政府蛀虫，第二，给没解雇的联邦政府的雇员们增加工作量。\n\n无论哪一个，都是挖别人祖坟的买卖。势必激起整个公务员阶层的抵抗和报复和反扑。\n\n这和中外历史上的任何一个改革一样，必须有人在做出牺牲的同时，推进国家和社会向前迈步。\n\n从今天开始，马斯克已经将自己置于最危险的境地，川普给他的三项任务，每一个，都是史无前例的硬骨头，\n\n第一，消除政府官僚主义。\n\n简单说，就是裁员和增效。把不干活的，不必要存在的人和部门，撤掉，同时让现有的人更有效率。\n\n官僚主义存在的原因，就是无人监管，野蛮膨胀。\n\n第二，削减过度监管、削减浪费性支出。\n\n美国的农业部，专门成立一个项目，研究猴子的变性，这就和中国社科院有的一拼了。马斯克的星舰飞船被监管的一个原因是，降落时声音太大影响鲨鱼的听力。\n\n这就是过度监管，必然产生过度浪费。\n\n第三，重组联邦机构。\n\n就是合并同类项，美国CDC，FDA，美国邮政，美国教育部，美国交通部，市场能做的，就不要花纳税人的钱。\n\n朋友们，川普不是改革，而是在重造美国。\n\n如果你能理解这一点，就能体会，川普，马斯克，所面临的危险，和所创造的价值。\n\n祝福美国，\n\n祝福马斯克，\n\n祝福川普…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 528808,
+          "like_count": 488,
+          "quote_count": 9,
+          "reply_count": 60,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856504334105882652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三大史无前例的战略任务，将把马斯克推向最具危险性挑战，和最有历史价值的战略预期：简评马斯克和美国政府效率部的诞生，是终结建制派体系，重塑美国联邦系统的美国新曼哈顿工程。美国联邦政府效率部，正式成立，说白了，就两件事，第一，赶走华盛顿DC的政府蛀虫，第二，给没解雇的联邦政府的雇员们增… https://t.co/q2TU9Ht8dq https://t.co/3792aDSjy1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 470,
+          "like_count": 22000,
+          "listed_count": 2,
+          "tweet_count": 8783
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T03:33:38.000Z",
+        "description": "@kunluninstitute kunluninstitute Principal Investigator.Economic liberal, cultural conservative. cooperation on academic research: kunluninstitute@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "kunluninstitute"
+              }
+            ]
+          }
+        },
+        "id": "1304986508613410816",
+        "name": "KUNLUN昆侖",
+        "pinned_tweet_id": "1848132522158539201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847764406240722946/E-LuznNn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63318,
+          "following_count": 670,
+          "like_count": 16244,
+          "listed_count": 294,
+          "tweet_count": 18456
+        },
+        "username": "Kunluntalk",
+        "verified": true
+      }
+    ]
+  }
+}

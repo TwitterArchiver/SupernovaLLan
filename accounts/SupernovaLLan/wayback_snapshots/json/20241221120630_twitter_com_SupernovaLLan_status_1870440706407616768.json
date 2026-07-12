@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1870418909964509419",
+    "created_at": "2024-12-21T12:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T13:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870440706407616768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663160032693981184",
+          "start": 0,
+          "username": "QingSong79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870440706407616768",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870434018271072438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingSong79 猜想最近拉升这一波是为了把之前砸盘的资金接回来，之后应该还会继续控盘去吸上面套牢散户的筹码进一步控盘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1870418909964509419",
+        "created_at": "2024-12-21T12:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T13:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870440706407616768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663160032693981184",
+              "start": 0,
+              "username": "QingSong79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870440706407616768",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870434018271072438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingSong79 猜想最近拉升这一波是为了把之前砸盘的资金接回来，之后应该还会继续控盘去吸上面套牢散户的筹码进一步控盘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1870418909964509419",
+        "created_at": "2024-12-21T11:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T12:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870434018271072438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663160032693981184",
+              "start": 0,
+              "username": "QingSong79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870434018271072438",
+        "in_reply_to_user_id": "1663160032693981184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870418909964509419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingSong79 小白看法🥺请阿祖老师批改\n10月中主力成本在7.5左右，连板之后用顶部筹码砸盘洗盘，11月上旬调整至12.5左右的横盘吸引散户，主力将7.5左右筹码出货套利，11月中旬新主力砸盘进场后开始横盘控盘，老主力把底部筹码出货后离场，新主力持续吸收12.5左右的套牢散户筹码后最近开始进一步拉伸-套利-洗盘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 502,
+          "like_count": 22568,
+          "listed_count": 2,
+          "media_count": 1001,
+          "tweet_count": 9143
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T12:27:19.000Z",
+        "description": "Dérobe la foudre aux Dieux & le sceptre aux tyrans.||01/投机学习/感悟分享/Crypto/A股/期货/外汇黄金 ||体制.代际.群体〈观物取象，反观其物〉",
+        "id": "1663160032693981184",
+        "location": "Los Angeles, CA",
+        "name": "Azu",
+        "pinned_tweet_id": "1869772107149979773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726997190210691072/II_9GOau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11639,
+          "following_count": 846,
+          "like_count": 1577,
+          "listed_count": 155,
+          "media_count": 878,
+          "tweet_count": 5539
+        },
+        "username": "QingSong79",
+        "verified": true
+      }
+    ]
+  }
+}

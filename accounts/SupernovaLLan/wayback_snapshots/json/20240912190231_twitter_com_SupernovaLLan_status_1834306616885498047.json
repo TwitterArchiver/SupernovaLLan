@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1824031480559058944"
+      ],
+      "media_source_tweet_id": [
+        "1824031621160263777"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1834306616885498047",
+    "created_at": "2024-09-12T19:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T20:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834306616885498047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1586109924702130177",
+          "start": 3,
+          "username": "Bio_comunidad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xixdsd6nro",
+          "end": 134,
+          "expanded_url": "https://twitter.com/medi_cosity/status/1824031621160263777/video/1",
+          "media_key": "7_1824031480559058944",
+          "start": 111,
+          "url": "https://t.co/xiXdsd6nrO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834306616885498047",
+    "lang": "es",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1964
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833941867370549472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bio_comunidad: Corazón humano, como nunca antes visto, latiendo fuera del cuerpo, esperando un trasplante.\nhttps://t.co/xiXdsd6nrO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10843,
+        "height": 1280,
+        "media_key": "7_1824031480559058944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1824031480559058944/pu/img/HXIsj5isUZk6PY4X.jpg",
+        "public_metrics": {
+          "view_count": 575847
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824031480559058944/pu/vid/avc1/320x568/VSunQCXTN7FUjkCU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824031480559058944/pu/vid/avc1/480x852/n2mROlBAzs8UW27e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824031480559058944/pu/vid/avc1/720x1280/vHSd05S_odaeWmS3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1824031480559058944/pu/pl/iZ914NBKhDYxyPZB.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1824031480559058944"
+          ],
+          "media_source_tweet_id": [
+            "1824031621160263777"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1834306616885498047",
+        "created_at": "2024-09-12T19:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T20:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834306616885498047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1586109924702130177",
+              "start": 3,
+              "username": "Bio_comunidad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xixdsd6nro",
+              "end": 134,
+              "expanded_url": "https://twitter.com/medi_cosity/status/1824031621160263777/video/1",
+              "media_key": "7_1824031480559058944",
+              "start": 111,
+              "url": "https://t.co/xiXdsd6nrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834306616885498047",
+        "lang": "es",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1964
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833941867370549472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bio_comunidad: Corazón humano, como nunca antes visto, latiendo fuera del cuerpo, esperando un trasplante.\nhttps://t.co/xiXdsd6nrO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1824031480559058944"
+          ],
+          "media_source_tweet_id": [
+            "1824031621160263777"
+          ]
+        },
+        "author_id": "1586109924702130177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1833941867370549472",
+        "created_at": "2024-09-11T18:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T19:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833941867370549472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xixdsd6nro",
+              "end": 115,
+              "expanded_url": "https://twitter.com/medi_cosity/status/1824031621160263777/video/1",
+              "media_key": "7_1824031480559058944",
+              "start": 92,
+              "url": "https://t.co/xiXdsd6nrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833941867370549472",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2486,
+          "impression_count": 706004,
+          "like_count": 15893,
+          "quote_count": 117,
+          "reply_count": 104,
+          "retweet_count": 1964
+        },
+        "reply_settings": "everyone",
+        "text": "Corazón humano, como nunca antes visto, latiendo fuera del cuerpo, esperando un trasplante.\nhttps://t.co/xiXdsd6nrO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 445,
+          "like_count": 20813,
+          "listed_count": 2,
+          "tweet_count": 8115
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T21:38:08.000Z",
+        "description": "Somos una comunidad que difunde lo mejor de las ciencias biológicas, en un lenguaje claro y sencillo, accesible al público en general.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "comunidad-biologica.com",
+                "end": 23,
+                "expanded_url": "https://comunidad-biologica.com/",
+                "start": 0,
+                "url": "https://t.co/11gi6NA5bj"
+              }
+            ]
+          }
+        },
+        "id": "1586109924702130177",
+        "name": "Comunidad Biológica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586110268379205633/9HwCaRhy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447981,
+          "following_count": 95,
+          "like_count": 124,
+          "listed_count": 1102,
+          "tweet_count": 5929
+        },
+        "url": "https://t.co/11gi6NA5bj",
+        "username": "Bio_comunidad",
+        "verified": true
+      }
+    ]
+  }
+}

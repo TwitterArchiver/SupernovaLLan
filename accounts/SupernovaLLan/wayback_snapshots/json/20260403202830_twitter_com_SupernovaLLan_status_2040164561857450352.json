@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2040164561857450352",
+    "created_at": "2026-04-03T20:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T21:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040164561857450352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1069599820912910337",
+          "start": 3,
+          "username": "mubeitech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040164561857450352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039771264638718080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mubeitech: 左媒记者把麦克风递给即将绕月的宇航员。\n他们满心期待收割标准的政治正确答案。\n结果等来了一记直拳。\n\nArtemis II 的飞行员 Victor Glover 是黑人。\n记者特意问他肤色在这次任务中的意义。\nGlover 根本不接这个身份政治的诱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44326,
+        "height": 1280,
+        "media_key": "7_2039771218635522048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039771218635522048/pu/img/M2EeBrhOwNsT8akA.jpg",
+        "public_metrics": {
+          "view_count": 64353
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039771218635522048/pu/vid/avc1/320x568/6nFGtA4v-T7JIwqo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039771218635522048/pu/vid/avc1/480x852/-RtSxb1LJE-1xr3W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039771218635522048/pu/vid/avc1/720x1280/wx3SLPJjYw2Z1x-c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039771218635522048/pu/pl/vC2smhZLUX5DuV9y.m3u8?tag=12&v=e8c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2040164561857450352",
+        "created_at": "2026-04-03T20:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T21:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040164561857450352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1069599820912910337",
+              "start": 3,
+              "username": "mubeitech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040164561857450352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039771264638718080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mubeitech: 左媒记者把麦克风递给即将绕月的宇航员。\n他们满心期待收割标准的政治正确答案。\n结果等来了一记直拳。\n\nArtemis II 的飞行员 Victor Glover 是黑人。\n记者特意问他肤色在这次任务中的意义。\nGlover 根本不接这个身份政治的诱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039771218635522048"
+          ]
+        },
+        "author_id": "1069599820912910337",
+        "conversation_id": "2039771264638718080",
+        "created_at": "2026-04-02T18:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039771264638718080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1rVgZCO52U",
+              "end": 170,
+              "expanded_url": "https://x.com/mubeitech/status/2039771264638718080/video/1",
+              "media_key": "7_2039771218635522048",
+              "start": 147,
+              "url": "https://t.co/1rVgZCO52U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039771264638718080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "左媒记者把麦克风递给即将绕月的宇航员。\n他们满心期待收割标准的政治正确答案。\n结果等来了一记直拳。\n\nArtemis II 的飞行员 Victor Glover 是黑人。\n记者特意问他肤色在这次任务中的意义。\nGlover 根本不接这个身份政治的诱饵。\n他说孩子们能看到同肤色的榜样确实挺好。\n但他极其反感无休止地炒作“族裔第一”。\n\n把人种标签贴到太空探索上，格局太小了。\n他说这一切根本不该被切分成什么黑人史或者女性史。\n登月属于整个人类的宏大叙事。\n宇宙面前，肤色游戏一文不值。\n\n以前探索太空靠的是硬核算力和极致的勇气。\n现在媒体总想让它靠基因彩票。\nGlover 把那张彩票直接当众撕了。\n真正的星辰大海容不下这种无聊的政治算计。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 149123,
+          "like_count": 1601,
+          "quote_count": 13,
+          "reply_count": 48,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "左媒记者把麦克风递给即将绕月的宇航员。\n他们满心期待收割标准的政治正确答案。\n结果等来了一记直拳。\n\nArtemis II 的飞行员 Victor Glover 是黑人。\n记者特意问他肤色在这次任务中的意义。\nGlover 根本不接这个身份政治的诱饵。\n他说孩子们能看到同肤色的榜样确实挺好。 https://t.co/1rVgZCO52U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 523,
+          "like_count": 24191,
+          "listed_count": 2,
+          "media_count": 1104,
+          "tweet_count": 10090
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T14:30:44.000Z",
+        "description": "人类的金色通道：Crypto → AI → Space！美国政治、AI科技、国际博弈--用人话讲给你听。",
+        "id": "1069599820912910337",
+        "name": "墓碑科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936440283094265856/FEwHZFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57525,
+          "following_count": 4119,
+          "like_count": 10922,
+          "listed_count": 297,
+          "media_count": 9787,
+          "tweet_count": 73791
+        },
+        "username": "mubeitech",
+        "verified": true
+      }
+    ]
+  }
+}

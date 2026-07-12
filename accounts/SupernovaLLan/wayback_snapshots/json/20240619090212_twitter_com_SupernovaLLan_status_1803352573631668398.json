@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1802956130169286880",
+    "created_at": "2024-06-19T09:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T10:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803352573631668398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803352573631668398",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802957291664412940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 原来是芒狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1802956130169286880",
+        "created_at": "2024-06-19T09:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T10:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803352573631668398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803352573631668398",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802957291664412940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 原来是芒狗"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802957286261788672"
+          ]
+        },
+        "author_id": "1657055349982244865",
+        "conversation_id": "1802956130169286880",
+        "created_at": "2024-06-18T06:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T07:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802957291664412940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/wyHZCmoWbN",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Glagagapot/status/1802957291664412940/photo/1",
+              "media_key": "3_1802957286261788672",
+              "start": 8,
+              "url": "https://t.co/wyHZCmoWbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802957291664412940",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802956546516885663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是一颗芒果核 https://t.co/wyHZCmoWbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 434,
+          "like_count": 20647,
+          "listed_count": 2,
+          "tweet_count": 7910
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "我是Gla嘎拉｜点赞关注不代表立场",
+        "id": "1657055349982244865",
+        "location": "嘎拉国",
+        "name": "没有香也没有魔法的嘎拉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802578687734456320/ejJKuZs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 907,
+          "like_count": 26831,
+          "listed_count": 2,
+          "tweet_count": 9677
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

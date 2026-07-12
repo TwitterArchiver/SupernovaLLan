@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1866259412471668970",
+    "created_at": "2024-12-09T23:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T00:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866270769233400049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866270769233400049",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866259414078148721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 哦不每天被人指导着该怎么做沦为执行木偶😟。。。南可以多听一下自己的心声啦，大学确实是疗养精神的好时机、南本身状态不佳的话学业能维持过关就好了，重点还是放在疗养精神上吧，多做做自己喜欢感兴趣的事，有机会去多游历四方开开眼界，首先确保精神和自我存续口牙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1866259412471668970",
+        "created_at": "2024-12-09T23:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T00:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866270769233400049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866270769233400049",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866259414078148721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 哦不每天被人指导着该怎么做沦为执行木偶😟。。。南可以多听一下自己的心声啦，大学确实是疗养精神的好时机、南本身状态不佳的话学业能维持过关就好了，重点还是放在疗养精神上吧，多做做自己喜欢感兴趣的事，有机会去多游历四方开开眼界，首先确保精神和自我存续口牙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650760116918943744",
+        "conversation_id": "1866259412471668970",
+        "created_at": "2024-12-09T23:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T00:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866259414078148721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866259414078148721",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866259412471668970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说了以后他说不参加和同学也混不熟 以后什么都不知道 然后又说了好多影响学分什么什么的 搞得我好焦虑好崩溃 于是逼迫着自己去参加了\n然后开始上学 有很长一段时间亲友都在和我闹绝交 仔细想想好像从军训完就开始了 我被搞崩溃了无数次 当时在上课时天天应激狂哭 每天上学都是蓬头垢面的 糟糕得难以形"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 488,
+          "like_count": 22384,
+          "listed_count": 2,
+          "media_count": 997,
+          "tweet_count": 9077
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "https://t.co/ZnwIMvxxKK博客",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/ZnwIMvxxKK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "   ",
+        "name": "TFEI终端机",
+        "pinned_tweet_id": "1861045420178472963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861060221797605376/eCnGL3pL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3458,
+          "following_count": 903,
+          "like_count": 43529,
+          "listed_count": 5,
+          "media_count": 299,
+          "tweet_count": 8623
+        },
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

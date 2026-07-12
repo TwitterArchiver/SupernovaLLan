@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1872264648957071529",
+    "created_at": "2024-12-26T12:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T13:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872265625848176686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1722418855",
+          "start": 0,
+          "username": "paitangcuzhi"
+        },
+        {
+          "end": 27,
+          "id": "1858727254345281536",
+          "start": 14,
+          "username": "minamiovo233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872265625848176686",
+    "in_reply_to_user_id": "1722418855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872265140416176472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paitangcuzhi @minamiovo233 一空输"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1872264648957071529",
+        "created_at": "2024-12-26T12:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T13:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872265625848176686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1722418855",
+              "start": 0,
+              "username": "paitangcuzhi"
+            },
+            {
+              "end": 27,
+              "id": "1858727254345281536",
+              "start": 14,
+              "username": "minamiovo233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872265625848176686",
+        "in_reply_to_user_id": "1722418855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872265140416176472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paitangcuzhi @minamiovo233 一空输"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722418855",
+        "conversation_id": "1872264648957071529",
+        "created_at": "2024-12-26T12:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T13:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872265140416176472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "minamiovo233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872265140416176472",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872264648957071529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minamiovo233 输出什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 504,
+          "like_count": 22751,
+          "listed_count": 2,
+          "media_count": 1006,
+          "tweet_count": 9192
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-02T13:44:45.000Z",
+        "description": "牢叶个人账户 不接单勿私信 下单联系大号或者tg",
+        "id": "1722418855",
+        "name": "☯️葉道長",
+        "pinned_tweet_id": "1839188426224185770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868208800945311744/UOMAN8wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 8,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 76
+        },
+        "username": "paitangcuzhi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "像一只可爱的小动物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "仓小南🍄",
+        "pinned_tweet_id": "1869771716622475604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870673115895975936/BHJIyYZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 23,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "minamiovo233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1861959640239800320"
+      ],
+      "media_source_tweet_id": [
+        "1861959710150172994"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1862076122441413044",
+    "created_at": "2024-11-28T10:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T11:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862076122441413044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1698511441957908480",
+          "start": 3,
+          "username": "shui_dao62398"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ssdfMFgn14",
+          "end": 90,
+          "expanded_url": "https://x.com/shui_dao62398/status/1861959710150172994/video/1",
+          "media_key": "7_1861959640239800320",
+          "start": 67,
+          "url": "https://t.co/ssdfMFgn14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862076122441413044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861959710150172994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shui_dao62398: 70后：你吃吧，妈不吃\n80后：你先吃，妈再吃\n90后：你别吃，让妈吃\n00后：你去弄点给妈吃 https://t.co/ssdfMFgn14"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13066,
+        "height": 1920,
+        "media_key": "7_1861959640239800320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1861959640239800320/pu/img/3W52xSUA2SL2IOTm.jpg",
+        "public_metrics": {
+          "view_count": 67666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861959640239800320/pu/vid/avc1/320x568/afjDzHuw1Rx5rk4s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861959640239800320/pu/vid/avc1/480x852/k_DpobyZcgvYr3pQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861959640239800320/pu/vid/avc1/720x1280/VcpVtel74-SZDs06.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1861959640239800320/pu/pl/hB11cqluq99Jrm95.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861959640239800320"
+          ],
+          "media_source_tweet_id": [
+            "1861959710150172994"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1862076122441413044",
+        "created_at": "2024-11-28T10:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T11:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862076122441413044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1698511441957908480",
+              "start": 3,
+              "username": "shui_dao62398"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssdfMFgn14",
+              "end": 90,
+              "expanded_url": "https://x.com/shui_dao62398/status/1861959710150172994/video/1",
+              "media_key": "7_1861959640239800320",
+              "start": 67,
+              "url": "https://t.co/ssdfMFgn14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862076122441413044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861959710150172994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shui_dao62398: 70后：你吃吧，妈不吃\n80后：你先吃，妈再吃\n90后：你别吃，让妈吃\n00后：你去弄点给妈吃 https://t.co/ssdfMFgn14"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861959640239800320"
+          ]
+        },
+        "author_id": "1698511441957908480",
+        "conversation_id": "1861959710150172994",
+        "created_at": "2024-11-28T02:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T03:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861959710150172994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssdfMFgn14",
+              "end": 71,
+              "expanded_url": "https://x.com/shui_dao62398/status/1861959710150172994/video/1",
+              "media_key": "7_1861959640239800320",
+              "start": 48,
+              "url": "https://t.co/ssdfMFgn14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861959710150172994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 118446,
+          "like_count": 190,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "70后：你吃吧，妈不吃\n80后：你先吃，妈再吃\n90后：你别吃，让妈吃\n00后：你去弄点给妈吃 https://t.co/ssdfMFgn14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 481,
+          "like_count": 22160,
+          "listed_count": 2,
+          "media_count": 983,
+          "tweet_count": 8917
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T01:41:08.000Z",
+        "description": "喜欢旅游、音乐、追剧、运动。如有漏关请留言（如侵权，必删）",
+        "id": "1698511441957908480",
+        "location": "中国🇨🇳",
+        "name": "水城观天下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719625967227080704/ScA2IPkV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18523,
+          "following_count": 16994,
+          "like_count": 29261,
+          "listed_count": 28,
+          "media_count": 2550,
+          "tweet_count": 17483
+        },
+        "username": "shui_dao62398",
+        "verified": false
+      }
+    ]
+  }
+}

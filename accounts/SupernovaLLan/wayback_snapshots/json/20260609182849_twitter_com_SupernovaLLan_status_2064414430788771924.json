@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2064411554045690143",
+    "created_at": "2026-06-09T18:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064414430788771924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551235687277465600",
+          "start": 0,
+          "username": "zyfisapoppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064414430788771924",
+    "in_reply_to_user_id": "1551235687277465600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064411554045690143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyfisapoppy 第一遍：不对最后什么动静？\n第二遍：注意力完全在末尾粗重的男喘上了🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9635,
+        "height": 1280,
+        "media_key": "13_2064411462668627968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064411462668627968/img/TRNDeM7PELUisP96.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064411462668627968/vid/avc1/320x568/I2Vg2ChtWCT9lArz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064411462668627968/vid/avc1/480x852/N-mI_5dtPP8L0ard.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064411462668627968/vid/avc1/720x1280/uTXIipsGTHKFe4Jq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064411462668627968/pl/MQv6z95gnB_RyYQJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064411554045690143",
+        "created_at": "2026-06-09T18:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064414430788771924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551235687277465600",
+              "start": 0,
+              "username": "zyfisapoppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064414430788771924",
+        "in_reply_to_user_id": "1551235687277465600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064411554045690143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyfisapoppy 第一遍：不对最后什么动静？\n第二遍：注意力完全在末尾粗重的男喘上了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064411462668627968"
+          ]
+        },
+        "author_id": "1551235687277465600",
+        "conversation_id": "2064411554045690143",
+        "created_at": "2026-06-09T18:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064411554045690143"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "做爱"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "微胖"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "娇喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfSrxDXrmg",
+              "end": 48,
+              "expanded_url": "https://x.com/zyfisapoppy/status/2064411554045690143/video/1",
+              "media_key": "13_2064411462668627968",
+              "start": 25,
+              "url": "https://t.co/jfSrxDXrmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064411554045690143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一段偷偷录制的娇喘录音\n#做爱\n#微胖\n #娇喘 https://t.co/jfSrxDXrmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 601,
+          "like_count": 26508,
+          "listed_count": 2,
+          "media_count": 1178,
+          "tweet_count": 11004
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T15:59:54.000Z",
+        "description": "一个平平无奇恋爱脑罢了\n纯双相发疯碎碎念\n有洁癖，不考虑跟任何我对象以外的人做",
+        "id": "1551235687277465600",
+        "name": "汤显祖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827744480943800321/xQnwkjFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 184,
+          "like_count": 948,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 463
+        },
+        "username": "zyfisapoppy",
+        "verified": false
+      }
+    ]
+  }
+}

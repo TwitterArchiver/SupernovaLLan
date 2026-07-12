@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1861694357365301452",
+    "created_at": "2024-11-27T08:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T09:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861694357365301452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/therapistgreen…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/therapistgreen_/status/1861660952787329250",
+          "start": 18,
+          "url": "https://t.co/AF7YaDzjWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861694357365301452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861660952787329250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亲测疑似具有短期治疗抑郁症的功效🫣 https://t.co/AF7YaDzjWj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1861660952787329250].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1861660952787329250",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1861660952787329250"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1861694357365301452",
+        "created_at": "2024-11-27T08:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T09:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861694357365301452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/therapistgreen…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/therapistgreen_/status/1861660952787329250",
+              "start": 18,
+              "url": "https://t.co/AF7YaDzjWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861694357365301452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861660952787329250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亲测疑似具有短期治疗抑郁症的功效🫣 https://t.co/AF7YaDzjWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 479,
+          "like_count": 22137,
+          "listed_count": 2,
+          "tweet_count": 8899
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

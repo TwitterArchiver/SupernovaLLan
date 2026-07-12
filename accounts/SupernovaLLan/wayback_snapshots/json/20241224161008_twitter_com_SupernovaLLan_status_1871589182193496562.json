@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871589174941560832"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1871400941532094535",
+    "created_at": "2024-12-24T16:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T17:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871589182193496562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663160032693981184",
+          "start": 0,
+          "username": "QingSong79"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MKKabEb2Wz",
+          "end": 63,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1871589182193496562/photo/1",
+          "media_key": "3_1871589174941560832",
+          "start": 40,
+          "url": "https://t.co/MKKabEb2Wz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871589182193496562",
+    "in_reply_to_user_id": "1663160032693981184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871400941532094535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingSong79 今早的瑞斯康达）看见绿转红晚了手忙脚乱没挂上单倍感遗憾 https://t.co/MKKabEb2Wz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1871589182193496562].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1871589182193496562",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1871589182193496562"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_1871589174941560832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfk4cEHbsAAc67a.jpg",
+        "width": 237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871400919042330624",
+            "3_1871400918920609793",
+            "3_1871400918920683520",
+            "3_1871400919033905152"
+          ]
+        },
+        "author_id": "1663160032693981184",
+        "conversation_id": "1871400941532094535",
+        "created_at": "2024-12-24T03:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T04:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871400941532094535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TIfsffU2PZ",
+              "end": 47,
+              "expanded_url": "https://x.com/QingSong79/status/1871400941532094535/photo/1",
+              "media_key": "3_1871400919042330624",
+              "start": 24,
+              "url": "https://t.co/TIfsffU2PZ"
+            },
+            {
+              "display_url": "pic.x.com/TIfsffU2PZ",
+              "end": 47,
+              "expanded_url": "https://x.com/QingSong79/status/1871400941532094535/photo/1",
+              "media_key": "3_1871400918920609793",
+              "start": 24,
+              "url": "https://t.co/TIfsffU2PZ"
+            },
+            {
+              "display_url": "pic.x.com/TIfsffU2PZ",
+              "end": 47,
+              "expanded_url": "https://x.com/QingSong79/status/1871400941532094535/photo/1",
+              "media_key": "3_1871400918920683520",
+              "start": 24,
+              "url": "https://t.co/TIfsffU2PZ"
+            },
+            {
+              "display_url": "pic.x.com/TIfsffU2PZ",
+              "end": 47,
+              "expanded_url": "https://x.com/QingSong79/status/1871400941532094535/photo/1",
+              "media_key": "3_1871400919033905152",
+              "start": 24,
+              "url": "https://t.co/TIfsffU2PZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871400941532094535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 9047,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人研究竞价盘口的？\n\n私信我一起研究研究 https://t.co/TIfsffU2PZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 503,
+          "like_count": 22685,
+          "listed_count": 2,
+          "media_count": 1004,
+          "tweet_count": 9173
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T12:27:19.000Z",
+        "description": "Dérobe la foudre aux Dieux & le sceptre aux tyrans.||01/投机学习/感悟分享/Crypto/A股/期货/外汇黄金 ||体制.代际.群体〈观物取象，反观其物〉",
+        "id": "1663160032693981184",
+        "location": "Los Angeles, CA",
+        "name": "Azu",
+        "pinned_tweet_id": "1869772107149979773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726997190210691072/II_9GOau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11813,
+          "following_count": 845,
+          "like_count": 1715,
+          "listed_count": 158,
+          "media_count": 915,
+          "tweet_count": 5717
+        },
+        "username": "QingSong79",
+        "verified": true
+      }
+    ]
+  }
+}

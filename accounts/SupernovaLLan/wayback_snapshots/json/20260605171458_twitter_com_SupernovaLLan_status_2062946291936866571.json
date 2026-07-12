@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062946282617147392",
+        "3_2062946282659090433"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060273423683883044",
+    "created_at": "2026-06-05T17:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062946291936866571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942213637902348289",
+          "start": 0,
+          "username": "luobodoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V1vhTFr35a",
+          "end": 40,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2062946291936866571/photo/1",
+          "media_key": "3_2062946282617147392",
+          "start": 17,
+          "url": "https://t.co/V1vhTFr35a"
+        },
+        {
+          "display_url": "pic.x.com/V1vhTFr35a",
+          "end": 40,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2062946291936866571/photo/1",
+          "media_key": "3_2062946282659090433",
+          "start": 17,
+          "url": "https://t.co/V1vhTFr35a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062946291936866571",
+    "in_reply_to_user_id": "1942213637902348289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060273423683883044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobodoul 崭新出厂！ https://t.co/V1vhTFr35a"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062946291936866571].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062946291936866571",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062946291936866571"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062946282617147392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEOts4bkAAztRv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062946282659090433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEOttCbkAEMvjk.jpg",
+        "width": 1484
+      },
+      {
+        "height": 2022,
+        "media_key": "3_2060273411587559424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJePwIXb0AAIhyE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060273411587559424"
+          ]
+        },
+        "author_id": "1942213637902348289",
+        "conversation_id": "2060273423683883044",
+        "created_at": "2026-05-29T08:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060273423683883044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtZTVhoToQ",
+              "end": 49,
+              "expanded_url": "https://x.com/luobodoul/status/2060273423683883044/photo/1",
+              "media_key": "3_2060273411587559424",
+              "start": 26,
+              "url": "https://t.co/UtZTVhoToQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060273423683883044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2455,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿自己弄了一个普瑞巴林拼豆图纸，拿了的评论一句。 https://t.co/UtZTVhoToQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 594,
+          "like_count": 26342,
+          "listed_count": 2,
+          "media_count": 1169,
+          "tweet_count": 10959
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:26:36.000Z",
+        "description": "里垢｜记录日常和自己的碎碎念｜梦到什么写什么｜🚪188｜520",
+        "id": "1942213637902348289",
+        "location": "ig:harasama0",
+        "name": "萝卜🥕hara",
+        "pinned_tweet_id": "2062073418011554202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062073121549721600/6tjBEaLE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 97,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 368
+        },
+        "username": "luobodoul",
+        "verified": false
+      }
+    ]
+  }
+}

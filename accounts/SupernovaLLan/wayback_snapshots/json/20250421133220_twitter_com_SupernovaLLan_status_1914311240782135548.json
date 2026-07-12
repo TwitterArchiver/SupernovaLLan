@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1914311240782135548",
+    "created_at": "2025-04-21T13:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T14:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914311240782135548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kenntnis22/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/kenntnis22/status/1913917242720342170",
+          "start": 39,
+          "url": "https://t.co/CsTYJsJTy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914311240782135548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913917242720342170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点难以忍受大小皇帝了，还是在阿根廷的地界上，部分基于这些理由所以我离职了） https://t.co/CsTYJsJTy8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_1913917237867520001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-ZlmSXIAEqFVD.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1914311240782135548",
+        "created_at": "2025-04-21T13:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T14:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914311240782135548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kenntnis22/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/kenntnis22/status/1913917242720342170",
+              "start": 39,
+              "url": "https://t.co/CsTYJsJTy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914311240782135548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913917242720342170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点难以忍受大小皇帝了，还是在阿根廷的地界上，部分基于这些理由所以我离职了） https://t.co/CsTYJsJTy8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913917237867520001"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1913917242720342170",
+        "created_at": "2025-04-20T11:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T12:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913917242720342170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Os7UOSUdPY",
+              "end": 42,
+              "expanded_url": "https://x.com/Kenntnis22/status/1913917242720342170/photo/1",
+              "media_key": "3_1913917237867520001",
+              "start": 19,
+              "url": "https://t.co/Os7UOSUdPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913917242720342170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 69219,
+          "like_count": 383,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "每一个大独裁者下面都有无数个小独裁者 https://t.co/Os7UOSUdPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 551,
+          "like_count": 24226,
+          "listed_count": 2,
+          "media_count": 1040,
+          "tweet_count": 9585
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1913162101398417771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29440,
+          "following_count": 305,
+          "like_count": 23132,
+          "listed_count": 133,
+          "media_count": 4582,
+          "tweet_count": 7166
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

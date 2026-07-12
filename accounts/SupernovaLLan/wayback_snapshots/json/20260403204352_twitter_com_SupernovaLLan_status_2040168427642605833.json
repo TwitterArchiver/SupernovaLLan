@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2040080358725886192",
+    "created_at": "2026-04-03T20:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T21:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040168427642605833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色情卡通片的線上看體驗，絕對沒有天殺的片頭廣告！",
+          "display_url": "hanime1.me",
+          "end": 38,
+          "expanded_url": "https://hanime1.me",
+          "start": 15,
+          "status": 200,
+          "title": "Hanime1.me - H動漫/裏番/線上看",
+          "unwound_url": "https://hanime1.me",
+          "url": "https://t.co/LEmAlRSKDP"
+        },
+        {
+          "description": "夜社资源提供视频、有声、写真、漫画、小说、吃瓜七大类海量成人资源，采用行业顶级CDN + NVMe存储，M3U8纯净无广告、无播放接口劫持，图床高速HTTPS长期稳定。资源更新快、采集省心、线路超稳，远超普通小站，是站长建站/内容采集的可靠选择！",
+          "display_url": "yeshezy1.com",
+          "end": 68,
+          "expanded_url": "https://yeshezy1.com",
+          "start": 45,
+          "status": 200,
+          "title": "夜社资源 - yeshezy1.com",
+          "unwound_url": "https://yeshezy1.com",
+          "url": "https://t.co/OHz2pt0N4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040168427642605833",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040080358725886192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi https://t.co/LEmAlRSKDP\n纯二次元站\nhttps://t.co/OHz2pt0N4j\n不挑食从这边史里淘金也行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2040080358725886192",
+        "created_at": "2026-04-03T20:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T21:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040168427642605833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Hanime1.me 帶給你最完美的H動漫、H動畫、裏番、里番、成人色情卡通片的線上看體驗，絕對沒有天殺的片頭廣告！",
+              "display_url": "hanime1.me",
+              "end": 38,
+              "expanded_url": "https://hanime1.me",
+              "start": 15,
+              "status": 200,
+              "title": "Hanime1.me - H動漫/裏番/線上看",
+              "unwound_url": "https://hanime1.me",
+              "url": "https://t.co/LEmAlRSKDP"
+            },
+            {
+              "description": "夜社资源提供视频、有声、写真、漫画、小说、吃瓜七大类海量成人资源，采用行业顶级CDN + NVMe存储，M3U8纯净无广告、无播放接口劫持，图床高速HTTPS长期稳定。资源更新快、采集省心、线路超稳，远超普通小站，是站长建站/内容采集的可靠选择！",
+              "display_url": "yeshezy1.com",
+              "end": 68,
+              "expanded_url": "https://yeshezy1.com",
+              "start": 45,
+              "status": 200,
+              "title": "夜社资源 - yeshezy1.com",
+              "unwound_url": "https://yeshezy1.com",
+              "url": "https://t.co/OHz2pt0N4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040168427642605833",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040080358725886192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi https://t.co/LEmAlRSKDP\n纯二次元站\nhttps://t.co/OHz2pt0N4j\n不挑食从这边史里淘金也行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "2040080358725886192",
+        "created_at": "2026-04-03T14:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040080358725886192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040080358725886192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1373,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问下推友现在到底在哪里找片看的…我感觉现在pornhub好难看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 523,
+          "like_count": 24192,
+          "listed_count": 2,
+          "media_count": 1104,
+          "tweet_count": 10092
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 1373,
+          "like_count": 33164,
+          "listed_count": 3,
+          "media_count": 746,
+          "tweet_count": 9586
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

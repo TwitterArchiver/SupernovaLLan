@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1860132398039728199",
+    "created_at": "2024-11-23T10:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T11:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860275594895983017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860275594895983017",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860132398039728199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce oi怎么侧脸有点像电棍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1860132398039728199",
+        "created_at": "2024-11-23T10:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T11:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860275594895983017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860275594895983017",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860132398039728199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce oi怎么侧脸有点像电棍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860132273158303744",
+            "3_1860132320591675392",
+            "3_1860132349897261056"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1860132398039728199",
+        "created_at": "2024-11-23T01:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T02:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860132398039728199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5zFjRsekU",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/1860132398039728199/photo/1",
+              "media_key": "3_1860132273158303744",
+              "start": 7,
+              "url": "https://t.co/O5zFjRsekU"
+            },
+            {
+              "display_url": "pic.x.com/O5zFjRsekU",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/1860132398039728199/photo/1",
+              "media_key": "3_1860132320591675392",
+              "start": 7,
+              "url": "https://t.co/O5zFjRsekU"
+            },
+            {
+              "display_url": "pic.x.com/O5zFjRsekU",
+              "end": 30,
+              "expanded_url": "https://x.com/Aloevce/status/1860132398039728199/photo/1",
+              "media_key": "3_1860132349897261056",
+              "start": 7,
+              "url": "https://t.co/O5zFjRsekU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860132398039728199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2937,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对象哥太萌了 https://t.co/O5zFjRsekU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 473,
+          "like_count": 22066,
+          "listed_count": 2,
+          "tweet_count": 8858
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "神人",
+        "id": "1495662254544789506",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "1851543858343194650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831653051679096832/5KzaPtOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17565,
+          "following_count": 2311,
+          "like_count": 53368,
+          "listed_count": 21,
+          "tweet_count": 19459
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

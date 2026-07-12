@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1993249884934488508",
+    "created_at": "2025-11-25T10:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993260589305745729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1363804005583888386",
+          "start": 0,
+          "username": "Lgasuiyuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993260589305745729",
+    "in_reply_to_user_id": "1363804005583888386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993249884934488508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lgasuiyuno 不儿自己要进去的又要你放吗）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1993249884934488508",
+        "created_at": "2025-11-25T10:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993260589305745729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1363804005583888386",
+              "start": 0,
+              "username": "Lgasuiyuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993260589305745729",
+        "in_reply_to_user_id": "1363804005583888386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993249884934488508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lgasuiyuno 不儿自己要进去的又要你放吗）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363804005583888386",
+        "conversation_id": "1993249884934488508",
+        "created_at": "2025-11-25T09:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993249884934488508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993249884934488508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女友说她在封闭式里面好惨 十个人一个房间 一天什么事情都不没得干要我放她出去 可是这根本不可能啊 她会死的 不可能放她出来我也好崩溃 我瘦了快十斤了这几天 什么减肥方法都没不吃饭快😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 536,
+          "like_count": 25020,
+          "listed_count": 2,
+          "media_count": 1087,
+          "tweet_count": 9940
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T10:53:16.000Z",
+        "description": "......呜.......\n‖双相|精神疾病|目前饲养两只咪物一只汪物|♂|05-_-||这是我的日记|互关欢迎|od会发疯|开放式关系👁️女友@suyan_dog\n里森堡卢伦贝格精神病保护协会已死 驻马德里分会基金组织将永远纪念它✟✟✟✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "suyan_dog"
+              }
+            ]
+          }
+        },
+        "id": "1363804005583888386",
+        "location": "卢伦贝格",
+        "name": "✟罂粟花与堡协会✟",
+        "pinned_tweet_id": "1990061098285084786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863050008976637952/OaGJENLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 724,
+          "like_count": 8184,
+          "listed_count": 3,
+          "media_count": 1303,
+          "tweet_count": 10296
+        },
+        "username": "Lgasuiyuno",
+        "verified": false
+      }
+    ]
+  }
+}

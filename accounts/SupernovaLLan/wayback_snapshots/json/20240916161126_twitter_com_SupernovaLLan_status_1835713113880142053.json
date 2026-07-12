@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835234994547310594"
+      ],
+      "media_source_tweet_id": [
+        "1835234999639195929"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1835713113880142053",
+    "created_at": "2024-09-16T16:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T17:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835713113880142053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1097665188768014337",
+          "start": 3,
+          "username": "bossboss0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xak9daqp11",
+          "end": 54,
+          "expanded_url": "https://twitter.com/bossboss0w0/status/1835234999639195929/photo/1",
+          "media_key": "3_1835234994547310594",
+          "start": 31,
+          "url": "https://t.co/xAK9dAQp11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835713113880142053",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 572
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835234999639195929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bossboss0w0: 月餅裡面沒有月亮 差評（X https://t.co/xAK9dAQp11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1835234994547310594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXgQgQlbwAI74Yn.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835234994547310594"
+          ],
+          "media_source_tweet_id": [
+            "1835234999639195929"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1835713113880142053",
+        "created_at": "2024-09-16T16:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T17:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835713113880142053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1097665188768014337",
+              "start": 3,
+              "username": "bossboss0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xak9daqp11",
+              "end": 54,
+              "expanded_url": "https://twitter.com/bossboss0w0/status/1835234999639195929/photo/1",
+              "media_key": "3_1835234994547310594",
+              "start": 31,
+              "url": "https://t.co/xAK9dAQp11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835713113880142053",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 572
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835234999639195929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bossboss0w0: 月餅裡面沒有月亮 差評（X https://t.co/xAK9dAQp11"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835234994547310594"
+          ]
+        },
+        "author_id": "1097665188768014337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1835234999639195929",
+        "created_at": "2024-09-15T08:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T09:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835234999639195929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xak9daqp11",
+              "end": 37,
+              "expanded_url": "https://twitter.com/bossboss0w0/status/1835234999639195929/photo/1",
+              "media_key": "3_1835234994547310594",
+              "start": 14,
+              "url": "https://t.co/xAK9dAQp11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835234999639195929",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 201580,
+          "like_count": 3663,
+          "quote_count": 91,
+          "reply_count": 43,
+          "retweet_count": 572
+        },
+        "reply_settings": "everyone",
+        "text": "月餅裡面沒有月亮 差評（X https://t.co/xAK9dAQp11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 445,
+          "like_count": 21009,
+          "listed_count": 2,
+          "tweet_count": 8158
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-19T01:12:29.000Z",
+        "description": "嗷~大家好呀~我是一隻可愛的冬冬熊同時也是遊戲中的魔王BOSS，立志是要將這世界的人跟生物全部吃光嗷\n建模&繪師&剪輯 : 本熊\n棉花糖 : https://t.co/bstuFlbkkm\n圖奇直播 : https://t.co/qdGjsgcZKt\n\n#vtuber準備中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 127,
+                "tag": "vtuber準備中"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/4Wba2D",
+                "end": 94,
+                "expanded_url": "https://reurl.cc/4Wba2D",
+                "start": 71,
+                "url": "https://t.co/bstuFlbkkm"
+              },
+              {
+                "display_url": "twitch.tv/boss0w0b",
+                "end": 125,
+                "expanded_url": "https://www.twitch.tv/boss0w0b",
+                "start": 102,
+                "url": "https://t.co/qdGjsgcZKt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCgwcf…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCgwcfvYAG8-4yxUiLk4IoNw",
+                "start": 0,
+                "url": "https://t.co/eaV3IRVto6"
+              }
+            ]
+          }
+        },
+        "id": "1097665188768014337",
+        "location": "冬咚星的咚咚島裡的冬冬村",
+        "name": "冬冬熊BOSS🐻| 個人勢|佛系經營Vtuber準備中",
+        "pinned_tweet_id": "1718943558357626932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775138992478121984/B6oYYv2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 1026,
+          "like_count": 21315,
+          "listed_count": 2,
+          "tweet_count": 5757
+        },
+        "url": "https://t.co/eaV3IRVto6",
+        "username": "bossboss0w0",
+        "verified": false
+      }
+    ]
+  }
+}

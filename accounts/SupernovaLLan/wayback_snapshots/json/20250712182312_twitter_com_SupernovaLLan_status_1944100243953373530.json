@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944100235908685824"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1944100243953373530",
+    "created_at": "2025-07-12T18:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T19:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944100243953373530"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 3,
+          "tag": "PolitiScales"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 63,
+          "id": "1330528589603811330",
+          "start": 48,
+          "username": "rePolitiscales"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Welcome to the PolitiScales, the online political test. You will be confronted to a series of affirmations and for each of them you will have to click on the button which corresponds the most to your opinion.",
+          "display_url": "politiscales.party/results?YjA9Nj…",
+          "end": 44,
+          "expanded_url": "https://politiscales.party/results?YjA9NjImczA9NzEmczE9MTQmYzE9MzYmYzA9NDAmZmVtaT00OCZlMT02NCZlMD0xNCZqMT0yOSZqMD01NSZwMT0zMyZwMD00MyZtMT0yMSZtMD00OCZ0MD00OCZ0MT0zNiZwcmFnPTEwMCZjb21wPTY3",
+          "start": 21,
+          "status": 200,
+          "title": "PolitiScales - Your results",
+          "unwound_url": "https://politiscales.party/results?YjA9NjImczA9NzEmczE9MTQmYzE9MzYmYzA9NDAmZmVtaT00OCZlMT02NCZlMD0xNCZqMT0yOSZqMD01NSZwMT0zMyZwMD00MyZtMT0yMSZtMD00OCZ0MD00OCZ0MT0zNiZwcmFnPTEwMCZjb21wPTY3",
+          "url": "https://t.co/ZVNP7lG1JD"
+        },
+        {
+          "display_url": "pic.x.com/Hh0W7ZvEuD",
+          "end": 87,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1944100243953373530/photo/1",
+          "media_key": "3_1944100235908685824",
+          "start": 64,
+          "url": "https://t.co/Hh0W7ZvEuD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944100243953373530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的 #PolitiScales 结果： https://t.co/ZVNP7lG1JD 来自 @rePolitiscales https://t.co/Hh0W7ZvEuD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944100243953373530].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944100243953373530",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944100243953373530"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944100235908685824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvrU3UEXIAA5_Yl.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 548,
+          "like_count": 24804,
+          "listed_count": 2,
+          "media_count": 1062,
+          "tweet_count": 9724
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-22T15:08:37.000Z",
+        "description": "The most complete political test, nuancing your opinion in 8 different ways",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "politiscales.party",
+                "end": 23,
+                "expanded_url": "https://politiscales.party/",
+                "start": 0,
+                "url": "https://t.co/Dit8ag6pOE"
+              }
+            ]
+          }
+        },
+        "id": "1330528589603811330",
+        "name": "Politiscales",
+        "pinned_tweet_id": "1474373839442386947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1330529208217587716/_RttsOEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 12,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/Dit8ag6pOE",
+        "username": "rePolitiscales",
+        "verified": false
+      }
+    ]
+  }
+}

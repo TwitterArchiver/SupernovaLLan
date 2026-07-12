@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1877005538111729998",
+    "created_at": "2025-01-08T14:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T15:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877005538111729998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1359720578446364675",
+          "start": 3,
+          "username": "4uinP_bb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877005538111729998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876285103732936925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4uinP_bb: 小时候接到过一通法轮功电话，里面跟我爆料中共迫害活摘器官之类，但我小时候听不懂这种长难句，我以为他们的意思是我不退党团队就要摘我的，给我吓得两天没睡着觉\n最后我哭着跟我妈说妈妈我要三退"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1877005538111729998",
+        "created_at": "2025-01-08T14:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T15:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877005538111729998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1359720578446364675",
+              "start": 3,
+              "username": "4uinP_bb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877005538111729998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876285103732936925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4uinP_bb: 小时候接到过一通法轮功电话，里面跟我爆料中共迫害活摘器官之类，但我小时候听不懂这种长难句，我以为他们的意思是我不退党团队就要摘我的，给我吓得两天没睡着觉\n最后我哭着跟我妈说妈妈我要三退"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359720578446364675",
+        "conversation_id": "1876285103732936925",
+        "created_at": "2025-01-06T15:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876285103732936925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876285103732936925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 98207,
+          "like_count": 1090,
+          "quote_count": 13,
+          "reply_count": 78,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "小时候接到过一通法轮功电话，里面跟我爆料中共迫害活摘器官之类，但我小时候听不懂这种长难句，我以为他们的意思是我不退党团队就要摘我的，给我吓得两天没睡着觉\n最后我哭着跟我妈说妈妈我要三退"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 516,
+          "like_count": 22970,
+          "listed_count": 2,
+          "media_count": 1012,
+          "tweet_count": 9259
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T04:27:20.000Z",
+        "description": "🟦⬜⬛満州出身 中日語⭕\n学マス アズルレ 世界史  音ゲー \nむごんふぉろーごめん\n芽花幸佳組あるナー\nmai 15700+🌈 真5 UK曲全鳥も努力中\nPS4 KV-5 姫崎莉波 推し\n@pienguin404  ←避難垢\n 「モニタリング」お断り ポスト/いいね≠賛同",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "pienguin404"
+              }
+            ]
+          }
+        },
+        "id": "1359720578446364675",
+        "location": "満州·盛京第一工作機械工場",
+        "name": "ぴえんギン🥺🐧",
+        "pinned_tweet_id": "1825769700778979679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873729623437213696/womYHvW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 1783,
+          "like_count": 14745,
+          "listed_count": 8,
+          "media_count": 674,
+          "tweet_count": 4752
+        },
+        "username": "4uinP_bb",
+        "verified": false
+      }
+    ]
+  }
+}

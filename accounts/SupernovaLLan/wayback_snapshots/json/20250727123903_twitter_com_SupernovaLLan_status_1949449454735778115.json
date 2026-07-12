@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949070063342145536"
+      ],
+      "media_source_tweet_id": [
+        "1949070065879617947"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1949449454735778115",
+    "created_at": "2025-07-27T12:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T13:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949449454735778115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830959507750690816",
+          "start": 3,
+          "username": "Ama_UV3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LZkqktpnHg",
+          "end": 47,
+          "expanded_url": "https://x.com/Ama_UV3/status/1949070065879617947/photo/1",
+          "media_key": "3_1949070063342145536",
+          "start": 24,
+          "url": "https://t.co/LZkqktpnHg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949449454735778115",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8040
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949070065879617947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ama_UV3: 俺、疲れてるのかな… https://t.co/LZkqktpnHg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_1949070063342145536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwx85V_bUAAbH9j.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949070063342145536"
+          ],
+          "media_source_tweet_id": [
+            "1949070065879617947"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1949449454735778115",
+        "created_at": "2025-07-27T12:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949449454735778115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830959507750690816",
+              "start": 3,
+              "username": "Ama_UV3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZkqktpnHg",
+              "end": 47,
+              "expanded_url": "https://x.com/Ama_UV3/status/1949070065879617947/photo/1",
+              "media_key": "3_1949070063342145536",
+              "start": 24,
+              "url": "https://t.co/LZkqktpnHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949449454735778115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8040
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949070065879617947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ama_UV3: 俺、疲れてるのかな… https://t.co/LZkqktpnHg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949070063342145536"
+          ]
+        },
+        "author_id": "1830959507750690816",
+        "conversation_id": "1949070065879617947",
+        "created_at": "2025-07-26T11:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T12:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949070065879617947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZkqktpnHg",
+              "end": 34,
+              "expanded_url": "https://x.com/Ama_UV3/status/1949070065879617947/photo/1",
+              "media_key": "3_1949070063342145536",
+              "start": 11,
+              "url": "https://t.co/LZkqktpnHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949070065879617947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7157,
+          "impression_count": 11161788,
+          "like_count": 103328,
+          "quote_count": 606,
+          "reply_count": 612,
+          "retweet_count": 8040
+        },
+        "reply_settings": "everyone",
+        "text": "俺、疲れてるのかな… https://t.co/LZkqktpnHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 549,
+          "like_count": 24838,
+          "listed_count": 2,
+          "media_count": 1066,
+          "tweet_count": 9761
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T13:22:41.000Z",
+        "description": "こう見えて実はアニメ好き\nちょっとずつフォロバします\nサブ→@ama_2_25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "ama_2_25"
+              }
+            ]
+          }
+        },
+        "id": "1830959507750690816",
+        "location": "フォロー外さないでください",
+        "name": "あま",
+        "pinned_tweet_id": "1920068667125186869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944720789804294144/m0_HQVGx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8494,
+          "following_count": 888,
+          "like_count": 5299,
+          "listed_count": 10,
+          "media_count": 25,
+          "tweet_count": 388
+        },
+        "username": "Ama_UV3",
+        "verified": false
+      }
+    ]
+  }
+}

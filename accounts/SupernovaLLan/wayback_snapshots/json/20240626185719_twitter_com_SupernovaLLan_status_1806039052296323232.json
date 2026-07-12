@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1806039052296323232",
+    "created_at": "2024-06-26T18:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T19:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806039052296323232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1793853330520969216",
+          "start": 3,
+          "username": "mskcnmb8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806039052296323232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802947736045867440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mskcnmb8964: 泥嚎 我素鸡排3.0版\n08 166 44kg  精神疾病/自残/od/厌食症/社恐\n前世我惨遭封锁 如今堂堂转生归来请助力我找回前世互关！\n\n🚪门槛68聊天+朋友圈//128同上有福利//520同上做你的小舔狗^⁠ω^\n给的越多我给你提供的情…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1806039052296323232].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1806039052296323232",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1806039052296323232"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802947732824641536",
+            "3_1802947732287741952",
+            "3_1802947732174512128",
+            "3_1802947732216393728"
+          ]
+        },
+        "author_id": "1793853330520969216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1802947736045867440",
+        "created_at": "2024-06-18T06:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T07:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802947736045867440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/goqvP3GBuB",
+              "end": 177,
+              "expanded_url": "https://twitter.com/mskcnmb8964/status/1802947736045867440/photo/1",
+              "media_key": "3_1802947732824641536",
+              "start": 154,
+              "url": "https://t.co/goqvP3GBuB"
+            },
+            {
+              "display_url": "pic.twitter.com/goqvP3GBuB",
+              "end": 177,
+              "expanded_url": "https://twitter.com/mskcnmb8964/status/1802947736045867440/photo/1",
+              "media_key": "3_1802947732287741952",
+              "start": 154,
+              "url": "https://t.co/goqvP3GBuB"
+            },
+            {
+              "display_url": "pic.twitter.com/goqvP3GBuB",
+              "end": 177,
+              "expanded_url": "https://twitter.com/mskcnmb8964/status/1802947736045867440/photo/1",
+              "media_key": "3_1802947732174512128",
+              "start": 154,
+              "url": "https://t.co/goqvP3GBuB"
+            },
+            {
+              "display_url": "pic.twitter.com/goqvP3GBuB",
+              "end": 177,
+              "expanded_url": "https://twitter.com/mskcnmb8964/status/1802947736045867440/photo/1",
+              "media_key": "3_1802947732216393728",
+              "start": 154,
+              "url": "https://t.co/goqvP3GBuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802947736045867440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21427,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "泥嚎 我素鸡排3.0版\n08 166 44kg  精神疾病/自残/od/厌食症/社恐\n前世我惨遭封锁 如今堂堂转生归来请助力我找回前世互关！\n\n🚪门槛68聊天+朋友圈//128同上有福利//520同上做你的小舔狗^⁠ω^\n给的越多我给你提供的情绪价值就越多\n接图片定制伤口定制 详情过门了解\n\n感谢阅读喵💕 https://t.co/goqvP3GBuB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 435,
+          "like_count": 20380,
+          "listed_count": 2,
+          "tweet_count": 7913
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T03:55:44.000Z",
+        "description": "小号又被封了已老实求放过  妈妈爸爸们求你们助力我找回前世互关\n逃生仓 @8964zhajipai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "8964zhajipai"
+              }
+            ]
+          }
+        },
+        "id": "1793853330520969216",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排3.0",
+        "pinned_tweet_id": "1802947736045867440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801023607134687232/h4vuHw72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 75,
+          "like_count": 386,
+          "listed_count": 2,
+          "tweet_count": 321
+        },
+        "username": "mskcnmb8964",
+        "verified": false
+      }
+    ]
+  }
+}

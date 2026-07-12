@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051395521017982976"
+      ],
+      "media_source_tweet_id": [
+        "2051395532250292727"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2051587745605419395",
+    "created_at": "2026-05-05T09:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051587745605419395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dkSVdoqSzG",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/2051395532250292727/photo/1",
+          "media_key": "3_2051395521017982976",
+          "start": 15,
+          "url": "https://t.co/dkSVdoqSzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051587745605419395",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051395532250292727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/dkSVdoqSzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2051395521017982976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgFW4wasAA1suA.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051395521017982976"
+          ],
+          "media_source_tweet_id": [
+            "2051395532250292727"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2051587745605419395",
+        "created_at": "2026-05-05T09:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051587745605419395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkSVdoqSzG",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/2051395532250292727/photo/1",
+              "media_key": "3_2051395521017982976",
+              "start": 15,
+              "url": "https://t.co/dkSVdoqSzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051587745605419395",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051395532250292727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/dkSVdoqSzG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051395521017982976"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2051395532250292727",
+        "created_at": "2026-05-04T20:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T21:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051395532250292727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkSVdoqSzG",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2051395532250292727/photo/1",
+              "media_key": "3_2051395521017982976",
+              "start": 0,
+              "url": "https://t.co/dkSVdoqSzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051395532250292727",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 20369,
+          "like_count": 612,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dkSVdoqSzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra  ¿提问？↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 546,
+          "like_count": 24897,
+          "listed_count": 2,
+          "media_count": 1125,
+          "tweet_count": 10377
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36103,
+          "following_count": 376,
+          "like_count": 209,
+          "listed_count": 104,
+          "media_count": 13506,
+          "tweet_count": 13584
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

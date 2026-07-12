@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017970424089616384",
+        "3_2017970421120032768",
+        "3_2017970424077004800",
+        "3_2017970424077037569"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2017668244790788378",
+    "created_at": "2026-02-01T14:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017970440527020490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1508482036461445125",
+          "start": 0,
+          "username": "tianhuo_seven"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ebtz2n8xJE",
+          "end": 156,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2017970440527020490/photo/1",
+          "media_key": "3_2017970424089616384",
+          "start": 133,
+          "url": "https://t.co/Ebtz2n8xJE"
+        },
+        {
+          "display_url": "pic.x.com/Ebtz2n8xJE",
+          "end": 156,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2017970440527020490/photo/1",
+          "media_key": "3_2017970421120032768",
+          "start": 133,
+          "url": "https://t.co/Ebtz2n8xJE"
+        },
+        {
+          "display_url": "pic.x.com/Ebtz2n8xJE",
+          "end": 156,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2017970440527020490/photo/1",
+          "media_key": "3_2017970424077004800",
+          "start": 133,
+          "url": "https://t.co/Ebtz2n8xJE"
+        },
+        {
+          "display_url": "pic.x.com/Ebtz2n8xJE",
+          "end": 156,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2017970440527020490/photo/1",
+          "media_key": "3_2017970424077037569",
+          "start": 133,
+          "url": "https://t.co/Ebtz2n8xJE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017970440527020490",
+    "in_reply_to_user_id": "1508482036461445125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017668244790788378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianhuo_seven 铼粉直接加熔金里面结果就是熔不到一起去，但是要是经过改性的“科技铼粉”说不定可以。铼是军工战略物质，金是微电子和经济的战略物资，从市场价格看铼更低因为应用面很窄也没有黄金的货币属性，但是实际产量来看铼产能远低于金，造假值当与否并不好说 https://t.co/Ebtz2n8xJE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017970440527020490].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017970440527020490",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017970440527020490"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017970424089616384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFFaLcbIAAQdb6.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017970421120032768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFFaAYa4AAceIw.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017970424077004800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFFaLZasAAe0Z2.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017970424077037569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFFaLZbMAE-zYk.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 34085,
+        "height": 1230,
+        "media_key": "7_2017668118047318016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017668118047318016/pu/img/gJckFOXSADVGWyNH.jpg",
+        "public_metrics": {
+          "view_count": 168951
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017668118047318016/pu/vid/avc1/320x546/78w_8PkdPKR3oMxb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017668118047318016/pu/vid/avc1/480x820/D3mbVO9WLzCbpisr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017668118047318016/pu/vid/avc1/720x1230/qJNw1QP8DKpq3_g6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017668118047318016/pu/pl/7Bol2aVKzAhSNBWM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017668118047318016"
+          ]
+        },
+        "author_id": "1508482036461445125",
+        "conversation_id": "2017668244790788378",
+        "created_at": "2026-01-31T18:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017668244790788378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsGcuhLS8X",
+              "end": 122,
+              "expanded_url": "https://x.com/tianhuo_seven/status/2017668244790788378/video/1",
+              "media_key": "7_2017668118047318016",
+              "start": 99,
+              "url": "https://t.co/ZsGcuhLS8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017668244790788378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 428,
+          "impression_count": 250042,
+          "like_count": 749,
+          "quote_count": 21,
+          "reply_count": 62,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🚨🇨🇳CCP中共完全有能力制造假黄金欺骗中国百姓‼️\n\n\"科技铼粉\"与\"黄金\"加热融合，光谱仪无法检测‼️\n\n👹：事实上……在中国，已经有大量视频证据证明，从中共银行购买的黄金与白银多为假货‼️ https://t.co/ZsGcuhLS8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 533,
+          "like_count": 24471,
+          "listed_count": 2,
+          "media_count": 1092,
+          "tweet_count": 9999
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T16:32:37.000Z",
+        "description": "NFSC 新中国联邦 —— 爆料革命成员🔥天火🔥",
+        "id": "1508482036461445125",
+        "name": "☄️天火 NFSC²⁰²⁶",
+        "pinned_tweet_id": "1878729424667021359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877377146638708736/StgTmzBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3533,
+          "following_count": 297,
+          "like_count": 21501,
+          "listed_count": 13,
+          "media_count": 2558,
+          "tweet_count": 12603
+        },
+        "username": "tianhuo_seven",
+        "verified": true
+      }
+    ]
+  }
+}

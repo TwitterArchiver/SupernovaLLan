@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041843402",
+          "name": "化物語"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      }
+    ],
+    "conversation_id": "1852276080109043910",
+    "created_at": "2024-11-01T09:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T10:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852276080109043910"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 68,
+          "tag": "物語シリーズ"
+        },
+        {
+          "end": 88,
+          "start": 78,
+          "tag": "シュタインズゲート"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2603242460",
+          "start": 3,
+          "username": "animegainfo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852276080109043910",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852183799427215694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animegainfo: 【🎉フェア情報🎉】\n---------------------------------------\n #物語シリーズ × #シュタインズゲート\n　　　　　POP-UP SHOP\n---------------------------------…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          }
+        ],
+        "conversation_id": "1852276080109043910",
+        "created_at": "2024-11-01T09:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T10:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852276080109043910"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 68,
+              "tag": "物語シリーズ"
+            },
+            {
+              "end": 88,
+              "start": 78,
+              "tag": "シュタインズゲート"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2603242460",
+              "start": 3,
+              "username": "animegainfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852276080109043910",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852183799427215694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animegainfo: 【🎉フェア情報🎉】\n---------------------------------------\n #物語シリーズ × #シュタインズゲート\n　　　　　POP-UP SHOP\n---------------------------------…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851803791521386499"
+          ]
+        },
+        "author_id": "2603242460",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          }
+        ],
+        "conversation_id": "1852183799427215694",
+        "created_at": "2024-11-01T03:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T04:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852183799427215694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "物語シリーズ"
+            },
+            {
+              "end": 71,
+              "start": 61,
+              "tag": "シュタインズゲート"
+            }
+          ],
+          "urls": [
+            {
+              "description": "フェア期間中に1回のお会計で対象商品を6,600円(税込)以上お買い上げごとに、オーロラアクリルキーホルダー(全16種)をランダムで1枚プレゼント！",
+              "display_url": "a.sofmap.com/contents/?id=a…",
+              "end": 202,
+              "expanded_url": "https://a.sofmap.com/contents/?id=animega-sofmap&sid=monogatari_steinsgate",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1852183816166572032/CgF7RyGb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1852183816166572032/CgF7RyGb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 179,
+              "status": 200,
+              "title": "〈物語〉シリーズ × STEINS;GATE POP-UP SHOP｜アニメガ",
+              "unwound_url": "https://a.sofmap.com/contents/?id=animega-sofmap&sid=monogatari_steinsgate",
+              "url": "https://t.co/N5We3q7ttC"
+            },
+            {
+              "display_url": "pic.x.com/wQiCBmU5Vj",
+              "end": 226,
+              "expanded_url": "https://x.com/animegainfo/status/1852183799427215694/photo/1",
+              "media_key": "3_1851803791521386499",
+              "start": 203,
+              "url": "https://t.co/wQiCBmU5Vj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852183799427215694",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 17766,
+          "like_count": 276,
+          "quote_count": 23,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "【🎉フェア情報🎉】\n---------------------------------------\n #物語シリーズ × #シュタインズゲート\n　　　　　POP-UP SHOP\n---------------------------------------\n　　📢　開　催　決　定　‼\n\n⏰開催期間：11月15日(金)～12月31日(火)\n\n詳細はこちら！\nhttps://t.co/N5We3q7ttC https://t.co/wQiCBmU5Vj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 469,
+          "like_count": 21759,
+          "listed_count": 2,
+          "tweet_count": 8669
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-04T10:42:56.000Z",
+        "description": "アニメガ×ソフマップ 中の人 公式アカウントです！\n特典付き商品、人気タイトルの最新予約情報や、フェア・イベント情報をご案内いたします！\n※Twitterでのお問合せ等にはお答え致しかねます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "a.sofmap.com/product_list.a…",
+                "end": 23,
+                "expanded_url": "https://a.sofmap.com/product_list.aspx?gid=002310",
+                "start": 0,
+                "url": "https://t.co/xobMnhHbrU"
+              }
+            ]
+          }
+        },
+        "id": "2603242460",
+        "name": "【アニメガ×ソフマップ】公式＠中の人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1189046371610853377/X1O1CXFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27107,
+          "following_count": 78,
+          "like_count": 793,
+          "listed_count": 364,
+          "tweet_count": 38194
+        },
+        "url": "https://t.co/xobMnhHbrU",
+        "username": "animegainfo",
+        "verified": false
+      }
+    ]
+  }
+}

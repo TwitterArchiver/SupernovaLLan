@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1865025081539465593",
+    "created_at": "2024-12-06T16:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T17:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865078643199992215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1481943703878991872",
+          "start": 0,
+          "username": "xiaoyi_e_"
+        },
+        {
+          "end": 20,
+          "id": "1494669485214633984",
+          "start": 11,
+          "username": "57crz3oA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865078643199992215",
+    "in_reply_to_user_id": "1481943703878991872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865057529262411896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyi_e_ @57crz3oA 太空探索对我来说没有那种宏大的意义，只是满足个人的探索求知欲，出于对未知的好奇，以至于可以将这种意义置于个体生命之上的程度）太空探索在我这是更感性的东西，为了获取一种关于壮丽、宏大的主观体验\n探索数学、信息结构这些更加形而上学的东西显然更接近真理，也许会得到冷酷无情甚至恐怖的答案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1865025081539465593",
+        "created_at": "2024-12-06T16:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T17:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865078643199992215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1481943703878991872",
+              "start": 0,
+              "username": "xiaoyi_e_"
+            },
+            {
+              "end": 20,
+              "id": "1494669485214633984",
+              "start": 11,
+              "username": "57crz3oA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865078643199992215",
+        "in_reply_to_user_id": "1481943703878991872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865057529262411896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyi_e_ @57crz3oA 太空探索对我来说没有那种宏大的意义，只是满足个人的探索求知欲，出于对未知的好奇，以至于可以将这种意义置于个体生命之上的程度）太空探索在我这是更感性的东西，为了获取一种关于壮丽、宏大的主观体验\n探索数学、信息结构这些更加形而上学的东西显然更接近真理，也许会得到冷酷无情甚至恐怖的答案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481943703878991872",
+        "conversation_id": "1865025081539465593",
+        "created_at": "2024-12-06T15:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T16:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865057529262411896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            },
+            {
+              "end": 24,
+              "id": "1494669485214633984",
+              "start": 15,
+              "username": "57crz3oA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865057529262411896",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865052504343613690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan @57crz3oA 我提问的方式有问题。关于太空探索我仔细想过。我小时候也幻想着探索太空，但现在我觉得这是很老登的想法。因为太空和外星系、行星并没有太多值得探索的。顶多就是获取资源。但这甚至不需要跑到太阳系外。\n\n我想宇宙中有更值得探索的东西，但不是物质。可能是数学、信息结构等。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 486,
+          "like_count": 22238,
+          "listed_count": 2,
+          "media_count": 994,
+          "tweet_count": 9028
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T10:59:37.000Z",
+        "description": "A twisted angel.小C在此！ || INTP、asd?、nd、ADHD?、masochist、nerd?||非常非常热爱科学||喜欢的游戏：Rimworld、noita、inside、oneshot等||想交朋友！ 提供情绪价值 ￥50/30min.前3免费",
+        "id": "1481943703878991872",
+        "location": "12.4 km",
+        "name": "crazycq · 疯狂小C🌟",
+        "pinned_tweet_id": "1864264409130127541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860287077109334016/Wy_Wp6ZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 155,
+          "like_count": 3759,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 897
+        },
+        "username": "xiaoyi_e_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "Any pronoun|Left Accelerationist|Hard scifi enthusiast|Astronomy|Touhou|Rhythm game",
+        "id": "1494669485214633984",
+        "name": "ᐃ𝕤𝕥𝕔𝕣𝟚𝟛𝟘𝟜ᐁ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819017331886215168/NLdmEdmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 774,
+          "like_count": 19822,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1287
+        },
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

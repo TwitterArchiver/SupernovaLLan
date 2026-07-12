@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1889508570204660088",
+    "created_at": "2025-02-12T03:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T04:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889520037490466927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874049299124019201",
+          "start": 0,
+          "username": "Mistery5387057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889520037490466927",
+    "in_reply_to_user_id": "1874049299124019201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889508570204660088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mistery5387057 请问今天涨起来的逻辑是什么呢，就是电子半导体加上最近走趋势吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1889508570204660088",
+        "created_at": "2025-02-12T03:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T04:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889520037490466927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874049299124019201",
+              "start": 0,
+              "username": "Mistery5387057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889520037490466927",
+        "in_reply_to_user_id": "1874049299124019201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889508570204660088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mistery5387057 请问今天涨起来的逻辑是什么呢，就是电子半导体加上最近走趋势吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889508565876088832"
+          ]
+        },
+        "author_id": "1874049299124019201",
+        "conversation_id": "1889508570204660088",
+        "created_at": "2025-02-12T02:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T03:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889508570204660088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mebOnNydiY",
+              "end": 46,
+              "expanded_url": "https://x.com/Mistery5387057/status/1889508570204660088/photo/1",
+              "media_key": "3_1889508565876088832",
+              "start": 23,
+              "url": "https://t.co/mebOnNydiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889508570204660088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2563,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近反复问联创光电的呢？你们要有耐心！ok？ https://t.co/mebOnNydiY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 525,
+          "like_count": 23346,
+          "listed_count": 2,
+          "media_count": 1021,
+          "tweet_count": 9337
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T11:05:58.000Z",
+        "description": "一个逻辑的梳理者，趋势的跟随者。 趋势为王，顺势而为。没有群，不私聊，不收费",
+        "id": "1874049299124019201",
+        "location": "東京 世田谷区",
+        "name": "Mistery",
+        "pinned_tweet_id": "1881579971673792992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889268936434384896/rXsuydkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10764,
+          "following_count": 25,
+          "like_count": 3953,
+          "listed_count": 173,
+          "media_count": 576,
+          "tweet_count": 3681
+        },
+        "username": "Mistery5387057",
+        "verified": false
+      }
+    ]
+  }
+}

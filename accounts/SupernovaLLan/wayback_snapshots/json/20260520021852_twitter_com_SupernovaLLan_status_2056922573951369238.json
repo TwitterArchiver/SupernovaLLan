@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2056836686214992241",
+    "created_at": "2026-05-20T02:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056922573951369238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854621992348987415",
+          "start": 0,
+          "username": "veracite_desir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056922573951369238",
+    "in_reply_to_user_id": "1854621992348987415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056836686214992241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@veracite_desir 替尔泊肽的降糖作用导致血糖水平下降，水母老师节食还限制碳水摄入很容易低血糖，会激活下丘脑摄食中枢，产生强烈的饥饿感。长期节食身体通过降低基础代谢率、增加摄食驱动来维持能量平衡，替尔泊肽虽抑制食欲，但可能无法完全抵消这种强大的生理代偿嗯……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2056836686214992241",
+        "created_at": "2026-05-20T02:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056922573951369238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854621992348987415",
+              "start": 0,
+              "username": "veracite_desir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056922573951369238",
+        "in_reply_to_user_id": "1854621992348987415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056836686214992241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@veracite_desir 替尔泊肽的降糖作用导致血糖水平下降，水母老师节食还限制碳水摄入很容易低血糖，会激活下丘脑摄食中枢，产生强烈的饥饿感。长期节食身体通过降低基础代谢率、增加摄食驱动来维持能量平衡，替尔泊肽虽抑制食欲，但可能无法完全抵消这种强大的生理代偿嗯……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854621992348987415",
+        "conversation_id": "2056836686214992241",
+        "created_at": "2026-05-19T20:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T21:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056836686214992241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056836686214992241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 899,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我打了替尔伯泰以后现在很饿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 574,
+          "like_count": 25613,
+          "listed_count": 2,
+          "media_count": 1145,
+          "tweet_count": 10674
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T20:28:47.000Z",
+        "description": "🚪150/240\n本号发无关跨性别的私人内容",
+        "id": "1854621992348987415",
+        "location": "Toronto, Ontario",
+        "name": "🪼𝑎𝑚𝑏𝑒𝑟",
+        "pinned_tweet_id": "2049587569147441505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056039157038731264/Pe5FnYn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 181,
+          "like_count": 827,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 157
+        },
+        "username": "veracite_desir",
+        "verified": true
+      }
+    ]
+  }
+}

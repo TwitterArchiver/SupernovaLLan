@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887884819411222529"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1887838000660545908",
+    "created_at": "2025-02-07T15:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T16:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887884838247842049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "mofumofuyewo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qpNY3JBM1V",
+          "end": 40,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1887884838247842049/photo/1",
+          "media_key": "3_1887884819411222529",
+          "start": 17,
+          "url": "https://t.co/qpNY3JBM1V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887884838247842049",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887838000660545908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofumofuyewo 我： https://t.co/qpNY3JBM1V"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887884838247842049].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887884838247842049",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887884838247842049"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1887884819411222529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjMdPaXbwAEbWoB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887837987993735169"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "1887838000660545908",
+        "created_at": "2025-02-07T12:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T13:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887838000660545908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxKKk2sS8C",
+              "end": 30,
+              "expanded_url": "https://x.com/mofumofuyewo/status/1887838000660545908/photo/1",
+              "media_key": "3_1887837987993735169",
+              "start": 7,
+              "url": "https://t.co/pxKKk2sS8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887838000660545908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懂的人都哭了 https://t.co/pxKKk2sS8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 525,
+          "like_count": 23383,
+          "listed_count": 2,
+          "media_count": 1020,
+          "tweet_count": 9330
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "很毛茸茸的善良角色。｜欢迎互fo私信！",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1855566813163332085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883135457296617472/4AOpR5zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 390,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 345
+        },
+        "username": "mofumofuyewo",
+        "verified": false
+      }
+    ]
+  }
+}

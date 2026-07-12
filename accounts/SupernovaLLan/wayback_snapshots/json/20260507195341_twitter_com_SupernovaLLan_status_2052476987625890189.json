@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2052262788396151207",
+    "created_at": "2026-05-07T19:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T20:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052476987625890189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938140109792325632",
+          "start": 0,
+          "username": "SyRainstormTTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052476987625890189",
+    "in_reply_to_user_id": "1938140109792325632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052262788396151207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyRainstormTTN 迅猛摄入维生素b12滋养一下神经罢，买一瓶倒也很便宜的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2052262788396151207",
+        "created_at": "2026-05-07T19:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T20:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052476987625890189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938140109792325632",
+              "start": 0,
+              "username": "SyRainstormTTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052476987625890189",
+        "in_reply_to_user_id": "1938140109792325632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052262788396151207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyRainstormTTN 迅猛摄入维生素b12滋养一下神经罢，买一瓶倒也很便宜的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938140109792325632",
+        "conversation_id": "2052262788396151207",
+        "created_at": "2026-05-07T05:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052262788396151207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052262788396151207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我左手食指连麻三天了，AI说我喝酒太多导致维生素B族缺乏引起正中神经出问题。唉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 555,
+          "like_count": 25043,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10420
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T07:40:26.000Z",
+        "description": "当黑天鹅从成为白天鹅的美梦中苏醒时，会发生什么呢？",
+        "id": "1938140109792325632",
+        "location": "24",
+        "name": "F-02-70",
+        "pinned_tweet_id": "2050271551388598326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033201038774439937/8uN3QIpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 465,
+          "like_count": 3844,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 3316
+        },
+        "username": "SyRainstormTTN",
+        "verified": false
+      }
+    ]
+  }
+}

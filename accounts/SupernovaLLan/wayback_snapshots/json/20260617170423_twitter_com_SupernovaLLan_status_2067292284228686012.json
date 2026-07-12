@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2067171521068699857",
+    "created_at": "2026-06-17T17:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067292284228686012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067292284228686012",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067171521068699857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 真是纯碳水都算稀罕物了🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "土菜",
+        "height": 1536,
+        "media_key": "3_2067171029626376192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLARGV7b0AAQ5j-.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "尼泊尔菜",
+        "height": 1536,
+        "media_key": "3_2067171028607049728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLARGSIaIAA4QIp.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "越南粉和烤鹌鹑",
+        "height": 1536,
+        "media_key": "3_2067171028590354433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLARGSEbYAEou_D.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "娘惹菜",
+        "height": 1536,
+        "media_key": "3_2067171029630541824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLARGV8bYAAX7O0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2067171521068699857",
+        "created_at": "2026-06-17T17:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067292284228686012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067292284228686012",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067171521068699857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 真是纯碳水都算稀罕物了🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067171029626376192",
+            "3_2067171028607049728",
+            "3_2067171028590354433",
+            "3_2067171029630541824"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067171521068699857",
+        "created_at": "2026-06-17T09:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067171521068699857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dnMnC0yyws",
+              "end": 34,
+              "expanded_url": "https://x.com/NagiExpress/status/2067171521068699857/photo/1",
+              "media_key": "3_2067171029626376192",
+              "start": 11,
+              "url": "https://t.co/dnMnC0yyws"
+            },
+            {
+              "display_url": "pic.x.com/dnMnC0yyws",
+              "end": 34,
+              "expanded_url": "https://x.com/NagiExpress/status/2067171521068699857/photo/1",
+              "media_key": "3_2067171028607049728",
+              "start": 11,
+              "url": "https://t.co/dnMnC0yyws"
+            },
+            {
+              "display_url": "pic.x.com/dnMnC0yyws",
+              "end": 34,
+              "expanded_url": "https://x.com/NagiExpress/status/2067171521068699857/photo/1",
+              "media_key": "3_2067171028590354433",
+              "start": 11,
+              "url": "https://t.co/dnMnC0yyws"
+            },
+            {
+              "display_url": "pic.x.com/dnMnC0yyws",
+              "end": 34,
+              "expanded_url": "https://x.com/NagiExpress/status/2067171521068699857/photo/1",
+              "media_key": "3_2067171029630541824",
+              "start": 11,
+              "url": "https://t.co/dnMnC0yyws"
+            },
+            {
+              "display_url": "x.com/mydest1ny_/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/mydest1ny_/status/2067004568190251279",
+              "start": 35,
+              "url": "https://t.co/f6d5469VRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067171521068699857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1319,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067004568190251279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Nagi在英国吃什么 https://t.co/dnMnC0yyws https://t.co/f6d5469VRv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 617,
+          "like_count": 26892,
+          "listed_count": 2,
+          "media_count": 1193,
+          "tweet_count": 11129
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "广州2号线",
+        "name": "一日Nagi",
+        "pinned_tweet_id": "2064631666849759358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066688724407382016/EWwlDVO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5875,
+          "following_count": 2333,
+          "like_count": 29443,
+          "listed_count": 8,
+          "media_count": 2643,
+          "tweet_count": 25288
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

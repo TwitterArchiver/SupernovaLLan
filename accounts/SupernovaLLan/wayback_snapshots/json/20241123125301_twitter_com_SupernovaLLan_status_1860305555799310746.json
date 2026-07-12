@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859879896228548608",
+        "3_1859879900582187008"
+      ],
+      "media_source_tweet_id": [
+        "1859879905699180883",
+        "1859879905699180883"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1860305555799310746",
+    "created_at": "2024-11-23T12:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T13:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860305555799310746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1719031349493809152",
+          "start": 3,
+          "username": "ange7ot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b1SVoceMtp",
+          "end": 36,
+          "expanded_url": "https://x.com/ange7ot/status/1859879905699180883/photo/1",
+          "media_key": "3_1859879896228548608",
+          "start": 13,
+          "url": "https://t.co/b1SVoceMtp"
+        },
+        {
+          "display_url": "pic.x.com/b1SVoceMtp",
+          "end": 36,
+          "expanded_url": "https://x.com/ange7ot/status/1859879905699180883/photo/1",
+          "media_key": "3_1859879900582187008",
+          "start": 13,
+          "url": "https://t.co/b1SVoceMtp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860305555799310746",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859879905699180883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ange7ot: https://t.co/b1SVoceMtp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1859879896228548608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc-e6VuX0AAauYo.jpg",
+        "width": 916
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1859879900582187008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc-e6l8XEAA-jY6.jpg",
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859879896228548608",
+            "3_1859879900582187008"
+          ],
+          "media_source_tweet_id": [
+            "1859879905699180883",
+            "1859879905699180883"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1860305555799310746",
+        "created_at": "2024-11-23T12:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T13:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860305555799310746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1719031349493809152",
+              "start": 3,
+              "username": "ange7ot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1SVoceMtp",
+              "end": 36,
+              "expanded_url": "https://x.com/ange7ot/status/1859879905699180883/photo/1",
+              "media_key": "3_1859879896228548608",
+              "start": 13,
+              "url": "https://t.co/b1SVoceMtp"
+            },
+            {
+              "display_url": "pic.x.com/b1SVoceMtp",
+              "end": 36,
+              "expanded_url": "https://x.com/ange7ot/status/1859879905699180883/photo/1",
+              "media_key": "3_1859879900582187008",
+              "start": 13,
+              "url": "https://t.co/b1SVoceMtp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860305555799310746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859879905699180883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ange7ot: https://t.co/b1SVoceMtp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859879896228548608",
+            "3_1859879900582187008"
+          ]
+        },
+        "author_id": "1719031349493809152",
+        "conversation_id": "1859879905699180883",
+        "created_at": "2024-11-22T08:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T09:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859879905699180883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1SVoceMtp",
+              "end": 23,
+              "expanded_url": "https://x.com/ange7ot/status/1859879905699180883/photo/1",
+              "media_key": "3_1859879896228548608",
+              "start": 0,
+              "url": "https://t.co/b1SVoceMtp"
+            },
+            {
+              "display_url": "pic.x.com/b1SVoceMtp",
+              "end": 23,
+              "expanded_url": "https://x.com/ange7ot/status/1859879905699180883/photo/1",
+              "media_key": "3_1859879900582187008",
+              "start": 0,
+              "url": "https://t.co/b1SVoceMtp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859879905699180883",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 720,
+          "impression_count": 129306,
+          "like_count": 3316,
+          "quote_count": 14,
+          "reply_count": 26,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b1SVoceMtp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 473,
+          "like_count": 22071,
+          "listed_count": 2,
+          "tweet_count": 8863
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T16:40:04.000Z",
+        "description": "🚨 DM for promo or removal",
+        "id": "1719031349493809152",
+        "name": "Hot Girls",
+        "pinned_tweet_id": "1850246589383946267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719032768091299840/zvMFZOq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52270,
+          "following_count": 100,
+          "like_count": 686,
+          "listed_count": 75,
+          "tweet_count": 719
+        },
+        "username": "ange7ot",
+        "verified": false
+      }
+    ]
+  }
+}

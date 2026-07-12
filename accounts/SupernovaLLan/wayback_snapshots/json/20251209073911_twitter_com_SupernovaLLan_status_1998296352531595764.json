@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1998168691167690822",
+    "created_at": "2025-12-09T07:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T08:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998296352531595764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674393101551693825",
+          "start": 0,
+          "username": "RachieSAMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998296352531595764",
+    "in_reply_to_user_id": "1674393101551693825",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998168691167690822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RachieSAMA 🥵🥵🥵🥵🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1143,
+        "media_key": "3_1998168686608211968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rr1W6XYAA5pgK.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1998168691167690822",
+        "created_at": "2025-12-09T07:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T08:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998296352531595764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674393101551693825",
+              "start": 0,
+              "username": "RachieSAMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998296352531595764",
+        "in_reply_to_user_id": "1674393101551693825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998168691167690822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RachieSAMA 🥵🥵🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998168686608211968"
+          ]
+        },
+        "author_id": "1674393101551693825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1998168691167690822",
+        "created_at": "2025-12-08T23:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T00:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998168691167690822"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "Arknights"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "特米米"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYeYjInc5E",
+              "end": 52,
+              "expanded_url": "https://x.com/RachieSAMA/status/1998168691167690822/photo/1",
+              "media_key": "3_1998168686608211968",
+              "start": 29,
+              "url": "https://t.co/pYeYjInc5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998168691167690822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "诱饵弹投出！\n#Arknights #明日方舟 #特米米 https://t.co/pYeYjInc5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 535,
+          "like_count": 25004,
+          "listed_count": 2,
+          "media_count": 1087,
+          "tweet_count": 9958
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T12:23:27.000Z",
+        "description": "NSFW🔞 // Arts // plz dont use arts with the tag #commission // 中文/日本語/English/Español // daily life here @hannibals4PLZ_r 📮https://t.co/cZrxnMTEja",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 48,
+                "tag": "commission"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 121,
+                "start": 105,
+                "username": "hannibals4PLZ_r"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/RachieSAMA",
+                "end": 146,
+                "expanded_url": "https://vgen.co/RachieSAMA",
+                "start": 123,
+                "url": "https://t.co/cZrxnMTEja"
+              }
+            ]
+          }
+        },
+        "id": "1674393101551693825",
+        "location": "B612",
+        "name": "レチ_RwR",
+        "pinned_tweet_id": "1909120971359109122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998168990657413120/mWK_iiU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 148,
+          "like_count": 459,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 416
+        },
+        "username": "RachieSAMA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2047558722826944679",
+    "created_at": "2026-04-24T06:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047558722826944679"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047558722826944679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从某一个时刻起找不到活着的意义之后就在疯狂四处去抓一些自以为的救命稻草以为可以让自己多浮起来一段时间\n实际上自顾自地把自己和被影响的人都卷进了一个深不见底的漩涡里，我早应该明白那时候开始就不应该挣扎了静静等待自己的结局降临就好，伪善地挣扎让人非常讨厌\n已经大概没法体面退场了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2047558722826944679",
+        "created_at": "2026-04-24T06:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047558722826944679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047558722826944679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从某一个时刻起找不到活着的意义之后就在疯狂四处去抓一些自以为的救命稻草以为可以让自己多浮起来一段时间\n实际上自顾自地把自己和被影响的人都卷进了一个深不见底的漩涡里，我早应该明白那时候开始就不应该挣扎了静静等待自己的结局降临就好，伪善地挣扎让人非常讨厌\n已经大概没法体面退场了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 526,
+          "like_count": 24426,
+          "listed_count": 2,
+          "media_count": 1107,
+          "tweet_count": 10170
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

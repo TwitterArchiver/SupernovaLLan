@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1860007482405584942",
+    "created_at": "2024-11-22T17:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T18:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860007482405584942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sabihime_e/sta…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/sabihime_e/status/1859991935886438769",
+          "start": 47,
+          "url": "https://t.co/S3f3Z1Qk0C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860007482405584942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859991935886438769",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "年少时以为勇气和热情这些要多少有多少，再不济也能蓄势恢复\n只有弹夹耗尽才发现这些甚至是限量的 https://t.co/S3f3Z1Qk0C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1860007482405584942",
+        "created_at": "2024-11-22T17:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T18:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860007482405584942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sabihime_e/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/sabihime_e/status/1859991935886438769",
+              "start": 47,
+              "url": "https://t.co/S3f3Z1Qk0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860007482405584942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859991935886438769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "年少时以为勇气和热情这些要多少有多少，再不济也能蓄势恢复\n只有弹夹耗尽才发现这些甚至是限量的 https://t.co/S3f3Z1Qk0C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595603290183462912",
+        "conversation_id": "1859991935886438769",
+        "created_at": "2024-11-22T16:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T17:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859991935886438769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859991935886438769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认清现实：你仍然没有恢复过来。\n你丧失了勇气和热情。\n你胸中的火焰熄灭了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 473,
+          "like_count": 22054,
+          "listed_count": 2,
+          "tweet_count": 8850
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T02:20:52.000Z",
+        "description": "锖。迷茫的二十岁",
+        "id": "1595603290183462912",
+        "name": "錆姫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708846127586656256/OXsxo-T6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 2347,
+          "like_count": 3241,
+          "listed_count": 0,
+          "tweet_count": 2578
+        },
+        "username": "Sabihime_E",
+        "verified": false
+      }
+    ]
+  }
+}

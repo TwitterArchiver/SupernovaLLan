@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052336344014135305"
+      ],
+      "media_source_tweet_id": [
+        "2052336444929142897"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2052386528849264912",
+    "created_at": "2026-05-07T13:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052386528849264912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1688813184214310912",
+          "start": 3,
+          "username": "_mdm4_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4YwpwtSiVR",
+          "end": 128,
+          "expanded_url": "https://x.com/_mdm4_/status/2052336444929142897/photo/1",
+          "media_key": "3_2052336344014135305",
+          "start": 105,
+          "url": "https://t.co/4YwpwtSiVR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052386528849264912",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052336444929142897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mdm4_: the state in which a person ceases to be a body and consciousness becomes a form of impulses https://t.co/4YwpwtSiVR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2052336344014135305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtdB_iWIAk4Gmh.jpg",
+        "width": 3901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052336344014135305"
+          ],
+          "media_source_tweet_id": [
+            "2052336444929142897"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2052386528849264912",
+        "created_at": "2026-05-07T13:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052386528849264912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1688813184214310912",
+              "start": 3,
+              "username": "_mdm4_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4YwpwtSiVR",
+              "end": 128,
+              "expanded_url": "https://x.com/_mdm4_/status/2052336444929142897/photo/1",
+              "media_key": "3_2052336344014135305",
+              "start": 105,
+              "url": "https://t.co/4YwpwtSiVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052386528849264912",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052336444929142897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mdm4_: the state in which a person ceases to be a body and consciousness becomes a form of impulses https://t.co/4YwpwtSiVR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052336344014135305"
+          ]
+        },
+        "author_id": "1688813184214310912",
+        "conversation_id": "2052336444929142897",
+        "created_at": "2026-05-07T10:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052336444929142897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4YwpwtSiVR",
+              "end": 116,
+              "expanded_url": "https://x.com/_mdm4_/status/2052336444929142897/photo/1",
+              "media_key": "3_2052336344014135305",
+              "start": 93,
+              "url": "https://t.co/4YwpwtSiVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052336444929142897",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 3206,
+          "like_count": 314,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "the state in which a person ceases to be a body and consciousness becomes a form of impulses https://t.co/4YwpwtSiVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 554,
+          "like_count": 25006,
+          "listed_count": 2,
+          "media_count": 1128,
+          "tweet_count": 10407
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T07:23:58.000Z",
+        "description": "( ´-ω･)︻┻┳══━一 ⊹ ࣪˖ Illustrator\n💌 DM / 00mdm44@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mdm44.carrd.co",
+                "end": 23,
+                "expanded_url": "https://mdm44.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/OkcETKibyS"
+              }
+            ]
+          }
+        },
+        "id": "1688813184214310912",
+        "name": "☆*:. mdm4 .:*☆",
+        "pinned_tweet_id": "1980322595414372574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010548124197019648/K4IMT5MN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 342,
+          "like_count": 1645,
+          "listed_count": 32,
+          "media_count": 123,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/OkcETKibyS",
+        "username": "_mdm4_",
+        "verified": false
+      }
+    ]
+  }
+}

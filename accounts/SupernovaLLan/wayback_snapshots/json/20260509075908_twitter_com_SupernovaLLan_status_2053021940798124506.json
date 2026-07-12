@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2053019662318002525",
+    "created_at": "2026-05-09T07:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053021940798124506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027280531097088000",
+          "start": 0,
+          "username": "Lvmaosamaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053021940798124506",
+    "in_reply_to_user_id": "2027280531097088000",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053019662318002525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lvmaosamaovo wyuuaaaaaaaa！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2053019662318002525",
+        "created_at": "2026-05-09T07:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053021940798124506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027280531097088000",
+              "start": 0,
+              "username": "Lvmaosamaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053021940798124506",
+        "in_reply_to_user_id": "2027280531097088000",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053019662318002525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lvmaosamaovo wyuuaaaaaaaa！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027280531097088000",
+        "conversation_id": "2053019662318002525",
+        "created_at": "2026-05-09T07:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053019662318002525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053019662318002525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我受不了了受不了了受不了了 wyuuaaaaaaaa啊啊啊\n为什么啊 我又要被家长制裁了W\n\n为什么什么啊为什么 为什么所有一切不好的事和潮水一样涌过来了 为什么\n去死吧 去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 563,
+          "like_count": 25145,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10460
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T07:14:07.000Z",
+        "description": "咕咕嘎嘎(๑˃̵ᴗ˂̵) 2011/10/27崭新出厂（mtf\n欢迎同类互fo 所有同类都会回fo喵～ hrt🍥｜2026_4_19\n大！家！快！来！找！我！玩！啊！\n✝︎天使様、ご挨拶申し上げます！✝︎\n✝︎私は天より降り注ぐ光、混沌のネット世界を照らす存在なのです✝︎",
+        "id": "2027280531097088000",
+        "location": "上海精神卫生中心",
+        "name": "☁️Lvmao๑˃̵ᴗ˂̵🍥〜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046302106936897536/wD1z616h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 354,
+          "like_count": 2459,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 850
+        },
+        "username": "Lvmaosamaovo",
+        "verified": false
+      }
+    ]
+  }
+}

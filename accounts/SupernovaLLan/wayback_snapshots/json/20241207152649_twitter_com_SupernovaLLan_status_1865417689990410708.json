@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1865417689990410708",
+    "created_at": "2024-12-07T15:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T16:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865417689990410708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cctvidiots/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/cctvidiots/status/1865213186590318921",
+          "start": 5,
+          "url": "https://t.co/tcrgkqEobL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865417689990410708",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865213186590318921",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "bd大概 https://t.co/tcrgkqEobL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1865417689990410708",
+        "created_at": "2024-12-07T15:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T16:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865417689990410708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cctvidiots/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cctvidiots/status/1865213186590318921",
+              "start": 5,
+              "url": "https://t.co/tcrgkqEobL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865417689990410708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865213186590318921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bd大概 https://t.co/tcrgkqEobL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865213170924584960"
+          ]
+        },
+        "author_id": "897058816226844672",
+        "conversation_id": "1865213186590318921",
+        "created_at": "2024-12-07T01:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T02:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865213186590318921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRIBX9iHXH",
+              "end": 61,
+              "expanded_url": "https://x.com/cctvidiots/status/1865213186590318921/photo/1",
+              "media_key": "3_1865213170924584960",
+              "start": 38,
+              "url": "https://t.co/cRIBX9iHXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865213186590318921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1600,
+          "impression_count": 385983,
+          "like_count": 6657,
+          "quote_count": 162,
+          "reply_count": 2210,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "Who has the perfect body type to you? https://t.co/cRIBX9iHXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 487,
+          "like_count": 22270,
+          "listed_count": 2,
+          "media_count": 996,
+          "tweet_count": 9045
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-14T11:34:23.000Z",
+        "description": "Exposing idiots behavior from all over the world caught on camera.",
+        "id": "897058816226844672",
+        "name": "CCTV IDIOTS",
+        "pinned_tweet_id": "1865083153682940070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1144840942244880385/9F2DRMCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3384776,
+          "following_count": 45,
+          "like_count": 10480,
+          "listed_count": 6125,
+          "media_count": 16083,
+          "tweet_count": 18947
+        },
+        "username": "cctvidiots",
+        "verified": true
+      }
+    ]
+  }
+}

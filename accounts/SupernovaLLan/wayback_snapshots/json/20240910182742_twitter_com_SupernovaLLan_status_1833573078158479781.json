@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833573067857268739"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1833573078158479781",
+    "created_at": "2024-09-10T18:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T19:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833573078158479781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cplh701w7w",
+          "end": 38,
+          "expanded_url": "https://twitter.com/SupernovaLLan/status/1833573078158479781/photo/1",
+          "media_key": "3_1833573067857268739",
+          "start": 15,
+          "url": "https://t.co/cpLH701W7W"
+        },
+        {
+          "display_url": "x.com/supernovallan/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/supernovallan/status/1833557678502907939",
+          "start": 39,
+          "url": "https://t.co/mSjh6avQqT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833573078158479781",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833557678502907939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点像NIKKE的那个谁了🥺 https://t.co/cpLH701W7W https://t.co/mSjh6avQqT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833573078158479781].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833573078158479781",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833573078158479781"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1833557678502907939].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1833557678502907939",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833557678502907939"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_1833573067857268739",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXIo_ZNbEAMG40d.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 442,
+          "like_count": 20792,
+          "listed_count": 2,
+          "tweet_count": 8073
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

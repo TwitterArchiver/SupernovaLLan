@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989146639794335745",
+        "3_1989146639781752833",
+        "3_1989146639777558529",
+        "3_1989146639777603584"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1989146654608617772",
+    "created_at": "2025-11-14T01:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T02:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989146654608617772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CCIdsbIoCF",
+          "end": 45,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1989146654608617772/photo/1",
+          "media_key": "3_1989146639794335745",
+          "start": 22,
+          "url": "https://t.co/CCIdsbIoCF"
+        },
+        {
+          "display_url": "pic.x.com/CCIdsbIoCF",
+          "end": 45,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1989146654608617772/photo/1",
+          "media_key": "3_1989146639781752833",
+          "start": 22,
+          "url": "https://t.co/CCIdsbIoCF"
+        },
+        {
+          "display_url": "pic.x.com/CCIdsbIoCF",
+          "end": 45,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1989146654608617772/photo/1",
+          "media_key": "3_1989146639777558529",
+          "start": 22,
+          "url": "https://t.co/CCIdsbIoCF"
+        },
+        {
+          "display_url": "pic.x.com/CCIdsbIoCF",
+          "end": 45,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1989146654608617772/photo/1",
+          "media_key": "3_1989146639777603584",
+          "start": 22,
+          "url": "https://t.co/CCIdsbIoCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989146654608617772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是股吧还是贴吧*\n一字板买不进我要哈气了 https://t.co/CCIdsbIoCF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989146654608617772].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989146654608617772",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989146654608617772"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989146639794335745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5reVHcacAERdDk.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989146639781752833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5reVHZacAEfXqv.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989146639777558529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5reVHYacAEbBFj.jpg",
+        "width": 945
+      },
+      {
+        "height": 875,
+        "media_key": "3_1989146639777603584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5reVHYbIAAhktj.jpg",
+        "width": 1550
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 539,
+          "like_count": 24995,
+          "listed_count": 2,
+          "media_count": 1086,
+          "tweet_count": 9921
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1961308740633989402",
+    "created_at": "2025-08-29T06:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T07:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961316399445676240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598150544157474818",
+          "start": 0,
+          "username": "YEOL_LiSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961316399445676240",
+    "in_reply_to_user_id": "1598150544157474818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961308740633989402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YEOL_LiSu 吃了太多炸鸡*"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1961308740633989402",
+        "created_at": "2025-08-29T06:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961316399445676240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598150544157474818",
+              "start": 0,
+              "username": "YEOL_LiSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961316399445676240",
+        "in_reply_to_user_id": "1598150544157474818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961308740633989402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YEOL_LiSu 吃了太多炸鸡*"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598150544157474818",
+        "conversation_id": "1961308740633989402",
+        "created_at": "2025-08-29T06:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961308740633989402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961308740633989402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我刚刚玩腿毛的时候我妈走过来我就给她看我的腿毛好长（没hrt的时候也挺茂密的只是现在更长了）\n我妈突然冷不丁来了一句“你没有在吃什么激素吧”\n卧槽吓我一身冷汗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 549,
+          "like_count": 24831,
+          "listed_count": 2,
+          "media_count": 1076,
+          "tweet_count": 9826
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T03:03:12.000Z",
+        "description": "上海｜留学生｜ENFJ｜a9家庭 自主创业中｜sp 管教｜健身｜182 70｜温柔 严厉 腹黑｜小圈微大｜可约实践丨小猫@nankyuseiichi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "nankyuseiichi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yeolis…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yeolisu.bsky.social",
+                "start": 0,
+                "url": "https://t.co/QtXsS3XOUS"
+              }
+            ]
+          }
+        },
+        "id": "1598150544157474818",
+        "location": "Mooooooooooooon",
+        "name": "Yeol（苏溯ver.",
+        "pinned_tweet_id": "1937869951727177869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598162202879758336/Eu9IOeYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 1365,
+          "like_count": 114439,
+          "listed_count": 3,
+          "media_count": 1167,
+          "tweet_count": 18289
+        },
+        "url": "https://t.co/QtXsS3XOUS",
+        "username": "YEOL_LiSu",
+        "verified": false
+      }
+    ]
+  }
+}

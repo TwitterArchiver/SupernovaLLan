@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850538359237779456"
+      ],
+      "media_source_tweet_id": [
+        "1850538374970626275"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1850542494481842217",
+    "created_at": "2024-10-27T14:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T15:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850542494481842217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1568074681424683008",
+          "start": 3,
+          "username": "ramamoru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S53b2uFbuz",
+          "end": 37,
+          "expanded_url": "https://x.com/ramamoru/status/1850538374970626275/photo/1",
+          "media_key": "3_1850538359237779456",
+          "start": 14,
+          "url": "https://t.co/S53b2uFbuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850542494481842217",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850538374970626275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ramamoru: https://t.co/S53b2uFbuz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1850538359237779456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga5u1UmaIAAnh4-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850538359237779456"
+          ],
+          "media_source_tweet_id": [
+            "1850538374970626275"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1850542494481842217",
+        "created_at": "2024-10-27T14:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T15:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850542494481842217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1568074681424683008",
+              "start": 3,
+              "username": "ramamoru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S53b2uFbuz",
+              "end": 37,
+              "expanded_url": "https://x.com/ramamoru/status/1850538374970626275/photo/1",
+              "media_key": "3_1850538359237779456",
+              "start": 14,
+              "url": "https://t.co/S53b2uFbuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850542494481842217",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850538374970626275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ramamoru: https://t.co/S53b2uFbuz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850538359237779456"
+          ]
+        },
+        "author_id": "1568074681424683008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1850538374970626275",
+        "created_at": "2024-10-27T14:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T15:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850538374970626275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S53b2uFbuz",
+              "end": 23,
+              "expanded_url": "https://x.com/ramamoru/status/1850538374970626275/photo/1",
+              "media_key": "3_1850538359237779456",
+              "start": 0,
+              "url": "https://t.co/S53b2uFbuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850538374970626275",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S53b2uFbuz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 468,
+          "like_count": 21616,
+          "listed_count": 2,
+          "tweet_count": 8599
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T03:12:00.000Z",
+        "description": "Pansexuality/🥕🥕/α CMa A",
+        "id": "1568074681424683008",
+        "location": "Moon",
+        "name": "まもる",
+        "pinned_tweet_id": "1706184775109894523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834226877776711680/rNNHfsaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 1473,
+          "like_count": 1806,
+          "listed_count": 3,
+          "tweet_count": 1792
+        },
+        "username": "ramamoru",
+        "verified": false
+      }
+    ]
+  }
+}

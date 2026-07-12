@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1834306715535507866",
+    "created_at": "2024-09-12T19:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T20:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834306715535507866"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "日直島田"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2583144157",
+          "start": 3,
+          "username": "NewginGroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834306715535507866",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 278
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834154994079281638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NewginGroup: ⬛️⬜️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n\n❤️‍🔥聖地：ラジオ会館に集合❤️‍🔥\n【Pシュタインズ・ゲート ゼロ試打会】\n応募開始✨\n\n⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬛️⬜️\n\n❤️‍🔥出演者❤️‍🔥\n#日直島田 さん #せ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1834306715535507866",
+        "created_at": "2024-09-12T19:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T20:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834306715535507866"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "日直島田"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2583144157",
+              "start": 3,
+              "username": "NewginGroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834306715535507866",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834154994079281638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NewginGroup: ⬛️⬜️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n\n❤️‍🔥聖地：ラジオ会館に集合❤️‍🔥\n【Pシュタインズ・ゲート ゼロ試打会】\n応募開始✨\n\n⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬛️⬜️\n\n❤️‍🔥出演者❤️‍🔥\n#日直島田 さん #せ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834149779288588291"
+          ]
+        },
+        "author_id": "2583144157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1834154994079281638",
+        "created_at": "2024-09-12T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834154994079281638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "日直島田"
+            },
+            {
+              "end": 126,
+              "start": 120,
+              "tag": "せせりくん"
+            },
+            {
+              "end": 200,
+              "start": 195,
+              "tag": "シュタゲ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "開催日：2024 年 9月 29日（日） 開催地：秋葉原ラジオ会館 住所：東京都千代田区外神田1-15-16　10F",
+              "display_url": "x.gd/i7lfT",
+              "end": 174,
+              "expanded_url": "https://x.gd/i7lfT",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1834119831505051648/fHLn6o_2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1834119831505051648/fHLn6o_2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 151,
+              "status": 200,
+              "title": "【Pシュタインズ・ゲート ゼロ】 プレミアファン試打会",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSfGI-lOavlk9GRpkdDEs--WDbG5fOmR3fQDz52iPEoTDDyVEw/viewform?usp=send_form",
+              "url": "https://t.co/kMbf46qh1e"
+            },
+            {
+              "display_url": "pic.x.com/2j80id1qtg",
+              "end": 224,
+              "expanded_url": "https://twitter.com/NewginGroup/status/1834154994079281638/photo/1",
+              "media_key": "3_1834149779288588291",
+              "start": 201,
+              "url": "https://t.co/2J80ID1Qtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834154994079281638",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 75554,
+          "like_count": 942,
+          "quote_count": 59,
+          "reply_count": 6,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "⬛️⬜️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n\n❤️‍🔥聖地：ラジオ会館に集合❤️‍🔥\n【Pシュタインズ・ゲート ゼロ試打会】\n応募開始✨\n\n⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬛️⬜️\n\n❤️‍🔥出演者❤️‍🔥\n#日直島田 さん #せせりくん\nand more...\n\n❤️‍🔥応募❤️‍🔥\nhttps://t.co/kMbf46qh1e\n※当選者にはメールをお送り致します。\n\n#シュタゲ https://t.co/2J80ID1Qtg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 445,
+          "like_count": 20813,
+          "listed_count": 2,
+          "tweet_count": 8116
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-23T01:42:31.000Z",
+        "description": "パチンコ・パチスロのニューギングループ公式アカウントです！「eキョンシー」好評稼動中(*´ω｀*)\n🌸YouTube🌸\nhttps://t.co/rH3VsbKQgh \n🌸オンラインショップ🌸\nhttps://t.co/oGvMfaSMxf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/newginchannel",
+                "end": 83,
+                "expanded_url": "http://m.youtube.com/newginchannel",
+                "start": 60,
+                "url": "https://t.co/rH3VsbKQgh"
+              },
+              {
+                "display_url": "newginshop.com",
+                "end": 120,
+                "expanded_url": "https://newginshop.com",
+                "start": 97,
+                "url": "https://t.co/oGvMfaSMxf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newgin.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.newgin.co.jp",
+                "start": 0,
+                "url": "https://t.co/irUhAfkVgb"
+              }
+            ]
+          }
+        },
+        "id": "2583144157",
+        "location": "東京 中央区",
+        "name": "【公式】ニューギングループ",
+        "pinned_tweet_id": "1834064479002517747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705096501004025856/Eo7k0PpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124480,
+          "following_count": 1460,
+          "like_count": 11915,
+          "listed_count": 279,
+          "tweet_count": 130716
+        },
+        "url": "https://t.co/irUhAfkVgb",
+        "username": "NewginGroup",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059688394767388672"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2059688400559784139",
+    "created_at": "2026-05-27T17:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059688400559784139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iN6aQixspA",
+          "end": 113,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2059688400559784139/photo/1",
+          "media_key": "3_2059688394767388672",
+          "start": 90,
+          "url": "https://t.co/iN6aQixspA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059688400559784139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的在BOSS直聘上聊到董事长了hhh但是实际聊过之后全都是些现实问题，本来以为会更有理想一点的毕竟做的那么科幻又革命性的东西……有点失望退场）还是接着去收拾餐盘组装我的小汉堡吧 https://t.co/iN6aQixspA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059688400559784139].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059688400559784139",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059688400559784139"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2059688394767388672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV7rq4a0AAdSv9.jpg",
+        "width": 778
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 591,
+          "like_count": 26030,
+          "listed_count": 2,
+          "media_count": 1161,
+          "tweet_count": 10850
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

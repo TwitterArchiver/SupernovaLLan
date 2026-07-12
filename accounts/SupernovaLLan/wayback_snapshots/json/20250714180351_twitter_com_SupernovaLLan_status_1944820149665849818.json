@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1944794553401434431",
+    "created_at": "2025-07-14T18:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T19:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944820149665849818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702221879434436608",
+          "start": 0,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944820149665849818",
+    "in_reply_to_user_id": "1702221879434436608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944794553401434431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zhajipai 使用毛米驱赶苦力怕至角落"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944794546094931968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1MVfEbAAAmTpE.jpg",
+        "width": 1570
+      },
+      {
+        "height": 1919,
+        "media_key": "3_1944794546870870016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1MVh9a4AA0vkP.jpg",
+        "width": 1434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1944794553401434431",
+        "created_at": "2025-07-14T18:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T19:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944820149665849818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702221879434436608",
+              "start": 0,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944820149665849818",
+        "in_reply_to_user_id": "1702221879434436608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944794553401434431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zhajipai 使用毛米驱赶苦力怕至角落"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944794546094931968",
+            "3_1944794546870870016"
+          ]
+        },
+        "author_id": "1702221879434436608",
+        "conversation_id": "1944794553401434431",
+        "created_at": "2025-07-14T16:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T17:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944794553401434431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SkAct0nTGl",
+              "end": 41,
+              "expanded_url": "https://x.com/8964zhajipai/status/1944794553401434431/photo/1",
+              "media_key": "3_1944794546094931968",
+              "start": 18,
+              "url": "https://t.co/SkAct0nTGl"
+            },
+            {
+              "display_url": "pic.x.com/SkAct0nTGl",
+              "end": 41,
+              "expanded_url": "https://x.com/8964zhajipai/status/1944794553401434431/photo/1",
+              "media_key": "3_1944794546870870016",
+              "start": 18,
+              "url": "https://t.co/SkAct0nTGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944794553401434431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好我要来你家玩了，对了你家有猫吗 https://t.co/SkAct0nTGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 548,
+          "like_count": 24821,
+          "listed_count": 2,
+          "media_count": 1062,
+          "tweet_count": 9727
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "第五人格带我上分免门槛                             \n^⁠ω^私信除过门和带我打游戏不回                                     自用蜂鸟vpn https://t.co/zmUeClLq86",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register",
+                "end": 126,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register",
+                "start": 103,
+                "url": "https://t.co/zmUeClLq86"
+              }
+            ]
+          }
+        },
+        "id": "1702221879434436608",
+        "location": "🚪88/288/520",
+        "name": "像素",
+        "pinned_tweet_id": "1938912306689393036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 79,
+          "like_count": 247,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 323
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

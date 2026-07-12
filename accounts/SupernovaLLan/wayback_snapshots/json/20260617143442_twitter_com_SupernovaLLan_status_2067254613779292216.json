@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2066849837124079728",
+    "created_at": "2026-06-17T14:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067254613779292216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992300667395092480",
+          "start": 0,
+          "username": "Albert_C_Anker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067254613779292216",
+    "in_reply_to_user_id": "1992300667395092480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066849837124079728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Albert_C_Anker 火速关闭拼小圈*"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2066849834590732288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7s-VLbAAAFpEI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2066849837124079728",
+        "created_at": "2026-06-17T14:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067254613779292216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992300667395092480",
+              "start": 0,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067254613779292216",
+        "in_reply_to_user_id": "1992300667395092480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066849837124079728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Albert_C_Anker 火速关闭拼小圈*"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066849834590732288"
+          ]
+        },
+        "author_id": "1992300667395092480",
+        "conversation_id": "2066849837124079728",
+        "created_at": "2026-06-16T11:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066849837124079728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZVaSTzh37a",
+              "end": 39,
+              "expanded_url": "https://x.com/Albert_C_Anker/status/2066849837124079728/photo/1",
+              "media_key": "3_2066849834590732288",
+              "start": 16,
+              "url": "https://t.co/ZVaSTzh37a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066849837124079728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃😑\n只存在于幻想里，但愿吧。 https://t.co/ZVaSTzh37a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 615,
+          "like_count": 26884,
+          "listed_count": 2,
+          "media_count": 1192,
+          "tweet_count": 11121
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T18:34:34.000Z",
+        "description": "怪话制造机|伪人日记本|虚无主义者|默认友好基本无雷|不关心政治|INFJ sp/so5w6|分裂情感障碍&阿斯伯格人士|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StopOverThinkin",
+                "end": 23,
+                "expanded_url": "https://t.me/StopOverThinkin",
+                "start": 0,
+                "url": "https://t.co/IcuRbOjlYg"
+              }
+            ]
+          }
+        },
+        "id": "1992300667395092480",
+        "location": "Tromsø, Norway",
+        "name": "伪人阿尔伯特",
+        "pinned_tweet_id": "2042353903682142500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022152434731335680/7w9oGGgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 221,
+          "like_count": 12699,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 2249
+        },
+        "url": "https://t.co/IcuRbOjlYg",
+        "username": "Albert_C_Anker",
+        "verified": false
+      }
+    ]
+  }
+}

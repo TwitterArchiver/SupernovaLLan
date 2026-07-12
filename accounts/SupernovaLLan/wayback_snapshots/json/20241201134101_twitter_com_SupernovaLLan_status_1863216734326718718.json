@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1862894997634269629",
+    "created_at": "2024-12-01T13:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T14:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863216734326718718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863216734326718718",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862894997634269629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 客观的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1862894997634269629",
+        "created_at": "2024-12-01T13:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T14:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863216734326718718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863216734326718718",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862894997634269629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 客观的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "1862894997634269629",
+        "created_at": "2024-11-30T16:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T17:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862894997634269629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/air21956/statu…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/air21956/status/1862673081481011323",
+              "start": 150,
+              "url": "https://t.co/7pAUpKdgKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862894997634269629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5024,
+          "like_count": 36,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862673081481011323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你对这些国家的感受怎么样？\n🇹🇼: 台湾\n🇺🇸: 美国\n🇨🇦: 加拿大\n🇲🇽: 墨西哥\n🇷🇺: 俄罗斯\n🇺🇦: 乌克兰\n🇮🇱: 以色列\n🇵🇸: 巴勒斯坦\n🇸🇦: 沙特阿拉伯\n🇨🇳: 中国\n🇰🇵: 朝鲜\n🇰🇷: 韩国\n🇯🇵: 日本\n🇬🇧: 英国\n🇩🇪: 德国\n🇭🇰: 香港\n🇫🇷: 法国\n🇸🇪: 瑞典 https://t.co/7pAUpKdgKW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 485,
+          "like_count": 22231,
+          "listed_count": 2,
+          "media_count": 983,
+          "tweet_count": 8949
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "老嘎的日常 爱生活爱嘎男爱推友",
+        "id": "1657055349982244865",
+        "location": "嘎堡",
+        "name": "呆呆鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856488092242259968/S2wnnD1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 1087,
+          "like_count": 45693,
+          "listed_count": 3,
+          "media_count": 1360,
+          "tweet_count": 16348
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

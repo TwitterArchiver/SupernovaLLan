@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2057896175437820288",
+    "created_at": "2026-05-22T18:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T19:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057896175437820288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Erowid is a non-profit educational & harm-reduction resource with 60 thousand pages of online information about psychoactive drugs, plants, chemicals, and technologies including entheogens, psychedelics, new psychoactive substances, research chemicals, stimulants, depressants and pharmaceuticals. This includes traditional, spiritual, and responsible use, info on health, effects, experiences, images, research, chemistry, law, media coverage, bibliographies and a whole lot more.",
+          "display_url": "erowid.org",
+          "end": 49,
+          "expanded_url": "http://erowid.org",
+          "start": 26,
+          "status": 200,
+          "title": "Erowid",
+          "unwound_url": "https://www.erowid.org/",
+          "url": "https://t.co/6MYSTVvgcp"
+        },
+        {
+          "description": "Practices: Breathing techniques ⋅ Fasting ⋅ Meditation ⋅ Sensory deprivation ⋅ Sleep deprivation ⋅ Tulpa Tools: Meditation frequency ⋅ Psychedelic art ⋅ Shulgin Rating Scale ⋅ Vibes (Good vibes ⋅ Trippy vibes ⋅ Bad vibes)",
+          "display_url": "m.psychonautwiki.org",
+          "end": 112,
+          "expanded_url": "http://m.psychonautwiki.org",
+          "start": 89,
+          "status": 200,
+          "title": "PsychonautWiki",
+          "unwound_url": "https://m.psychonautwiki.org/wiki/Main_Page",
+          "url": "https://t.co/pDsa3tLuNk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057896175437820288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056606608822763857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: - Erowid (https://t.co/6MYSTVvgcp): 记录人类与精神活性物质关系的各种资料\n- PsychonautWiki (https://t.co/pDsa3tLuNk): 社区驱动的百科，系统地整理药物的剂量、时长和主观…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1607,
+        "media_key": "3_2056606605127589888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqIz51aIAA5M7H.jpg",
+        "width": 1737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2057896175437820288",
+        "created_at": "2026-05-22T18:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057896175437820288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Erowid is a non-profit educational & harm-reduction resource with 60 thousand pages of online information about psychoactive drugs, plants, chemicals, and technologies including entheogens, psychedelics, new psychoactive substances, research chemicals, stimulants, depressants and pharmaceuticals. This includes traditional, spiritual, and responsible use, info on health, effects, experiences, images, research, chemistry, law, media coverage, bibliographies and a whole lot more.",
+              "display_url": "erowid.org",
+              "end": 49,
+              "expanded_url": "http://erowid.org",
+              "start": 26,
+              "status": 200,
+              "title": "Erowid",
+              "unwound_url": "https://www.erowid.org/",
+              "url": "https://t.co/6MYSTVvgcp"
+            },
+            {
+              "description": "Practices: Breathing techniques ⋅ Fasting ⋅ Meditation ⋅ Sensory deprivation ⋅ Sleep deprivation ⋅ Tulpa Tools: Meditation frequency ⋅ Psychedelic art ⋅ Shulgin Rating Scale ⋅ Vibes (Good vibes ⋅ Trippy vibes ⋅ Bad vibes)",
+              "display_url": "m.psychonautwiki.org",
+              "end": 112,
+              "expanded_url": "http://m.psychonautwiki.org",
+              "start": 89,
+              "status": 200,
+              "title": "PsychonautWiki",
+              "unwound_url": "https://m.psychonautwiki.org/wiki/Main_Page",
+              "url": "https://t.co/pDsa3tLuNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057896175437820288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056606608822763857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: - Erowid (https://t.co/6MYSTVvgcp): 记录人类与精神活性物质关系的各种资料\n- PsychonautWiki (https://t.co/pDsa3tLuNk): 社区驱动的百科，系统地整理药物的剂量、时长和主观…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056606605127589888"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2056606608822763857",
+        "created_at": "2026-05-19T05:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056606608822763857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Erowid is a non-profit educational & harm-reduction resource with 60 thousand pages of online information about psychoactive drugs, plants, chemicals, and technologies including entheogens, psychedelics, new psychoactive substances, research chemicals, stimulants, depressants and pharmaceuticals. This includes traditional, spiritual, and responsible use, info on health, effects, experiences, images, research, chemistry, law, media coverage, bibliographies and a whole lot more.",
+              "display_url": "erowid.org",
+              "end": 33,
+              "expanded_url": "http://erowid.org",
+              "start": 10,
+              "status": 200,
+              "title": "Erowid",
+              "unwound_url": "https://www.erowid.org/",
+              "url": "https://t.co/6MYSTVvgcp"
+            },
+            {
+              "description": "Practices: Breathing techniques ⋅ Fasting ⋅ Meditation ⋅ Sensory deprivation ⋅ Sleep deprivation ⋅ Tulpa Tools: Meditation frequency ⋅ Psychedelic art ⋅ Shulgin Rating Scale ⋅ Vibes (Good vibes ⋅ Trippy vibes ⋅ Bad vibes)",
+              "display_url": "m.psychonautwiki.org",
+              "end": 96,
+              "expanded_url": "http://m.psychonautwiki.org",
+              "start": 73,
+              "status": 200,
+              "title": "PsychonautWiki",
+              "unwound_url": "https://m.psychonautwiki.org/wiki/Main_Page",
+              "url": "https://t.co/pDsa3tLuNk"
+            },
+            {
+              "description": "精神药物安全使用指南、药物相互作用、过量处理和康复经验分享。提供专业的药物安全知识、紧急处理方案和真实案例报告，帮助用户了解精神活性物质的风险与防范。",
+              "display_url": "psydrugs.org",
+              "end": 165,
+              "expanded_url": "http://psydrugs.org",
+              "start": 142,
+              "status": 200,
+              "title": "精神活性物质指南",
+              "unwound_url": "https://psydrugs.org/",
+              "url": "https://t.co/Xfh9DHcUbN"
+            },
+            {
+              "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+              "display_url": "freeodwiki.org",
+              "end": 212,
+              "expanded_url": "http://freeodwiki.org",
+              "start": 189,
+              "status": 200,
+              "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/",
+              "url": "https://t.co/Rfyog6Ebnc"
+            },
+            {
+              "display_url": "pic.x.com/mCSYBLAbyR",
+              "end": 248,
+              "expanded_url": "https://x.com/Strf_9040C/status/2056606608822763857/photo/1",
+              "media_key": "3_2056606605127589888",
+              "start": 225,
+              "url": "https://t.co/mCSYBLAbyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056606608822763857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 4066,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "- Erowid (https://t.co/6MYSTVvgcp): 记录人类与精神活性物质关系的各种资料\n- PsychonautWiki (https://t.co/pDsa3tLuNk): 社区驱动的百科，系统地整理药物的剂量、时长和主观效应\n- PsydrugsWiki (https://t.co/Xfh9DHcUbN): 中文减害百科\n- FreeODWiki (https://t.co/Rfyog6Ebnc): 开源的 OD 百科 https://t.co/mCSYBLAbyR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 583,
+          "like_count": 25765,
+          "listed_count": 2,
+          "media_count": 1153,
+          "tweet_count": 10764
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 2104,
+          "like_count": 10601,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

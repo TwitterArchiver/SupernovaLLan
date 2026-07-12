@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1865047396880916609",
+    "created_at": "2024-12-06T14:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T15:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865047396880916609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mingleili2/sta…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/mingleili2/status/1864854441528299656",
+          "start": 136,
+          "url": "https://t.co/Ca0JT5Nqhp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865047396880916609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864854441528299656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大反转😳我就说怎么国会半夜投票停的戒严，四点收到总统同意的视频上面还有前晚的时间戳水印，结果是前晚戒严部队还没上装甲车的时候就已经录好了？戒严就是虚晃一枪？）接下来要看掌握证据之后正式戒严解散国会还是国会先发难弹劾总统？前总检查长的一手谋略把事件推向比电影还精彩的高潮🧐 https://t.co/Ca0JT5Nqhp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1865047396880916609",
+        "created_at": "2024-12-06T14:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T15:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865047396880916609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mingleili2/sta…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/mingleili2/status/1864854441528299656",
+              "start": 136,
+              "url": "https://t.co/Ca0JT5Nqhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865047396880916609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864854441528299656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大反转😳我就说怎么国会半夜投票停的戒严，四点收到总统同意的视频上面还有前晚的时间戳水印，结果是前晚戒严部队还没上装甲车的时候就已经录好了？戒严就是虚晃一枪？）接下来要看掌握证据之后正式戒严解散国会还是国会先发难弹劾总统？前总检查长的一手谋略把事件推向比电影还精彩的高潮🧐 https://t.co/Ca0JT5Nqhp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1864709266881560576"
+          ],
+          "media_source_tweet_id": [
+            "1864709382996685289"
+          ]
+        },
+        "author_id": "1028170521572073472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1864854441528299656",
+        "created_at": "2024-12-06T02:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T03:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864854441528299656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/InGQoFd7Pl",
+              "end": 154,
+              "expanded_url": "https://x.com/nopain_nogain05/status/1864709382996685289/video/1",
+              "media_key": "13_1864709266881560576",
+              "start": 131,
+              "url": "https://t.co/InGQoFd7Pl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864854441528299656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 161838,
+          "like_count": 300,
+          "quote_count": 14,
+          "reply_count": 42,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我就说为什么好好的韩国总统干嘛宣布戒严原来 实施戒严令是为了让军方能够掌握选举舞弊的证据。”\n\n显然，封锁国会是一个诱饵，总共向各地选举委员会派遣了297名戒严部队，并没收了证据数据。\n\n证据确凿，一下子全部逮捕→估计总统要向国民宣布了。\n\n意想不到的超级发展 https://t.co/InGQoFd7Pl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 485,
+          "like_count": 22230,
+          "listed_count": 2,
+          "media_count": 993,
+          "tweet_count": 9022
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-11T06:45:29.000Z",
+        "description": "我就是一个自由自在的厨子，愿意聊点自己喜欢的东西，喜欢路德社，必须支持闫博士，如果咱们兴趣相投，就互相聊天！如果聊不到一块儿，请你远离！（尤其是挂着闫博士头像，嘴上喊着支持路德社，暗地里干坏事的，不要加我昂）！",
+        "id": "1028170521572073472",
+        "name": "俺是快乐的厨子！🇦🇺🇺🇦🇺🇸🇯🇵",
+        "pinned_tweet_id": "1594838843563585538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836194332766015488/yys6iQAY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15346,
+          "following_count": 758,
+          "like_count": 50821,
+          "listed_count": 70,
+          "media_count": 7266,
+          "tweet_count": 49244
+        },
+        "username": "mingleili2",
+        "verified": true
+      }
+    ]
+  }
+}

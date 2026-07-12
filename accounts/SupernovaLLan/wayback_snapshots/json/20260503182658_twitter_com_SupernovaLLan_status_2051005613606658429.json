@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2050425547621368092",
+    "created_at": "2026-05-03T18:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051005613606658429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1435889042155995136",
+          "start": 0,
+          "username": "bluefluoxetine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051005613606658429",
+    "in_reply_to_user_id": "1435889042155995136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050425547621368092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluefluoxetine 并且最好固定一下节点ip不要智能乱跳，推的检测最近变严格了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050425547621368092].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050425547621368092",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050425547621368092"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2050425547621368092",
+        "created_at": "2026-05-03T18:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051005613606658429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1435889042155995136",
+              "start": 0,
+              "username": "bluefluoxetine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051005613606658429",
+        "in_reply_to_user_id": "1435889042155995136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050425547621368092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluefluoxetine 并且最好固定一下节点ip不要智能乱跳，推的检测最近变严格了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra  ¿提问？↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 547,
+          "like_count": 24828,
+          "listed_count": 2,
+          "media_count": 1124,
+          "tweet_count": 10349
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T08:53:38.000Z",
+        "description": "⚠️self-harm\n＃shtwt\n\n决定勇敢",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1435889042155995136",
+        "location": "银河车站",
+        "name": "Yan（戒od割手失败版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634429527710367744/2nOMuHEa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3601,
+          "following_count": 269,
+          "like_count": 45656,
+          "listed_count": 6,
+          "media_count": 948,
+          "tweet_count": 12517
+        },
+        "username": "bluefluoxetine",
+        "verified": false
+      }
+    ]
+  }
+}

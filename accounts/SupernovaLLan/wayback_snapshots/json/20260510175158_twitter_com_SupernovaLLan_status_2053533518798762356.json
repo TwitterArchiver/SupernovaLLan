@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053533509537742848",
+        "3_2053533509520855040"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053505437493018795",
+    "created_at": "2026-05-10T17:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T18:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053533518798762356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313677891163414533",
+          "start": 0,
+          "username": "cookiessin1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GkcOBxYskT",
+          "end": 176,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2053533518798762356/photo/1",
+          "media_key": "3_2053533509537742848",
+          "start": 153,
+          "url": "https://t.co/GkcOBxYskT"
+        },
+        {
+          "display_url": "pic.x.com/GkcOBxYskT",
+          "end": 176,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2053533518798762356/photo/1",
+          "media_key": "3_2053533509520855040",
+          "start": 153,
+          "url": "https://t.co/GkcOBxYskT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053533518798762356",
+    "in_reply_to_user_id": "1313677891163414533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053505437493018795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cookiessin1 吗啡芬太尼确实是比曲马多更强的阿片药，但是主要是提高痛感阈值，针对阿片类受体的药不起效那就考虑换别的止痛法了，普瑞和加巴这种专门针对神经痛的药可能有奇效。另外就是也考虑炎症和肌肉方面的问题，地塞米松降炎，盐酸乙哌立松片解痉不知道能否帮忙，然后就是止痛不治本，可能还是得物理介入吧 https://t.co/GkcOBxYskT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053533518798762356].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053533518798762356",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053533518798762356"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2053505437493018795].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2053505437493018795",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2053505437493018795"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1949,
+        "media_key": "3_2053533509537742848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-d2MpbwAAf3iF.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1753,
+        "media_key": "3_2053533509520855040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-d2MlaEAAEPw6.jpg",
+        "width": 1179
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 565,
+          "like_count": 25226,
+          "listed_count": 2,
+          "media_count": 1132,
+          "tweet_count": 10503
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T03:09:56.000Z",
+        "description": "@hannibals4PlZ_r的主人格 #VForVictory 世界和平派",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 21,
+                "tag": "VForVictory"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hannibals4PlZ_r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitality.gg/en/",
+                "end": 23,
+                "expanded_url": "https://vitality.gg/en/",
+                "start": 0,
+                "url": "https://t.co/XQjCT48EdL"
+              }
+            ]
+          }
+        },
+        "id": "1313677891163414533",
+        "location": "221B Baker Street",
+        "name": "R号机不是二号机_(。-∀-)",
+        "pinned_tweet_id": "1900442345835028942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021934227671937024/Aad5lwuD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 289,
+          "like_count": 14779,
+          "listed_count": 1,
+          "media_count": 1479,
+          "tweet_count": 8883
+        },
+        "url": "https://t.co/XQjCT48EdL",
+        "username": "cookiessin1",
+        "verified": false
+      }
+    ]
+  }
+}

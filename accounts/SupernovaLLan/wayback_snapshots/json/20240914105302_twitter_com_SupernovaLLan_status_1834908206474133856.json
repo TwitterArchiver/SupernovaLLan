@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1834809575117300044",
+    "created_at": "2024-09-14T10:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T11:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834908206474133856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834908206474133856",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834809575117300044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 想起来我在伤兵营打军体拳打到作训服裤裆裂开）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1834809575117300044].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1834809575117300044",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1834809575117300044"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1834809575117300044",
+        "created_at": "2024-09-14T10:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T11:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834908206474133856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834908206474133856",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834809575117300044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 想起来我在伤兵营打军体拳打到作训服裤裆裂开）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 444,
+          "like_count": 20838,
+          "listed_count": 2,
+          "tweet_count": 8125
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "紫罗兰的美 在于它的细小",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yusanyyy8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yusanyyy8",
+                "start": 0,
+                "url": "https://t.co/1aIiKMVfgb"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "連線世界",
+        "name": "💉⊹˚击穿紫罗兰𓄹",
+        "pinned_tweet_id": "1826286908072477092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830260556366032896/vGXHD4IV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 781,
+          "like_count": 40412,
+          "listed_count": 4,
+          "tweet_count": 13597
+        },
+        "url": "https://t.co/1aIiKMVfgb",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

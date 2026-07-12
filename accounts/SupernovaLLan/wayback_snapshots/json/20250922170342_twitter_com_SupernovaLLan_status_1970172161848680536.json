@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1970172161848680536",
+    "created_at": "2025-09-22T17:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T18:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970172161848680536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lixiang1947/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/lixiang1947/status/1969943308903514324",
+          "start": 13,
+          "url": "https://t.co/HpeW0r9mxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970172161848680536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969943308903514324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前一直追的EVA解析🤣 https://t.co/HpeW0r9mxt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_1969943115994963968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ak06ibIAAReLh.png",
+        "width": 579
+      },
+      {
+        "height": 833,
+        "media_key": "3_1969943166439903232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ak32db0AA_bC7.png",
+        "width": 733
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1970172161848680536",
+        "created_at": "2025-09-22T17:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970172161848680536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lixiang1947/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/lixiang1947/status/1969943308903514324",
+              "start": 13,
+              "url": "https://t.co/HpeW0r9mxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970172161848680536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969943308903514324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前一直追的EVA解析🤣 https://t.co/HpeW0r9mxt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969943115994963968",
+            "3_1969943166439903232"
+          ]
+        },
+        "author_id": "1567179325551812609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969943308903514324",
+        "created_at": "2025-09-22T01:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T02:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969943308903514324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1oaIYTRpWx",
+              "end": 40,
+              "expanded_url": "https://x.com/LiXiang1947/status/1969943308903514324/photo/1",
+              "media_key": "3_1969943115994963968",
+              "start": 17,
+              "url": "https://t.co/1oaIYTRpWx"
+            },
+            {
+              "display_url": "pic.x.com/1oaIYTRpWx",
+              "end": 40,
+              "expanded_url": "https://x.com/LiXiang1947/status/1969943308903514324/photo/1",
+              "media_key": "3_1969943166439903232",
+              "start": 17,
+              "url": "https://t.co/1oaIYTRpWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969943308903514324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 481,
+          "impression_count": 442540,
+          "like_count": 2077,
+          "quote_count": 12,
+          "reply_count": 77,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "讲一个非知名八卦，下图是同一个人 https://t.co/1oaIYTRpWx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 545,
+          "like_count": 24863,
+          "listed_count": 2,
+          "media_count": 1082,
+          "tweet_count": 9867
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T15:54:12.000Z",
+        "description": "Neuroscience PhD diving deep into AI | Going all-in on global product adventures | Aspiring sailor exploring new horizons | English vibes: @lixiangyu9710",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 139,
+                "username": "lixiangyu9710"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "scholar.google.com/citations?hl=z…",
+                "end": 23,
+                "expanded_url": "https://scholar.google.com/citations?hl=zh-CN&user=FQlzamQAAAAJ",
+                "start": 0,
+                "url": "https://t.co/TVpUSUX2vo"
+              }
+            ]
+          }
+        },
+        "id": "1567179325551812609",
+        "name": "Li Xiangyu 香鱼🐬",
+        "pinned_tweet_id": "1969932799013724512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911584400224948224/QbglopMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12922,
+          "following_count": 1425,
+          "like_count": 17120,
+          "listed_count": 60,
+          "media_count": 307,
+          "tweet_count": 11696
+        },
+        "url": "https://t.co/TVpUSUX2vo",
+        "username": "LiXiang1947",
+        "verified": true
+      }
+    ]
+  }
+}

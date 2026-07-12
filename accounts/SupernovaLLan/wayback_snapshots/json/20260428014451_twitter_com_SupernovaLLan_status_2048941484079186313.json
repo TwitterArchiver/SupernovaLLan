@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2048921917734691143",
+    "created_at": "2026-04-28T01:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048941484079186313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551968500209487873",
+          "start": 0,
+          "username": "hannibals4PLZ_r"
+        },
+        {
+          "end": 26,
+          "id": "1409071214954389504",
+          "start": 17,
+          "username": "TKongtou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048941484079186313",
+    "in_reply_to_user_id": "1551968500209487873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048929803076596214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hannibals4PLZ_r @TKongtou 昏君，昏君呐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2048921917734691143",
+        "created_at": "2026-04-28T01:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048941484079186313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551968500209487873",
+              "start": 0,
+              "username": "hannibals4PLZ_r"
+            },
+            {
+              "end": 26,
+              "id": "1409071214954389504",
+              "start": 17,
+              "username": "TKongtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048941484079186313",
+        "in_reply_to_user_id": "1551968500209487873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048929803076596214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hannibals4PLZ_r @TKongtou 昏君，昏君呐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551968500209487873",
+        "conversation_id": "2048921917734691143",
+        "created_at": "2026-04-28T00:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048929803076596214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1409071214954389504",
+              "start": 0,
+              "username": "TKongtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048929803076596214",
+        "in_reply_to_user_id": "1409071214954389504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048926099279876330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKongtou 蠢比主公一直打忠臣还拆我八卦阵😩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 531,
+          "like_count": 24553,
+          "listed_count": 2,
+          "media_count": 1111,
+          "tweet_count": 10227
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T16:31:47.000Z",
+        "description": "私密逃生舱@cookiessin1 画@RachieSAMA _ 性格很差劲 -现居🏴󠁧󠁢󠁥󠁮󠁧󠁿乡下- 对@RQu1etlyR萌生多余的情感中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "cookiessin1"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "RachieSAMA"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "RQu1etlyR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=Snq54E1T",
+                "start": 0,
+                "url": "https://t.co/6l4lAGcdCr"
+              }
+            ]
+          }
+        },
+        "id": "1551968500209487873",
+        "location": "The Garden of Sinners",
+        "name": "RCat🐝",
+        "pinned_tweet_id": "1876508916680724885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876509215868727296/SBaoLmXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7697,
+          "following_count": 1501,
+          "like_count": 23964,
+          "listed_count": 13,
+          "media_count": 191,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/6l4lAGcdCr",
+        "username": "hannibals4PLZ_r",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-27T08:48:58.000Z",
+        "description": "INTP ‖ MC builder ‖ 我是某种互联网底栖生物 ‖ 人工智能 ‖ 计算机视觉\nwe live in a twilight world,and there are no friends at dusk.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tkongtou1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tkongtou1",
+                "start": 0,
+                "url": "https://t.co/JoVJ47SdAY"
+              }
+            ]
+          }
+        },
+        "id": "1409071214954389504",
+        "location": "底特律 我正在努力变人",
+        "name": "kongtou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039951996195942400/LlQ9yjEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 823,
+          "like_count": 80705,
+          "listed_count": 3,
+          "media_count": 946,
+          "tweet_count": 19903
+        },
+        "url": "https://t.co/JoVJ47SdAY",
+        "username": "TKongtou",
+        "verified": false
+      }
+    ]
+  }
+}

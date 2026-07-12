@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1865656149590294665",
+    "created_at": "2024-12-08T07:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T08:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865656149590294665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1658222935717580800",
+          "start": 3,
+          "username": "xiaosong23_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865656149590294665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865423126399689106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaosong23_3: 关于艾司氯胺酮\n不知道为什么这个药这几天才进入公众视野，我印象中19年就看到过了，前两年一线城市也都有了\n本质上是氯胺酮的加强版，据他们所说成瘾性更小，膀胱毒性更弱，加一个没那么容易溜大\n然后就是名字的问题，艾司氯胺酮，实际上相当于艾司西酞普…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1865656149590294665",
+        "created_at": "2024-12-08T07:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T08:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865656149590294665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1658222935717580800",
+              "start": 3,
+              "username": "xiaosong23_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865656149590294665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865423126399689106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaosong23_3: 关于艾司氯胺酮\n不知道为什么这个药这几天才进入公众视野，我印象中19年就看到过了，前两年一线城市也都有了\n本质上是氯胺酮的加强版，据他们所说成瘾性更小，膀胱毒性更弱，加一个没那么容易溜大\n然后就是名字的问题，艾司氯胺酮，实际上相当于艾司西酞普…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658222935717580800",
+        "conversation_id": "1865423126399689106",
+        "created_at": "2024-12-07T15:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T16:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865423126399689106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865423126399689106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 9734,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "关于艾司氯胺酮\n不知道为什么这个药这几天才进入公众视野，我印象中19年就看到过了，前两年一线城市也都有了\n本质上是氯胺酮的加强版，据他们所说成瘾性更小，膀胱毒性更弱，加一个没那么容易溜大\n然后就是名字的问题，艾司氯胺酮，实际上相当于艾司西酞普兰和西酞普兰\n但很难绷的问题如下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 486,
+          "like_count": 22299,
+          "listed_count": 2,
+          "media_count": 996,
+          "tweet_count": 9051
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T21:29:02.000Z",
+        "description": "钢丝2000h玩家｜战雷｜术｜精神病学｜精神药理\n有事找我的话https://t.co/6hCa5huvho",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DpVgmCd65z40Z…",
+                "end": 54,
+                "expanded_url": "https://t.me/+DpVgmCd65z40Zjk1",
+                "start": 31,
+                "url": "https://t.co/6hCa5huvho"
+              }
+            ]
+          }
+        },
+        "id": "1658222935717580800",
+        "name": "xiaosong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704482710830620672/ET3tOMIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 262,
+          "like_count": 16675,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 2300
+        },
+        "username": "xiaosong23_3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1863166676193145327",
+    "created_at": "2024-12-01T12:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T13:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863201347119813040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1722418855",
+          "start": 0,
+          "username": "paitangcuzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863201347119813040",
+    "in_reply_to_user_id": "1722418855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863166676193145327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paitangcuzhi 向你学习🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1863166676193145327",
+        "created_at": "2024-12-01T12:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T13:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863201347119813040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1722418855",
+              "start": 0,
+              "username": "paitangcuzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863201347119813040",
+        "in_reply_to_user_id": "1722418855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863166676193145327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paitangcuzhi 向你学习🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722418855",
+        "conversation_id": "1863166676193145327",
+        "created_at": "2024-12-01T10:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863166676193145327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863166676193145327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我鞭策我的伴侣、下属\n\n使他们成为更好的自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 485,
+          "like_count": 22229,
+          "listed_count": 2,
+          "media_count": 983,
+          "tweet_count": 8947
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-02T13:44:45.000Z",
+        "description": "牢叶个人账户 不接单勿私信 下单联系大号或者tg",
+        "id": "1722418855",
+        "name": "☯️葉道長",
+        "pinned_tweet_id": "1839188426224185770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862815818137890816/hrKq4XCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 6,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 69
+        },
+        "username": "paitangcuzhi",
+        "verified": false
+      }
+    ]
+  }
+}

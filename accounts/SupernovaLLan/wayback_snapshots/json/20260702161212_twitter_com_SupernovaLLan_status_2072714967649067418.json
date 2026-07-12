@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2072714967649067418",
+    "created_at": "2026-07-02T16:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072714967649067418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nini_incrypto_…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/nini_incrypto_/status/2072276837938409960",
+          "start": 37,
+          "url": "https://t.co/0u9btbwrY0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072714967649067418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072276837938409960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃啊对就是百科全书阅读癖甚至还包括工具书比如地图册啊电话本什么的奇奇怪怪 https://t.co/0u9btbwrY0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2072714967649067418",
+        "created_at": "2026-07-02T16:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072714967649067418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nini_incrypto_…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/nini_incrypto_/status/2072276837938409960",
+              "start": 37,
+              "url": "https://t.co/0u9btbwrY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072714967649067418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072276837938409960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃啊对就是百科全书阅读癖甚至还包括工具书比如地图册啊电话本什么的奇奇怪怪 https://t.co/0u9btbwrY0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033549131797733376",
+        "conversation_id": "2072276837938409960",
+        "created_at": "2026-07-01T11:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072276837938409960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072276837938409960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 302449,
+          "like_count": 3047,
+          "quote_count": 52,
+          "reply_count": 429,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "是不是很多ADHD小时候很明显的一个特征就是看书成瘾，也就是信息索取癖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 623,
+          "like_count": 27120,
+          "listed_count": 2,
+          "media_count": 1209,
+          "tweet_count": 11267
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:26:02.000Z",
+        "description": "07大二在读｜crypto➕ai\nWeb3 创作者\ntg群https://t.co/yf2I2uudVp\nAI/出海相关代充https://t.co/KP6assFIYu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+pIYvNfop1KthM…",
+                "end": 52,
+                "expanded_url": "https://t.me/+pIYvNfop1KthMjY1",
+                "start": 29,
+                "url": "https://t.co/yf2I2uudVp"
+              },
+              {
+                "display_url": "nini.kbshub.store",
+                "end": 85,
+                "expanded_url": "https://nini.kbshub.store",
+                "start": 62,
+                "url": "https://t.co/KP6assFIYu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nini.onchain",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nini.onchain",
+                "start": 0,
+                "url": "https://t.co/8nWRHsGEY6"
+              }
+            ]
+          }
+        },
+        "id": "2033549131797733376",
+        "name": "nini",
+        "pinned_tweet_id": "2072254589420663257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035875407359262720/qVUpg1XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15918,
+          "following_count": 1065,
+          "like_count": 21740,
+          "listed_count": 78,
+          "media_count": 258,
+          "tweet_count": 5778
+        },
+        "url": "https://t.co/8nWRHsGEY6",
+        "username": "nini_incrypto_",
+        "verified": true
+      }
+    ]
+  }
+}

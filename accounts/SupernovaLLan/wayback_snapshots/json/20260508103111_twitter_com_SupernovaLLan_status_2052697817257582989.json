@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2052324522720924123",
+    "created_at": "2026-05-08T10:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052697817257582989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "830659836924694528",
+          "start": 0,
+          "username": "m26iza"
+        },
+        {
+          "end": 17,
+          "id": "2043363745443749888",
+          "start": 8,
+          "username": "Negvorce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052697817257582989",
+    "in_reply_to_user_id": "830659836924694528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052674819741962573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m26iza @Negvorce hhhh一块钱电算实惠了上限1.5）还有就是一切穿搭打扮都没法实行，不穿短衣短裤一年就有一半的时间会被热死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2052324522720924123",
+        "created_at": "2026-05-08T10:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052697817257582989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "830659836924694528",
+              "start": 0,
+              "username": "m26iza"
+            },
+            {
+              "end": 17,
+              "id": "2043363745443749888",
+              "start": 8,
+              "username": "Negvorce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052697817257582989",
+        "in_reply_to_user_id": "830659836924694528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052674819741962573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m26iza @Negvorce hhhh一块钱电算实惠了上限1.5）还有就是一切穿搭打扮都没法实行，不穿短衣短裤一年就有一半的时间会被热死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830659836924694528",
+        "conversation_id": "2052324522720924123",
+        "created_at": "2026-05-08T08:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052674819741962573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2043363745443749888",
+              "start": 0,
+              "username": "Negvorce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052674819741962573",
+        "in_reply_to_user_id": "2043363745443749888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052324522720924123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Negvorce 不 是发霉 吵闹 电鸡 拥挤 超快速节奏 听不懂的方言 满屋蟑螂 极差的隔音 抱团的房东 一块钱一度的天价电 极品蹲坑厕所 穿五颜六色衣服会被行注目礼 唯一优点 满大街都是麦当劳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 557,
+          "like_count": 25062,
+          "listed_count": 2,
+          "media_count": 1130,
+          "tweet_count": 10426
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-12T06:08:32.000Z",
+        "description": "我说仲夏苦短，我说蝉鸣悠长。我困于荒野，我去往远方。梧桐枝丫疯长，爱意贯穿心脏 ——《某某》",
+        "id": "830659836924694528",
+        "name": "白巧曲奇",
+        "pinned_tweet_id": "1825378781445734617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052685995599130624/QGjIJRoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 606,
+          "like_count": 13666,
+          "listed_count": 9,
+          "media_count": 19,
+          "tweet_count": 760
+        },
+        "username": "m26iza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T16:21:17.000Z",
+        "description": "185-76-43-1（也可side或s，更喜side），00后。时不时发疯/发情/发癫/发骚。xp广泛但大多浅尝辄止，包括但不限于眼镜，舌吻，帅鞋（怎么算帅由我说了算），白袜，猴等等等等（排名从先到后）。可接地陪，可提供情绪价值，可接陪聊。欢迎私信，欢迎金主爸爸，不直接约。",
+        "id": "2043363745443749888",
+        "location": "南京，骗子别来",
+        "name": "Negvorce",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043370163320532992/W0IQ3NlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 954,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1038
+        },
+        "username": "Negvorce",
+        "verified": false
+      }
+    ]
+  }
+}

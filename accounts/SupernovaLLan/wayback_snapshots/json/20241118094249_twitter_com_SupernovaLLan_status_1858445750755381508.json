@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858445734900895744"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1858445750755381508",
+    "created_at": "2024-11-18T09:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T10:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1858445750755381508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WEcGvE7mZu",
+          "end": 31,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1858445750755381508/photo/1",
+          "media_key": "3_1858445734900895744",
+          "start": 8,
+          "url": "https://t.co/WEcGvE7mZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858445750755381508",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "急需死前咩亡之 https://t.co/WEcGvE7mZu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1858445750755381508].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1858445750755381508",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1858445750755381508"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1367,
+        "media_key": "3_1858445734900895744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcqGjKcbkAAmqIn.jpg",
+        "width": 603
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 470,
+          "like_count": 22019,
+          "listed_count": 2,
+          "tweet_count": 8820
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

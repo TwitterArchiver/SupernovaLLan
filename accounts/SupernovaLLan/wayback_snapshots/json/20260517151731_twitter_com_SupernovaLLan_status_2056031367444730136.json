@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2055990311709712616",
+    "created_at": "2026-05-17T15:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056031367444730136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2053435734737186816",
+          "start": 0,
+          "username": "xingstaro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/crystallize888…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/crystallize888/status/2055915966479950328",
+          "start": 31,
+          "url": "https://t.co/beZluVtFRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056031367444730136",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055915966479950328",
+        "type": "quoted"
+      },
+      {
+        "id": "2055990311709712616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingstaro 此号含🐔，翻翻推文可见故人之姿（大概） https://t.co/beZluVtFRL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2055990311709712616",
+        "created_at": "2026-05-17T15:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056031367444730136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/crystallize888…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/crystallize888/status/2055915966479950328",
+              "start": 31,
+              "url": "https://t.co/beZluVtFRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056031367444730136",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055915966479950328",
+            "type": "quoted"
+          },
+          {
+            "id": "2055990311709712616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 此号含🐔，翻翻推文可见故人之姿（大概） https://t.co/beZluVtFRL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052601714419658752",
+        "conversation_id": "2055915966479950328",
+        "created_at": "2026-05-17T07:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055915966479950328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055915966479950328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1664,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "評論區抽獎免費贈送IC-26（阿片類）包郵\n條件：點讚 關注 轉發 評論\n40轉發開獎\n\n本團隊不定期抽獎隨即物質供各位研究。歡迎可以加入我們的網站論壇投稿wiki,聊天。支持暗網，端到端加密。目前最安全的精神物質圈。\n\n粉絲多的可以談合作，測評。入駐網站。有實力的可以直接來應聘入職拿工資。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055990311709712616",
+        "created_at": "2026-05-17T12:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055990311709712616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055990311709712616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1380,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥其实是药圈里唯一一个跨领域跟我两个类型的账号长期互关的，我换账号鸡也fo，鸡死了复活又接着互fo，我对鸡哥没什么正负评价，单纯觉得太有缘了，现如今我1-3.0齐齐死掉以后，鸡的行踪也越来越神秘莫测，我们最终在新账号上再也没见过彼此了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 574,
+          "like_count": 25530,
+          "listed_count": 2,
+          "media_count": 1144,
+          "tweet_count": 10650
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 249,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 344
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T04:09:58.000Z",
+        "description": "Offical X Acoount Of https://t.co/MkurdUpcAd\n#odtwt #shtwt #結晶化\n多人帳號\n☆real life anime main character\n⛧°⋆༺♱༻⋆°⛧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 45,
+                "tag": "odtwt"
+              },
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "shtwt"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "結晶化"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Crystallize.Club",
+                "end": 44,
+                "expanded_url": "http://Crystallize.Club",
+                "start": 21,
+                "url": "https://t.co/MkurdUpcAd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/cIXzl6egXK"
+              }
+            ]
+          }
+        },
+        "id": "2052601714419658752",
+        "location": "Tai Wan",
+        "name": "結晶化 - Crystallize 精神物質結晶圈",
+        "pinned_tweet_id": "2054172285578453071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054166877304197120/XhSr4TLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 54,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/cIXzl6egXK",
+        "username": "Crystallize888",
+        "verified": true
+      }
+    ]
+  }
+}

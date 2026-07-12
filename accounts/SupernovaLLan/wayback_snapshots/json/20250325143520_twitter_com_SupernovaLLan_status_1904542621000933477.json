@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1904542002349580443",
+    "created_at": "2025-03-25T14:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T15:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904542621000933477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904542621000933477",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904542002349580443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 宅鼠"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7500,
+        "height": 960,
+        "media_key": "7_1904541953133588480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1904541953133588480/pu/img/ly64E1YQ8h8OtvY5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904541953133588480/pu/vid/avc1/320x426/38ToHL4wNSfLBi-E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904541953133588480/pu/vid/avc1/480x640/gspGhleHP6-HI0Ka.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904541953133588480/pu/vid/avc1/720x960/kXVx5diVo_3p61u4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1904541953133588480/pu/pl/Ts2Iobtn7gZTSDvp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1904542002349580443",
+        "created_at": "2025-03-25T14:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T15:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904542621000933477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904542621000933477",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904542002349580443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 宅鼠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904541953133588480"
+          ]
+        },
+        "author_id": "1650760116918943744",
+        "conversation_id": "1904542002349580443",
+        "created_at": "2025-03-25T14:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T15:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904542002349580443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txwhHb7CEO",
+              "end": 138,
+              "expanded_url": "https://x.com/yusanyyy8/status/1904542002349580443/video/1",
+              "media_key": "7_1904541953133588480",
+              "start": 115,
+              "url": "https://t.co/txwhHb7CEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904542002349580443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难道说是什么样的主人养出什么的鼠吗 银狼是真的一点都不动 明明很小就很聪明会用尿砂会跑跑轮 还会自己挖洞 但是现在把它放在跑轮上都不动 每天只窝在小房子里 完全和我一样🙀 活动最多就是出来吃饭喝水还有把磨牙的苹果枝拖到房子里啃🙀 https://t.co/txwhHb7CEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 530,
+          "like_count": 23829,
+          "listed_count": 2,
+          "media_count": 1031,
+          "tweet_count": 9477
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "我只是想活在自己的世界里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/ZnwIMvxxKK"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "鼠鼠星",
+        "name": "南鼠🍀",
+        "pinned_tweet_id": "1895738591047033314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903015263433527298/9R1Yn7W__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 943,
+          "like_count": 51848,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 10118
+        },
+        "url": "https://t.co/ZnwIMvxxKK",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

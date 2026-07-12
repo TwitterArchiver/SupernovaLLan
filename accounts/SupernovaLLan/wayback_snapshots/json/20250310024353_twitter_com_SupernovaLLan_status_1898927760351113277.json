@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1898926362188284256",
+    "created_at": "2025-03-10T02:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T03:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898927760351113277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874049299124019201",
+          "start": 0,
+          "username": "Mistery5387057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898927760351113277",
+    "in_reply_to_user_id": "1874049299124019201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898926362188284256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mistery5387057 回踩缺口加仓这预判准得不要不要的，当时很快吃到大肉了感恩mi🫡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1898926362188284256].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1898926362188284256",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1898926362188284256"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1898926362188284256",
+        "created_at": "2025-03-10T02:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T03:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898927760351113277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874049299124019201",
+              "start": 0,
+              "username": "Mistery5387057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898927760351113277",
+        "in_reply_to_user_id": "1874049299124019201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898926362188284256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mistery5387057 回踩缺口加仓这预判准得不要不要的，当时很快吃到大肉了感恩mi🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 526,
+          "like_count": 23619,
+          "listed_count": 2,
+          "media_count": 1026,
+          "tweet_count": 9410
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T11:05:58.000Z",
+        "description": "一个逻辑的梳理者，趋势的跟随者。 没有群，不私聊，不收费 。各人观点不构成投资建议，股市有风险，投资需谨慎，盈亏自负！",
+        "id": "1874049299124019201",
+        "location": "東京 世田谷区",
+        "name": "Mistery",
+        "pinned_tweet_id": "1897043307211248059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896008448698941440/fSEwRu_K_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 24000,
+          "following_count": 21,
+          "like_count": 12564,
+          "listed_count": 349,
+          "media_count": 1387,
+          "tweet_count": 7324
+        },
+        "username": "Mistery5387057",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2065804326015246549",
+    "created_at": "2026-06-13T18:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065870271672938895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/_miuj_9/status…",
+          "end": 38,
+          "expanded_url": "https://x.com/_miuj_9/status/2065704480218505541",
+          "start": 15,
+          "url": "https://t.co/M6xVGGInQ9"
+        },
+        {
+          "display_url": "x.com/_miuj_9/status…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/_miuj_9/status/2065704480218505541",
+          "start": 39,
+          "url": "https://t.co/Mp6pkSHtzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065870271672938895",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065704480218505541",
+        "type": "quoted"
+      },
+      {
+        "id": "2065853472906543259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 https://t.co/M6xVGGInQ9 https://t.co/Mp6pkSHtzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065703754419372032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKranr1bgAA6xGc.jpg",
+        "width": 885
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2065703754427719681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKranr3a4AE1ZFH.jpg",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2065804326015246549",
+        "created_at": "2026-06-13T18:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065870271672938895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/_miuj_9/status…",
+              "end": 38,
+              "expanded_url": "https://x.com/_miuj_9/status/2065704480218505541",
+              "start": 15,
+              "url": "https://t.co/M6xVGGInQ9"
+            },
+            {
+              "display_url": "x.com/_miuj_9/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/_miuj_9/status/2065704480218505541",
+              "start": 39,
+              "url": "https://t.co/Mp6pkSHtzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065870271672938895",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065704480218505541",
+            "type": "quoted"
+          },
+          {
+            "id": "2065853472906543259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 https://t.co/M6xVGGInQ9 https://t.co/Mp6pkSHtzy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065703754419372032",
+            "3_2065703754427719681"
+          ]
+        },
+        "author_id": "1987562596372021248",
+        "conversation_id": "2065704480218505541",
+        "created_at": "2026-06-13T07:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065704480218505541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWecwPT3dt",
+              "end": 152,
+              "expanded_url": "https://x.com/_miuj_9/status/2065704480218505541/photo/1",
+              "media_key": "3_2065703754419372032",
+              "start": 129,
+              "url": "https://t.co/zWecwPT3dt"
+            },
+            {
+              "display_url": "pic.x.com/zWecwPT3dt",
+              "end": 152,
+              "expanded_url": "https://x.com/_miuj_9/status/2065704480218505541/photo/1",
+              "media_key": "3_2065703754427719681",
+              "start": 129,
+              "url": "https://t.co/zWecwPT3dt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065704480218505541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "北大连夜删除两年前鹅腿阿姨相关报道，人民日报的也删了🥲\n\n我的一位在北大上学的朋友吃过，他现在和同学们都非常气愤，重点已经不是鹅腿鸭腿的问题了，是他们这么善良真诚的对待一个农民出身的阿姨，花着为数不多的生活费也要去照顾他们的生意，换来的却是无限的欺骗和伤害\n\n别说他们鹅鸭不分了，现在最要命的是食品安全问题啊，他们现在只想给这件事增加一下热度，必须要让“鹅腿阿姨”付出应有的代价和惩罚！！！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1398,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北大连夜删除两年前鹅腿阿姨相关报道，人民日报的也删了🥲\n\n我的一位在北大上学的朋友吃过，他现在和同学们都非常气愤，重点已经不是鹅腿鸭腿的问题了，是他们这么善良真诚的对待一个农民出身的阿姨，花着为数不多的生活费也要去照顾他们的生意，换来的却是无限的欺骗和伤害 https://t.co/zWecwPT3dt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065804326015246549",
+        "created_at": "2026-06-13T17:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065853472906543259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065853472906543259",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 909,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065804326015246549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 有没有人说说为啥鸭腿换成鹅腿被曝光了声音会这么大，鹅腿吃多了对人体不好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中致力od减害",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 608,
+          "like_count": 26708,
+          "listed_count": 2,
+          "media_count": 1188,
+          "tweet_count": 11075
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2065026751257100409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 241,
+          "like_count": 7820,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1255
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:47:17.000Z",
+        "description": "AI变现 | 小红书爆款拆解 | 追剧 | 日常小技巧\nno music no life!",
+        "id": "1987562596372021248",
+        "name": "Miju咪啾",
+        "pinned_tweet_id": "2042921969935696259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009267455898923008/QTMIY8S4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16957,
+          "following_count": 906,
+          "like_count": 4600,
+          "listed_count": 53,
+          "media_count": 620,
+          "tweet_count": 2751
+        },
+        "username": "_miuj_9",
+        "verified": true
+      }
+    ]
+  }
+}

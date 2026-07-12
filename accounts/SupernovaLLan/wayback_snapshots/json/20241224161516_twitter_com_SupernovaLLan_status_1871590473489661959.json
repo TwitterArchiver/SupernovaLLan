@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1871400941532094535",
+    "created_at": "2024-12-24T16:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T17:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871590473489661959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663160032693981184",
+          "start": 0,
+          "username": "QingSong79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871590473489661959",
+    "in_reply_to_user_id": "1663160032693981184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871590104386699368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingSong79 错杀误伤😗结果给了一个绝佳的洗盘和换手机会……这样整理一下感觉之后还能往上冲几个板"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1871400941532094535",
+        "created_at": "2024-12-24T16:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T17:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871590473489661959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663160032693981184",
+              "start": 0,
+              "username": "QingSong79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871590473489661959",
+        "in_reply_to_user_id": "1663160032693981184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871590104386699368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingSong79 错杀误伤😗结果给了一个绝佳的洗盘和换手机会……这样整理一下感觉之后还能往上冲几个板"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663160032693981184",
+        "conversation_id": "1871400941532094535",
+        "created_at": "2024-12-24T16:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T17:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871590104386699368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871590104386699368",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871589182193496562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan 昨天被新国九条给杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 503,
+          "like_count": 22685,
+          "listed_count": 2,
+          "media_count": 1004,
+          "tweet_count": 9174
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T12:27:19.000Z",
+        "description": "Dérobe la foudre aux Dieux & le sceptre aux tyrans.||01/投机学习/感悟分享/Crypto/A股/期货/外汇黄金 ||体制.代际.群体〈观物取象，反观其物〉",
+        "id": "1663160032693981184",
+        "location": "Los Angeles, CA",
+        "name": "Azu",
+        "pinned_tweet_id": "1869772107149979773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726997190210691072/II_9GOau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11813,
+          "following_count": 845,
+          "like_count": 1716,
+          "listed_count": 158,
+          "media_count": 915,
+          "tweet_count": 5718
+        },
+        "username": "QingSong79",
+        "verified": true
+      }
+    ]
+  }
+}

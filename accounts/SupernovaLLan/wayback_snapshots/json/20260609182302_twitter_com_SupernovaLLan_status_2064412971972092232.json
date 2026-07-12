@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2064410208533970982",
+    "created_at": "2026-06-09T18:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064412971972092232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/supernovallan/…",
+          "end": 122,
+          "expanded_url": "https://x.com/supernovallan/status/2064399927044980812?s=46&t=-T9FPav_iRFGtwap2MAbEQ",
+          "start": 99,
+          "url": "https://t.co/7hY4AeaD7C"
+        },
+        {
+          "display_url": "x.com/supernovallan/…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/supernovallan/status/2064399927044980812",
+          "start": 123,
+          "url": "https://t.co/eGEQSrPpcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064412971972092232",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064399927044980812",
+        "type": "quoted"
+      },
+      {
+        "id": "2064410208533970982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "代谢物相似导致假阳这事基本不会啦\n查替来同时也必查代谢物去乙基替来，而质谱就像指纹一样从化合物和其碎片可以确认其本体是终审判决不容置疑，而且除掉特征峰还有别的碎片峰可以检验，不是那么容易就会弄混的\nhttps://t.co/7hY4AeaD7C https://t.co/eGEQSrPpcn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064410208533970982",
+        "created_at": "2026-06-09T18:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064412971972092232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 122,
+              "expanded_url": "https://x.com/supernovallan/status/2064399927044980812?s=46&t=-T9FPav_iRFGtwap2MAbEQ",
+              "start": 99,
+              "url": "https://t.co/7hY4AeaD7C"
+            },
+            {
+              "display_url": "x.com/supernovallan/…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/supernovallan/status/2064399927044980812",
+              "start": 123,
+              "url": "https://t.co/eGEQSrPpcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064412971972092232",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064399927044980812",
+            "type": "quoted"
+          },
+          {
+            "id": "2064410208533970982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "代谢物相似导致假阳这事基本不会啦\n查替来同时也必查代谢物去乙基替来，而质谱就像指纹一样从化合物和其碎片可以确认其本体是终审判决不容置疑，而且除掉特征峰还有别的碎片峰可以检验，不是那么容易就会弄混的\nhttps://t.co/7hY4AeaD7C https://t.co/eGEQSrPpcn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064012773970100481",
+        "created_at": "2026-06-09T17:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064399927044980812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            },
+            {
+              "end": 25,
+              "id": "1518404201168007168",
+              "start": 11,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064399927044980812",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064018492123496581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 @godspeedyou50 尿检那就是送去打色谱质谱了，纯的3MePCP打出来的特征子离子m/z是258→214、173、86，几种代谢产物打出来是189、173、102等等\n查替来他明肯定也要查代谢物去乙基替来他明，替来他明定量离子对224→179，去乙是196→151，\n\npo主说吃了3MePCP后尿检替来阳就是那策划药有问题加了替来，人家也没吃飘飘糖呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064410208533970982",
+        "created_at": "2026-06-09T18:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064410208533970982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zyj156383/stat…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/zyj156383/status/2063838855879680005",
+              "start": 149,
+              "url": "https://t.co/0wQuubbTXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064410208533970982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063838855879680005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阅读理解出问题了罢，吃的是3MePCP，飘飘糖人家都没摄入只是交了个样本咋也不会跑到自己尿检里面去的🙂‍↔️\n这又有另外的问题了，这里的3MePCP有人说是rc来的，真加替来啊？别的化工原料吃就当神农试药了，这种纯害人玩意加里面真该遭天谴？！\n除非检测拿串尿检样品，可能性接近0，或者原主没说实话 https://t.co/0wQuubbTXt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 601,
+          "like_count": 26508,
+          "listed_count": 2,
+          "media_count": 1178,
+          "tweet_count": 11003
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

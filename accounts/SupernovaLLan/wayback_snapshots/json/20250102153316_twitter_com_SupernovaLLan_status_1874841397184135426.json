@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1874841397184135426",
+    "created_at": "2025-01-02T15:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T16:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874841397184135426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/morris_lt/stat…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/morris_lt/status/1874274170819010575",
+          "start": 55,
+          "url": "https://t.co/i0vnyYUjhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874841397184135426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874274170819010575",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "倒算不上穷酸书生，是明治时代的教育学家启蒙家，在那个时代提出如此振聋发聩的观点，也深刻影响了那个时代的日本人 https://t.co/i0vnyYUjhg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1874841397184135426",
+        "created_at": "2025-01-02T15:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T16:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874841397184135426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/morris_lt/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/morris_lt/status/1874274170819010575",
+              "start": 55,
+              "url": "https://t.co/i0vnyYUjhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874841397184135426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874274170819010575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "倒算不上穷酸书生，是明治时代的教育学家启蒙家，在那个时代提出如此振聋发聩的观点，也深刻影响了那个时代的日本人 https://t.co/i0vnyYUjhg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874273797693726720"
+          ]
+        },
+        "author_id": "51904755",
+        "conversation_id": "1874274170819010575",
+        "created_at": "2025-01-01T01:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T02:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874274170819010575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddSzZGN6xT",
+              "end": 165,
+              "expanded_url": "https://x.com/Morris_LT/status/1874274170819010575/photo/1",
+              "media_key": "3_1874273797693726720",
+              "start": 142,
+              "url": "https://t.co/ddSzZGN6xT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874274170819010575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日本有个穷酸书生叫福泽玉吉，也就是日元最大面值上印的人物。日本为什么会把一个既不是天皇，也不是首相的人物印在上面？因为他是日本明治时期，对日本影响深远的一个人。他曾经说过一句话，一个国家的现代化，首先是思想的现代化，然后是制度的现代化，最后才是器物的现代化。这个顺序不能颠倒，颠倒了看似走了捷径，实际上前面都是死胡同，是走不通的。他还除了另一句名言，人人都想做官的国家，无论如何都是不可能强盛的。这两段振聋发聩的话，至今都值得每一个人深思。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1243,
+          "impression_count": 623357,
+          "like_count": 4806,
+          "quote_count": 52,
+          "reply_count": 257,
+          "retweet_count": 1057
+        },
+        "reply_settings": "everyone",
+        "text": "日本有个穷酸书生叫福泽玉吉，也就是日元最大面值上印的人物。日本为什么会把一个既不是天皇，也不是首相的人物印在上面？因为他是日本明治时期，对日本影响深远的一个人。他曾经说过一句话，一个国家的现代化，首先是思想的现代化，然后是制度的现代化，最后才是器物的现代化。这个顺序不能颠倒，颠倒… https://t.co/ddSzZGN6xT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 513,
+          "like_count": 22832,
+          "listed_count": 2,
+          "media_count": 1009,
+          "tweet_count": 9227
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！ \n购买 #Bitcoin 或 #Đogecoin 链接：https://t.co/rpBpnKphtr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "Đogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/join/2664714",
+                "end": 86,
+                "expanded_url": "https://okx.com/join/2664714",
+                "start": 63,
+                "url": "https://t.co/rpBpnKphtr"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129768,
+          "following_count": 377,
+          "like_count": 46503,
+          "listed_count": 703,
+          "media_count": 6749,
+          "tweet_count": 65147
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

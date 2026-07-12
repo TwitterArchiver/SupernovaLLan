@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2063540906599534718",
+    "created_at": "2026-06-17T20:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T21:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067340011566145721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050967984622247936",
+          "start": 0,
+          "username": "Aurora_444777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067340011566145721",
+    "in_reply_to_user_id": "2050967984622247936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063540906599534718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aurora_444777 😔快活成cult片了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38428,
+        "height": 960,
+        "media_key": "7_2063540820687613952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063540820687613952/pu/img/04lS5_hP36CN68_t.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063540820687613952/pu/vid/avc1/320x426/VKlv84-wHQMC1emA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063540820687613952/pu/vid/avc1/480x640/CwMoWhB3Kz9hc4kQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063540820687613952/pu/vid/avc1/720x960/oHw1SP4tdtwNgToe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063540820687613952/pu/pl/eKPwL8u4LSjX8Spl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2063540906599534718",
+        "created_at": "2026-06-17T20:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067340011566145721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050967984622247936",
+              "start": 0,
+              "username": "Aurora_444777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067340011566145721",
+        "in_reply_to_user_id": "2050967984622247936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063540906599534718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurora_444777 😔快活成cult片了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063540820687613952"
+          ]
+        },
+        "author_id": "2050967984622247936",
+        "conversation_id": "2063540906599534718",
+        "created_at": "2026-06-07T08:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063540906599534718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKDq0Po6YF",
+              "end": 23,
+              "expanded_url": "https://x.com/Aurora_444777/status/2063540906599534718/video/1",
+              "media_key": "7_2063540820687613952",
+              "start": 0,
+              "url": "https://t.co/mKDq0Po6YF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063540906599534718",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mKDq0Po6YF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 617,
+          "like_count": 26923,
+          "listed_count": 2,
+          "media_count": 1193,
+          "tweet_count": 11145
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T15:57:39.000Z",
+        "description": "银河车站尸体",
+        "id": "2050967984622247936",
+        "name": "Anastasia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050968282233241600/-YS3FeTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 49,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 99
+        },
+        "username": "Aurora_444777",
+        "verified": false
+      }
+    ]
+  }
+}

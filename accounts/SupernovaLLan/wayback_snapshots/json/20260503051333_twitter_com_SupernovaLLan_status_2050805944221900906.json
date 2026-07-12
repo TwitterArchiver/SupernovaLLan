@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050805935636094976"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2050760089384996876",
+    "created_at": "2026-05-03T05:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050805944221900906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313677891163414533",
+          "start": 0,
+          "username": "cookiessin1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MbfsaZ2TOF",
+          "end": 36,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2050805944221900906/photo/1",
+          "media_key": "3_2050805935636094976",
+          "start": 13,
+          "url": "https://t.co/MbfsaZ2TOF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050805944221900906",
+    "in_reply_to_user_id": "1313677891163414533",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050760089384996876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cookiessin1 https://t.co/MbfsaZ2TOF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050805944221900906].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050805944221900906",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050805944221900906"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050760089384996876].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050760089384996876",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050760089384996876"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2050805935636094976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXtIgDaIAA9pYt.jpg",
+        "width": 1206
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 546,
+          "like_count": 24799,
+          "listed_count": 2,
+          "media_count": 1124,
+          "tweet_count": 10343
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T03:09:56.000Z",
+        "description": "@hannibals4PlZ_r的主人格 #VForVictory 世界和平派",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 21,
+                "tag": "VForVictory"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hannibals4PlZ_r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitality.gg/en/",
+                "end": 23,
+                "expanded_url": "https://vitality.gg/en/",
+                "start": 0,
+                "url": "https://t.co/XQjCT48EdL"
+              }
+            ]
+          }
+        },
+        "id": "1313677891163414533",
+        "location": "221B Baker Street",
+        "name": "R号机不是二号机_(。-∀-)",
+        "pinned_tweet_id": "1900442345835028942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021934227671937024/Aad5lwuD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 287,
+          "like_count": 14770,
+          "listed_count": 1,
+          "media_count": 1473,
+          "tweet_count": 8832
+        },
+        "url": "https://t.co/XQjCT48EdL",
+        "username": "cookiessin1",
+        "verified": false
+      }
+    ]
+  }
+}

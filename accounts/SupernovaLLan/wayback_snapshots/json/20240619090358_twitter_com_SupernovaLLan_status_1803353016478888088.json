@@ -1,0 +1,115 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803353007897325568"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1803353016478888088",
+    "created_at": "2024-06-19T09:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T10:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1803353016478888088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/NVhahzqyFm",
+          "end": 44,
+          "expanded_url": "https://twitter.com/SupernovaLLan/status/1803353016478888088/photo/1",
+          "media_key": "3_1803353007897325568",
+          "start": 21,
+          "url": "https://t.co/NVhahzqyFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803353016478888088",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "送你一对红心\n缺爱的宝宝(✖╹◡╹✖)♡ https://t.co/NVhahzqyFm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1803353016478888088].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1803353016478888088",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1803353016478888088"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1803353007897325568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQbMAZBaMAAY5nQ.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1671176873047384064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 434,
+          "like_count": 20647,
+          "listed_count": 2,
+          "tweet_count": 7911
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

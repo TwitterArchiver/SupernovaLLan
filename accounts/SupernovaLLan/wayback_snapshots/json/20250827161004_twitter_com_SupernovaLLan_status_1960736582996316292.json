@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1960120133004951904",
+    "created_at": "2025-08-27T16:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T17:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960736582996316292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        },
+        {
+          "end": 28,
+          "id": "1749719755119071232",
+          "start": 13,
+          "username": "lan_shang32900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960736582996316292",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960732377778676093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 @lan_shang32900 不儿流量这事我不是当面也和你说的，夸你互联网弄潮儿就该是玩网的很懂得获取流量嘛，都是夸你诶，博流量是什么坏词吗玩网的这是赞美喂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1960120133004951904",
+        "created_at": "2025-08-27T16:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960736582996316292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            },
+            {
+              "end": 28,
+              "id": "1749719755119071232",
+              "start": 13,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960736582996316292",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960732377778676093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 @lan_shang32900 不儿流量这事我不是当面也和你说的，夸你互联网弄潮儿就该是玩网的很懂得获取流量嘛，都是夸你诶，博流量是什么坏词吗玩网的这是赞美喂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1960120133004951904",
+        "created_at": "2025-08-27T15:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960732377778676093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960732377778676093",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960120133004951904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 我不知道你是在享受被当成受害者这个过程吗？？你说你花了所有钱来见我 我就要莫名其妙的承担这个压力吗…所以我到底为什么要承担这些啊 我很疲倦啊 还有铃兰 他还在背后说我博流量我真的无话可说行不行……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 549,
+          "like_count": 24838,
+          "listed_count": 2,
+          "media_count": 1075,
+          "tweet_count": 9812
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*目前的身份是日本小瘤/オタク/精神障害者/无耻的门槛鸡，我需要钱所以🚪99/198/520谢谢你 我可以给你唱歌画画。 也在东京接纯绿线下，我有艾滋和梅毒所以不要想和我做爱的事情。",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34463,
+          "following_count": 773,
+          "like_count": 7159,
+          "listed_count": 43,
+          "media_count": 229,
+          "tweet_count": 2524
+        },
+        "username": "damatte8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（宠物宅）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 704,
+          "like_count": 35863,
+          "listed_count": 4,
+          "media_count": 680,
+          "tweet_count": 9021
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

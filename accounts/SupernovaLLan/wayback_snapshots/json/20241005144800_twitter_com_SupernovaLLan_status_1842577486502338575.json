@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1842560564704469385",
+    "created_at": "2024-10-05T14:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T15:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842577486502338575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728464821501489152",
+          "start": 0,
+          "username": "theDarkCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842577486502338575",
+    "in_reply_to_user_id": "1728464821501489152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842560564704469385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theDarkCypress 不知道什么时候挠的但是下手真狠啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1842560564704469385].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1842560564704469385",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1842560564704469385"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1842560564704469385",
+        "created_at": "2024-10-05T14:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T15:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842577486502338575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728464821501489152",
+              "start": 0,
+              "username": "theDarkCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842577486502338575",
+        "in_reply_to_user_id": "1728464821501489152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842560564704469385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theDarkCypress 不知道什么时候挠的但是下手真狠啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 459,
+          "like_count": 21725,
+          "listed_count": 2,
+          "tweet_count": 8382
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T17:25:28.000Z",
+        "description": "此账号不定期清人|只通过互关|发布敏感及争议内容专用|主账号@CypressAlbert",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "CypressAlbert"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+w9l2V48ZDog1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+w9l2V48ZDog1NmI1",
+                "start": 0,
+                "url": "https://t.co/PIt6pt2ws7"
+              }
+            ]
+          }
+        },
+        "id": "1728464821501489152",
+        "location": "老鼠洞",
+        "name": "柏树（阴暗逼版）",
+        "pinned_tweet_id": "1803766245797625902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802203882497671168/dnrKWNNm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 103,
+          "like_count": 299,
+          "listed_count": 0,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/PIt6pt2ws7",
+        "username": "theDarkCypress",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947009989132062720"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1947009998703525948",
+    "created_at": "2025-07-20T19:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T20:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947009998703525948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TXH6rfNa7r",
+          "end": 46,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1947009998703525948/photo/1",
+          "media_key": "3_1947009989132062720",
+          "start": 23,
+          "url": "https://t.co/TXH6rfNa7r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947009998703525948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这下是真药娘了\n画师：b站up主@冷场的匣子 https://t.co/TXH6rfNa7r"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947009998703525948].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947009998703525948",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947009998703525948"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1343,
+        "media_key": "3_1947009989132062720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwUrRPhakAAsb3h.jpg",
+        "width": 1159
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 548,
+          "like_count": 24799,
+          "listed_count": 2,
+          "media_count": 1065,
+          "tweet_count": 9740
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

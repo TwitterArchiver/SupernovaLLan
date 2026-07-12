@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2053517201257501055",
+    "created_at": "2026-05-10T16:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053519998359060689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938140109792325632",
+          "start": 0,
+          "username": "SyRainstormTTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053519998359060689",
+    "in_reply_to_user_id": "1938140109792325632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053517201257501055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyRainstormTTN 好骂兄弟好骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2053517201257501055",
+        "created_at": "2026-05-10T16:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053519998359060689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938140109792325632",
+              "start": 0,
+              "username": "SyRainstormTTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053519998359060689",
+        "in_reply_to_user_id": "1938140109792325632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053517201257501055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyRainstormTTN 好骂兄弟好骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938140109792325632",
+        "conversation_id": "2053517201257501055",
+        "created_at": "2026-05-10T16:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053517201257501055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingyun97/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/tingyun97/status/2053465672152412257",
+              "start": 5,
+              "url": "https://t.co/OZa356EbMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053517201257501055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053465672152412257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去你妈的 https://t.co/OZa356EbMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053381479594639360/lofObEUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 564,
+          "like_count": 25222,
+          "listed_count": 2,
+          "media_count": 1131,
+          "tweet_count": 10499
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T07:40:26.000Z",
+        "description": "当黑天鹅从成为白天鹅的美梦中苏醒时，会发生什么呢？",
+        "id": "1938140109792325632",
+        "location": "24",
+        "name": "F-02-70",
+        "pinned_tweet_id": "2050271551388598326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033201038774439937/8uN3QIpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 471,
+          "like_count": 3908,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 3352
+        },
+        "username": "SyRainstormTTN",
+        "verified": false
+      }
+    ]
+  }
+}

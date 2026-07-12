@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896213604887941121"
+      ],
+      "media_source_tweet_id": [
+        "1896213629391032782"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1896235001706115229",
+    "created_at": "2025-03-02T16:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T17:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896235001706115229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vCQIYuizHB",
+          "end": 51,
+          "expanded_url": "https://x.com/hsn8086/status/1896213629391032782/photo/1",
+          "media_key": "3_1896213604887941121",
+          "start": 28,
+          "url": "https://t.co/vCQIYuizHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896235001706115229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896213629391032782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: 一位测试工程师走进酒吧... https://t.co/vCQIYuizHB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2118,
+        "media_key": "3_1896213604887941121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlC0OiGb0AEBymG.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896213604887941121"
+          ],
+          "media_source_tweet_id": [
+            "1896213629391032782"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1896235001706115229",
+        "created_at": "2025-03-02T16:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T17:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896235001706115229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCQIYuizHB",
+              "end": 51,
+              "expanded_url": "https://x.com/hsn8086/status/1896213629391032782/photo/1",
+              "media_key": "3_1896213604887941121",
+              "start": 28,
+              "url": "https://t.co/vCQIYuizHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896235001706115229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896213629391032782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: 一位测试工程师走进酒吧... https://t.co/vCQIYuizHB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896213604887941121"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1896213629391032782",
+        "created_at": "2025-03-02T14:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T15:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896213629391032782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCQIYuizHB",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086/status/1896213629391032782/photo/1",
+              "media_key": "3_1896213604887941121",
+              "start": 15,
+              "url": "https://t.co/vCQIYuizHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896213629391032782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3506,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "一位测试工程师走进酒吧... https://t.co/vCQIYuizHB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 525,
+          "like_count": 23518,
+          "listed_count": 2,
+          "media_count": 1023,
+          "tweet_count": 9387
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1895271678005125582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43096,
+          "following_count": 916,
+          "like_count": 36668,
+          "listed_count": 109,
+          "media_count": 6916,
+          "tweet_count": 12197
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

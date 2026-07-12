@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1882087853703991296"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1882087959140389150",
+    "created_at": "2025-01-22T15:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T16:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882087959140389150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AI3OqInoyZ",
+          "end": 41,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1882087959140389150/video/1",
+          "media_key": "7_1882087853703991296",
+          "start": 18,
+          "url": "https://t.co/AI3OqInoyZ"
+        },
+        {
+          "display_url": "x.com/damatte8964/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/damatte8964/status/1882086018507210799",
+          "start": 42,
+          "url": "https://t.co/fJtX11hLGq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882087959140389150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882086018507210799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和小毛的史诗级会晤——大力拥抱🫂！ https://t.co/AI3OqInoyZ https://t.co/fJtX11hLGq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1882087959140389150].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1882087959140389150",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1882087959140389150"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15866,
+        "height": 720,
+        "media_key": "7_1882087853703991296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1882087853703991296/pu/img/vsamilW1n0ilHJdy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882087853703991296/pu/vid/avc1/480x270/xjDq1kanSda0810k.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882087853703991296/pu/vid/avc1/640x360/iNJN9P7TT5iSbYUR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882087853703991296/pu/vid/avc1/1280x720/axuSyAl8VL47V9O4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1882087853703991296/pu/pl/GFZExUkBPdMW6MTu.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1882086018507210799",
+        "created_at": "2025-01-22T15:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T16:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882086018507210799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882086018507210799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 441,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实这两天白天我过得挺开心的 推特上认识的朋友来我的城市见我玩了 然后我们还给共友打电话…！然后呢 我们吃了很多好吃的聊了很多天！一直以来现生里认识的人大多都在伤害我 但是网上认识的朋友都很爱我 我也很爱网上认识的朋友和我的门槛哥 \n如果不认识大家完全不知道要怎么活下去的程度…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 520,
+          "like_count": 23169,
+          "listed_count": 2,
+          "media_count": 1017,
+          "tweet_count": 9303
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*｜我很需要钱，什么业务都可以来问问我｜有人格障碍和精神病抱歉｜ACG｜ボカロ｜我也不知道该怎么介绍自己，很感谢你来看我…！🚪都包含朋友圈w",
+        "id": "1747931023277502465",
+        "location": "🚪99纯绿陪聊/198非绿",
+        "name": "想帮男友乳交结果发现奶子不够大愤而撞墙自杀",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877564177814048768/c52VHZfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15484,
+          "following_count": 616,
+          "like_count": 3812,
+          "listed_count": 19,
+          "media_count": 73,
+          "tweet_count": 1465
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

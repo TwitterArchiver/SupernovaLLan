@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1903431830759694814",
+    "created_at": "2025-03-22T13:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T14:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903431830759694814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chimaosheriff/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/chimaosheriff/status/1903253689823121833",
+          "start": 23,
+          "url": "https://t.co/uqYduVFhXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903431830759694814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903253689823121833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？（我有时就念叨广州地铁粤语报站像哼歌一样） https://t.co/uqYduVFhXF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57539,
+        "height": 1280,
+        "media_key": "7_1903253615340580864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1903253615340580864/pu/img/7bDsxp2dSMbvRdyp.jpg",
+        "public_metrics": {
+          "view_count": 19086
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903253615340580864/pu/vid/avc1/320x568/Lqyn5ieTsdeiAJfZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903253615340580864/pu/vid/avc1/480x852/tz5IWWMfVEysRTK_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903253615340580864/pu/vid/avc1/720x1280/caVnomQK_Nl8VWFz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1903253615340580864/pu/pl/6FcODTDPqYboQ8hD.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1903431830759694814",
+        "created_at": "2025-03-22T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903431830759694814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chimaosheriff/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/chimaosheriff/status/1903253689823121833",
+              "start": 23,
+              "url": "https://t.co/uqYduVFhXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903431830759694814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903253689823121833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？（我有时就念叨广州地铁粤语报站像哼歌一样） https://t.co/uqYduVFhXF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1903253615340580864"
+          ]
+        },
+        "author_id": "1558317849508122629",
+        "conversation_id": "1903253689823121833",
+        "created_at": "2025-03-22T01:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T02:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903253689823121833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k653FKWGCI",
+              "end": 58,
+              "expanded_url": "https://x.com/chimaosheriff/status/1903253689823121833/video/1",
+              "media_key": "7_1903253615340580864",
+              "start": 35,
+              "url": "https://t.co/k653FKWGCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903253689823121833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 46036,
+          "like_count": 419,
+          "quote_count": 8,
+          "reply_count": 31,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "在日本ktv可以点到电车广播😂😂这是有多自闭才能干出来的事情啊。我天 https://t.co/k653FKWGCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 529,
+          "like_count": 23738,
+          "listed_count": 2,
+          "media_count": 1029,
+          "tweet_count": 9454
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI视觉设计  |  视觉中国签约摄影师  |  SONY用户",
+        "id": "1558317849508122629",
+        "location": "Shanghai",
+        "name": "萃猫警长",
+        "pinned_tweet_id": "1886211223005675780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855396408238731264/-L2JgX4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9769,
+          "following_count": 400,
+          "like_count": 2066,
+          "listed_count": 19,
+          "media_count": 455,
+          "tweet_count": 3058
+        },
+        "username": "chimaosheriff",
+        "verified": false
+      }
+    ]
+  }
+}

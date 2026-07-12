@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2054740839432442045",
+    "created_at": "2026-05-14T01:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T02:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054740839432442045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1651411193356075009",
+          "start": 3,
+          "username": "Amadeus_txt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/c83I9xq",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/c83I9xq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054740839432442045",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054722329867911225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amadeus_txt: I love the CGs in this game, they are so well made and fit so well with the light hearted atmosphere. https://t.co/c83I9xq…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2054722319298199552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPXECHWAAAlfgS.jpg",
+        "width": 1280
+      },
+      {
+        "height": 800,
+        "media_key": "3_2054722319298236416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPXECHWkAALQsX.jpg",
+        "width": 1280
+      },
+      {
+        "height": 800,
+        "media_key": "3_2054722319294087168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPXECGXQAA0jS8.jpg",
+        "width": 1280
+      },
+      {
+        "height": 800,
+        "media_key": "3_2054722319319273472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPXECMXkAAxOdj.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2054740839432442045",
+        "created_at": "2026-05-14T01:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T02:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054740839432442045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1651411193356075009",
+              "start": 3,
+              "username": "Amadeus_txt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/c83I9xq",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/c83I9xq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054740839432442045",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054722329867911225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amadeus_txt: I love the CGs in this game, they are so well made and fit so well with the light hearted atmosphere. https://t.co/c83I9xq…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054722319298199552",
+            "3_2054722319298236416",
+            "3_2054722319294087168",
+            "3_2054722319319273472"
+          ]
+        },
+        "author_id": "1651411193356075009",
+        "conversation_id": "2054722329867911225",
+        "created_at": "2026-05-14T00:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054722329867911225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c83I9xq1kL",
+              "end": 125,
+              "expanded_url": "https://x.com/Amadeus_txt/status/2054722329867911225/photo/1",
+              "media_key": "3_2054722319298199552",
+              "start": 102,
+              "url": "https://t.co/c83I9xq1kL"
+            },
+            {
+              "display_url": "pic.x.com/c83I9xq1kL",
+              "end": 125,
+              "expanded_url": "https://x.com/Amadeus_txt/status/2054722329867911225/photo/1",
+              "media_key": "3_2054722319298236416",
+              "start": 102,
+              "url": "https://t.co/c83I9xq1kL"
+            },
+            {
+              "display_url": "pic.x.com/c83I9xq1kL",
+              "end": 125,
+              "expanded_url": "https://x.com/Amadeus_txt/status/2054722329867911225/photo/1",
+              "media_key": "3_2054722319294087168",
+              "start": 102,
+              "url": "https://t.co/c83I9xq1kL"
+            },
+            {
+              "display_url": "pic.x.com/c83I9xq1kL",
+              "end": 125,
+              "expanded_url": "https://x.com/Amadeus_txt/status/2054722329867911225/photo/1",
+              "media_key": "3_2054722319319273472",
+              "start": 102,
+              "url": "https://t.co/c83I9xq1kL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054722329867911225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "I love the CGs in this game, they are so well made and fit so well with the light hearted atmosphere. https://t.co/c83I9xq1kL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 569,
+          "like_count": 25352,
+          "listed_count": 2,
+          "media_count": 1137,
+          "tweet_count": 10576
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-27T02:21:34.000Z",
+        "description": "I'm trying to be wholesome, wanna be seisō | Hoppean otaku",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/IRobo/",
+                "end": 23,
+                "expanded_url": "https://anilist.co/user/IRobo/",
+                "start": 0,
+                "url": "https://t.co/8qhgaUDnRd"
+              }
+            ]
+          }
+        },
+        "id": "1651411193356075009",
+        "name": "Unnamed",
+        "pinned_tweet_id": "1890985832376332477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032193792619487234/d5oLkYSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 330,
+          "like_count": 15894,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 1409
+        },
+        "url": "https://t.co/8qhgaUDnRd",
+        "username": "Amadeus_txt",
+        "verified": false
+      }
+    ]
+  }
+}

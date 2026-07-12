@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1825786693284409575",
+    "created_at": "2024-08-29T03:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T04:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829004464482857473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798243319564353537",
+          "start": 0,
+          "username": "Cypress_Albert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829004464482857473",
+    "in_reply_to_user_id": "1798243319564353537",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825786693284409575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cypress_Albert 学这些玩意最爽的时候就是生活中解释各种各样的现象还有识破骗子营销🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1825786693284409575",
+        "created_at": "2024-08-29T03:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T04:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829004464482857473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798243319564353537",
+              "start": 0,
+              "username": "Cypress_Albert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829004464482857473",
+        "in_reply_to_user_id": "1798243319564353537",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825786693284409575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_Albert 学这些玩意最爽的时候就是生活中解释各种各样的现象还有识破骗子营销🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798243319564353537",
+        "conversation_id": "1825786693284409575",
+        "created_at": "2024-08-20T06:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T07:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825786693284409575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825786693284409575",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学好数理化，走遍天下都不怕。\n不学数理化，生活处处是神话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "我大概只是你实现愿望的许愿机@lan_shang32900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1817575782975504822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 432,
+          "like_count": 20484,
+          "listed_count": 2,
+          "tweet_count": 7984
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T06:40:00.000Z",
+        "description": "精神状态是量子叠加态|成分复杂|不要把我当好人|17岁苦逼高中生|INFJ-5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫，代词随意|大概率回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论别来犯贱|看我不爽建议您去死捏|第二人格@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 133,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cypress_Albert…",
+                "end": 23,
+                "expanded_url": "https://t.me/Cypress_Albert777",
+                "start": 0,
+                "url": "https://t.co/Fcnoig3nj2"
+              }
+            ]
+          }
+        },
+        "id": "1798243319564353537",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树5.0",
+        "pinned_tweet_id": "1823986707638673901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822865855983792128/3rXmu-dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 302,
+          "like_count": 878,
+          "listed_count": 1,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/Fcnoig3nj2",
+        "username": "Cypress_Albert",
+        "verified": true
+      }
+    ]
+  }
+}

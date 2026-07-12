@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863459049393782784"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1863459061158797677",
+    "created_at": "2024-12-02T05:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T06:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863459061158797677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9oCEG3d3uz",
+          "end": 28,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1863459061158797677/photo/1",
+          "media_key": "3_1863459049393782784",
+          "start": 5,
+          "url": "https://t.co/9oCEG3d3uz"
+        },
+        {
+          "display_url": "x.com/rhine__h/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/rhine__h/status/1863456060746682601",
+          "start": 29,
+          "url": "https://t.co/IxMjRRxiGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863459061158797677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863456060746682601",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😐边缘人 https://t.co/9oCEG3d3uz https://t.co/IxMjRRxiGx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1863459061158797677].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1863459061158797677",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1863459061158797677"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863459049393782784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdxWIeSagAAT1xT.jpg",
+        "width": 1173
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863456054115446784"
+          ]
+        },
+        "author_id": "1554078434275430400",
+        "conversation_id": "1863456060746682601",
+        "created_at": "2024-12-02T05:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T06:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863456060746682601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1H9FBrhCZX",
+              "end": 26,
+              "expanded_url": "https://x.com/Rhine__H/status/1863456060746682601/photo/1",
+              "media_key": "3_1863456054115446784",
+              "start": 3,
+              "url": "https://t.co/1H9FBrhCZX"
+            },
+            {
+              "display_url": "x.com/sucubohaha/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/sucubohaha/status/1863452858441671018",
+              "start": 27,
+              "url": "https://t.co/kIEvFS8IGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863456060746682601",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863452858441671018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😦… https://t.co/1H9FBrhCZX https://t.co/kIEvFS8IGJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 485,
+          "like_count": 22246,
+          "listed_count": 2,
+          "media_count": 985,
+          "tweet_count": 8955
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T12:16:11.000Z",
+        "description": "这里是莱茵( ˘ω˘ ) 会友善对待所有人 🚪88/166（除极个别nt 摄影 / ACG / COSPLAY /烹饪 什么都懂一点点 初中在读 小莱茵：@Rhine___H 爱你们哦~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Rhine___H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rhine71231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rhine71231",
+                "start": 0,
+                "url": "https://t.co/UssA2WPIRK"
+              }
+            ]
+          }
+        },
+        "id": "1554078434275430400",
+        "location": "31°25'25\"N 91°11'19\"E",
+        "name": "29°39'05N 101°40'58E",
+        "pinned_tweet_id": "1854794585534611964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834818453729165314/vCqgHQjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21681,
+          "following_count": 1110,
+          "like_count": 44286,
+          "listed_count": 43,
+          "media_count": 1695,
+          "tweet_count": 11105
+        },
+        "url": "https://t.co/UssA2WPIRK",
+        "username": "Rhine__H",
+        "verified": false
+      }
+    ]
+  }
+}

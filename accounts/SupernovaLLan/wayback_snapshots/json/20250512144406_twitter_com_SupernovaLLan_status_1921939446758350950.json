@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921939435517583360"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1921877326314320109",
+    "created_at": "2025-05-12T14:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T15:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921939446758350950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1460954280383623168",
+          "start": 0,
+          "username": "cynotme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qkwsEKijik",
+          "end": 50,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1921939446758350950/photo/1",
+          "media_key": "3_1921939435517583360",
+          "start": 27,
+          "url": "https://t.co/qkwsEKijik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921939446758350950",
+    "in_reply_to_user_id": "1460954280383623168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921877326314320109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cynotme 戳戳你的生日快乐♪٩(´ω`)و♪ https://t.co/qkwsEKijik"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1921939446758350950].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1921939446758350950",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1921939446758350950"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921939435517583360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwZu9XXIAAWBRe.jpg",
+        "width": 945
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1921877313026699264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvhO9DWsAAUbMz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921877313026699264"
+          ]
+        },
+        "author_id": "1460954280383623168",
+        "conversation_id": "1921877326314320109",
+        "created_at": "2025-05-12T10:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921877326314320109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZ6jG3EXDl",
+              "end": 37,
+              "expanded_url": "https://x.com/cynotme/status/1921877326314320109/photo/1",
+              "media_key": "3_1921877313026699264",
+              "start": 14,
+              "url": "https://t.co/YZ6jG3EXDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921877326314320109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是都没有人来戳气球:( https://t.co/YZ6jG3EXDl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 552,
+          "like_count": 24458,
+          "listed_count": 2,
+          "media_count": 1049,
+          "tweet_count": 9627
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-17T12:54:11.000Z",
+        "description": "//喜欢我的照片请转发//\n不管是活着还是死了都要死死看着这个世界",
+        "id": "1460954280383623168",
+        "name": "云杉",
+        "pinned_tweet_id": "1776822112264896722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460954418762125314/1aBoOQu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1818,
+          "like_count": 93841,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 4306
+        },
+        "username": "cynotme",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875575968724873219"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1875208475430822377",
+    "created_at": "2025-01-04T16:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T17:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875575981014184127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1527308255927492609",
+          "start": 0,
+          "username": "love1027w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BtWx4o8tZw",
+          "end": 53,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1875575981014184127/photo/1",
+          "media_key": "3_1875575968724873219",
+          "start": 30,
+          "url": "https://t.co/BtWx4o8tZw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875575981014184127",
+    "in_reply_to_user_id": "1527308255927492609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875208475430822377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love1027w 兄弟兄弟你家猫怎么和我家的一模一样啊 https://t.co/BtWx4o8tZw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1875575981014184127].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1875575981014184127",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1875575981014184127"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_1875575968724873219",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgdiaAUa8AMDWUf.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875208472532602880"
+          ]
+        },
+        "author_id": "1527308255927492609",
+        "conversation_id": "1875208475430822377",
+        "created_at": "2025-01-03T15:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T16:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875208475430822377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVfBKjKNT3",
+              "end": 31,
+              "expanded_url": "https://x.com/love1027w/status/1875208475430822377/photo/1",
+              "media_key": "3_1875208472532602880",
+              "start": 8,
+              "url": "https://t.co/RVfBKjKNT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875208475430822377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1174,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给猫做发型（（ https://t.co/RVfBKjKNT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 512,
+          "like_count": 22872,
+          "listed_count": 2,
+          "media_count": 1011,
+          "tweet_count": 9240
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "「只要想念，就会相见」",
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1867332980777377951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765012568337432576/CKVTZuPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11923,
+          "following_count": 468,
+          "like_count": 41566,
+          "listed_count": 0,
+          "media_count": 1619,
+          "tweet_count": 23236
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

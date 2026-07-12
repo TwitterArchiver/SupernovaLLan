@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2060033611806756979",
+    "created_at": "2026-05-28T16:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060033611806756979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunjiu/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yunjiu/status/2059941500382073081",
+          "start": 24,
+          "url": "https://t.co/aIjZzGXzhR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060033611806756979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059941500382073081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "银河之心三部曲的沙达克🙂‍↕️🙂‍↕️🙂‍↕️ https://t.co/aIjZzGXzhR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1758,
+        "media_key": "3_2059874004081782784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYkfjdbMAAupgf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2060033611806756979",
+        "created_at": "2026-05-28T16:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060033611806756979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunjiu/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yunjiu/status/2059941500382073081",
+              "start": 24,
+              "url": "https://t.co/aIjZzGXzhR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060033611806756979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059941500382073081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "银河之心三部曲的沙达克🙂‍↕️🙂‍↕️🙂‍↕️ https://t.co/aIjZzGXzhR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059874004081782784"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2059941500382073081",
+        "created_at": "2026-05-28T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059941500382073081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBqbcshoZz",
+              "end": 23,
+              "expanded_url": "https://x.com/YunJiu/status/2059941500382073081/photo/1",
+              "media_key": "3_2059874004081782784",
+              "start": 0,
+              "url": "https://t.co/uBqbcshoZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059941500382073081",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8782,
+          "like_count": 128,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uBqbcshoZz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 592,
+          "like_count": 26114,
+          "listed_count": 2,
+          "media_count": 1165,
+          "tweet_count": 10881
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105117,
+          "following_count": 797,
+          "like_count": 37035,
+          "listed_count": 295,
+          "media_count": 18944,
+          "tweet_count": 27172
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

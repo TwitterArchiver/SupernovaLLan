@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1844043760256303104",
+        "7_1844043760247988225"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1844043833006506300",
+    "created_at": "2024-10-09T15:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T16:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1844043833006506300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hahAGkAEcP",
+          "end": 29,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1844043833006506300/video/1",
+          "media_key": "7_1844043760256303104",
+          "start": 6,
+          "url": "https://t.co/hahAGkAEcP"
+        },
+        {
+          "display_url": "pic.x.com/hahAGkAEcP",
+          "end": 29,
+          "expanded_url": "https://x.com/SupernovaLLan/status/1844043833006506300/video/1",
+          "media_key": "7_1844043760247988225",
+          "start": 6,
+          "url": "https://t.co/hahAGkAEcP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844043833006506300",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "让我看看！ https://t.co/hahAGkAEcP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1844043833006506300].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1844043833006506300",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1844043833006506300"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3101,
+        "height": 1280,
+        "media_key": "7_1844043760256303104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1844043760256303104/pu/img/EtOPeUwzhOEeZMtH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844043760256303104/pu/vid/avc1/320x568/Y97eToFK2T4Iw6rj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844043760256303104/pu/vid/avc1/480x852/NSATxqHJQZpRYIJk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844043760256303104/pu/vid/avc1/720x1280/sV3F2nbXcGZVdRQI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1844043760256303104/pu/pl/2wvyYpkIq5sDr_JV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 14343,
+        "height": 1280,
+        "media_key": "7_1844043760247988225",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1844043760247988225/pu/img/-06GZU2qbSZnrsaR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844043760247988225/pu/vid/avc1/320x568/50rGeD-2nabc5xlI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844043760247988225/pu/vid/avc1/480x852/WYh01VrLbjWbacIk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844043760247988225/pu/vid/avc1/720x1280/8DC6C_4e5sSWHoas.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1844043760247988225/pu/pl/QT0I4JETrBgisjtf.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 461,
+          "like_count": 21779,
+          "listed_count": 2,
+          "tweet_count": 8411
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

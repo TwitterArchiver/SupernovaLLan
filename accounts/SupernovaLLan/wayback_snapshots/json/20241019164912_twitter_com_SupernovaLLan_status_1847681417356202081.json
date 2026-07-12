@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1847327844831014913"
+      ],
+      "media_source_tweet_id": [
+        "1847327894445432980"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1847681417356202081",
+    "created_at": "2024-10-19T16:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T17:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847681417356202081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1570345415848955904",
+          "start": 3,
+          "username": "lilfallonmelons"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxu0qfA1U7",
+          "end": 76,
+          "expanded_url": "https://x.com/lilfallonmelons/status/1847327894445432980/video/1",
+          "media_key": "13_1847327844831014913",
+          "start": 53,
+          "url": "https://t.co/cxu0qfA1U7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847681417356202081",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5638
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847327894445432980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilfallonmelons: how do u prefer ur steak cooked https://t.co/cxu0qfA1U7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3908,
+        "height": 1920,
+        "media_key": "13_1847327844831014913",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1847327844831014913/img/XVe4NrGRSgA62v5S.jpg",
+        "public_metrics": {
+          "view_count": 6998346
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1847327844831014913/vid/avc1/480x852/Ms4lePYXRkRXaByu.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1847327844831014913/pl/X-eChtPFg40nZXCm.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1847327844831014913/vid/avc1/320x568/mPsTphA2nW6Onoh0.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1847327844831014913/vid/avc1/720x1280/O_93CRfXROmGGmui.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1847327844831014913/vid/avc1/1080x1920/OgFgROK5Mehaizae.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1847327844831014913"
+          ],
+          "media_source_tweet_id": [
+            "1847327894445432980"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "1847681417356202081",
+        "created_at": "2024-10-19T16:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T17:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847681417356202081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1570345415848955904",
+              "start": 3,
+              "username": "lilfallonmelons"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxu0qfA1U7",
+              "end": 76,
+              "expanded_url": "https://x.com/lilfallonmelons/status/1847327894445432980/video/1",
+              "media_key": "13_1847327844831014913",
+              "start": 53,
+              "url": "https://t.co/cxu0qfA1U7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847681417356202081",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5638
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847327894445432980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilfallonmelons: how do u prefer ur steak cooked https://t.co/cxu0qfA1U7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1847327844831014913"
+          ]
+        },
+        "author_id": "1570345415848955904",
+        "conversation_id": "1847327894445432980",
+        "created_at": "2024-10-18T17:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T18:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847327894445432980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxu0qfA1U7",
+              "end": 55,
+              "expanded_url": "https://x.com/lilfallonmelons/status/1847327894445432980/video/1",
+              "media_key": "13_1847327844831014913",
+              "start": 32,
+              "url": "https://t.co/cxu0qfA1U7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847327894445432980",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52040,
+          "impression_count": 12742909,
+          "like_count": 156514,
+          "quote_count": 584,
+          "reply_count": 2126,
+          "retweet_count": 5638
+        },
+        "reply_settings": "everyone",
+        "text": "how do u prefer ur steak cooked https://t.co/cxu0qfA1U7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 464,
+          "like_count": 21623,
+          "listed_count": 2,
+          "tweet_count": 8506
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T09:35:06.000Z",
+        "description": "follow my main @fallonxoxolove in case i get deleted",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "fallonxoxolove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/falonxolove",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/falonxolove",
+                "start": 0,
+                "url": "https://t.co/VWmi1DD6Xt"
+              }
+            ]
+          }
+        },
+        "id": "1570345415848955904",
+        "location": "what you're looking for 👉",
+        "name": "Fallon Love 💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847323868358127617/weKto7xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191289,
+          "following_count": 172,
+          "like_count": 22154,
+          "listed_count": 156,
+          "tweet_count": 16210
+        },
+        "url": "https://t.co/VWmi1DD6Xt",
+        "username": "lilfallonmelons",
+        "verified": false
+      }
+    ]
+  }
+}

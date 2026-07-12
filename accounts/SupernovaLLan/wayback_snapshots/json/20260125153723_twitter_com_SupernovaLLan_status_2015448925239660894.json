@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2015381685207261219",
+    "created_at": "2026-01-25T15:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015448925239660894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261344091075260416",
+          "start": 0,
+          "username": "jiuwuwu22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015448925239660894",
+    "in_reply_to_user_id": "1261344091075260416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015381685207261219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuwuwu22 嘎是大猫可以*"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2015381685207261219].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2015381685207261219",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2015381685207261219"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2015381685207261219",
+        "created_at": "2026-01-25T15:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015448925239660894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261344091075260416",
+              "start": 0,
+              "username": "jiuwuwu22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015448925239660894",
+        "in_reply_to_user_id": "1261344091075260416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015381685207261219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuwuwu22 嘎是大猫可以*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 527,
+          "like_count": 24490,
+          "listed_count": 2,
+          "media_count": 1090,
+          "tweet_count": 9984
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "年长的女人",
+        "id": "1261344091075260416",
+        "name": "龟头男",
+        "pinned_tweet_id": "1916444897793769809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014893263820652544/I8NDLvdD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 805,
+          "like_count": 28312,
+          "listed_count": 0,
+          "media_count": 2442,
+          "tweet_count": 22777
+        },
+        "username": "jiuwuwu22",
+        "verified": false
+      }
+    ]
+  }
+}

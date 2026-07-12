@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2045302142433697914",
+    "created_at": "2026-04-18T13:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045499404094968024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        },
+        {
+          "end": 25,
+          "id": "1598150544157474818",
+          "start": 15,
+          "username": "YEOL_LiSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045499404094968024",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045302756643393644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi @YEOL_LiSu 我上学时也经常打包一份炸猪排然后上四楼清真餐厅点牛肉面一起吃））"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2045302142433697914",
+        "created_at": "2026-04-18T13:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045499404094968024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            },
+            {
+              "end": 25,
+              "id": "1598150544157474818",
+              "start": 15,
+              "username": "YEOL_LiSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045499404094968024",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045302756643393644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi @YEOL_LiSu 我上学时也经常打包一份炸猪排然后上四楼清真餐厅点牛肉面一起吃））"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "2045302142433697914",
+        "created_at": "2026-04-18T00:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045302756643393644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598150544157474818",
+              "start": 0,
+              "username": "YEOL_LiSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045302756643393644",
+        "in_reply_to_user_id": "1598150544157474818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045302142433697914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YEOL_LiSu 你意思是要了清真菜和猪肉…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 523,
+          "like_count": 24362,
+          "listed_count": 2,
+          "media_count": 1106,
+          "tweet_count": 10151
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 1374,
+          "like_count": 33839,
+          "listed_count": 3,
+          "media_count": 752,
+          "tweet_count": 9695
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-01T03:03:12.000Z",
+        "description": "07/（伪）mtf🏳️‍⚧️/持证含糖🍥/INFP/HRT2025.02/adhd?/同类贴贴互fo/主人@nankyuseiichi 🩵 备用帐号 @Urmomloves_Yeol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "nankyuseiichi"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "Urmomloves_Yeol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yeolis…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yeolisu.bsky.social",
+                "start": 0,
+                "url": "https://t.co/QtXsS3XOUS"
+              }
+            ]
+          }
+        },
+        "id": "1598150544157474818",
+        "location": "Mooooooooooooon",
+        "name": "Yeol（苏溯ver.",
+        "pinned_tweet_id": "1991082084400533572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598162202879758336/Eu9IOeYZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 1500,
+          "like_count": 139590,
+          "listed_count": 4,
+          "media_count": 1507,
+          "tweet_count": 22701
+        },
+        "url": "https://t.co/QtXsS3XOUS",
+        "username": "YEOL_LiSu",
+        "verified": false
+      }
+    ]
+  }
+}

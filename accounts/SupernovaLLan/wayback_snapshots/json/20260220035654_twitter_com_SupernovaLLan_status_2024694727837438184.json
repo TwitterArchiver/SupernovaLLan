@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024694720543477760"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "2024694727837438184",
+    "created_at": "2026-02-20T03:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024694727837438184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OrtFei9hNR",
+          "end": 30,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2024694727837438184/photo/1",
+          "media_key": "3_2024694720543477760",
+          "start": 7,
+          "url": "https://t.co/OrtFei9hNR"
+        },
+        {
+          "display_url": "x.com/hannibals4plz_…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/hannibals4plz_r/status/2024653296875470943",
+          "start": 31,
+          "url": "https://t.co/GMbgwyQQbS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024694727837438184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024653296875470943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔这么压抑？ https://t.co/OrtFei9hNR https://t.co/GMbgwyQQbS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024694727837438184].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024694727837438184",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024694727837438184"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024694720543477760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkpHvyaUAApr-V.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024653291074830337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkDcO_XQAEXHuQ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024653291074830337"
+          ]
+        },
+        "author_id": "1551968500209487873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024653296875470943",
+        "created_at": "2026-02-20T01:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024653296875470943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZb9Xr8SSH",
+              "end": 25,
+              "expanded_url": "https://x.com/hannibals4PLZ_r/status/2024653296875470943/photo/1",
+              "media_key": "3_2024653291074830337",
+              "start": 2,
+              "url": "https://t.co/MZb9Xr8SSH"
+            },
+            {
+              "display_url": "x.com/chiangshauyuka…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/chiangshauyukan/status/2024546325816361258",
+              "start": 26,
+              "url": "https://t.co/a48yjk6juT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024653296875470943",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 581,
+          "like_count": 8,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024546325816361258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😻 https://t.co/MZb9Xr8SSH https://t.co/a48yjk6juT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 529,
+          "like_count": 24569,
+          "listed_count": 2,
+          "media_count": 1099,
+          "tweet_count": 10050
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T16:31:47.000Z",
+        "description": "私密逃生舱@cookiessin1 画@RachieSAMA _ 性格很差劲 -现居🏴󠁧󠁢󠁥󠁮󠁧󠁿乡下- 对@RQu1etlyR萌生多余的情感中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "cookiessin1"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "RachieSAMA"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "RQu1etlyR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitality.gg",
+                "end": 23,
+                "expanded_url": "http://vitality.gg",
+                "start": 0,
+                "url": "https://t.co/ypD7ylr7lK"
+              }
+            ]
+          }
+        },
+        "id": "1551968500209487873",
+        "location": "NeverKnowsBest_",
+        "name": "RCat🐝",
+        "pinned_tweet_id": "1876508916680724885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876509215868727296/SBaoLmXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7574,
+          "following_count": 1496,
+          "like_count": 23289,
+          "listed_count": 12,
+          "media_count": 125,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/ypD7ylr7lK",
+        "username": "hannibals4PLZ_r",
+        "verified": false
+      }
+    ]
+  }
+}

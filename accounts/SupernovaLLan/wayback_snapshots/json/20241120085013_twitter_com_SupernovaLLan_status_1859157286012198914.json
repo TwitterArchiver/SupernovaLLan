@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859099692224724992"
+      ],
+      "media_source_tweet_id": [
+        "1859099694229606497"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1859157286012198914",
+    "created_at": "2024-11-20T08:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T09:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859157286012198914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660343948945006593",
+          "start": 3,
+          "username": "qiand33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tujf3eWvHz",
+          "end": 50,
+          "expanded_url": "https://x.com/qiand33/status/1859099694229606497/photo/1",
+          "media_key": "3_1859099692224724992",
+          "start": 27,
+          "url": "https://t.co/Tujf3eWvHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859157286012198914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859099694229606497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiand33: 如何区分大号黑塔和小号黑塔 https://t.co/Tujf3eWvHz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_1859099692224724992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GczZUfUXwAAC8Qe.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859099692224724992"
+          ],
+          "media_source_tweet_id": [
+            "1859099694229606497"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1859157286012198914",
+        "created_at": "2024-11-20T08:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T09:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859157286012198914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660343948945006593",
+              "start": 3,
+              "username": "qiand33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tujf3eWvHz",
+              "end": 50,
+              "expanded_url": "https://x.com/qiand33/status/1859099694229606497/photo/1",
+              "media_key": "3_1859099692224724992",
+              "start": 27,
+              "url": "https://t.co/Tujf3eWvHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859157286012198914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859099694229606497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiand33: 如何区分大号黑塔和小号黑塔 https://t.co/Tujf3eWvHz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859099692224724992"
+          ]
+        },
+        "author_id": "1660343948945006593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1859099694229606497",
+        "created_at": "2024-11-20T05:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T06:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859099694229606497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tujf3eWvHz",
+              "end": 37,
+              "expanded_url": "https://x.com/qiand33/status/1859099694229606497/photo/1",
+              "media_key": "3_1859099692224724992",
+              "start": 14,
+              "url": "https://t.co/Tujf3eWvHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859099694229606497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4945,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "如何区分大号黑塔和小号黑塔 https://t.co/Tujf3eWvHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "啾啾我",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 470,
+          "like_count": 22037,
+          "listed_count": 2,
+          "tweet_count": 8830
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T17:57:15.000Z",
+        "description": "14歲/infp/10後/抖m屬性 願生活如清泉，永流不息希望生活能更甜一些，苦澀消逝願關係如同在星軌上的星星，願我們永遠在一起，永遠愛與相信@EDU1991US來自香港🇭🇰，小學中文水平，星粉(三星愛好者)永遠的三星主義者 中推第一三星正星旗星粉 首批10後 推特的知名10後 背景@ShaDow_0528白影畫的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "EDU1991US"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "ShaDow_0528"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/245i0ts0rwhi1u…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/245i0ts0rwhi1ue?t=pzqq6L&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Dgf5GvNm1c"
+              }
+            ]
+          }
+        },
+        "id": "1660343948945006593",
+        "location": "永遠陪在你身邊",
+        "name": "千晴",
+        "pinned_tweet_id": "1854366322034974998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853354024118226944/wmSH0PkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6295,
+          "following_count": 105,
+          "like_count": 38730,
+          "listed_count": 12,
+          "tweet_count": 17677
+        },
+        "url": "https://t.co/Dgf5GvNm1c",
+        "username": "qiand33",
+        "verified": true
+      }
+    ]
+  }
+}

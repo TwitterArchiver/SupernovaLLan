@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053192631728091136"
+      ],
+      "media_source_tweet_id": [
+        "2053192645573579114"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      }
+    ],
+    "conversation_id": "2053365946832805935",
+    "created_at": "2026-05-10T06:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053365946832805935"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "メイドの日"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "シュタゲ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1530416821",
+          "start": 3,
+          "username": "RELLIK_REDRUM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6xgfN0nwww",
+          "end": 55,
+          "expanded_url": "https://x.com/RELLIK_REDRUM/status/2053192645573579114/photo/1",
+          "media_key": "3_2053192631728091136",
+          "start": 32,
+          "url": "https://t.co/6xgfN0nwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053365946832805935",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 437
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053192645573579114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RELLIK_REDRUM: #メイドの日\n#シュタゲ https://t.co/6xgfN0nwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2053192631728091136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5n0f2aMAATnIM.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053192631728091136"
+          ],
+          "media_source_tweet_id": [
+            "2053192645573579114"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "2053365946832805935",
+        "created_at": "2026-05-10T06:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053365946832805935"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "メイドの日"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "シュタゲ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1530416821",
+              "start": 3,
+              "username": "RELLIK_REDRUM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xgfN0nwww",
+              "end": 55,
+              "expanded_url": "https://x.com/RELLIK_REDRUM/status/2053192645573579114/photo/1",
+              "media_key": "3_2053192631728091136",
+              "start": 32,
+              "url": "https://t.co/6xgfN0nwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053365946832805935",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 437
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053192645573579114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RELLIK_REDRUM: #メイドの日\n#シュタゲ https://t.co/6xgfN0nwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053192631728091136"
+          ]
+        },
+        "author_id": "1530416821",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "2053192645573579114",
+        "created_at": "2026-05-09T19:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053192645573579114"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "メイドの日"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "シュタゲ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xgfN0nwww",
+              "end": 36,
+              "expanded_url": "https://x.com/RELLIK_REDRUM/status/2053192645573579114/photo/1",
+              "media_key": "3_2053192631728091136",
+              "start": 13,
+              "url": "https://t.co/6xgfN0nwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053192645573579114",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 31333,
+          "like_count": 2792,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 437
+        },
+        "reply_settings": "everyone",
+        "text": "#メイドの日\n#シュタゲ https://t.co/6xgfN0nwww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 563,
+          "like_count": 25193,
+          "listed_count": 2,
+          "media_count": 1131,
+          "tweet_count": 10485
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-19T10:13:04.000Z",
+        "description": "こんにちは、たいへんへんたいです。バイク＝YZF-R1→YZF-R6、GS125E、スーパーカブ70。クルマ＝K13改マーチニスモS、それにロリィタ、コスプレ、クワガタブリードにイラストと多趣味でございます。音楽＝主にメロコアと妖精帝國。推しV＝船長、尊様、ンジュ、鳴神くん、社長、Crossick。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rellikredrum2501.wixsite.com/rellik-redrum",
+                "end": 23,
+                "expanded_url": "https://rellikredrum2501.wixsite.com/rellik-redrum",
+                "start": 0,
+                "url": "https://t.co/n7oGqYXGOt"
+              }
+            ]
+          }
+        },
+        "id": "1530416821",
+        "location": "名古屋近郊⇔雛見沢",
+        "name": "きさらぎじゅん＠YZF-R6",
+        "pinned_tweet_id": "1385508444543746049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739349616582369280/mY_bYy1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10424,
+          "following_count": 1496,
+          "like_count": 146925,
+          "listed_count": 119,
+          "media_count": 9607,
+          "tweet_count": 66855
+        },
+        "url": "https://t.co/n7oGqYXGOt",
+        "username": "RELLIK_REDRUM",
+        "verified": false
+      }
+    ]
+  }
+}

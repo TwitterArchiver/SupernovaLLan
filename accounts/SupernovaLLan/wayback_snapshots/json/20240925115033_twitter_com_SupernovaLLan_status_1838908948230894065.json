@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838908920665894912",
+        "3_1838908920842137600",
+        "3_1838908920686956544",
+        "3_1838908920695308288"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "conversation_id": "1838908948230894065",
+    "created_at": "2024-09-25T11:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T12:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838908948230894065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/febotf2amf",
+          "end": 30,
+          "expanded_url": "https://twitter.com/SupernovaLLan/status/1838908948230894065/photo/1",
+          "media_key": "3_1838908920665894912",
+          "start": 7,
+          "url": "https://t.co/fEBoTF2aMF"
+        },
+        {
+          "display_url": "pic.x.com/febotf2amf",
+          "end": 30,
+          "expanded_url": "https://twitter.com/SupernovaLLan/status/1838908948230894065/photo/1",
+          "media_key": "3_1838908920842137600",
+          "start": 7,
+          "url": "https://t.co/fEBoTF2aMF"
+        },
+        {
+          "display_url": "pic.x.com/febotf2amf",
+          "end": 30,
+          "expanded_url": "https://twitter.com/SupernovaLLan/status/1838908948230894065/photo/1",
+          "media_key": "3_1838908920686956544",
+          "start": 7,
+          "url": "https://t.co/fEBoTF2aMF"
+        },
+        {
+          "display_url": "pic.x.com/febotf2amf",
+          "end": 30,
+          "expanded_url": "https://twitter.com/SupernovaLLan/status/1838908948230894065/photo/1",
+          "media_key": "3_1838908920695308288",
+          "start": 7,
+          "url": "https://t.co/fEBoTF2aMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838908948230894065",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一些逻辑废话 https://t.co/fEBoTF2aMF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838908948230894065].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838908948230894065",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838908948230894065"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_1838908920665894912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYUd656WcAAEiwT.jpg",
+        "width": 960
+      },
+      {
+        "height": 1102,
+        "media_key": "3_1838908920842137600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYUd66kXsAABv6S.jpg",
+        "width": 960
+      },
+      {
+        "height": 500,
+        "media_key": "3_1838908920686956544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYUd65_X0AA7_5-.jpg",
+        "width": 500
+      },
+      {
+        "height": 642,
+        "media_key": "3_1838908920695308288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYUd66BXQAAODJC.jpg",
+        "width": 960
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 450,
+          "like_count": 21340,
+          "listed_count": 2,
+          "tweet_count": 8254
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

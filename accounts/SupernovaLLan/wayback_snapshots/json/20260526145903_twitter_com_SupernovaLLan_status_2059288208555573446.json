@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2059288208555573446",
+    "created_at": "2026-05-26T14:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059288208555573446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koroshiiiiiii/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/koroshiiiiiii/status/2059274794844238089",
+          "start": 21,
+          "url": "https://t.co/2l7EpmvOjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059288208555573446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059274794844238089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "史诗级大蚰蜒，超喜欢  ˗ˋˏᰔᩚˎˊ˗ https://t.co/2l7EpmvOjE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059274780554170368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQDgJ3aEAAX3a_.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2059288208555573446",
+        "created_at": "2026-05-26T14:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059288208555573446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koroshiiiiiii/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/koroshiiiiiii/status/2059274794844238089",
+              "start": 21,
+              "url": "https://t.co/2l7EpmvOjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059288208555573446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059274794844238089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "史诗级大蚰蜒，超喜欢  ˗ˋˏᰔᩚˎˊ˗ https://t.co/2l7EpmvOjE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059274780554170368"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2059274794844238089",
+        "created_at": "2026-05-26T14:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059274794844238089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ckEh8EZnSs",
+              "end": 30,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2059274794844238089/photo/1",
+              "media_key": "3_2059274780554170368",
+              "start": 7,
+              "url": "https://t.co/ckEh8EZnSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059274794844238089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "慎点慎点慎点 https://t.co/ckEh8EZnSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/supernovallan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/supernovallan",
+                "start": 0,
+                "url": "https://t.co/AQ0w28OZYQ"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 589,
+          "like_count": 25951,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 10816
+        },
+        "url": "https://t.co/AQ0w28OZYQ",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 234,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}
