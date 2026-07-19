@@ -2,28 +2,11 @@
   "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
   "username": "@SupernovaLLan",
   "bio": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
-  "location": "Laniakea Supercluster",
+  "location": "Laniakea Supercluster ",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "1835705937086333243",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 69,
-        "start": 57,
-        "username": "shuangdying"
-      },
-      {
-        "end": 86,
-        "start": 77,
-        "username": "hishng11"
-      },
-      {
-        "end": 107,
-        "start": 91,
-        "username": "zhajipainie8964"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg"
 }
