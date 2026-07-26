@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2078197698617069712",
+    "created_at": "2026-07-17T19:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078197698617069712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/hsn8086/status/2077803171242705306",
+          "start": 23,
+          "url": "https://t.co/eTPhZout86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078197698617069712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077803171242705306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就当年这个火箭地面试车飞出克了的新闻犹在昨日 https://t.co/eTPhZout86"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 477,
+        "media_key": "3_2077803091123130369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXW5xeaUAEwX72.jpg",
+        "width": 408
+      },
+      {
+        "height": 297,
+        "media_key": "3_2077803116473524224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXW7P6aoAAUTNF.jpg",
+        "width": 1043
+      },
+      {
+        "height": 281,
+        "media_key": "3_2077803129731723264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXW8BTasAA6vR7.jpg",
+        "width": 1059
+      },
+      {
+        "height": 1081,
+        "media_key": "3_2077803149147209728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXW9JobgAAP-9G.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2078197698617069712",
+        "created_at": "2026-07-17T19:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078197698617069712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/hsn8086/status/2077803171242705306",
+              "start": 23,
+              "url": "https://t.co/eTPhZout86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078197698617069712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077803171242705306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就当年这个火箭地面试车飞出克了的新闻犹在昨日 https://t.co/eTPhZout86"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077803091123130369",
+            "3_2077803116473524224",
+            "3_2077803129731723264",
+            "3_2077803149147209728"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2077803171242705306",
+        "created_at": "2026-07-16T17:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077803171242705306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MEeahjpaC",
+              "end": 58,
+              "expanded_url": "https://x.com/hsn8086/status/2077803171242705306/photo/1",
+              "media_key": "3_2077803091123130369",
+              "start": 35,
+              "url": "https://t.co/3MEeahjpaC"
+            },
+            {
+              "display_url": "pic.x.com/3MEeahjpaC",
+              "end": 58,
+              "expanded_url": "https://x.com/hsn8086/status/2077803171242705306/photo/1",
+              "media_key": "3_2077803116473524224",
+              "start": 35,
+              "url": "https://t.co/3MEeahjpaC"
+            },
+            {
+              "display_url": "pic.x.com/3MEeahjpaC",
+              "end": 58,
+              "expanded_url": "https://x.com/hsn8086/status/2077803171242705306/photo/1",
+              "media_key": "3_2077803129731723264",
+              "start": 35,
+              "url": "https://t.co/3MEeahjpaC"
+            },
+            {
+              "display_url": "pic.x.com/3MEeahjpaC",
+              "end": 58,
+              "expanded_url": "https://x.com/hsn8086/status/2077803171242705306/photo/1",
+              "media_key": "3_2077803149147209728",
+              "start": 35,
+              "url": "https://t.co/3MEeahjpaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077803171242705306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "笑点解析\n天兵科技的火箭在试飞的时候没有固定住，飞出去了。\n情况通报\n2024年6月30日15时43分，天兵航天科技有限公司在巩义综合试验中心开展运载火箭（商用）一子级动力系统试车，因试验故障，箭体散落在安全布控区内，引起局部区域着火。安全布控区在大山深处，远离居民区。目前火情已完全扑灭，经排查，无人员伤亡。\n巩义市应急管理局"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 36557,
+          "like_count": 198,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "笑点解析\n天兵科技的火箭在试飞的时候没有固定住，飞出去了。\n情况通报 https://t.co/3MEeahjpaC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 624,
+          "like_count": 27377,
+          "listed_count": 2,
+          "media_count": 1222,
+          "tweet_count": 11321
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121777,
+          "following_count": 1115,
+          "like_count": 52174,
+          "listed_count": 300,
+          "media_count": 23099,
+          "tweet_count": 33643
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}
