@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2090598537226826104",
+    "created_at": "2026-08-21T13:03:37.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090786904388305157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090786904388305157",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090598537226826104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 俺也要进群打麻将🧐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1441,
+        "media_key": "3_2090598527764480000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNMSNdbQAAA1oN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2090598537226826104",
+        "created_at": "2026-08-21T13:03:37.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090786904388305157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090786904388305157",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090598537226826104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 俺也要进群打麻将🧐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090598527764480000"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090598537226826104",
+        "created_at": "2026-08-21T00:35:07.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090598537226826104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Jtn59UrWR",
+              "end": 37,
+              "expanded_url": "https://x.com/akui1121/status/2090598537226826104/photo/1",
+              "media_key": "3_2090598527764480000",
+              "start": 14,
+              "url": "https://t.co/8Jtn59UrWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090598537226826104",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090598527764480000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 894,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有懂得，就差一点点啊啊 https://t.co/8Jtn59UrWR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "is_identity_verified": false,
+        "location": "Laniakea Supercluster ",
+        "most_recent_tweet_id": "2090786904388305157",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639996371879985157/1701369457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 610,
+          "like_count": 27353,
+          "listed_count": 2,
+          "media_count": 1227,
+          "tweet_count": 11334
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "🚪120不接推广，致歉，你喜欢僵尸嘛？什么？我是男生！？机车！理想？！我会有自己的家🚬 咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "1965chich"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090726099714285920",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1840302665340989578",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1828008363273388032/1785295317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090073777136889856/Tbt26CQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27649,
+          "following_count": 794,
+          "like_count": 22212,
+          "listed_count": 79,
+          "media_count": 1354,
+          "tweet_count": 16428
+        },
+        "url": "",
+        "username": "akui1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

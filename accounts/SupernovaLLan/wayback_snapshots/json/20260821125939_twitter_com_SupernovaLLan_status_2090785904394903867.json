@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "2090753073245491671",
+    "created_at": "2026-08-21T12:59:39.000Z",
+    "display_text_range": [
+      12,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090785904394903867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "bp01110526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090785904394903867",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090753073245491671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bp01110526 那大抵不是盐酸加的酸度了，胃难受是药对应的质子化离子具有的表面活性破坏了胃粘膜层粘液刺激到了吧，铝碳酸镁加一层物理隔离确实可以护胃了很有效果"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1021,
+        "media_key": "3_2090753066236825600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPY1iIa0AAv4qN.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2090753073245491671",
+        "created_at": "2026-08-21T12:59:39.000Z",
+        "display_text_range": [
+          12,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090785904394903867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "bp01110526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090785904394903867",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090753073245491671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bp01110526 那大抵不是盐酸加的酸度了，胃难受是药对应的质子化离子具有的表面活性破坏了胃粘膜层粘液刺激到了吧，铝碳酸镁加一层物理隔离确实可以护胃了很有效果"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090753066236825600"
+          ]
+        },
+        "author_id": "1859117911119720448",
+        "conversation_id": "2090753073245491671",
+        "created_at": "2026-08-21T10:49:11.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090753073245491671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0L3iULO17O",
+              "end": 155,
+              "expanded_url": "https://x.com/bp01110526/status/2090753073245491671/photo/1",
+              "media_key": "3_2090753066236825600",
+              "start": 132,
+              "url": "https://t.co/0L3iULO17O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090753073245491671",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090753066236825600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里wiki将每t“盐酸”摩尔量计算错误……\n目视下似乎是数量级上的错误（挠头\n具体计算还是扒拉下说明书再细想、总而言之所谓强酸摩尔量数量级存在明显问题\n盐酸盐怎么会在体内出游离盐酸呢\n实际上我现在更倾向吐就吐了、烧心反胃吃点碳酸镁铝糊弄下自己、免得吐太多烧喉咙 https://t.co/0L3iULO17O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "is_identity_verified": false,
+        "location": "Laniakea Supercluster ",
+        "most_recent_tweet_id": "2090785904394903867",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639996371879985157/1701369457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 610,
+          "like_count": 27353,
+          "listed_count": 2,
+          "media_count": 1227,
+          "tweet_count": 11333
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "🚪\n99 纯绿\n199半绿",
+        "id": "1859117911119720448",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2090784295086621055",
+        "name": "bp",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 116,
+          "like_count": 8687,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 4632
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

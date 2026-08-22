@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088256849242181632",
+        "3_2088256849258926080"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083844518382796907",
+    "created_at": "2026-08-14T13:30:07.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088256859476267137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998718271856717826",
+          "start": 0,
+          "username": "PaulaRiver9119"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uEO4gtyPFj",
+          "end": 46,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2088256859476267137/photo/1",
+          "media_key": "3_2088256849242181632",
+          "start": 23,
+          "url": "https://t.co/uEO4gtyPFj"
+        },
+        {
+          "display_url": "pic.x.com/uEO4gtyPFj",
+          "end": 46,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2088256859476267137/photo/1",
+          "media_key": "3_2088256849258926080",
+          "start": 23,
+          "url": "https://t.co/uEO4gtyPFj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088256859476267137",
+    "in_reply_to_user_id": "1998718271856717826",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088256849242181632"
+      },
+      {
+        "media_key": "3_2088256849258926080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083844518382796907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulaRiver9119 ！？滨滨？！ https://t.co/uEO4gtyPFj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088256849242181632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr6ilLbUAAJQaF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2088256849258926080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr6ilPa0AAWTnE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2083844476225855488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtNgqyaIAAdSvY.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088256849242181632",
+            "3_2088256849258926080"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083844518382796907",
+        "created_at": "2026-08-14T13:30:07.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088256859476267137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998718271856717826",
+              "start": 0,
+              "username": "PaulaRiver9119"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEO4gtyPFj",
+              "end": 46,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2088256859476267137/photo/1",
+              "media_key": "3_2088256849242181632",
+              "start": 23,
+              "url": "https://t.co/uEO4gtyPFj"
+            },
+            {
+              "display_url": "pic.x.com/uEO4gtyPFj",
+              "end": 46,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2088256859476267137/photo/1",
+              "media_key": "3_2088256849258926080",
+              "start": 23,
+              "url": "https://t.co/uEO4gtyPFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088256859476267137",
+        "in_reply_to_user_id": "1998718271856717826",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088256849242181632"
+          },
+          {
+            "media_key": "3_2088256849258926080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083844518382796907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulaRiver9119 ！？滨滨？！ https://t.co/uEO4gtyPFj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083844476225855488"
+          ]
+        },
+        "author_id": "1998718271856717826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083844518382796907",
+        "created_at": "2026-08-02T09:17:03.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083844518382796907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pNAnmXG18K",
+              "end": 33,
+              "expanded_url": "https://x.com/PaulaRiver9119/status/2083844518382796907/photo/1",
+              "media_key": "3_2083844476225855488",
+              "start": 10,
+              "url": "https://t.co/pNAnmXG18K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083844518382796907",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2083844476225855488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶呀滨寿司。滨滨滨 https://t.co/pNAnmXG18K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "is_identity_verified": false,
+        "location": "Laniakea Supercluster ",
+        "most_recent_tweet_id": "2088256859476267137",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639996371879985157/1701369457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 621,
+          "like_count": 27382,
+          "listed_count": 2,
+          "media_count": 1226,
+          "tweet_count": 11330
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T11:36:07.000Z",
+        "description": "@guest07080279的影分身👁✋️👁一般发碎碎念有负面预警😈⚠\n/中文ok Eng&日本語＆… 翻译器ok💖💖/\n所以外交大欢迎（？！）\n\n可以叫我V\n会很随缘的fo…如果你想和我玩，给我点赞也完全可以，我会顺着去找你的☺️💕\n随时可以DM我，虽然可能收信不是很及时…\n\n如果你喜欢我的画的话也可以去关注大号呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "guest07080279"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guest0708",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guest0708",
+                "start": 0,
+                "url": "https://t.co/l4GGSVahDj"
+              }
+            ]
+          }
+        },
+        "id": "1998718271856717826",
+        "is_identity_verified": false,
+        "location": "向我提问吧💖→",
+        "most_recent_tweet_id": "2088230853877039390",
+        "name": "Vermilion",
+        "pinned_tweet_id": "2088188473098543213",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998718271856717826/1786210623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086144344642449408/M1WlOM0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 48,
+          "like_count": 3456,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/l4GGSVahDj",
+        "username": "PaulaRiver9119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
