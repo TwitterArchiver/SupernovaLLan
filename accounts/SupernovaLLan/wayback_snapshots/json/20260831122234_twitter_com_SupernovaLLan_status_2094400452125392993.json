@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094400441148960768",
+        "3_2094400441010581504"
+      ]
+    },
+    "author_id": "1639996371879985157",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094400452125392993",
+    "created_at": "2026-08-31T12:22:34.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094400452125392993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/no7gSDmksk",
+          "end": 61,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2094400452125392993/photo/1",
+          "media_key": "3_2094400441148960768",
+          "start": 38,
+          "url": "https://t.co/no7gSDmksk"
+        },
+        {
+          "display_url": "pic.x.com/no7gSDmksk",
+          "end": 61,
+          "expanded_url": "https://x.com/SupernovaLLan/status/2094400452125392993/photo/1",
+          "media_key": "3_2094400441010581504",
+          "start": 38,
+          "url": "https://t.co/no7gSDmksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094400452125392993",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094400441148960768"
+      },
+      {
+        "media_key": "3_2094400441010581504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一天冲了800分完成了上段活动现在三麻也上黄金咯…欢迎打雀的推友拉我来雀😋 https://t.co/no7gSDmksk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2094400441148960768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDOGsga8AAsCY9.jpg",
+        "width": 1903
+      },
+      {
+        "height": 1096,
+        "media_key": "3_2094400441010581504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDOGr_bcAAPPjD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094400441148960768",
+            "3_2094400441010581504"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094400452125392993",
+        "created_at": "2026-08-31T12:22:34.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094400452125392993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/no7gSDmksk",
+              "end": 61,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2094400452125392993/photo/1",
+              "media_key": "3_2094400441148960768",
+              "start": 38,
+              "url": "https://t.co/no7gSDmksk"
+            },
+            {
+              "display_url": "pic.x.com/no7gSDmksk",
+              "end": 61,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2094400452125392993/photo/1",
+              "media_key": "3_2094400441010581504",
+              "start": 38,
+              "url": "https://t.co/no7gSDmksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094400452125392993",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094400441148960768"
+          },
+          {
+            "media_key": "3_2094400441010581504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天冲了800分完成了上段活动现在三麻也上黄金咯…欢迎打雀的推友拉我来雀😋 https://t.co/no7gSDmksk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "is_identity_verified": false,
+        "location": "Laniakea Supercluster ",
+        "most_recent_tweet_id": "2094400452125392993",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639996371879985157/1701369457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 601,
+          "like_count": 27386,
+          "listed_count": 2,
+          "media_count": 1232,
+          "tweet_count": 11348
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
