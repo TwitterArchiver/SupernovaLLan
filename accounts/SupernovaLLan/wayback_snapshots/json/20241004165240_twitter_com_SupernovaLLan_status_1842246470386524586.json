@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1639996371879985157",
+    "conversation_id": "1842246470386524586",
+    "created_at": "2024-10-04T16:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T17:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842246470386524586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484582068663521281",
+          "start": 3,
+          "username": "data_syuxchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842246470386524586",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841868850893357258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @data_syuxchu: 请允许我在你的timeline上放养水母\n因为如果timeline上有水母在漂会很可爱\n\n  ଳ~              ଳ~               ଳ~\n          ଳ~                  ଳ~\n   ଳ~…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "1842246470386524586",
+        "created_at": "2024-10-04T16:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T17:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842246470386524586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484582068663521281",
+              "start": 3,
+              "username": "data_syuxchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842246470386524586",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841868850893357258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @data_syuxchu: 请允许我在你的timeline上放养水母\n因为如果timeline上有水母在漂会很可爱\n\n  ଳ~              ଳ~               ଳ~\n          ଳ~                  ଳ~\n   ଳ~…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484582068663521281",
+        "conversation_id": "1841868850893357258",
+        "created_at": "2024-10-03T15:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T16:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841868850893357258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841868850893357258",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 17041,
+          "like_count": 620,
+          "quote_count": 11,
+          "reply_count": 34,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "请允许我在你的timeline上放养水母\n因为如果timeline上有水母在漂会很可爱\n\n  ଳ~              ଳ~               ଳ~\n          ଳ~                  ଳ~\n   ଳ~                                 ଳ~\n               ~ଳ          ଳ~\n ଳ~                               ଳ~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "狂暴照料@lan_shang32900中，千万要早日康复🥺    一朵老鈴蘭，幸福原生家庭养出来的INFP，一半神经一半健全的游离态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lan_shang32900"
+              }
+            ]
+          }
+        },
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745757156874534912/z8Gowc7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 458,
+          "like_count": 21689,
+          "listed_count": 2,
+          "tweet_count": 8367
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "我是五百雀 舟々ᐢ..ᐢ￤jp/cn sjk ￤jlptN1 hsk6￤请和我交朋友‼️ 仲良くしたい方→@syuushuu_naizou ￤@anblk984 *89.64%コピペ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "syuushuu_naizou"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "anblk984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/data_syux…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/data_syuxchu",
+                "start": 0,
+                "url": "https://t.co/IQWCDzb4eb"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "location": "質問箱→お気軽に",
+        "name": "莠ﾋ卆髮? 闊溯亜‼️",
+        "pinned_tweet_id": "1840040697438843004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828020072801325057/au5DkUFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 236,
+          "like_count": 11035,
+          "listed_count": 6,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/IQWCDzb4eb",
+        "username": "data_syuxchu",
+        "verified": false
+      }
+    ]
+  }
+}
